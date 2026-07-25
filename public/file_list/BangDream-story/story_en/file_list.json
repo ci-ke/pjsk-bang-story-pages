@@ -5454,6 +5454,10 @@
 {
 "type": "file",
 "name": "2259_Aya Maruyama_R5 Thrilling☆ Water Slide.txt"
+},
+{
+"type": "file",
+"name": "2305_Aya Maruyama_R5 The Art of the Selfie ♡.txt"
 }
 ]
 },
@@ -6140,6 +6144,10 @@
 {
 "type": "file",
 "name": "2248_Maya Yamato_R5 Sharp Insight.txt"
+},
+{
+"type": "file",
+"name": "2308_Maya Yamato_R4 An Enthusiastic Presentation.txt"
 }
 ]
 },
@@ -6374,6 +6382,10 @@
 {
 "type": "file",
 "name": "2264_Eve Wakamiya_R5 Natural Smile.txt"
+},
+{
+"type": "file",
+"name": "2304_Eve Wakamiya_R5 Exciting Fitting Time.txt"
 }
 ]
 },
@@ -20108,6 +20120,40 @@
 {
 "type": "file",
 "name": "event309-07 Ending：contrail.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "310 Eve's Charm Delivery Mission!",
+"children": [
+{
+"type": "file",
+"name": "event310-01 Opening：New Project Launched!.txt"
+},
+{
+"type": "file",
+"name": "event310-02 Chapter 1：Agenda：Eve Wakamiya's Charms.txt"
+},
+{
+"type": "file",
+"name": "event310-03 Chapter 2：Aya-Sensei's Cute Lesson!.txt"
+},
+{
+"type": "file",
+"name": "event310-04 Chapter 3：Stray Bushido：The Rogue Blade.txt"
+},
+{
+"type": "file",
+"name": "event310-05 Chapter 4：Bushido or No Bushido.txt"
+},
+{
+"type": "file",
+"name": "event310-06 Chapter 5：A Morning Prank.txt"
+},
+{
+"type": "file",
+"name": "event310-07 Ending：Because I Wanted to Tell You Too.txt"
 }
 ]
 }
