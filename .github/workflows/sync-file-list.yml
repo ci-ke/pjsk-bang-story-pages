@@ -10,17 +10,15 @@ permissions:
   pages: write
   id-token: write
 
-# 与 deploy-page.yml 共用同一个 concurrency group，避免同时部署冲突
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
-  sync-and-deploy:
+  build-data:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      deploy_needed: ${{ steps.diff.outputs.changed }}
 
     steps:
       - name: Checkout repository
@@ -59,29 +57,35 @@ jobs:
           git commit -m "Sync file list"
           git push
 
+  deploy:
+    needs: build-data
+    if: needs.build-data.outputs.deploy_needed == 'true'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
       - name: Setup Node.js
-        if: steps.diff.outputs.changed == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
       - name: Build frontend
-        if: steps.diff.outputs.changed == 'true'
         run: |
           npm ci
           npm run build
 
       - name: Setup Pages
-        if: steps.diff.outputs.changed == 'true'
         uses: actions/configure-pages@v5
 
       - name: Upload artifact
-        if: steps.diff.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@v4
         with:
           path: dist
 
       - name: Deploy to GitHub Pages
-        if: steps.diff.outputs.changed == 'true'
         id: deployment
         uses: actions/deploy-pages@v4

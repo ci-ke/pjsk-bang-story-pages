@@ -2,17 +2,6 @@ name: Deploy Page
 on:
   push:
     branches: [main]
-    paths:
-      - 'src/**'
-      - 'public/**'
-      - 'index.html'
-      - 'package.json'
-      - 'package-lock.json'
-      - 'vite.config.ts'
-      - 'tsconfig.json'
-      - 'tsconfig.app.json'
-      - 'tsconfig.node.json'
-      - '.github/workflows/deploy-page.yml'
   workflow_dispatch:
 
 # 允许此 workflow 触发 Pages 部署
