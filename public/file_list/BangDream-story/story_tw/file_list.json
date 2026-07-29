@@ -6680,6 +6680,10 @@
 {
 "type": "file",
 "name": "2327_湊友希那_R5 感受交疊的熱度.txt"
+},
+{
+"type": "file",
+"name": "2402_湊友希那_R4 起始的一弦.txt"
 }
 ]
 },
@@ -7160,6 +7164,10 @@
 {
 "type": "file",
 "name": "2343_今井莉莎_R5 一起來裝飾吧！.txt"
+},
+{
+"type": "file",
+"name": "2398_今井莉莎_R5 DEAR MY LIKE.txt"
 }
 ]
 },
@@ -7386,6 +7394,10 @@
 {
 "type": "file",
 "name": "2330_宇田川亞子_R4 將誓言化為力量.txt"
+},
+{
+"type": "file",
+"name": "2399_宇田川亞子_R5 Re：VENGER.txt"
 }
 ]
 },
@@ -20604,6 +20616,40 @@
 {
 "type": "file",
 "name": "event321-07 結尾：最重要的！！！！！！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "322 Re：Like Re：Live",
+"children": [
+{
+"type": "file",
+"name": "event322-01 開場：沒有招待、只有覺悟.txt"
+},
+{
+"type": "file",
+"name": "event322-02 第１話：追溯那一天.txt"
+},
+{
+"type": "file",
+"name": "event322-03 第２話：第一次的聲音.txt"
+},
+{
+"type": "file",
+"name": "event322-04 第３話：指尖留有那份微熱.txt"
+},
+{
+"type": "file",
+"name": "event322-05 第４話：無法觸及的時光.txt"
+},
+{
+"type": "file",
+"name": "event322-06 第５話：歡迎回來，貝斯.txt"
+},
+{
+"type": "file",
+"name": "event322-07 結尾：一直一直、一直。.txt"
 }
 ]
 }
