@@ -2,8 +2,6 @@
 
 在线阅读 Project Sekai / Bang Dream 剧情文本的 Web 应用。
 
-<https://ci-ke.github.io/story/>
-
 ## 功能
 
 - 目录浏览、模糊路径匹配
