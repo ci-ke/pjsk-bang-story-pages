@@ -701,6 +701,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_175.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2336,6 +2340,10 @@
 {
 "type": "file",
 "name": "1180_小豆澤心羽_R4 留在心中的熱情 (event_169).txt"
+},
+{
+"type": "file",
+"name": "1216_小豆澤心羽_R3 致將來某天的自己 (event_175).txt"
 }
 ]
 },
@@ -2510,6 +2518,10 @@
 {
 "type": "file",
 "name": "1212_白石杏_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1213_白石杏_R4 笑著揮手 (event_175).txt"
 }
 ]
 },
@@ -2692,6 +2704,10 @@
 {
 "type": "file",
 "name": "1183_東雲彰人_R3 那雙眼中的「世界」 (event_169).txt"
+},
+{
+"type": "file",
+"name": "1217_東雲彰人_R2 回歸日常 (event_175).txt"
 }
 ]
 },
@@ -2874,6 +2890,10 @@
 {
 "type": "file",
 "name": "1181_青柳冬彌_R4 美味的文化交流 (event_169).txt"
+},
+{
+"type": "file",
+"name": "1214_青柳冬彌_R4 送上最棒的伴手禮！ (event_175).txt"
 }
 ]
 },
@@ -5070,6 +5090,10 @@
 {
 "type": "file",
 "name": "1199_巡音流歌 (WxS)_R3 引領覺醒的聲音 (event_172).txt"
+},
+{
+"type": "file",
+"name": "1215_巡音流歌 (VBS)_R4 兩人的悄悄話 (event_175).txt"
 }
 ]
 },
@@ -12170,6 +12194,44 @@
 {
 "type": "file",
 "name": "174-08 交錯的光芒.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "175 Competitive fire! (VBS_白石杏)",
+"children": [
+{
+"type": "file",
+"name": "175-01 殘存的熱度.txt"
+},
+{
+"type": "file",
+"name": "175-02 意外的關係.txt"
+},
+{
+"type": "file",
+"name": "175-03 尚未完成的事.txt"
+},
+{
+"type": "file",
+"name": "175-04 緊繃的氣氛.txt"
+},
+{
+"type": "file",
+"name": "175-05 實力.txt"
+},
+{
+"type": "file",
+"name": "175-06 掛心的事.txt"
+},
+{
+"type": "file",
+"name": "175-07 作為競爭對手.txt"
+},
+{
+"type": "file",
+"name": "175-08 重逢的約定.txt"
 }
 ]
 }
