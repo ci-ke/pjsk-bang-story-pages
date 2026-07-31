@@ -849,6 +849,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_212.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1076,6 +1080,14 @@
 {
 "type": "file",
 "name": "1384_星乃一歌_R2 憧れの焼きそばパンミュージアム (event_203).txt"
+},
+{
+"type": "file",
+"name": "1434_星乃一歌_R4 悔いのない選択 (event_212).txt"
+},
+{
+"type": "file",
+"name": "1439_星乃一歌_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -1500,6 +1512,10 @@
 {
 "type": "file",
 "name": "1405_望月穂波_R4 今度はわたしが (event_207).txt"
+},
+{
+"type": "file",
+"name": "1438_望月穂波_R2 美味しい応援 (event_212).txt"
 }
 ]
 },
@@ -1718,6 +1734,10 @@
 {
 "type": "file",
 "name": "1394_日野森志歩_R4 想いと熱を込めて (event_205).txt"
+},
+{
+"type": "file",
+"name": "1435_日野森志歩_R4 胸の底にわだかまるもの (event_212).txt"
 }
 ]
 },
@@ -5586,6 +5606,10 @@
 {
 "type": "file",
 "name": "1392_鏡音リン_R4 まねっこダンシング♪ (event_205).txt"
+},
+{
+"type": "file",
+"name": "1436_鏡音リン (Ln)_R4 やることがいっぱい！？ (event_212).txt"
 }
 ]
 },
@@ -5804,6 +5828,10 @@
 {
 "type": "file",
 "name": "1414_鏡音レン (WxS)_R2 小さなヒーロー (event_208).txt"
+},
+{
+"type": "file",
+"name": "1437_鏡音レン (Ln)_R3 その選択を見守って (event_212).txt"
 }
 ]
 },
@@ -14550,6 +14578,44 @@
 {
 "type": "file",
 "name": "211-07 待ち遠しい未来.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "212 Echo of a Prayer (Ln_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "212-01 充実した日々.txt"
+},
+{
+"type": "file",
+"name": "212-02 新しい挑戦.txt"
+},
+{
+"type": "file",
+"name": "212-03 両立のために.txt"
+},
+{
+"type": "file",
+"name": "212-04 転機.txt"
+},
+{
+"type": "file",
+"name": "212-05 意外な答え.txt"
+},
+{
+"type": "file",
+"name": "212-06 選択肢を前に.txt"
+},
+{
+"type": "file",
+"name": "212-07 大事にしたいのは.txt"
+},
+{
+"type": "file",
+"name": "212-08 波紋は広がって.txt"
 }
 ]
 }

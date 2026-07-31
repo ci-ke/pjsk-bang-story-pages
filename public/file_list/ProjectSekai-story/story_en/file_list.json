@@ -697,6 +697,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_175.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2332,6 +2336,10 @@
 {
 "type": "file",
 "name": "1180_Kohane Azusawa_R4 Lasting Heat (event_169).txt"
+},
+{
+"type": "file",
+"name": "1216_Kohane Azusawa_R3 To Future Me (event_175).txt"
 }
 ]
 },
@@ -2506,6 +2514,10 @@
 {
 "type": "file",
 "name": "1212_An Shiraishi_RB Happy Birthday! 2026.txt"
+},
+{
+"type": "file",
+"name": "1213_An Shiraishi_R4 Waving With A Smile (event_175).txt"
 }
 ]
 },
@@ -2688,6 +2700,10 @@
 {
 "type": "file",
 "name": "1183_Akito Shinonome_R3 The World In My Eyes (event_169).txt"
+},
+{
+"type": "file",
+"name": "1217_Akito Shinonome_R2 Return To Regular Life (event_175).txt"
 }
 ]
 },
@@ -2870,6 +2886,10 @@
 {
 "type": "file",
 "name": "1181_Toya Aoyagi_R4 Delicious Cultural Exposure (event_169).txt"
+},
+{
+"type": "file",
+"name": "1214_Toya Aoyagi_R4 The Best Souvenirs! (event_175).txt"
 }
 ]
 },
@@ -5046,6 +5066,10 @@
 {
 "type": "file",
 "name": "1199_Megurine Luka (WxS)_R3 Gentle Wake-Up Call (event_172).txt"
+},
+{
+"type": "file",
+"name": "1215_Megurine Luka (VBS)_R4 Between You And Me (event_175).txt"
 }
 ]
 },
@@ -12108,6 +12132,44 @@
 {
 "type": "file",
 "name": "174-08 Two Shining Lights.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "175 Competitive Fire! (VBS_An Shiraishi)",
+"children": [
+{
+"type": "file",
+"name": "175-01 Lingering Heat.txt"
+},
+{
+"type": "file",
+"name": "175-02 An Unexpected Connection.txt"
+},
+{
+"type": "file",
+"name": "175-03 One Thing Left to Do.txt"
+},
+{
+"type": "file",
+"name": "175-04 Tension in the Air.txt"
+},
+{
+"type": "file",
+"name": "175-05 Fuse.txt"
+},
+{
+"type": "file",
+"name": "175-06 A Nagging Feeling.txt"
+},
+{
+"type": "file",
+"name": "175-07 As Rivals.txt"
+},
+{
+"type": "file",
+"name": "175-08 We'll Be Back.txt"
 }
 ]
 }
