@@ -121,6 +121,42 @@
 },
 {
 "type": "file",
+"name": "talk_period_limited_area_01 自助餐廳.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_02 流星堂.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_03 江戶川樂器行.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_04 ＣｉＲＣＬＥ.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_05 購物中心.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_06 速食店.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_07 花咲川女子學園.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_08 商店街.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_09 羽丘女子學園.txt"
+},
+{
+"type": "file",
 "name": "talk_period_limited_area_10 活動會場.txt"
 },
 {
@@ -133,11 +169,47 @@
 },
 {
 "type": "file",
+"name": "talk_period_limited_area_14 None.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_15 月森女子學園.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_16 車站前.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_17 CHU²的公寓.txt"
+},
+{
+"type": "file",
 "name": "talk_period_limited_area_20 聖誕廣場.txt"
 },
 {
 "type": "file",
+"name": "talk_period_limited_area_21 ＲｉＮＧ.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_22 主要街區.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_23 大學路.txt"
+},
+{
+"type": "file",
 "name": "talk_period_limited_area_24 GARUPA幼稚園.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_25 None.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_901 None.txt"
 }
 ]
 },

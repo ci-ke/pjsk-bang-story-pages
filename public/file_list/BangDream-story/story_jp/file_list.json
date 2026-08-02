@@ -121,6 +121,42 @@
 },
 {
 "type": "file",
+"name": "talk_period_limited_area_01 カフェテリア.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_02 流星堂.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_03 江戸川楽器店.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_04 ＣｉＲＣＬＥ.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_05 ショッピングモール.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_06 ファーストフード店.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_07 花咲川女子学園.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_08 商店街.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_09 羽丘女子学園.txt"
+},
+{
+"type": "file",
 "name": "talk_period_limited_area_10 イベントホール.txt"
 },
 {
@@ -133,7 +169,35 @@
 },
 {
 "type": "file",
+"name": "talk_period_limited_area_14 モカランド.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_15 月ノ森女子学園.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_16 駅前.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_17 チュチュのマンション.txt"
+},
+{
+"type": "file",
 "name": "talk_period_limited_area_20 クリスマス広場.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_21 ＲｉＮＧ.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_22 メインストリート.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_23 キャンパス通り.txt"
 },
 {
 "type": "file",
@@ -142,6 +206,10 @@
 {
 "type": "file",
 "name": "talk_period_limited_area_25 ゆめのせかい.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_901 None.txt"
 }
 ]
 },
