@@ -121,42 +121,6 @@
 },
 {
 "type": "file",
-"name": "talk_period_limited_area_01 Cafeteria.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_02 Ryuseido.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_03 Edogawa Music.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_04 CiRCLE.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_05 Shopping Mall.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_06 Fast Food Store.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_07 Hanasakigawa Girls' Academy.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_08 Downtown.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_09 Haneoka Girls' Academy.txt"
-},
-{
-"type": "file",
 "name": "talk_period_limited_area_10 Event Hall.txt"
 },
 {
@@ -173,43 +137,7 @@
 },
 {
 "type": "file",
-"name": "talk_period_limited_area_15 Tsukinomori Girls' Academy.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_16 Station Entrance.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_17 CHU²'s Penthouse.txt"
-},
-{
-"type": "file",
 "name": "talk_period_limited_area_20 Christmas Area.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_21 RiNG.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_22 Main Street.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_23 Campus Street.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_24 None.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_25 None.txt"
-},
-{
-"type": "file",
-"name": "talk_period_limited_area_901 None.txt"
 }
 ]
 },
