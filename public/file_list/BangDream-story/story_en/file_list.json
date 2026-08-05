@@ -3888,6 +3888,10 @@
 {
 "type": "file",
 "name": "2214_Tomoe Udagawa_R5 To the Sea Beyond.txt"
+},
+{
+"type": "file",
+"name": "2314_Tomoe Udagawa_R5 Searching for My True Colors.txt"
 }
 ]
 },
@@ -4546,6 +4550,10 @@
 {
 "type": "file",
 "name": "2198_Kaoru Seta_R5 Runway Magic.txt"
+},
+{
+"type": "file",
+"name": "2315_Kaoru Seta_R5 The Door to a New World.txt"
 }
 ]
 },
@@ -5696,6 +5704,10 @@
 {
 "type": "file",
 "name": "2274_Hina Hikawa_R4 Summer Festival, Joyful Hearts.txt"
+},
+{
+"type": "file",
+"name": "2310_Hina Hikawa_R5 Said and Heard.txt"
 }
 ]
 },
@@ -6834,6 +6846,10 @@
 {
 "type": "file",
 "name": "2253_Sayo Hikawa_R5 At the End of a Winding Path.txt"
+},
+{
+"type": "file",
+"name": "2309_Sayo Hikawa_R5 Two Pieces.txt"
 }
 ]
 },
@@ -7064,6 +7080,10 @@
 {
 "type": "file",
 "name": "2183_Lisa Imai_R5 Light Swaying in Sakura’s Shade.txt"
+},
+{
+"type": "file",
+"name": "2313_Lisa Imai_R4 Where Flowers and Stars Shine.txt"
 }
 ]
 },
@@ -20154,6 +20174,40 @@
 {
 "type": "file",
 "name": "event310-07 Ending：Because I Wanted to Tell You Too.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "311 At the Crossroads, Two Stars Smile",
+"children": [
+{
+"type": "file",
+"name": "event311-01 Opening：Two Puzzle Pieces.txt"
+},
+{
+"type": "file",
+"name": "event311-02 Chapter 1：Being Called ＂Sis＂.txt"
+},
+{
+"type": "file",
+"name": "event311-03 Chapter 2：Tell Me About Your Sound.txt"
+},
+{
+"type": "file",
+"name": "event311-04 Chapter 3：The Piece That Doesn't Fit.txt"
+},
+{
+"type": "file",
+"name": "event311-05 Chapter 4：Boppin'♪.txt"
+},
+{
+"type": "file",
+"name": "event311-06 Chapter 5：A Cold and Frosty Morning.txt"
+},
+{
+"type": "file",
+"name": "event311-07 Ending：Trail of the Stars.txt"
 }
 ]
 }
