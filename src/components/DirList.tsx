@@ -1,4 +1,5 @@
 import { REPOS } from '../config';
+import { Link } from 'react-router-dom';
 import { HomeExtra, HOME_EXTRA_POSITION } from './HomeExtra';
 import type { Node } from '../types';
 
@@ -57,16 +58,16 @@ export function DirList({ path, children }: DirListProps) {
         const isDir = item.type === 'dir';
 
         return (
-          <a
+          <Link
             key={itemPath}
             className="dir-item"
-            href={'#' + itemPath.replace(/#/g, '%23')}
+            to={'/' + itemPath.replace(/#/g, '%23')}
           >
             <span className={`dir-icon ${isDir ? 'folder' : 'file'}`}>
               {isDir ? <FolderIcon /> : <FileIcon />}
             </span>
             <span className="dir-name">{displayName}</span>
-          </a>
+          </Link>
         );
       })}
 

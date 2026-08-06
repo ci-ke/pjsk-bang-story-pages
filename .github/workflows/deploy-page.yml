@@ -34,7 +34,7 @@ jobs:
       - name: Build frontend
         run: |
           npm ci
-          npm run build
+          VITE_BASE=/pjsk-bang-story-pages/ npm run build
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

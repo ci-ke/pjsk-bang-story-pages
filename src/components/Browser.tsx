@@ -1,4 +1,4 @@
-import { useParams } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import { useState, useEffect, useCallback, useRef } from 'react';
 import { useFileTree } from '../hooks/useFileTree';
 import { Breadcrumb } from './Breadcrumb';
@@ -10,6 +10,7 @@ import type { Node } from '../types';
 export function Browser() {
   const { '*': pathParam } = useParams();
   const path = (pathParam ?? '').replace(/\/+$/, '');
+  const navigate = useNavigate();
 
   const { resolvePath } = useFileTree();
 
@@ -42,7 +43,7 @@ export function Browser() {
         setResolvedPath(result.resolvedPath);
 
         if (result.resolvedPath !== path) {
-          history.replaceState(null, '', '#' + result.resolvedPath.replace(/#/g, '%23'));
+          navigate('/' + result.resolvedPath.replace(/#/g, '%23'), { replace: true });
           setResolvedPath(result.resolvedPath);
         }
       }

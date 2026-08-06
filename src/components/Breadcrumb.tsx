@@ -1,13 +1,16 @@
+import { useNavigate } from 'react-router-dom';
+
 interface BreadcrumbProps {
   path: string;
 }
 
 export function Breadcrumb({ path }: BreadcrumbProps) {
   const parts = path ? path.split('/') : [];
+  const navigate = useNavigate();
 
   return (
     <div id="breadcrumb">
-      <span className="bc-link" onClick={() => { location.hash = ''; }}>
+      <span className="bc-link" onClick={() => navigate('/')}>
         根目录
       </span>
       {parts.map((part, i) => {
@@ -22,7 +25,7 @@ export function Breadcrumb({ path }: BreadcrumbProps) {
               <span
                 className="bc-link"
                 onClick={() => {
-                  location.hash = cumulative.replace(/#/g, '%23');
+                  navigate('/' + cumulative.replace(/#/g, '%23'));
                 }}
               >
                 {part}
