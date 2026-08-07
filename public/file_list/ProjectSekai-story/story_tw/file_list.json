@@ -705,6 +705,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_176.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1632,6 +1636,10 @@
 {
 "type": "file",
 "name": "1207_花里實乃理_R4 編織真誠的心意 (event_174).txt"
+},
+{
+"type": "file",
+"name": "1218_花里實乃理_R4 夢想沒入人潮之中 (event_176).txt"
 }
 ]
 },
@@ -1810,6 +1818,10 @@
 {
 "type": "file",
 "name": "1208_桐谷遙_R4 Fantastic！健身房 (event_174).txt"
+},
+{
+"type": "file",
+"name": "1219_桐谷遙_R4 相識培育的情誼 (event_176).txt"
 }
 ]
 },
@@ -1992,6 +2004,10 @@
 {
 "type": "file",
 "name": "1210_桃井愛莉_R3 愛莉的美容沙龍 (event_174).txt"
+},
+{
+"type": "file",
+"name": "1220_桃井愛莉_R4 特別合作直播！ (event_176).txt"
 }
 ]
 },
@@ -2166,6 +2182,10 @@
 {
 "type": "file",
 "name": "1209_日野森雫_R4 讓人安心的早餐 (event_174).txt"
+},
+{
+"type": "file",
+"name": "1221_日野森雫_R4 完美的微笑 (event_176).txt"
 }
 ]
 },
@@ -12232,6 +12252,56 @@
 {
 "type": "file",
 "name": "175-08 重逢的約定.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "176 All ways Jump! with you (MMJ_WL)",
+"children": [
+{
+"type": "file",
+"name": "176-01 用自己的風格追夢.txt"
+},
+{
+"type": "file",
+"name": "176-02 以憧憬為目標 (花里實乃理).txt"
+},
+{
+"type": "file",
+"name": "176-03 明天肯定會── (花里實乃理).txt"
+},
+{
+"type": "file",
+"name": "176-04 遙遠的藍天 (桐谷遙).txt"
+},
+{
+"type": "file",
+"name": "176-05 循環的希望 (桐谷遙).txt"
+},
+{
+"type": "file",
+"name": "176-06 無法放棄的夢想 (桃井愛莉).txt"
+},
+{
+"type": "file",
+"name": "176-07 傳達不到，那就努力直到傳達 (桃井愛莉).txt"
+},
+{
+"type": "file",
+"name": "176-08 別人所期望的我 (日野森雫).txt"
+},
+{
+"type": "file",
+"name": "176-09 能好好呼吸的地方 (日野森雫).txt"
+},
+{
+"type": "file",
+"name": "176-10 再一次握住那隻手.txt"
+},
+{
+"type": "file",
+"name": "176-11 今後也以偶像的身分.txt"
 }
 ]
 }

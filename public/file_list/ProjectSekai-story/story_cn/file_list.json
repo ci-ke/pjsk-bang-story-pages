@@ -705,6 +705,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_176.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1632,6 +1636,10 @@
 {
 "type": "file",
 "name": "1207_花里实乃理_R4 编织真挚的心愿 (event_174).txt"
+},
+{
+"type": "file",
+"name": "1218_花里实乃理_R4 梦想混杂在喧嚣中 (event_176).txt"
 }
 ]
 },
@@ -1810,6 +1818,10 @@
 {
 "type": "file",
 "name": "1208_桐谷遥_R4 Fantastic！训练室 (event_174).txt"
+},
+{
+"type": "file",
+"name": "1219_桐谷遥_R4 促成相遇的牵绊 (event_176).txt"
 }
 ]
 },
@@ -1992,6 +2004,10 @@
 {
 "type": "file",
 "name": "1210_桃井爱莉_R3 爱莉的美发沙龙 (event_174).txt"
+},
+{
+"type": "file",
+"name": "1220_桃井爱莉_R4 特别联合直播！ (event_176).txt"
 }
 ]
 },
@@ -2166,6 +2182,10 @@
 {
 "type": "file",
 "name": "1209_日野森雫_R4 让人安心的早饭 (event_174).txt"
+},
+{
+"type": "file",
+"name": "1221_日野森雫_R4 完美的微笑 (event_176).txt"
 }
 ]
 },
@@ -12232,6 +12252,56 @@
 {
 "type": "file",
 "name": "175-08 再会的约定.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "176 All ways Jump! with you (MMJ_WL)",
+"children": [
+{
+"type": "file",
+"name": "176-01 保持我们的风格向梦想前进.txt"
+},
+{
+"type": "file",
+"name": "176-02 向憧憬的目标 (花里实乃理).txt"
+},
+{
+"type": "file",
+"name": "176-03 明天一定 (花里实乃理).txt"
+},
+{
+"type": "file",
+"name": "176-04 遥远的青空 (桐谷遥).txt"
+},
+{
+"type": "file",
+"name": "176-05 回转的希望 (桐谷遥).txt"
+},
+{
+"type": "file",
+"name": "176-06 无法放弃的梦想 (桃井爱莉).txt"
+},
+{
+"type": "file",
+"name": "176-07 传递不到，就直到传递到为止 (桃井爱莉).txt"
+},
+{
+"type": "file",
+"name": "176-08 大家期望的我 (日野森雫).txt"
+},
+{
+"type": "file",
+"name": "176-09 可以放松的地方 (日野森雫).txt"
+},
+{
+"type": "file",
+"name": "176-10 再一次握住那只手.txt"
+},
+{
+"type": "file",
+"name": "176-11 今后也作为偶像.txt"
 }
 ]
 }
