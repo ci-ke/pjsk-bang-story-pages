@@ -853,6 +853,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_213.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1948,6 +1952,10 @@
 {
 "type": "file",
 "name": "1417_花里みのり_R4 可愛い応援 (event_209).txt"
+},
+{
+"type": "file",
+"name": "1441_花里みのり_R4 しばしのお別れ (event_213).txt"
 }
 ]
 },
@@ -2158,6 +2166,10 @@
 {
 "type": "file",
 "name": "1418_桐谷遥_R4 100万点の笑顔 (event_209).txt"
+},
+{
+"type": "file",
+"name": "1440_桐谷遥_R4 準決勝への意気込み (event_213).txt"
 }
 ]
 },
@@ -2368,6 +2380,10 @@
 {
 "type": "file",
 "name": "1420_桃井愛莉_R3 全力！体操のお姉さん！ (event_209).txt"
+},
+{
+"type": "file",
+"name": "1444_桃井愛莉_R2 考え方ひとつで (event_213).txt"
 }
 ]
 },
@@ -2578,6 +2594,10 @@
 {
 "type": "file",
 "name": "1421_日野森雫_R2 素敵な笑顔のお手伝い (event_209).txt"
+},
+{
+"type": "file",
+"name": "1442_日野森雫_R4 信頼に応えるために (event_213).txt"
 }
 ]
 },
@@ -6474,6 +6494,10 @@
 {
 "type": "file",
 "name": "1428_KAITO_R4 空へと見送って (event_211).txt"
+},
+{
+"type": "file",
+"name": "1443_KAITO (MMJ)_R3 経験談のアドバイス (event_213).txt"
 }
 ]
 }
@@ -14616,6 +14640,44 @@
 {
 "type": "file",
 "name": "212-08 波紋は広がって.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "213 Leap Beyond The Limits！ (MMJ_桐谷遥)",
+"children": [
+{
+"type": "file",
+"name": "213-01 始まりの時.txt"
+},
+{
+"type": "file",
+"name": "213-02 対戦相手.txt"
+},
+{
+"type": "file",
+"name": "213-03 準決勝に向けて.txt"
+},
+{
+"type": "file",
+"name": "213-04 決意を胸に.txt"
+},
+{
+"type": "file",
+"name": "213-05 霧のその先.txt"
+},
+{
+"type": "file",
+"name": "213-06 負けられない理由.txt"
+},
+{
+"type": "file",
+"name": "213-07 迷いの果てに.txt"
+},
+{
+"type": "file",
+"name": "213-08 “信じる”.txt"
 }
 ]
 }
