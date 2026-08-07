@@ -8448,6 +8448,10 @@
 {
 "type": "file",
 "name": "2270_和奏瑞依_R5 回忆闪闪发光.txt"
+},
+{
+"type": "file",
+"name": "2376_和奏瑞依_R5 RUNAWAY STAR.txt"
 }
 ]
 },
@@ -8692,6 +8696,10 @@
 {
 "type": "file",
 "name": "2263_佐藤益木_R5 晴空的雨滴.txt"
+},
+{
+"type": "file",
+"name": "2377_佐藤益木_R5 NO STAR HERE.txt"
 }
 ]
 },
@@ -8924,6 +8932,10 @@
 {
 "type": "file",
 "name": "2296_珠手知由_R4 突破重围.txt"
+},
+{
+"type": "file",
+"name": "2380_珠手知由_R4 in the mirror.txt"
 }
 ]
 },
@@ -20662,6 +20674,40 @@
 {
 "type": "file",
 "name": "event318-07 终章：那也是阳光般的闪耀.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "319 Radiance and Eclipse",
+"children": [
+{
+"type": "file",
+"name": "event319-01 序章：Call us.txt"
+},
+{
+"type": "file",
+"name": "event319-02 第１话：Dawn Session.txt"
+},
+{
+"type": "file",
+"name": "event319-03 第２话：Silent Line.txt"
+},
+{
+"type": "file",
+"name": "event319-04 第３话：Star Break.txt"
+},
+{
+"type": "file",
+"name": "event319-05 第４话：Street Alone.txt"
+},
+{
+"type": "file",
+"name": "event319-06 第５话：Cross Night.txt"
+},
+{
+"type": "file",
+"name": "event319-07 终章：Raise A.txt"
 }
 ]
 }

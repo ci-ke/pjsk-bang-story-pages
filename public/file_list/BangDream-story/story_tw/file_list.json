@@ -5764,6 +5764,10 @@
 {
 "type": "file",
 "name": "2310_冰川日菜_R5 說出來了，也聽到了.txt"
+},
+{
+"type": "file",
+"name": "2404_冰川日菜_R5 令人雀躍♪的歌詞.txt"
 }
 ]
 },
@@ -5994,6 +5998,10 @@
 {
 "type": "file",
 "name": "2331_白鷺千聖_R5 My dear dog.txt"
+},
+{
+"type": "file",
+"name": "2403_白鷺千聖_R5 我的心意.txt"
 }
 ]
 },
@@ -6462,6 +6470,10 @@
 {
 "type": "file",
 "name": "2357_若宮伊芙_R4 至福的紅豆湯.txt"
+},
+{
+"type": "file",
+"name": "2407_若宮伊芙_R4 尋找話語.txt"
 }
 ]
 },
@@ -20650,6 +20662,40 @@
 {
 "type": "file",
 "name": "event322-07 結尾：一直一直、一直。.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "323 就連千言萬語也遠遠不夠",
+"children": [
+{
+"type": "file",
+"name": "event323-01 開場：充實的偶像活動.txt"
+},
+{
+"type": "file",
+"name": "event323-02 第１話：歌詞的主題.txt"
+},
+{
+"type": "file",
+"name": "event323-03 第２話：尋不著的詞彙.txt"
+},
+{
+"type": "file",
+"name": "event323-04 第３話：在那內心深處.txt"
+},
+{
+"type": "file",
+"name": "event323-05 第４話：無法全盤傾訴.txt"
+},
+{
+"type": "file",
+"name": "event323-06 第５話：即使並不完美.txt"
+},
+{
+"type": "file",
+"name": "event323-07 結尾：尋獲的詞彙.txt"
 }
 ]
 }
