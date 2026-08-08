@@ -701,6 +701,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_176.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1632,6 +1636,10 @@
 {
 "type": "file",
 "name": "1207_Minori Hanasato_R4 Sharing My Honest Feelings (event_174).txt"
+},
+{
+"type": "file",
+"name": "1218_Minori Hanasato_R4 A Dream Lost In The Crowds (event_176).txt"
 }
 ]
 },
@@ -1810,6 +1818,10 @@
 {
 "type": "file",
 "name": "1208_Haruka Kiritani_R4 Fantastic Training Room! (event_174).txt"
+},
+{
+"type": "file",
+"name": "1219_Haruka Kiritani_R4 Brought Together (event_176).txt"
 }
 ]
 },
@@ -1992,6 +2004,10 @@
 {
 "type": "file",
 "name": "1210_Airi Momoi_R3 Airi's Beauty Salon (event_174).txt"
+},
+{
+"type": "file",
+"name": "1220_Airi Momoi_R4 Special Collab Stream! (event_176).txt"
 }
 ]
 },
@@ -2166,6 +2182,10 @@
 {
 "type": "file",
 "name": "1209_Shizuku Hinomori_R4 A Comforting Breakfast (event_174).txt"
+},
+{
+"type": "file",
+"name": "1221_Shizuku Hinomori_R4 Giving The Perfect Smile (event_176).txt"
 }
 ]
 },
@@ -12186,6 +12206,56 @@
 {
 "type": "file",
 "name": "175-08 We'll Be Back.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "176 All Ways Jump! With You (MMJ_WL)",
+"children": [
+{
+"type": "file",
+"name": "176-01 Being Ourselves, Chasing Our Dream.txt"
+},
+{
+"type": "file",
+"name": "176-02 Holding On to Hope (Minori Hanasato).txt"
+},
+{
+"type": "file",
+"name": "176-03 Tomorrow, For Sure (Minori Hanasato).txt"
+},
+{
+"type": "file",
+"name": "176-04 Blue Skies Beyond Reach (Haruka Kiritani).txt"
+},
+{
+"type": "file",
+"name": "176-05 Hope That Spreads (Haruka Kiritani).txt"
+},
+{
+"type": "file",
+"name": "176-06 A Dream I Can't Abandon (Airi Momoi).txt"
+},
+{
+"type": "file",
+"name": "176-07 Try Until You Succeed (Airi Momoi).txt"
+},
+{
+"type": "file",
+"name": "176-08 The ＂Me＂ They Expect (Shizuku Hinomori).txt"
+},
+{
+"type": "file",
+"name": "176-09 A Place to Breathe Easy (Shizuku Hinomori).txt"
+},
+{
+"type": "file",
+"name": "176-10 Take My Hand Once More.txt"
+},
+{
+"type": "file",
+"name": "176-11 Idols, Now and Forever.txt"
 }
 ]
 }
