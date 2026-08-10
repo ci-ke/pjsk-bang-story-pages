@@ -8770,6 +8770,10 @@
 {
 "type": "file",
 "name": "2480_朝日六花_R5 私たちだけのプール.txt"
+},
+{
+"type": "file",
+"name": "2502_朝日六花_R4 魅惑のエスニック.txt"
 }
 ]
 },
@@ -8896,6 +8900,10 @@
 {
 "type": "file",
 "name": "2419_佐藤ますき_R4 狂犬の戸惑い.txt"
+},
+{
+"type": "file",
+"name": "2498_佐藤ますき_R5 やってやろうぜ.txt"
 }
 ]
 },
@@ -9010,6 +9018,10 @@
 {
 "type": "file",
 "name": "2444_鳰原令王那_R4 混ぜてくださ～いっ.txt"
+},
+{
+"type": "file",
+"name": "2499_鳰原令王那_R5 一番近くて遠いひと.txt"
 }
 ]
 },
@@ -21570,6 +21582,40 @@
 {
 "type": "file",
 "name": "event338-07 エンディング：一人前のドライバーに！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "339 parallel in the mirror",
+"children": [
+{
+"type": "file",
+"name": "event339-01 オープニング：約５５００ｋｍの彼方.txt"
+},
+{
+"type": "file",
+"name": "event339-02 第１話：約３００m先のあなたへ.txt"
+},
+{
+"type": "file",
+"name": "event339-03 第２話：シンガポールへようこそ！.txt"
+},
+{
+"type": "file",
+"name": "event339-04 第３話：Pareo in the mirror.txt"
+},
+{
+"type": "file",
+"name": "event339-05 第４話：Steady lah！.txt"
+},
+{
+"type": "file",
+"name": "event339-06 第５話：鏡の中の私へ.txt"
+},
+{
+"type": "file",
+"name": "event339-07 エンディング：そうして２人は家に帰る.txt"
 }
 ]
 }
