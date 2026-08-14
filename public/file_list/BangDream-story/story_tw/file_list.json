@@ -4824,6 +4824,10 @@
 {
 "type": "file",
 "name": "2349_北澤育美_R5 解放心靈枷鎖.txt"
+},
+{
+"type": "file",
+"name": "2412_北澤育美_R4 好多點心！.txt"
 }
 ]
 },
@@ -5046,6 +5050,10 @@
 {
 "type": "file",
 "name": "2353_松原花音_R5 梅花綻放於寒空之下.txt"
+},
+{
+"type": "file",
+"name": "2408_松原花音_R5 舒適的空間.txt"
 }
 ]
 },
@@ -5280,6 +5288,10 @@
 {
 "type": "file",
 "name": "2332_米歇爾_R5 與你共度的放學後.txt"
+},
+{
+"type": "file",
+"name": "2409_米歇爾_R5 極致的放鬆.txt"
 }
 ]
 },
@@ -20696,6 +20708,40 @@
 {
 "type": "file",
 "name": "event323-07 結尾：尋獲的詞彙.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "324 鬆一口氣、HelloHappy 溫泉旅情",
+"children": [
+{
+"type": "file",
+"name": "event324-01 開場：好想去溫泉.txt"
+},
+{
+"type": "file",
+"name": "event324-02 第１話：Let's 普通的溫泉旅行！.txt"
+},
+{
+"type": "file",
+"name": "event324-03 第２話：大家一起去參拜！.txt"
+},
+{
+"type": "file",
+"name": "event324-04 第３話：雀躍的 Check-in！.txt"
+},
+{
+"type": "file",
+"name": "event324-05 第４話：溫泉的作風.txt"
+},
+{
+"type": "file",
+"name": "event324-06 第５話：平穩的片刻.txt"
+},
+{
+"type": "file",
+"name": "event324-07 結尾：有做到什麼都不做嗎？.txt"
 }
 ]
 }
