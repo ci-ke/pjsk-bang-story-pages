@@ -5224,6 +5224,10 @@
 {
 "type": "file",
 "name": "2269_Misaki Okusawa_R4 A Prayer Passed Down.txt"
+},
+{
+"type": "file",
+"name": "2332_Misaki Okusawa_R5 After School with You.txt"
 }
 ]
 },
@@ -5934,6 +5938,10 @@
 {
 "type": "file",
 "name": "2249_Chisato Shirasagi_R5 You Can Tell at a Glance!.txt"
+},
+{
+"type": "file",
+"name": "2331_Chisato Shirasagi_R5 My dear dog.txt"
 }
 ]
 },
@@ -6612,6 +6620,10 @@
 {
 "type": "file",
 "name": "2286_Yukina Minato_R5 Beneath the Moonlight.txt"
+},
+{
+"type": "file",
+"name": "2327_Yukina Minato_R5 Feeling the Shared Passion.txt"
 }
 ]
 },
@@ -7306,6 +7318,10 @@
 {
 "type": "file",
 "name": "2192_Ako Udagawa_R5 To the Peak Beyond Heights.txt"
+},
+{
+"type": "file",
+"name": "2330_Ako Udagawa_R4 Strength from Our Vows.txt"
 }
 ]
 },
@@ -7528,6 +7544,10 @@
 {
 "type": "file",
 "name": "2271_Rinko Shirokane_R5 Red jewels sparkling.txt"
+},
+{
+"type": "file",
+"name": "2326_Rinko Shirokane_R5 Ever Forward.txt"
 }
 ]
 },
@@ -20208,6 +20228,40 @@
 {
 "type": "file",
 "name": "event311-07 Ending：Trail of the Stars.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "314 Phosphorescence, Burning with Heat",
+"children": [
+{
+"type": "file",
+"name": "event314-01 Opening：Undeniable Growth.txt"
+},
+{
+"type": "file",
+"name": "event314-02 Chapter 1：What It Means to Face Off.txt"
+},
+{
+"type": "file",
+"name": "event314-03 Chapter 2：To Reach Further and Stronger.txt"
+},
+{
+"type": "file",
+"name": "event314-04 Chapter 3：Time as Friends.txt"
+},
+{
+"type": "file",
+"name": "event314-05 Chapter 4：Rinko's Resolve.txt"
+},
+{
+"type": "file",
+"name": "event314-06 Chapter 5：A Challenger Never Backs Down.txt"
+},
+{
+"type": "file",
+"name": "event314-07 Ending：Roselia's Keyboardist.txt"
 }
 ]
 }
