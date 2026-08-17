@@ -857,6 +857,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_214.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2384,6 +2388,10 @@
 {
 "type": "file",
 "name": "1444_桃井愛莉_R2 考え方ひとつで (event_213).txt"
+},
+{
+"type": "file",
+"name": "1446_桃井愛莉_R4 夢の力になるものは (event_214).txt"
 }
 ]
 },
@@ -3236,6 +3244,10 @@
 {
 "type": "file",
 "name": "1387_東雲彰人_R4 ちゃんと聞いてたか？ (event_204).txt"
+},
+{
+"type": "file",
+"name": "1447_東雲彰人_R4 背を叩く言葉 (event_214).txt"
 }
 ]
 },
@@ -4104,6 +4116,10 @@
 {
 "type": "file",
 "name": "1427_草薙寧々_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1448_草薙寧々_R4 森の導き手 (event_214).txt"
 }
 ]
 },
@@ -4960,6 +4976,10 @@
 {
 "type": "file",
 "name": "1422_東雲絵名_R4 藍に咲く花 (event_210).txt"
+},
+{
+"type": "file",
+"name": "1449_東雲絵名_R4 あの頃言えなかったこと (event_214).txt"
 }
 ]
 },
@@ -5170,6 +5190,10 @@
 {
 "type": "file",
 "name": "1432_暁山瑞希_R4 重なる想いと過去 (event_211).txt"
+},
+{
+"type": "file",
+"name": "1450_暁山瑞希_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -5416,6 +5440,10 @@
 {
 "type": "file",
 "name": "1419_初音ミク (MMJ)_R4 ミクちゃんに密着取材！ (event_209).txt"
+},
+{
+"type": "file",
+"name": "1451_初音ミク_RB Happy Anniversary！！2026.txt"
 }
 ]
 },
@@ -6276,6 +6304,10 @@
 {
 "type": "file",
 "name": "1424_MEIKO (N25)_R4 穏やかな夕暮れ (event_210).txt"
+},
+{
+"type": "file",
+"name": "1445_MEIKO_R4 潮騒の狭間に (event_214).txt"
 }
 ]
 },
@@ -14678,6 +14710,40 @@
 {
 "type": "file",
 "name": "213-08 “信じる”.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "214 Again And Again Ambition！ (Mix_WL)",
+"children": [
+{
+"type": "file",
+"name": "214-01 思いがけない光.txt"
+},
+{
+"type": "file",
+"name": "214-02 決死の冒険 (東雲彰人).txt"
+},
+{
+"type": "file",
+"name": "214-03 探索ミッション！ (草薙寧々).txt"
+},
+{
+"type": "file",
+"name": "214-04 抱きしめた声 (MEIKO).txt"
+},
+{
+"type": "file",
+"name": "214-05 満たされない想いは (東雲絵名).txt"
+},
+{
+"type": "file",
+"name": "214-06 あなたの戦い方 (桃井愛莉).txt"
+},
+{
+"type": "file",
+"name": "214-07 ここで笑い合える日.txt"
 }
 ]
 }
