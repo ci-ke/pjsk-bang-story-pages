@@ -3314,6 +3314,10 @@
 {
 "type": "file",
 "name": "2358_美竹兰_R5 凝视之处.txt"
+},
+{
+"type": "file",
+"name": "2385_美竹兰_R4 装饰时要满怀心意.txt"
 }
 ]
 },
@@ -3532,6 +3536,10 @@
 {
 "type": "file",
 "name": "2317_青叶摩卡_R5 暖洋洋、软蓬蓬.txt"
+},
+{
+"type": "file",
+"name": "2382_青叶摩卡_R5 请品尝我的精心之作~.txt"
 }
 ]
 },
@@ -4226,6 +4234,10 @@
 {
 "type": "file",
 "name": "2298_羽泽鸫_R5 两人，彼此分享.txt"
+},
+{
+"type": "file",
+"name": "2381_羽泽鸫_R5 晚霞染红脸颊.txt"
 }
 ]
 },
@@ -7002,6 +7014,10 @@
 {
 "type": "file",
 "name": "2309_冰川纱夜_R5 两块拼图.txt"
+},
+{
+"type": "file",
+"name": "2386_冰川纱夜_R5 乘着温暖的风.txt"
 }
 ]
 },
@@ -8334,6 +8350,10 @@
 {
 "type": "file",
 "name": "2365_八潮瑠唯_R4 决心寄于乐声.txt"
+},
+{
+"type": "file",
+"name": "2387_八潮瑠唯_R5 静静飘落堆积的雪.txt"
 }
 ]
 },
@@ -20708,6 +20728,40 @@
 {
 "type": "file",
 "name": "event319-07 终章：Raise A.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "320 Our Sweetest Valentine！",
+"children": [
+{
+"type": "file",
+"name": "event320-01 序章：特别感动的一页.txt"
+},
+{
+"type": "file",
+"name": "event320-02 第１话：甜~蜜的计划.txt"
+},
+{
+"type": "file",
+"name": "event320-03 第２话：各自的超赞特别.txt"
+},
+{
+"type": "file",
+"name": "event320-04 第３话：我能做些什么呢？.txt"
+},
+{
+"type": "file",
+"name": "event320-05 第４话：只要在该鸫的时候鸫起来.txt"
+},
+{
+"type": "file",
+"name": "event320-06 第５话：超赞特别情人节.txt"
+},
+{
+"type": "file",
+"name": "event320-07 终章：笔记上的一条.txt"
 }
 ]
 }
