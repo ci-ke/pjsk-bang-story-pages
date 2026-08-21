@@ -709,6 +709,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_177.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3828,6 +3832,10 @@
 {
 "type": "file",
 "name": "1185_宵崎奏_R4 片刻的休息时光 (event_170).txt"
+},
+{
+"type": "file",
+"name": "1226_宵崎奏_R3 感兴趣的服装是？ (event_177).txt"
 }
 ]
 },
@@ -4006,6 +4014,10 @@
 {
 "type": "file",
 "name": "1186_朝比奈真冬_R4 交相辉映的笑容 (event_170).txt"
+},
+{
+"type": "file",
+"name": "1227_朝比奈真冬_R2 寻找回礼 (event_177).txt"
 }
 ]
 },
@@ -4192,6 +4204,10 @@
 {
 "type": "file",
 "name": "1194_东云绘名_R4 和那幅画一起.txt"
+},
+{
+"type": "file",
+"name": "1224_东云绘名_R4 架不住热情相迎！ (event_177).txt"
 }
 ]
 },
@@ -4366,6 +4382,10 @@
 {
 "type": "file",
 "name": "1188_晓山瑞希_R4 介绍可爱之处 (event_170).txt"
+},
+{
+"type": "file",
+"name": "1223_晓山瑞希_R4 保持自我描绘明天 (event_177).txt"
 }
 ]
 },
@@ -4948,6 +4968,10 @@
 {
 "type": "file",
 "name": "1164_镜音连 (N25)_R4 伴你度过苦痛 (event_165).txt"
+},
+{
+"type": "file",
+"name": "1225_镜音连 (N25)_R4 分享美味 (event_177).txt"
 }
 ]
 },
@@ -12322,6 +12346,44 @@
 {
 "type": "file",
 "name": "176-11 今后也作为偶像.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "177 向无法解开的明天伸手 (N25_晓山瑞希)",
+"children": [
+{
+"type": "file",
+"name": "177-01 令人高兴的消息.txt"
+},
+{
+"type": "file",
+"name": "177-02 前进的身影.txt"
+},
+{
+"type": "file",
+"name": "177-03 像大家那样.txt"
+},
+{
+"type": "file",
+"name": "177-04 梦想的契机.txt"
+},
+{
+"type": "file",
+"name": "177-05 内心的憧憬.txt"
+},
+{
+"type": "file",
+"name": "177-06 介绍25！.txt"
+},
+{
+"type": "file",
+"name": "177-07 耀眼的景色.txt"
+},
+{
+"type": "file",
+"name": "177-08 心中描绘的未来.txt"
 }
 ]
 }
