@@ -2544,6 +2544,10 @@
 {
 "type": "file",
 "name": "2299_Rimi Ushigome_R5 A Sunset Glow, Your Radiant Face.txt"
+},
+{
+"type": "file",
+"name": "2347_Rimi Ushigome_R4 Storytime Jitters.txt"
 }
 ]
 },
@@ -7096,6 +7100,10 @@
 {
 "type": "file",
 "name": "2313_Lisa Imai_R4 Where Flowers and Stars Shine.txt"
+},
+{
+"type": "file",
+"name": "2343_Lisa Imai_R5 Decorating Together!.txt"
 }
 ]
 },
@@ -7796,6 +7804,10 @@
 {
 "type": "file",
 "name": "2275_Toko Kirigaya_R5 Drawing the Future Closer.txt"
+},
+{
+"type": "file",
+"name": "2344_Toko Kirigaya_R5 Sparkling Through the Glass.txt"
 }
 ]
 },
@@ -20262,6 +20274,40 @@
 {
 "type": "file",
 "name": "event314-07 Ending：Roselia's Keyboardist.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "315 Before a Holy Night Full of Smiles",
+"children": [
+{
+"type": "file",
+"name": "event315-01 Opening：A Lively Christmas.txt"
+},
+{
+"type": "file",
+"name": "event315-02 Chapter 1：Hello, Hap... Xmas Meeting!.txt"
+},
+{
+"type": "file",
+"name": "event315-03 Chapter 2：Everyone's Going Shopping!.txt"
+},
+{
+"type": "file",
+"name": "event315-04 Chapter 3：Decorating for Christmas.txt"
+},
+{
+"type": "file",
+"name": "event315-05 Chapter 4：Party Time!.txt"
+},
+{
+"type": "file",
+"name": "event315-06 Chapter 5：A Wonderful Surprise.txt"
+},
+{
+"type": "file",
+"name": "event315-07 Ending：Miracle White Christmas.txt"
 }
 ]
 }
