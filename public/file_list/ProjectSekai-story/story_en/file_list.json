@@ -705,6 +705,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_177.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3808,6 +3812,10 @@
 {
 "type": "file",
 "name": "1185_Kanade Yoisaki_R4 Between Classes (event_170).txt"
+},
+{
+"type": "file",
+"name": "1226_Kanade Yoisaki_R3 Clothes That Catch My Eye？ (event_177).txt"
 }
 ]
 },
@@ -3986,6 +3994,10 @@
 {
 "type": "file",
 "name": "1186_Mafuyu Asahina_R4 A Pair Of Smiles (event_170).txt"
+},
+{
+"type": "file",
+"name": "1227_Mafuyu Asahina_R2 Finding A Way To Repay (event_177).txt"
 }
 ]
 },
@@ -4172,6 +4184,10 @@
 {
 "type": "file",
 "name": "1194_Ena Shinonome_R4 That Drawing, Together.txt"
+},
+{
+"type": "file",
+"name": "1224_Ena Shinonome_R4 An Overwhelming Welcome! (event_177).txt"
 }
 ]
 },
@@ -4346,6 +4362,10 @@
 {
 "type": "file",
 "name": "1188_Mizuki Akiyama_R4 Cuteness For You (event_170).txt"
+},
+{
+"type": "file",
+"name": "1223_Mizuki Akiyama_R4 Designing My Own Tomorrow (event_177).txt"
 }
 ]
 },
@@ -4924,6 +4944,10 @@
 {
 "type": "file",
 "name": "1164_Kagamine Len (N25)_R4 In Her Time Of Need (event_165).txt"
+},
+{
+"type": "file",
+"name": "1225_Kagamine Len (N25)_R4 Sharing Deliciousness (event_177).txt"
 }
 ]
 },
@@ -12260,6 +12284,44 @@
 {
 "type": "file",
 "name": "176-11 Idols, Now and Forever.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "177 Tying Tomorrow's Ribbon (N25_Mizuki Akiyama)",
+"children": [
+{
+"type": "file",
+"name": "177-01 Good News.txt"
+},
+{
+"type": "file",
+"name": "177-02 Surrounded by Ambition.txt"
+},
+{
+"type": "file",
+"name": "177-03 Not Like Them.txt"
+},
+{
+"type": "file",
+"name": "177-04 The Spark of a Dream.txt"
+},
+{
+"type": "file",
+"name": "177-05 Cherished Aspiration.txt"
+},
+{
+"type": "file",
+"name": "177-06 Meet N25!.txt"
+},
+{
+"type": "file",
+"name": "177-07 A Dazzling Sight.txt"
+},
+{
+"type": "file",
+"name": "177-08 Designs for the Future.txt"
 }
 ]
 }
