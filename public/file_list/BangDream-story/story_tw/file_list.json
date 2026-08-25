@@ -2754,6 +2754,10 @@
 {
 "type": "file",
 "name": "2360_山吹沙綾_R5 被溫暖的雪包圍著.txt"
+},
+{
+"type": "file",
+"name": "2414_山吹沙綾_R5 這就是我的聲音！.txt"
 }
 ]
 },
@@ -3924,6 +3928,10 @@
 {
 "type": "file",
 "name": "2314_宇田川巴_R5 尋找屬於我的色彩.txt"
+},
+{
+"type": "file",
+"name": "2415_宇田川巴_R5 化為熱血的演奏！.txt"
 }
 ]
 },
@@ -5534,6 +5542,10 @@
 {
 "type": "file",
 "name": "2305_丸山彩_R5 自拍的範本♡.txt"
+},
+{
+"type": "file",
+"name": "2421_丸山彩_R5 鏡中映照不出的事物.txt"
 }
 ]
 },
@@ -6240,6 +6252,10 @@
 {
 "type": "file",
 "name": "2308_大和麻彌_R4 充滿幹勁的簡報.txt"
+},
+{
+"type": "file",
+"name": "2416_大和麻彌_R5 心意交會的片刻.txt"
 }
 ]
 },
@@ -7422,6 +7438,10 @@
 {
 "type": "file",
 "name": "2399_宇田川亞子_R5 Re：VENGER.txt"
+},
+{
+"type": "file",
+"name": "2420_宇田川亞子_R4 奏響深淵的旋律…….txt"
 }
 ]
 },
@@ -8160,6 +8180,10 @@
 {
 "type": "file",
 "name": "2361_二葉筑紫_R5 被朝陽照耀的你.txt"
+},
+{
+"type": "file",
+"name": "2413_二葉筑紫_R5 將心意寄託於交疊的手.txt"
 }
 ]
 },
@@ -8640,6 +8664,10 @@
 {
 "type": "file",
 "name": "2377_MASKING_R5 NO STAR HERE.txt"
+},
+{
+"type": "file",
+"name": "2419_MASKING_R4 狂犬的困惑.txt"
 }
 ]
 },
@@ -8876,6 +8904,10 @@
 {
 "type": "file",
 "name": "2380_CHU²_R4 in the mirror.txt"
+},
+{
+"type": "file",
+"name": "2422_CHU²_R5 這樣度過休假日.txt"
 }
 ]
 },
@@ -20742,6 +20774,52 @@
 {
 "type": "file",
 "name": "event324-07 結尾：有做到什麼都不做嗎？.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "325 All☆Stars CiRCRiNG Fes!",
+"children": [
+{
+"type": "file",
+"name": "event325-01 開場：緊緊相聚的 CiRCRiNG！.txt"
+},
+{
+"type": "file",
+"name": "event325-02 第１話：與前輩們一起.txt"
+},
+{
+"type": "file",
+"name": "event325-03 第２話：誰是隊長？.txt"
+},
+{
+"type": "file",
+"name": "event325-04 第３話：更俐落的一方.txt"
+},
+{
+"type": "file",
+"name": "event325-05 第４話：更令人雀躍的一方！.txt"
+},
+{
+"type": "file",
+"name": "event325-06 第５話：悠閒的下午茶時光.txt"
+},
+{
+"type": "file",
+"name": "event325-07 第６話：邁向舞台！.txt"
+},
+{
+"type": "file",
+"name": "event325-08 第７話：傳遞接力棒.txt"
+},
+{
+"type": "file",
+"name": "event325-09 第８話：閃亮與心動.txt"
+},
+{
+"type": "file",
+"name": "event325-10 結尾：全新的樂音，相互共鳴.txt"
 }
 ]
 }
