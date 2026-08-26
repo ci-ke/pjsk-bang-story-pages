@@ -12333,6 +12333,1540 @@
 },
 {
 "type": "dir",
+"name": "live",
+"children": [
+{
+"type": "file",
+"name": "00001 Celebration Show! VIRTUAL SINGER Encore.txt"
+},
+{
+"type": "file",
+"name": "00002 Celebration Show! Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00003 Celebration Show! MORE MORE JUMP!.txt"
+},
+{
+"type": "file",
+"name": "00004 Celebration Show! Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00005 Celebration Show! Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00006 Celebration Show! Nightcord at 25：00.txt"
+},
+{
+"type": "file",
+"name": "00007 Celebration Show! Final Performance.txt"
+},
+{
+"type": "file",
+"name": "00008 Haruka's Birthday Show 2021.txt"
+},
+{
+"type": "file",
+"name": "00009 First Star After the Rain After Show.txt"
+},
+{
+"type": "file",
+"name": "00010 Imprisoned Marionette After Show.txt"
+},
+{
+"type": "file",
+"name": "00011 Honami's Birthday Show 2021.txt"
+},
+{
+"type": "file",
+"name": "00012 Halloween Show 2021.txt"
+},
+{
+"type": "file",
+"name": "00013 It's On! Wonder Halloween! After Show.txt"
+},
+{
+"type": "file",
+"name": "00014 MEIKO's Anniversary Show 2021.txt"
+},
+{
+"type": "file",
+"name": "00015 Welcome Show! VIRTUAL SINGER.txt"
+},
+{
+"type": "file",
+"name": "00016 Welcome Show! Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00017 Welcome Show! MORE MORE JUMP!.txt"
+},
+{
+"type": "file",
+"name": "00018 Welcome Show! Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00019 Welcome Show! Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00020 Welcome Show! Nightcord at 25：00.txt"
+},
+{
+"type": "file",
+"name": "00021 Welcome Show! All Stars.txt"
+},
+{
+"type": "file",
+"name": "00022 Welcome Show! VIRTUAL SINGER.txt"
+},
+{
+"type": "file",
+"name": "00023 Welcome Show! Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00024 Welcome Show! MORE MORE JUMP!.txt"
+},
+{
+"type": "file",
+"name": "00025 Welcome Show! Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00026 Welcome Show! Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00027 Welcome Show! Nightcord at 25：00.txt"
+},
+{
+"type": "file",
+"name": "00028 Welcome Show! All Stars.txt"
+},
+{
+"type": "file",
+"name": "00029 Welcome Show! VIRTUAL SINGER.txt"
+},
+{
+"type": "file",
+"name": "00030 Welcome Show! Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00031 Welcome Show! MORE MORE JUMP!.txt"
+},
+{
+"type": "file",
+"name": "00035 Welcome Show! All Stars.txt"
+},
+{
+"type": "file",
+"name": "00036 Akito's Birthday Show 2021.txt"
+},
+{
+"type": "file",
+"name": "00037 Time to RE：START After Show.txt"
+},
+{
+"type": "file",
+"name": "00038 Singing in Sync After Show.txt"
+},
+{
+"type": "file",
+"name": "00039 Shizuku's Birthday Show 2021.txt"
+},
+{
+"type": "file",
+"name": "00040 On This Holy Night, I Sing After Show.txt"
+},
+{
+"type": "file",
+"name": "00041 Christmas Show 2021.txt"
+},
+{
+"type": "file",
+"name": "00042 Rin's Anniversary Show 2021.txt"
+},
+{
+"type": "file",
+"name": "00043 Len's Anniversary Show 2021.txt"
+},
+{
+"type": "file",
+"name": "00044 New Year's Countdown Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00045 Happy New Year 2022 Show Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00046 Happy New Year 2022 Show MORE MORE JUMP!.txt"
+},
+{
+"type": "file",
+"name": "00047 Happy New Year 2022 Show Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00048 Happy New Year 2022 Show Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00049 Happy New Year 2022 Show Nightcord at 25：00.txt"
+},
+{
+"type": "file",
+"name": "00050 Shiho's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00051 Don't Let Doubts Hold You Back After Show.txt"
+},
+{
+"type": "file",
+"name": "00052 My Color! After Show.txt"
+},
+{
+"type": "file",
+"name": "00053 Mafuyu's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00054 Luka's Anniversary Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00055 Nocturne Interlude After Show.txt"
+},
+{
+"type": "file",
+"name": "00056 Kanade's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00057 Valentine's Day Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00058 KAITO's Anniversary Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00059 Insatiable Pale Color After Show.txt"
+},
+{
+"type": "file",
+"name": "00060 Kohane's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00061 Smile of a Dreamer After Show.txt"
+},
+{
+"type": "file",
+"name": "00062 Doll Festival at the Tenma's After Show.txt"
+},
+{
+"type": "file",
+"name": "00063 White Day Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00064 Airi's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00065 Hear Me! Hopeful Show♪ After Show.txt"
+},
+{
+"type": "file",
+"name": "00066 Singing Among the Cherry Blossoms After Show.txt"
+},
+{
+"type": "file",
+"name": "00067 Secret Distance After Show.txt"
+},
+{
+"type": "file",
+"name": "00068 Minori's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00069 Resonating with you After Show.txt"
+},
+{
+"type": "file",
+"name": "00070 Ena's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00071 STRAY BAD DOG After Show.txt"
+},
+{
+"type": "file",
+"name": "00072 Saki's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00073 What's on your mind？ Exciting Picnic! After Show.txt"
+},
+{
+"type": "file",
+"name": "00074 Tsukasa's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00075 You deserve it! Break Time! After Show.txt"
+},
+{
+"type": "file",
+"name": "00076 Toya's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00077 An Ode for the Pure of Heart After Show.txt"
+},
+{
+"type": "file",
+"name": "00078 Wonder Magical Showtime! After Show.txt"
+},
+{
+"type": "file",
+"name": "00079 Carnation Recollection After Show.txt"
+},
+{
+"type": "file",
+"name": "00080 Rui's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00081 Unnamed Harmony After Show.txt"
+},
+{
+"type": "file",
+"name": "00082 Star Festival Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00083 Awakening Beat After Show.txt"
+},
+{
+"type": "file",
+"name": "00084 Nene's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00085 The Sounds of a Summer Festival! After Show.txt"
+},
+{
+"type": "file",
+"name": "00086 An's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00087 The BEST Summer Ever! After Show.txt"
+},
+{
+"type": "file",
+"name": "00088 Ichika's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00089 Happy Lovely Everyday! After Show.txt"
+},
+{
+"type": "file",
+"name": "00090 Mermaid Admiration After Show.txt"
+},
+{
+"type": "file",
+"name": "00091 Mizuki's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00092 Miku's Anniversary Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00093 The Moon Rabbit & Us After Show.txt"
+},
+{
+"type": "file",
+"name": "00094 Emu's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00095 A Bright Future!! After Show.txt"
+},
+{
+"type": "file",
+"name": "00096 Mirage of Light After Show.txt"
+},
+{
+"type": "file",
+"name": "00097 [Celebrate the anniversary of the JP version] Special Show.txt"
+},
+{
+"type": "file",
+"name": "00098 Haruka's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00099 Scramble Fan Festival! After Show.txt"
+},
+{
+"type": "file",
+"name": "00100 Bout for Beside You After Show.txt"
+},
+{
+"type": "file",
+"name": "00102 Honami's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00103 Halloween Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00104 What lies behind. What lies ahead. After Show.txt"
+},
+{
+"type": "file",
+"name": "00105 MEIKO's Anniversary Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00106 Akito's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00107 Putting Feelings Into Words After Show.txt"
+},
+{
+"type": "file",
+"name": "00108 Time to hang out♪ After Show.txt"
+},
+{
+"type": "file",
+"name": "00109 The Warmth of Intersecting Melodies After Show.txt"
+},
+{
+"type": "file",
+"name": "00110 Shizuku's Birthday Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00111 MORE MORE Making Christmas After Show.txt"
+},
+{
+"type": "file",
+"name": "00113 Same Dreams, Same Colors After Show.txt"
+},
+{
+"type": "file",
+"name": "00114 Christmas Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00115 Rin's Anniversary Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00116 Len's Anniversary Show 2022.txt"
+},
+{
+"type": "file",
+"name": "00117 New Year's Countdown Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00118 The Tomorrow We Hope For After Show.txt"
+},
+{
+"type": "file",
+"name": "00119 Happy New Year 2023 Show Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00120 Happy New Year 2023 Show MORE MORE JUMP!.txt"
+},
+{
+"type": "file",
+"name": "00121 Happy New Year 2023 Show Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00122 Happy New Year 2023 Show Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00123 Happy New Year 2023 Show Nightcord at 25：00.txt"
+},
+{
+"type": "file",
+"name": "00124 Shiho's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00125 Popping in My Heart! After Show.txt"
+},
+{
+"type": "file",
+"name": "00126 Someday, From the Depths of Despair After Show.txt"
+},
+{
+"type": "file",
+"name": "00127 Mafuyu's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00128 Luka's Anniversary Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00129 Secret Operation Valentine's Day After Show.txt"
+},
+{
+"type": "file",
+"name": "00130 Kanade's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00131 The Legend Still Vivid After Show.txt"
+},
+{
+"type": "file",
+"name": "00132 Valentine's Day Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00133 KAITO's Anniversary Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00134 That day, the Sky was Far Away After Show.txt"
+},
+{
+"type": "file",
+"name": "00135 A Gentleman Thief's Thrilling White Day？! After Show.txt"
+},
+{
+"type": "file",
+"name": "00136 Kohane's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00137 Cast a Spell on You After Show.txt"
+},
+{
+"type": "file",
+"name": "00138 White Day Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00139 Airi's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00140 On This Blank Canvas, I Paint After Show.txt"
+},
+{
+"type": "file",
+"name": "00141 Connected Through SEKAI's Cherry Blossoms After Show.txt"
+},
+{
+"type": "file",
+"name": "00143 On the Stage of Dazzling Light After Show.txt"
+},
+{
+"type": "file",
+"name": "00144 Minori's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00145 Live with Memories After Show.txt"
+},
+{
+"type": "file",
+"name": "00146 Ena's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00147 Tied By Painful Hope After Show.txt"
+},
+{
+"type": "file",
+"name": "00148 Saki's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00149 The Climax! Kamiyama Cheer Squad! After Show.txt"
+},
+{
+"type": "file",
+"name": "00150 Tsukasa's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00151 THE POWER OF UNITY After Show.txt"
+},
+{
+"type": "file",
+"name": "00152 Toya's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00153 Wishing to the Blue Sky for Your Happiness! After Show.txt"
+},
+{
+"type": "file",
+"name": "00155 What Lies Beyond Guiding a Lost Child After Show.txt"
+},
+{
+"type": "file",
+"name": "00156 Desperate Times？! Island Panic! After Show.txt"
+},
+{
+"type": "file",
+"name": "00157 Rui's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00158 Let's Enjoy Together! SpoJoy Park After Show.txt"
+},
+{
+"type": "file",
+"name": "00159 Star Festival Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00160 The Vivid Old Tale After Show.txt"
+},
+{
+"type": "file",
+"name": "00161 Nene's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00162 No seek No find After Show.txt"
+},
+{
+"type": "file",
+"name": "00163 An's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00164 close game／OFFLINE After Show.txt"
+},
+{
+"type": "file",
+"name": "00165 Ichika's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00166 Chasing The Sparkle Beyond the Blue Sky After Show.txt"
+},
+{
+"type": "file",
+"name": "00167 And Now, I Wear This Ribbon After Show.txt"
+},
+{
+"type": "file",
+"name": "00168 Mizuki's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00169 Miku's Anniversary Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00171 Don't lose faith! After Show.txt"
+},
+{
+"type": "file",
+"name": "00172 Emu's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00173 Paint What I Love♪ Rainbow Canvas After Show.txt"
+},
+{
+"type": "file",
+"name": "00174 Walk on and on After Show.txt"
+},
+{
+"type": "file",
+"name": "00175 At This Festival Bathed in Twilight After Show.txt"
+},
+{
+"type": "file",
+"name": "00178 Haruka's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00179 Dear Me, From Back Then After Show.txt"
+},
+{
+"type": "file",
+"name": "00180 A Sad Farewell at the Curtain Call After Show.txt"
+},
+{
+"type": "file",
+"name": "00181 Honami's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00182 Halloween Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00183 Screaming？! Welcome to the Forest of Wolves! After Show.txt"
+},
+{
+"type": "file",
+"name": "00184 MEIKO's Anniversary Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00185 Akito's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00186 Echo My Melody After Show.txt"
+},
+{
+"type": "file",
+"name": "00187 Hope Will Someday Go Beyond the Morning After Show.txt"
+},
+{
+"type": "file",
+"name": "00188 Beyond The Dream of That Day After Show.txt"
+},
+{
+"type": "file",
+"name": "00189 Shizuku's Birthday Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00190 Find A Way Out After Show.txt"
+},
+{
+"type": "file",
+"name": "00191 Raise Your Bow in a Snow-White World After Show.txt"
+},
+{
+"type": "file",
+"name": "00192 Christmas Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00193 Rin's Anniversary Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00194 Len's Anniversary Show 2023.txt"
+},
+{
+"type": "file",
+"name": "00195 New Year's Countdown Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00196 Happy New Year! Lion Dance Robot's New Year's Show! After Show.txt"
+},
+{
+"type": "file",
+"name": "00197 Happy New Year 2024 Show Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00198 Happy New Year 2024 Show MORE MORE JUMP!.txt"
+},
+{
+"type": "file",
+"name": "00199 Happy New Year 2024 Show Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00200 Happy New Year 2024 Show Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00201 Happy New Year 2024 Show Nightcord at 25：00.txt"
+},
+{
+"type": "file",
+"name": "00202 Shiho's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00203 To The Gleaming Stars Halfway Through a Dream After Show.txt"
+},
+{
+"type": "file",
+"name": "00204 Little Bravers! After Show.txt"
+},
+{
+"type": "file",
+"name": "00205 Mafuyu's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00206 Luka's Anniversary Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00208 Memories That Come With The Scent of Candles After Show.txt"
+},
+{
+"type": "file",
+"name": "00209 Kanade's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00210 At The End of The Unraveled Thread After Show.txt"
+},
+{
+"type": "file",
+"name": "00211 Valentine's Day Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00212 KAITO's Anniversary Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00213 Kick It Up a Notch After Show.txt"
+},
+{
+"type": "file",
+"name": "00214 Never Give Up Cooking! After Show.txt"
+},
+{
+"type": "file",
+"name": "00215 Kohane's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00216 The Phoenix in the Distant Sky After Show.txt"
+},
+{
+"type": "file",
+"name": "00217 White Day Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00218 Airi's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00219 Immiscible Discord After Show.txt"
+},
+{
+"type": "file",
+"name": "00221 In This Singing City After Show.txt"
+},
+{
+"type": "file",
+"name": "00222 Get Over It After Show.txt"
+},
+{
+"type": "file",
+"name": "00223 Minori's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00224 Friendship Rebuilt After Show.txt"
+},
+{
+"type": "file",
+"name": "00225 Ena's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00226 We Escape to Survive After Show.txt"
+},
+{
+"type": "file",
+"name": "00227 Saki's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00228 One Small Trip Before a Big Journey After Show.txt"
+},
+{
+"type": "file",
+"name": "00229 Tsukasa's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00231 The Song of a Canary in Crisis After Show.txt"
+},
+{
+"type": "file",
+"name": "00232 Toya's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00233 To You, My Caring Companion After Show.txt"
+},
+{
+"type": "file",
+"name": "00234 Light Up the Fire After Show.txt"
+},
+{
+"type": "file",
+"name": "00235 Step by Step! After Show.txt"
+},
+{
+"type": "file",
+"name": "00236 Rui's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00237 An Unmissable Spirited Affair After Show.txt"
+},
+{
+"type": "file",
+"name": "00239 Star Festival Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00240 Farewell, My Mask After Show.txt"
+},
+{
+"type": "file",
+"name": "00241 Nene's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00242 Our Constellation of Song After Show.txt"
+},
+{
+"type": "file",
+"name": "00243 An's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00245 Bustling Cafe ●REC! After Show.txt"
+},
+{
+"type": "file",
+"name": "00246 Ichika's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00247 On Your Feet After Show.txt"
+},
+{
+"type": "file",
+"name": "00248 Our Happy Ending After Show.txt"
+},
+{
+"type": "file",
+"name": "00249 Mizuki's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00250 Miku's Anniversary Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00251 Let SEKAI Hear Your Song! After Show.txt"
+},
+{
+"type": "file",
+"name": "00252 Emu's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00253 Our Precious Memories After Show.txt"
+},
+{
+"type": "file",
+"name": "00254 Let's Study Hard! After Show.txt"
+},
+{
+"type": "file",
+"name": "00255 Hello to a New Day! After Show.txt"
+},
+{
+"type": "file",
+"name": "00257 Haruka's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00258 Burn My Soul After Show.txt"
+},
+{
+"type": "file",
+"name": "00259 Stick to Your Faith After Show.txt"
+},
+{
+"type": "file",
+"name": "00260 Honami's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00261 Halloween Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00262 The Warmth of a Guiding Hand After Show.txt"
+},
+{
+"type": "file",
+"name": "00263 MEIKO's Anniversary Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00264 Searching for Sunken Shadows After Show.txt"
+},
+{
+"type": "file",
+"name": "00265 Akito's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00266 Star of Your Own Story After Show.txt"
+},
+{
+"type": "file",
+"name": "00267 Picture Perfect! After Show.txt"
+},
+{
+"type": "file",
+"name": "00268 Shizuku's Birthday Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00269 This Way! That Way! Zookeeper Day After Show.txt"
+},
+{
+"type": "file",
+"name": "00270 The Way I Played That Day After Show.txt"
+},
+{
+"type": "file",
+"name": "00271 Christmas Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00272 Rin's Anniversary Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00273 Len's Anniversary Show 2024.txt"
+},
+{
+"type": "file",
+"name": "00274 New Year's Countdown Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00275 Beside Unchanging Warmth After Show.txt"
+},
+{
+"type": "file",
+"name": "00276 Happy New Year 2025 Show.txt"
+},
+{
+"type": "file",
+"name": "00277 Shiho's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00278 Break Down the Wall After Show.txt"
+},
+{
+"type": "file",
+"name": "00279 Backlight, Lens Flare After Show.txt"
+},
+{
+"type": "file",
+"name": "00280 Mafuyu's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00281 Luka's Anniversary Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00282 Take the Best Shot! After Show.txt"
+},
+{
+"type": "file",
+"name": "00283 Kanade's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00284 Lead With Courage and Kindness After Show.txt"
+},
+{
+"type": "file",
+"name": "00285 Valentine's Day Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00286 KAITO's Anniversary Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00287 From the Marks Left Behind After Show.txt"
+},
+{
+"type": "file",
+"name": "00288 Relaxing Tea Time After Show.txt"
+},
+{
+"type": "file",
+"name": "00289 Kohane's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00290 With Your Sights on Stardom, Set Sail! After Show.txt"
+},
+{
+"type": "file",
+"name": "00291 White Day Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00292 Airi's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00293 The First Concerto After Show.txt"
+},
+{
+"type": "file",
+"name": "00294 Rise as One! After Show.txt"
+},
+{
+"type": "file",
+"name": "00295 Knowing the Unseen After Show.txt"
+},
+{
+"type": "file",
+"name": "00296 Minori's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00297 Parallel Harmonies After Show.txt"
+},
+{
+"type": "file",
+"name": "00298 Ena's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00299 Whip Yourself into Shape! After Show.txt"
+},
+{
+"type": "file",
+"name": "00300 Saki's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00301 To One Day Reach that Flowery Stage After Show.txt"
+},
+{
+"type": "file",
+"name": "00302 Tsukasa's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00303 Perspective for Smile After Show.txt"
+},
+{
+"type": "file",
+"name": "00304 Toya's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00305 Stream With Friends♡ Wedding Live! After Show.txt"
+},
+{
+"type": "file",
+"name": "00307 Lead to Shine More After Show.txt"
+},
+{
+"type": "file",
+"name": "00308 A Light Drawn Closer After Show.txt"
+},
+{
+"type": "file",
+"name": "00309 Rui's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00311 Over Rad Squad!! After Show.txt"
+},
+{
+"type": "file",
+"name": "00312 Star Festival Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00313 Halt! Tenma's on the Case After Show.txt"
+},
+{
+"type": "file",
+"name": "00314 Our Starry Sky Leading to the Future After Show.txt"
+},
+{
+"type": "file",
+"name": "00315 Nene's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00316 An's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00317 Chase My Ideal Idol! After Show.txt"
+},
+{
+"type": "file",
+"name": "00318 Play That Beautiful Sound! After Show.txt"
+},
+{
+"type": "file",
+"name": "00319 Ichika's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00320 With You at SEKAI's Beginnings After Show.txt"
+},
+{
+"type": "file",
+"name": "00321 Mizuki's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00322 Miku's Anniversary Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00323 Wonderhorror？! A Test of Courage! After Show.txt"
+},
+{
+"type": "file",
+"name": "00324 Emu's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00325 Get Fit & Fly! Muscle Training! After Show.txt"
+},
+{
+"type": "file",
+"name": "00326 This Moment With You! After Show.txt"
+},
+{
+"type": "file",
+"name": "00328 Haruka's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00329 Here on Our Dream Stage After Show.txt"
+},
+{
+"type": "file",
+"name": "00330 Whither This Path of Thorns After Show.txt"
+},
+{
+"type": "file",
+"name": "00331 Rekindle the Flame After Show.txt"
+},
+{
+"type": "file",
+"name": "00332 Honami's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00333 Halloween Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00334 Happy Enjoy Music! After Show.txt"
+},
+{
+"type": "file",
+"name": "00335 MEIKO's Anniversary Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00336 As the Leaves Change Once More After Show.txt"
+},
+{
+"type": "file",
+"name": "00337 Akito's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00338 The Power of Regret After Show.txt"
+},
+{
+"type": "file",
+"name": "00339 With Our Wounded Hands After Show.txt"
+},
+{
+"type": "file",
+"name": "00340 Shizuku's Birthday Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00341 Grow Glorious Glow After Show.txt"
+},
+{
+"type": "file",
+"name": "00342 Special Present for You! After Show.txt"
+},
+{
+"type": "file",
+"name": "00343 Christmas Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00344 Rin's Anniversary Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00345 Len's Anniversary Show 2025.txt"
+},
+{
+"type": "file",
+"name": "00346 New Year's Countdown Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00347 Happy New Year 2026 Show.txt"
+},
+{
+"type": "file",
+"name": "00348 Unfading Wishing After Show.txt"
+},
+{
+"type": "file",
+"name": "00349 Shiho's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00350 Time to Take Off! After Show.txt"
+},
+{
+"type": "file",
+"name": "00351 Show Your Shine After Show.txt"
+},
+{
+"type": "file",
+"name": "00352 Mafuyu's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00353 Luka's Anniversary Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00357 Warmth in Every Stitch After Show.txt"
+},
+{
+"type": "file",
+"name": "00358 Kanade's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00359 Valentine's Day Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00360 KAITO's Anniversary Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00361 Rise and Strive After Show.txt"
+},
+{
+"type": "file",
+"name": "00362 Yesteryear Read-Aloud After Show.txt"
+},
+{
+"type": "file",
+"name": "00363 Kohane's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00364 Connect Hearts Message After Show.txt"
+},
+{
+"type": "file",
+"name": "00365 White Day Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00366 You Are My Hero! After Show.txt"
+},
+{
+"type": "file",
+"name": "00367 Airi's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00368 Unreliable Notes After Show.txt"
+},
+{
+"type": "file",
+"name": "00369 Find the Dream View After Show.txt"
+},
+{
+"type": "file",
+"name": "00370 Minori's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00371 Turning Pain Into Drive After Show.txt"
+},
+{
+"type": "file",
+"name": "00372 Choices for the Future After Show.txt"
+},
+{
+"type": "file",
+"name": "00373 Ena's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00374 The Stopped Hand Moves Once More After Show.txt"
+},
+{
+"type": "file",
+"name": "00375 Saki's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00376 Tsukasa's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00377 Dear My Fellows After Show.txt"
+},
+{
+"type": "file",
+"name": "00378 Toya's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00379 Cheer With My Heart! After Show.txt"
+},
+{
+"type": "file",
+"name": "00380 Aim Higher and Higher! After Show.txt"
+},
+{
+"type": "file",
+"name": "00381 In an Ephemeral Embrace After Show.txt"
+},
+{
+"type": "file",
+"name": "00382 Rui's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00383 Ordinary, Yet Special Us After Show.txt"
+},
+{
+"type": "file",
+"name": "00384 Star Festival Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00385 Deeper and Deeper After Show.txt"
+},
+{
+"type": "file",
+"name": "00386 Unsteady, Still Steady Step After Show.txt"
+},
+{
+"type": "file",
+"name": "00387 Nene's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00389 Start Rolling! Stars' Crossing After Show.txt"
+},
+{
+"type": "file",
+"name": "00390 An's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00391 Competitive Fire! After Show.txt"
+},
+{
+"type": "file",
+"name": "00392 Ichika's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00393 All Ways Jump! With You After Show.txt"
+},
+{
+"type": "file",
+"name": "00394 Mizuki's Birthday Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00395 Tying Tomorrow's Ribbon After Show.txt"
+},
+{
+"type": "file",
+"name": "00396 Miku's Anniversary Show 2026.txt"
+},
+{
+"type": "file",
+"name": "00397 Deep Dark for Light After Show.txt"
+},
+{
+"type": "file",
+"name": "10078 Welcome Show! VIRTUAL SINGER.txt"
+},
+{
+"type": "file",
+"name": "20001 Welcome Show! VIRTUAL SINGER.txt"
+},
+{
+"type": "file",
+"name": "20002 Welcome Show! Leo／need.txt"
+},
+{
+"type": "file",
+"name": "20003 Welcome Show! MORE MORE JUMP!.txt"
+},
+{
+"type": "file",
+"name": "20004 Welcome Show! Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "20005 Welcome Show! Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "20006 Welcome Show! Nightcord at 25：00.txt"
+},
+{
+"type": "file",
+"name": "20007 Welcome Show! All Stars.txt"
+}
+]
+},
+{
+"type": "dir",
 "name": "main",
 "children": [
 {

@@ -12395,6 +12395,1680 @@
 },
 {
 "type": "dir",
+"name": "live",
+"children": [
+{
+"type": "file",
+"name": "00001 纪念演唱会 虚拟歌手再次公演.txt"
+},
+{
+"type": "file",
+"name": "00002 纪念演唱会 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00003 纪念演唱会 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "00004 纪念演唱会 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00005 纪念演唱会 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00006 纪念演唱会 25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "00007 纪念演唱会 最终公演.txt"
+},
+{
+"type": "file",
+"name": "00008 HAPPY BIRTHDAY演唱会 遥.txt"
+},
+{
+"type": "file",
+"name": "00009 雨过天晴的启明星 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00010 被囚禁的提线木偶 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00011 HAPPY BIRTHDAY演唱会 穗波.txt"
+},
+{
+"type": "file",
+"name": "00012 2021万圣节演唱会.txt"
+},
+{
+"type": "file",
+"name": "00013 全力以赴！奇幻万圣节！后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00014 HAPPY ANNIVERSARY演唱会 MEIKO.txt"
+},
+{
+"type": "file",
+"name": "00015 HAPPY ANNIVERSARY演唱会 MEIKO 2021.txt"
+},
+{
+"type": "file",
+"name": "00016 迎新演唱会 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00017 迎新演唱会 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "00018 迎新演唱会 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00019 迎新演唱会 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00020 迎新演唱会 25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "00021 迎新演唱会 群星璀璨.txt"
+},
+{
+"type": "file",
+"name": "00022 迎新演唱会 虚拟歌手.txt"
+},
+{
+"type": "file",
+"name": "00023 迎新演唱会 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00024 迎新演唱会 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "00025 迎新演唱会 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00026 迎新演唱会 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00027 迎新演唱会 25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "00028 迎新演唱会 群星璀璨.txt"
+},
+{
+"type": "file",
+"name": "00029 迎新演唱会 虚拟歌手.txt"
+},
+{
+"type": "file",
+"name": "00030 迎新演唱会 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00031 迎新演唱会 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "00035 迎新演唱会 群星璀璨.txt"
+},
+{
+"type": "file",
+"name": "00036 HAPPY BIRTHDAY演唱会 彰人.txt"
+},
+{
+"type": "file",
+"name": "00037 此时此地再次启程！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00038 总有一天为你献上心连心的抒情诗 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00039 HAPPY BIRTHDAY演唱会 雫.txt"
+},
+{
+"type": "file",
+"name": "00040 让歌声响彻，神圣之夜 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00041 圣诞节2021演唱会.txt"
+},
+{
+"type": "file",
+"name": "00042 HAPPY ANNIVERSARY演唱会 镜音铃.txt"
+},
+{
+"type": "file",
+"name": "00043 HAPPY ANNIVERSARY演唱会 镜音连.txt"
+},
+{
+"type": "file",
+"name": "00044 跨年倒计时2022演唱会.txt"
+},
+{
+"type": "file",
+"name": "00045 2022 HAPPY NEW YEAR演唱会 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00046 2022 HAPPY NEW YEAR演唱会 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "00047 2022 HAPPY NEW YEAR演唱会 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00048 2022 HAPPY NEW YEAR演唱会 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00049 2022 HAPPY NEW YEAR演唱会 25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "00050 HAPPY BIRTHDAY演唱会 志步.txt"
+},
+{
+"type": "file",
+"name": "00051 即使摇摆不定，但毅然勇往直前 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00052 Color of Myself! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00053 HAPPY BIRTHDAY演唱会 真冬.txt"
+},
+{
+"type": "file",
+"name": "00054 HAPPY ANNIVERSARY演唱会 巡音流歌.txt"
+},
+{
+"type": "file",
+"name": "00055 Period of NOCTURNE 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00056 HAPPY BIRTHDAY演唱会 奏.txt"
+},
+{
+"type": "file",
+"name": "00057 情人节2022演唱会.txt"
+},
+{
+"type": "file",
+"name": "00058 HAPPY ANNIVERSARY演唱会 KAITO.txt"
+},
+{
+"type": "file",
+"name": "00059 饱和不了的黯淡色彩 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00060 HAPPY BIRTHDAY演唱会 心羽.txt"
+},
+{
+"type": "file",
+"name": "00061 梦想家的笑容 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00062 天马家的女儿节 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00063 白色情人节2022演唱会.txt"
+},
+{
+"type": "file",
+"name": "00064 HAPPY BIRTHDAY演唱会 爱莉.txt"
+},
+{
+"type": "file",
+"name": "00065 传递心声！充满希望的舞台♪ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00066 在樱花烂漫的世界中与你高歌 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00067 Secret Distance 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00068 HAPPY BIRTHDAY演唱会 实乃理.txt"
+},
+{
+"type": "file",
+"name": "00069 Resonate with you 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00070 HAPPY BIRTHDAY演唱会 绘名.txt"
+},
+{
+"type": "file",
+"name": "00071 STRAY BAD DOG 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00072 HAPPY BIRTHDAY演唱会 咲希.txt"
+},
+{
+"type": "file",
+"name": "00073 让我分担你的烦恼！心跳雀跃的郊游 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00074 HAPPY BIRTHDAY演唱会 司.txt"
+},
+{
+"type": "file",
+"name": "00075 为努力的你营造闲暇时光！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00076 HAPPY BIRTHDAY演唱会 冬弥.txt"
+},
+{
+"type": "file",
+"name": "00077 为纯白的你唱响誓言之歌！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00078 奇幻魔法表演时间！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00079 珍藏在心中的康乃馨 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00080 HAPPY BIRTHDAY演唱会 类.txt"
+},
+{
+"type": "file",
+"name": "00081 Unnamed Harmony 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00082 七夕2022演唱会.txt"
+},
+{
+"type": "file",
+"name": "00083 Awakening Beat 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00084 HAPPY BIRTHDAY演唱会 宁宁.txt"
+},
+{
+"type": "file",
+"name": "00085 夏日庆典，那响彻云霄的声音 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00086 HAPPY BIRTHDAY演唱会 杏.txt"
+},
+{
+"type": "file",
+"name": "00087 这一定是最棒的summer！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00088 HAPPY BIRTHDAY演唱会 一歌.txt"
+},
+{
+"type": "file",
+"name": "00089 Happy lovely everyday! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00090 对美人鱼充满憧憬 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00091 HAPPY BIRTHDAY演唱会 瑞希.txt"
+},
+{
+"type": "file",
+"name": "00092 HAPPY ANNIVERSARY演唱会 初音未来.txt"
+},
+{
+"type": "file",
+"name": "00093 两人与月兔 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00094 HAPPY BIRTHDAY演唱会 笑梦.txt"
+},
+{
+"type": "file",
+"name": "00095 Knock the Future!! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00096 光之幻影 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00097 1周年纪念特别演唱会.txt"
+},
+{
+"type": "file",
+"name": "00098 HAPPY BIRTHDAY演唱会 遥 Flower.txt"
+},
+{
+"type": "file",
+"name": "00099 缤纷粉丝节！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00100 Bout for Beside You 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00101 重燃的梦想 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00102 HAPPY BIRTHDAY演唱会 穗波 Flower.txt"
+},
+{
+"type": "file",
+"name": "00103 万圣节2022演唱会.txt"
+},
+{
+"type": "file",
+"name": "00104 我的足迹 你的止境 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00105 HAPPY ANNIVERSARY演唱会 MEIKO Flower.txt"
+},
+{
+"type": "file",
+"name": "00106 HAPPY BIRTHDAY演唱会 彰人 Flower.txt"
+},
+{
+"type": "file",
+"name": "00107 矢志不摇的心愿，此刻以话语传达 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00108 搭档·趣事·欢乐时刻♪ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00109 交织的旋律 点亮的温暖 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00110 HAPPY BIRTHDAY演唱会 雫 Flower.txt"
+},
+{
+"type": "file",
+"name": "00111 MOREMOREMakingXmas 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00113 Same Dreams,Same Colors 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00114 圣诞节2022演唱会.txt"
+},
+{
+"type": "file",
+"name": "00115 HAPPY ANNIVERSARY演唱会 镜音铃 Flower.txt"
+},
+{
+"type": "file",
+"name": "00116 HAPPY ANNIVERSARY演唱会 镜音连 Flower.txt"
+},
+{
+"type": "file",
+"name": "00117 跨年倒计时2023演唱会.txt"
+},
+{
+"type": "file",
+"name": "00118 祈愿的未来憧憬的明天 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00119 HAPPY NEW YEAR 2023 演唱会 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00120 HAPPY NEW YEAR 2023 演唱会 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "00121 HAPPY NEW YEAR 2023 演唱会 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00122 HAPPY NEW YEAR 2023 演唱会 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00123 HAPPY NEW YEAR 2023 演唱会25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "00124 HAPPY BIRTHDAY演唱会 志步 Flower.txt"
+},
+{
+"type": "file",
+"name": "00125 POP IN MY HEART!! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00126 总有一天，会从绝望的深渊 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00127 HAPPY BIRTHDAY演唱会 真冬 Flower.txt"
+},
+{
+"type": "file",
+"name": "00128 HAPPY ANNIVERSARY演唱会 巡音流歌 Flower.txt"
+},
+{
+"type": "file",
+"name": "00129 秘密♡情人节大作战！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00130 HAPPY BIRTHDAY演唱会 奏 Flower.txt"
+},
+{
+"type": "file",
+"name": "00131 Legend still vivid 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00132 情人节2023演唱会.txt"
+},
+{
+"type": "file",
+"name": "00133 HAPPY ANNIVERSARY演唱会 KAITO Flower.txt"
+},
+{
+"type": "file",
+"name": "00134 那一天，天空遥不可及 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00135 慌慌张张？！怪盗绅士的白色情人节 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00136 HAPPY BIRTHDAY演唱会 心羽 Flower.txt"
+},
+{
+"type": "file",
+"name": "00137 Cast Spell on You 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00138 白色情人节2023演唱会.txt"
+},
+{
+"type": "file",
+"name": "00139 HAPPY BIRTHDAY演唱会 爱莉 Flower.txt"
+},
+{
+"type": "file",
+"name": "00140 在空白的画布上描绘自我 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00141 「世界」之樱，相连的心愿 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00143 在璀璨耀眼的舞台上 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00144 HAPPY BIRTHDAY演唱会 实乃理 Flower.txt"
+},
+{
+"type": "file",
+"name": "00145 Live with memories 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00146 HAPPY BIRTHDAY演唱会 绘名 Flower.txt"
+},
+{
+"type": "file",
+"name": "00147 连接Painful Hope 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00148 HAPPY BIRTHDAY演唱会 咲希 Flower.txt"
+},
+{
+"type": "file",
+"name": "00149 白热！神高应援团！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00150 HAPPY BIRTHDAY演唱会 司 Flower.txt"
+},
+{
+"type": "file",
+"name": "00151 THE POWER OF UNITY 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00152 HAPPY BIRTHDAY演唱会 冬弥 Flower.txt"
+},
+{
+"type": "file",
+"name": "00153 向晴空许愿Your Happiness! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00155 牵起迷失的孩子，前方等待的是 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00156 危在旦夕？！无人岛绝处逢生！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00157 HAPPY BIRTHDAY演唱会 类 Flower.txt"
+},
+{
+"type": "file",
+"name": "00158 大家一起欢享！SPOJOYPARK 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00159 七夕2023演唱会.txt"
+},
+{
+"type": "file",
+"name": "00160 The Vivid Old Tale 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00161 HAPPY BIRTHDAY演唱会 宁宁 Flower.txt"
+},
+{
+"type": "file",
+"name": "00162 No seek No find 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00163 HAPPY BIRTHDAY演唱会 杏 Flower.txt"
+},
+{
+"type": "file",
+"name": "00164 close game／OFFLINE 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00165 HAPPY BIRTHDAY演唱会 一歌 Flower.txt"
+},
+{
+"type": "file",
+"name": "00166 在蓝天下追逐光芒 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00167 现在再次绑上蝴蝶结 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00168 HAPPY BIRTHDAY演唱会 瑞希 Flower.txt"
+},
+{
+"type": "file",
+"name": "00169 HAPPY ANNIVERSARY演唱会 初音未来 Flower.txt"
+},
+{
+"type": "file",
+"name": "00171 Don't lose faith! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00172 HAPPY BIRTHDAY演唱会 笑梦 Flower.txt"
+},
+{
+"type": "file",
+"name": "00173 绘出自我♪RAINBOW CANVAS 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00174 Walk on and on 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00175 逢此庆典 暮色亦染 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00178 HAPPY BIRTHDAY演唱会 遥 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00179 致过去的我 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00180 惜别谢幕 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00181 HAPPY BIRTHDAY演唱会 穗波 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00182 万圣节2023演唱会.txt"
+},
+{
+"type": "file",
+"name": "00183 尖叫？！欢迎来到大灰狼森林！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00184 HAPPY ANNIVERSARY演唱会 MEIKO Stamp.txt"
+},
+{
+"type": "file",
+"name": "00185 HAPPY BIRTHDAY演唱会 彰人 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00186 Echo my melody 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00187 祈愿，终有一天跨越黎明 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00188 昨日梦想的延续 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00189 HAPPY BIRTHDAY演唱会 雫 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00190 Find A Way Out 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00191 在纯白世界拉弓引箭 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00192 圣诞节2023演唱会.txt"
+},
+{
+"type": "file",
+"name": "00193 HAPPY ANNIVERSARY演唱会 镜音铃 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00194 HAPPY ANNIVERSARY演唱会 镜音连 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00195 跨年倒计时2024演唱会.txt"
+},
+{
+"type": "file",
+"name": "00196 新春！舞狮机器人的新年演出！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00197 HAPPY NEW YEAR 2024 演唱会 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "00198 HAPPY NEW YEAR 2024 演唱会 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "00199 HAPPY NEW YEAR 2024 演唱会 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "00200 HAPPY NEW YEAR 2024 演唱会 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "00201 HAPPY NEW YEAR 2024 演唱会25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "00202 HAPPY BIRTHDAY演唱会 志步 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00203 梦想的旅途，奔向闪耀的群星 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00204 Little Bravers！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00205 HAPPY BIRTHDAY演唱会 真冬 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00206 HAPPY ANNIVERSARY演唱会 巡音流歌 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00208 蜡烛的芬芳萦绕于往昔的回忆 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00209 HAPPY BIRTHDAY演唱会 奏 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00210 解开的心结之后 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00211 情人节2024演唱会.txt"
+},
+{
+"type": "file",
+"name": "00212 HAPPY ANNIVERSARY演唱会 KAITO Stamp.txt"
+},
+{
+"type": "file",
+"name": "00213 Kick it up a notch 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00214 Never Give Up Cooking！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00215 HAPPY BIRTHDAY演唱会 心羽 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00216 追寻翱翔于天际的凤凰 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00217 白色情人节2024演唱会.txt"
+},
+{
+"type": "file",
+"name": "00218 HAPPY BIRTHDAY演唱会 爱莉 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00219 难以弥合·分歧 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00221 在乐声共鸣的街角 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00222 Get over it. 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00223 HAPPY BIRTHDAY演唱会 实乃理 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00224 Re-tie Friendship 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00225 HAPPY BIRTHDAY演唱会 绘名 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00226 我们为了生存而逃避 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00227 HAPPY BIRTHDAY演唱会 咲希 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00228 启航前的一日游 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00229 HAPPY BIRTHDAY演唱会 司 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00231 金丝雀于绝境中高歌 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00232 HAPPY BIRTHDAY演唱会 冬弥 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00233 给在我身边温柔的你 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00234 Light Up the Fire 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00235 STEP by STEP！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00236 HAPPY BIRTHDAY演唱会 类 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00237 一期一会的百鬼夜行？！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00239 七夕2024演唱会.txt"
+},
+{
+"type": "file",
+"name": "00240 向戴着面具的我告别 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00241 HAPPY BIRTHDAY演唱会 宁宁 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00242 相联的，星星之歌 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00243 HAPPY BIRTHDAY演唱会 杏 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00245 手忙脚乱 cafe ●REC!! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00246 HAPPY BIRTHDAY演唱会 一歌 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00247 On Your Feet 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00248 我们的圆满结局 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00249 HAPPY BIRTHDAY演唱会 瑞希 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00250 HAPPY ANNIVERSARY演唱会 初音未来 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00251 响彻「世界」！Your Song 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00252 HAPPY BIRTHDAY演唱会 笑梦 Stamp.txt"
+},
+{
+"type": "file",
+"name": "00253 和你创造的Precious memories 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00254 Let's study hard！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00255 Hello·Good·Day！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00257 HAPPY BIRTHDAY演唱会 遥 Dessert.txt"
+},
+{
+"type": "file",
+"name": "00258 BURN MY SOUL 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00259 Stick to your faith 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00260 HAPPY BIRTHDAY演唱会 穗波 Dessert.txt"
+},
+{
+"type": "file",
+"name": "00261 万圣节2024演唱会.txt"
+},
+{
+"type": "file",
+"name": "00262 那双手所引向的温暖 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00263 HAPPY ANNIVERSARY演唱会 MEIKO Dessert.txt"
+},
+{
+"type": "file",
+"name": "00264 水底寻影 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00265 HAPPY BIRTHDAY演唱会 彰人 Dessert.txt"
+},
+{
+"type": "file",
+"name": "00266 以你为主角的故事 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00267 最棒的杀青！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00268 HAPPY BIRTHDAY演唱会 雫 Dessert.txt"
+},
+{
+"type": "file",
+"name": "00269 东奔西走的饲养员体验！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00270 将那天，演奏的音乐 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00271 圣诞节2024演唱会.txt"
+},
+{
+"type": "file",
+"name": "00272 HAPPY ANNIVERSARY演唱会 镜音铃 Dessert.txt"
+},
+{
+"type": "file",
+"name": "00273 HAPPY ANNIVERSARY演唱会 镜音连 Dessert.txt"
+},
+{
+"type": "file",
+"name": "00274 跨年倒计时2025演唱会.txt"
+},
+{
+"type": "file",
+"name": "00275 在不变的温暖旁 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00276 HAPPY NEW YEAR 2025演唱会.txt"
+},
+{
+"type": "file",
+"name": "00277 HAPPY BIRTHDAY演唱会 志步 2025.txt"
+},
+{
+"type": "file",
+"name": "00278 BREAK DOWN THE WALL 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00279 背光的镜头光晕 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00280 HAPPY BIRTHDAY演唱会 真冬 2025.txt"
+},
+{
+"type": "file",
+"name": "00281 HAPPY ANNIVERSARY演唱会 巡音流歌 2025.txt"
+},
+{
+"type": "file",
+"name": "00282 Take the Best Shot！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00283 HAPPY BIRTHDAY演唱会 奏 2025.txt"
+},
+{
+"type": "file",
+"name": "00284 勇敢引导，温柔在心 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00285 情人节2025演唱会.txt"
+},
+{
+"type": "file",
+"name": "00286 HAPPY ANNIVERSARY演唱会 KAITO 2025.txt"
+},
+{
+"type": "file",
+"name": "00287 刻下的伤痕，总有一天 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00288 Relax Teatime 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00289 HAPPY BIRTHDAY演唱会 心羽 2025.txt"
+},
+{
+"type": "file",
+"name": "00290 向着星星，启航！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00291 白色情人节2025演唱会.txt"
+},
+{
+"type": "file",
+"name": "00292 HAPPY BIRTHDAY演唱会 爱莉 2025.txt"
+},
+{
+"type": "file",
+"name": "00293 The first concerto 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00294 Rise as ONE！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00295 Knowing the Unseen 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00296 HAPPY BIRTHDAY演唱会 实乃理 2025.txt"
+},
+{
+"type": "file",
+"name": "00297 Parallel Harmonies 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00298 HAPPY BIRTHDAY演唱会 绘名 2025.txt"
+},
+{
+"type": "file",
+"name": "00299 Whip the wimp girl!! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00300 HAPPY BIRTHDAY演唱会 咲希 2025.txt"
+},
+{
+"type": "file",
+"name": "00301 总有一日，登上鲜花盛放的舞台 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00302 HAPPY BIRTHDAY演唱会 司 2025.txt"
+},
+{
+"type": "file",
+"name": "00303 perspective for smile 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00304 HAPPY BIRTHDAY演唱会 冬弥 2025.txt"
+},
+{
+"type": "file",
+"name": "00305 大家来直播♡WEDDING LIVE！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00307 Lead to shine more 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00308 揽灯近前 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00309 HAPPY BIRTHDAY演唱会 类 2025.txt"
+},
+{
+"type": "file",
+"name": "00311 OVER RAD SQUAD!! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00312 七夕2025演唱会.txt"
+},
+{
+"type": "file",
+"name": "00313 捉拿归案？！天马捕物帐 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00314 那天仰望的夜空，将通向我们的未来 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00315 HAPPY BIRTHDAY演唱会 宁宁 2025.txt"
+},
+{
+"type": "file",
+"name": "00316 HAPPY BIRTHDAY演唱会 杏 2025.txt"
+},
+{
+"type": "file",
+"name": "00317 Chase my IDEAL IDOL！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00318 奏响美妙乐音！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00319 HAPPY BIRTHDAY演唱会 一歌 2025.txt"
+},
+{
+"type": "file",
+"name": "00320 和你在「世界」的起点 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00321 HAPPY BIRTHDAY演唱会 瑞希 2025.txt"
+},
+{
+"type": "file",
+"name": "00322 HAPPY ANNIVERSARY演唱会 初音未来 2025.txt"
+},
+{
+"type": "file",
+"name": "00323 Wonderhorror～？！的试胆！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00324 HAPPY BIRTHDAY演唱会 笑梦 2025.txt"
+},
+{
+"type": "file",
+"name": "00325 锻炼后FLY！Muscle Training！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00326 This moment with you！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00328 HAPPY BIRTHDAY演唱会 遥 2025.txt"
+},
+{
+"type": "file",
+"name": "00329 承载心愿！Dream Stage 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00330 荆棘之路通往何处 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00331 Rekindle the flame 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00332 HAPPY BIRTHDAY演唱会 穗波 2025.txt"
+},
+{
+"type": "file",
+"name": "00333 万圣节2025演唱会.txt"
+},
+{
+"type": "file",
+"name": "00334 Happy Enjoy Music！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00335 HAPPY ANNIVERSARY演唱会 MEIKO 2025.txt"
+},
+{
+"type": "file",
+"name": "00336 又到秋叶染色之时 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00337 HAPPY BIRTHDAY演唱会 彰人 2025.txt"
+},
+{
+"type": "file",
+"name": "00338 The Power Of Regret 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00339 用我们，布满伤痕的双手 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00340 HAPPY BIRTHDAY演唱会 雫 2025.txt"
+},
+{
+"type": "file",
+"name": "00341 Grow glorious glow 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00342 Special present for YOU！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00343 圣诞节2025演唱会.txt"
+},
+{
+"type": "file",
+"name": "00344 HAPPY ANNIVERSARY演唱会 镜音铃 2025.txt"
+},
+{
+"type": "file",
+"name": "00345 HAPPY ANNIVERSARY演唱会 镜音连 2025.txt"
+},
+{
+"type": "file",
+"name": "00346 【复刻】跨年倒计时2026演唱会.txt"
+},
+{
+"type": "file",
+"name": "00347 【复刻】HAPPY NEW YEAR 2026演唱会.txt"
+},
+{
+"type": "file",
+"name": "00348 Unfading wishing 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00349 HAPPY BIRTHDAY演唱会 志步 2026.txt"
+},
+{
+"type": "file",
+"name": "00350 Time to take off！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00351 Show your shine 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00352 HAPPY BIRTHDAY演唱会 真冬 2026.txt"
+},
+{
+"type": "file",
+"name": "00353 HAPPY ANNIVERSARY演唱会 巡音流歌 2026.txt"
+},
+{
+"type": "file",
+"name": "00357 在这针线中寄托心意 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00358 HAPPY BIRTHDAY演唱会 奏 2026.txt"
+},
+{
+"type": "file",
+"name": "00359 情人节2026演唱会.txt"
+},
+{
+"type": "file",
+"name": "00360 HAPPY ANNIVERSARY演唱会 KAITO 2026.txt"
+},
+{
+"type": "file",
+"name": "00361 Rise and Strive 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00362 昔日的Read-aloud 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00363 HAPPY BIRTHDAY演唱会 心羽 2026.txt"
+},
+{
+"type": "file",
+"name": "00364 Connect hearts message 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00365 白色情人节2026演唱会.txt"
+},
+{
+"type": "file",
+"name": "00366 You are my HERO!! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00367 HAPPY BIRTHDAY演唱会 爱莉 2026.txt"
+},
+{
+"type": "file",
+"name": "00368 Unreliable Notes 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00369 Find the dream view 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00370 HAPPY BIRTHDAY演唱会 实乃理 2026.txt"
+},
+{
+"type": "file",
+"name": "00371 Turning Pain into Drive 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00372 Choices for the future 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00373 HAPPY BIRTHDAY演唱会 绘名 2026.txt"
+},
+{
+"type": "file",
+"name": "00374 于是，指针开始转动 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00375 HAPPY BIRTHDAY演唱会 咲希 2026.txt"
+},
+{
+"type": "file",
+"name": "00376 HAPPY BIRTHDAY演唱会 司2026.txt"
+},
+{
+"type": "file",
+"name": "00377 Dear my fellows 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00378 HAPPY BIRTHDAY演唱会 冬弥2026.txt"
+},
+{
+"type": "file",
+"name": "00379 Cheer with my Heart! 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00380 Aim higher and higher！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00381 置身于泡沫的环绕 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00382 HAPPY BIRTHDAY演唱会 类2026.txt"
+},
+{
+"type": "file",
+"name": "00383 ordinary,yet special us 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00384 七夕2026演唱会.txt"
+},
+{
+"type": "file",
+"name": "00385 Deeper and deeper 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00386 Unsteady, still steady step 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00387 HAPPY BIRTHDAY演唱会 宁宁2026.txt"
+},
+{
+"type": "file",
+"name": "00389 start rolling! stars' crossing 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00390 HAPPY BIRTHDAY演唱会 杏2026.txt"
+},
+{
+"type": "file",
+"name": "00391 Competitive fire！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00392 HAPPY BIRTHDAY演唱会 一歌2026.txt"
+},
+{
+"type": "file",
+"name": "00393 All ways Jump! with you 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00394 HAPPY BIRTHDAY演唱会 瑞希2026.txt"
+},
+{
+"type": "file",
+"name": "00395 向无法解开的明天伸手 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00396 HAPPY ANNIVERSARY演唱会 未来2026.txt"
+},
+{
+"type": "file",
+"name": "00397 Deep Dark For Light 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00398 HAPPY BIRTHDAY演唱会 笑梦2026.txt"
+},
+{
+"type": "file",
+"name": "00399 Link the Beats！ 后日谈·演唱会.txt"
+},
+{
+"type": "file",
+"name": "00400 5th Anniversary Special Message（一歌）.txt"
+},
+{
+"type": "file",
+"name": "00401 5th Anniversary Special Message（咲希）.txt"
+},
+{
+"type": "file",
+"name": "00402 5th Anniversary Special Message（穂波）.txt"
+},
+{
+"type": "file",
+"name": "00403 5th Anniversary Special Message（志歩）.txt"
+},
+{
+"type": "file",
+"name": "00404 5th Anniversary Special Message（みのり）.txt"
+},
+{
+"type": "file",
+"name": "00405 5th Anniversary Special Message（遥）.txt"
+},
+{
+"type": "file",
+"name": "00406 5th Anniversary Special Message（愛莉）.txt"
+},
+{
+"type": "file",
+"name": "00407 5th Anniversary Special Message（雫）.txt"
+},
+{
+"type": "file",
+"name": "00408 5th Anniversary Special Message（こはね）.txt"
+},
+{
+"type": "file",
+"name": "00409 5th Anniversary Special Message（杏）.txt"
+},
+{
+"type": "file",
+"name": "00410 5th Anniversary Special Message（彰人）.txt"
+},
+{
+"type": "file",
+"name": "00411 5th Anniversary Special Message（冬弥）.txt"
+},
+{
+"type": "file",
+"name": "00412 5th Anniversary Special Message（司）.txt"
+},
+{
+"type": "file",
+"name": "00413 5th Anniversary Special Message（えむ）.txt"
+},
+{
+"type": "file",
+"name": "00414 5th Anniversary Special Message（寧々）.txt"
+},
+{
+"type": "file",
+"name": "00415 5th Anniversary Special Message（類）.txt"
+},
+{
+"type": "file",
+"name": "00416 5th Anniversary Special Message（奏）.txt"
+},
+{
+"type": "file",
+"name": "00417 5th Anniversary Special Message（まふゆ）.txt"
+},
+{
+"type": "file",
+"name": "00418 5th Anniversary Special Message（絵名）.txt"
+},
+{
+"type": "file",
+"name": "00419 5th Anniversary Special Message（瑞希）.txt"
+},
+{
+"type": "file",
+"name": "00420 5th Anniversary Special Message（ミク）.txt"
+},
+{
+"type": "file",
+"name": "00421 5th Anniversary Special Message（リン）.txt"
+},
+{
+"type": "file",
+"name": "00422 5th Anniversary Special Message（レン）.txt"
+},
+{
+"type": "file",
+"name": "00423 5th Anniversary Special Message（ルカ）.txt"
+},
+{
+"type": "file",
+"name": "00424 5th Anniversary Special Message（MEIKO）.txt"
+},
+{
+"type": "file",
+"name": "00425 5th Anniversary Special Message（KAITO）.txt"
+},
+{
+"type": "file",
+"name": "00426 5周年記念スペシャルライブ.txt"
+},
+{
+"type": "file",
+"name": "00427 Our Golden Days アフターライブ.txt"
+},
+{
+"type": "file",
+"name": "00428 HAPPY BIRTHDAYライブ 遥 2025.txt"
+},
+{
+"type": "file",
+"name": "00429 君と繋ぐHeart Beat アフターライブ.txt"
+},
+{
+"type": "file",
+"name": "00430 交わる色はあの日のままに アフターライブ.txt"
+},
+{
+"type": "file",
+"name": "00431 HAPPY BIRTHDAYライブ 穂波 2025.txt"
+},
+{
+"type": "file",
+"name": "10078 迎新演唱会 虚拟歌手.txt"
+},
+{
+"type": "file",
+"name": "20001 迎新演唱会 虚拟歌手.txt"
+},
+{
+"type": "file",
+"name": "20002 迎新演唱会 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "20003 迎新演唱会 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "20004 迎新演唱会 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "20005 迎新演唱会 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "20006 迎新演唱会 25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "20007 迎新演唱会 群星璀璨.txt"
+}
+]
+},
+{
+"type": "dir",
 "name": "main",
 "children": [
 {
