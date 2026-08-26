@@ -2196,6 +2196,10 @@
 {
 "type": "file",
 "name": "2316_户山香澄_R5 来打开那扇门吧！.txt"
+},
+{
+"type": "file",
+"name": "2388_户山香澄_R5 有咲和香澄.txt"
 }
 ]
 },
@@ -2410,6 +2414,10 @@
 {
 "type": "file",
 "name": "2300_花园多惠_R5 你终将跑过的天空.txt"
+},
+{
+"type": "file",
+"name": "2392_花园多惠_R4 秘密作战会议.txt"
 }
 ]
 },
@@ -3068,6 +3076,10 @@
 {
 "type": "file",
 "name": "2319_市谷有咲_R4 被卷入一场野餐.txt"
+},
+{
+"type": "file",
+"name": "2389_市谷有咲_R5 双重♡风味.txt"
 }
 ]
 },
@@ -20762,6 +20774,40 @@
 {
 "type": "file",
 "name": "event320-07 终章：笔记上的一条.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "321 再次许下约定，明天再见",
+"children": [
+{
+"type": "file",
+"name": "event321-01 序章：吵架！？.txt"
+},
+{
+"type": "file",
+"name": "event321-02 第１话：别扭！？.txt"
+},
+{
+"type": "file",
+"name": "event321-03 第２话：和好！？.txt"
+},
+{
+"type": "file",
+"name": "event321-04 第３话：期待！！.txt"
+},
+{
+"type": "file",
+"name": "event321-05 第４话：当天！！.txt"
+},
+{
+"type": "file",
+"name": "event321-06 第５话：纪念！！.txt"
+},
+{
+"type": "file",
+"name": "event321-07 终章：重要！！！！！！.txt"
 }
 ]
 }
