@@ -861,6 +861,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_215.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -5444,6 +5448,10 @@
 {
 "type": "file",
 "name": "1451_初音ミク_RB Happy Anniversary！！2026.txt"
+},
+{
+"type": "file",
+"name": "1455_初音ミク (Ln)_R2 久しぶりの学級会 (event_215).txt"
 }
 ]
 },
@@ -5658,6 +5666,10 @@
 {
 "type": "file",
 "name": "1436_鏡音リン (Ln)_R4 やることがいっぱい！？ (event_212).txt"
+},
+{
+"type": "file",
+"name": "1456_鏡音リン (WxS)_R2 風船で飾り付け♪ (event_215).txt"
 }
 ]
 },
@@ -5880,6 +5892,10 @@
 {
 "type": "file",
 "name": "1437_鏡音レン (Ln)_R3 その選択を見守って (event_212).txt"
+},
+{
+"type": "file",
+"name": "1453_鏡音レン (MMJ)_R4 花咲くレン談義 (event_215).txt"
 }
 ]
 },
@@ -6094,6 +6110,10 @@
 {
 "type": "file",
 "name": "1404_巡音ルカ_R4 託した願い (event_207).txt"
+},
+{
+"type": "file",
+"name": "1452_巡音ルカ (VBS)_R4 仲良くイエーイ！ (event_215).txt"
 }
 ]
 },
@@ -6308,6 +6328,10 @@
 {
 "type": "file",
 "name": "1445_MEIKO_R4 潮騒の狭間に (event_214).txt"
+},
+{
+"type": "file",
+"name": "1457_MEIKO (N25)_R2 仲良くチーム分け？ (event_215).txt"
 }
 ]
 },
@@ -6530,6 +6554,10 @@
 {
 "type": "file",
 "name": "1443_KAITO (MMJ)_R3 経験談のアドバイス (event_213).txt"
+},
+{
+"type": "file",
+"name": "1454_KAITO (WxS)_R4 はやる想いをスプーンに乗せて (event_215).txt"
 }
 ]
 }
@@ -14744,6 +14772,44 @@
 {
 "type": "file",
 "name": "214-07 ここで笑い合える日.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "215 Mix&Make Party Time!! (Mix_巡音ルカ-VS)",
+"children": [
+{
+"type": "file",
+"name": "215-01 友達になりたい！.txt"
+},
+{
+"type": "file",
+"name": "215-02 作戦会議！.txt"
+},
+{
+"type": "file",
+"name": "215-03 みんなが仲良くなるために.txt"
+},
+{
+"type": "file",
+"name": "215-04 楽しい気持ちは飾り付けから.txt"
+},
+{
+"type": "file",
+"name": "215-05 みんなが喜ぶメニューを.txt"
+},
+{
+"type": "file",
+"name": "215-06 何が何でどれがどれ？.txt"
+},
+{
+"type": "file",
+"name": "215-07 パーティースタート！.txt"
+},
+{
+"type": "file",
+"name": "215-08 最後に、届けたい想い.txt"
 }
 ]
 }
