@@ -709,6 +709,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_178.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3463,6 +3467,10 @@
 },
 {
 "type": "file",
+"name": "1233_Nene Kusanagi_R2 Little Princess (event_178).txt"
+},
+{
+"type": "file",
 "name": "1245_Nene Kusanagi_R4 Super Special Practice Session!.txt"
 }
 ]
@@ -4592,6 +4600,10 @@
 {
 "type": "file",
 "name": "1182_Hatsune Miku (VBS)_R4 An Imminent Threat (event_169).txt"
+},
+{
+"type": "file",
+"name": "1232_Hatsune Miku (WxS)_R3 So Hoppy To See You! (event_178).txt"
 },
 {
 "type": "file",
@@ -12340,6 +12352,44 @@
 "name": "177-08 Designs for the Future.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "178 Deep Dark for Light (WxS_Tsukasa Tenma)",
+"children": [
+{
+"type": "file",
+"name": "178-01 The ArcLand Show Contest.txt"
+},
+{
+"type": "file",
+"name": "178-02 The Princess and the Cursed Flower.txt"
+},
+{
+"type": "file",
+"name": "178-03 Joint Practice？!.txt"
+},
+{
+"type": "file",
+"name": "178-04 The Gulf Between Us.txt"
+},
+{
+"type": "file",
+"name": "178-05 Deepest Despair.txt"
+},
+{
+"type": "file",
+"name": "178-06 Making a Connection.txt"
+},
+{
+"type": "file",
+"name": "178-07 A Changed World.txt"
+},
+{
+"type": "file",
+"name": "178-08 As Rivals.txt"
+}
+]
 }
 ]
 },
@@ -13838,6 +13888,10 @@
 {
 "type": "file",
 "name": "396 Miku's Anniversary Show 2026.txt"
+},
+{
+"type": "file",
+"name": "397 Deep Dark for Light After Show (event_178).txt"
 }
 ]
 },
