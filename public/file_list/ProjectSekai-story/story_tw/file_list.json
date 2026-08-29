@@ -713,6 +713,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_178.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3112,6 +3116,10 @@
 {
 "type": "file",
 "name": "1197_天馬司_R4 準備登台 (event_172).txt"
+},
+{
+"type": "file",
+"name": "1229_天馬司_R4 潛入絕望 (event_178).txt"
 }
 ]
 },
@@ -3290,6 +3298,10 @@
 {
 "type": "file",
 "name": "1200_鳳笑夢_R2 好奇的劇團 (event_172).txt"
+},
+{
+"type": "file",
+"name": "1230_鳳笑夢_R4 笑容妖精 (event_178).txt"
 }
 ]
 },
@@ -3468,6 +3480,10 @@
 {
 "type": "file",
 "name": "1206_草薙寧寧_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1233_草薙寧寧_R2 年幼時的公主 (event_178).txt"
 },
 {
 "type": "file",
@@ -3654,6 +3670,10 @@
 {
 "type": "file",
 "name": "1196_神代類_R4 與嚮往之間的距離 (event_172).txt"
+},
+{
+"type": "file",
+"name": "1231_神代類_R4 製作充滿心意的小道具 (event_178).txt"
 }
 ]
 },
@@ -4600,6 +4620,14 @@
 {
 "type": "file",
 "name": "1182_初音未來 (VBS)_R4 突如其來的危機 (event_169).txt"
+},
+{
+"type": "file",
+"name": "1232_初音未來 (WxS)_R3 蹦蹦跳跳地說晚安！ (event_178).txt"
+},
+{
+"type": "file",
+"name": "1234_初音未來_RB Happy Anniversary!! 2026.txt"
 },
 {
 "type": "file",
@@ -12390,6 +12418,44 @@
 "name": "177-08 在心中描繪將來.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "178 Deep Dark For Light (WxS_天馬司)",
+"children": [
+{
+"type": "file",
+"name": "178-01 弧光樂園表演競賽.txt"
+},
+{
+"type": "file",
+"name": "178-02 公主與詛咒之花.txt"
+},
+{
+"type": "file",
+"name": "178-03 併團練習！？.txt"
+},
+{
+"type": "file",
+"name": "178-04 能力的差距.txt"
+},
+{
+"type": "file",
+"name": "178-05 最感到絕望的事.txt"
+},
+{
+"type": "file",
+"name": "178-06 串連起來的發想.txt"
+},
+{
+"type": "file",
+"name": "178-07 改變的世界.txt"
+},
+{
+"type": "file",
+"name": "178-08 作為競爭對手.txt"
+}
+]
 }
 ]
 },
@@ -13820,6 +13886,10 @@
 {
 "type": "file",
 "name": "396 HAPPY ANNIVERSARY LIVE 初音未來 2026.txt"
+},
+{
+"type": "file",
+"name": "397 Deep Dark For Light AFTER LIVE (event_178).txt"
 }
 ]
 },
@@ -14768,6 +14838,10 @@
 {
 "type": "file",
 "name": "sp056 [世界計畫×電子雞]聯動紀念登入劇情 序章.txt"
+},
+{
+"type": "file",
+"name": "sp057 [世界計畫×電子雞]聯動紀念登入劇情 結尾.txt"
 },
 {
 "type": "file",

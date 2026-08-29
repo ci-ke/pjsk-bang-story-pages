@@ -713,6 +713,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_178.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3112,6 +3116,10 @@
 {
 "type": "file",
 "name": "1197_天马司_R4 登上舞台吧 (event_172).txt"
+},
+{
+"type": "file",
+"name": "1229_天马司_R4 潜入绝望 (event_178).txt"
 }
 ]
 },
@@ -3290,6 +3298,10 @@
 {
 "type": "file",
 "name": "1200_凤笑梦_R2 在意的剧团 (event_172).txt"
+},
+{
+"type": "file",
+"name": "1230_凤笑梦_R4 欢笑仙子 (event_178).txt"
 }
 ]
 },
@@ -3468,6 +3480,10 @@
 {
 "type": "file",
 "name": "1206_草薙宁宁_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1233_草薙宁宁_R2 年幼的公主 (event_178).txt"
 },
 {
 "type": "file",
@@ -3654,6 +3670,10 @@
 {
 "type": "file",
 "name": "1196_神代类_R4 与憧憬之人的距离 (event_172).txt"
+},
+{
+"type": "file",
+"name": "1231_神代类_R4 寄托心意的小道具制作 (event_178).txt"
 }
 ]
 },
@@ -4600,6 +4620,14 @@
 {
 "type": "file",
 "name": "1182_初音未来 (VBS)_R4 突如其来的危机 (event_169).txt"
+},
+{
+"type": "file",
+"name": "1232_初音未来 (WxS)_R3 蹦蹦晚上好！ (event_178).txt"
+},
+{
+"type": "file",
+"name": "1234_初音未来_RB Happy Anniversary！！2026.txt"
 },
 {
 "type": "file",
@@ -12390,6 +12418,44 @@
 "name": "177-08 心中描绘的未来.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "178 Deep Dark For Light (WxS_天马司)",
+"children": [
+{
+"type": "file",
+"name": "178-01 弧光乐园表演大赛.txt"
+},
+{
+"type": "file",
+"name": "178-02 公主与诅咒之花.txt"
+},
+{
+"type": "file",
+"name": "178-03 联合练习？！.txt"
+},
+{
+"type": "file",
+"name": "178-04 实力差距.txt"
+},
+{
+"type": "file",
+"name": "178-05 最大的绝望.txt"
+},
+{
+"type": "file",
+"name": "178-06 相连的想象.txt"
+},
+{
+"type": "file",
+"name": "178-07 改变的世界.txt"
+},
+{
+"type": "file",
+"name": "178-08 作为对手.txt"
+}
+]
 }
 ]
 },
@@ -13892,6 +13958,10 @@
 {
 "type": "file",
 "name": "396 HAPPY ANNIVERSARY演唱会 未来2026.txt"
+},
+{
+"type": "file",
+"name": "397 Deep Dark For Light 后日谈·演唱会 (event_178).txt"
 }
 ]
 },
@@ -14844,6 +14914,10 @@
 {
 "type": "file",
 "name": "sp056 [初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 序章.txt"
+},
+{
+"type": "file",
+"name": "sp057 [初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 终章.txt"
 }
 ]
 }
