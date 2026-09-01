@@ -4340,6 +4340,10 @@
 {
 "type": "file",
 "name": "2266_Kokoro Tsurumaki_R5 A Night of Heartfelt Talks.txt"
+},
+{
+"type": "file",
+"name": "2352_Kokoro Tsurumaki_R4 Requests Pouring In!.txt"
 }
 ]
 },
@@ -4558,6 +4562,10 @@
 {
 "type": "file",
 "name": "2315_Kaoru Seta_R5 The Door to a New World.txt"
+},
+{
+"type": "file",
+"name": "2348_Kaoru Seta_R5 A Fleeting Feast Begins.txt"
 }
 ]
 },
@@ -4780,6 +4788,10 @@
 {
 "type": "file",
 "name": "2265_Hagumi Kitazawa_R5 A Girl’s Cry Splits the Summer.txt"
+},
+{
+"type": "file",
+"name": "2349_Hagumi Kitazawa_R5 Cast Off Your Chains.txt"
 }
 ]
 },
@@ -20308,6 +20320,40 @@
 {
 "type": "file",
 "name": "event315-07 Ending：Miracle White Christmas.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "316 Welcome to Kaoru Seta Land",
+"children": [
+{
+"type": "file",
+"name": "event316-01 Opening：A Fleeting Plan Takes Shape.txt"
+},
+{
+"type": "file",
+"name": "event316-02 Chapter 1：The Little Kittens Speak.txt"
+},
+{
+"type": "file",
+"name": "event316-03 Chapter 2：Prep Time Begins!.txt"
+},
+{
+"type": "file",
+"name": "event316-04 Chapter 3：Prince of the Fleeting Realm.txt"
+},
+{
+"type": "file",
+"name": "event316-05 Chapter 4：Kaoru Seta Land Is Open!.txt"
+},
+{
+"type": "file",
+"name": "event316-06 Chapter 5：Who Takes the Princess's Hand.txt"
+},
+{
+"type": "file",
+"name": "event316-07 Ending：Kaoru Seta Land Forever.txt"
 }
 ]
 }
