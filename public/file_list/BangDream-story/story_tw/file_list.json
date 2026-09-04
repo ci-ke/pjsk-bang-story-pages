@@ -7668,6 +7668,10 @@
 {
 "type": "file",
 "name": "2326_白金燐子_R5 只是，一心向前.txt"
+},
+{
+"type": "file",
+"name": "2428_白金燐子_R5 淡紅光芒灑落的窗邊.txt"
 }
 ]
 },
@@ -7924,6 +7928,10 @@
 {
 "type": "file",
 "name": "2344_桐谷透子_R5 玻璃彼端的閃耀.txt"
+},
+{
+"type": "file",
+"name": "2423_桐谷透子_R5 將勇氣送給你.txt"
 }
 ]
 },
@@ -8054,6 +8062,10 @@
 {
 "type": "file",
 "name": "2354_廣町七深_R5 手牽著手.txt"
+},
+{
+"type": "file",
+"name": "2424_廣町七深_R5 引領我的色彩.txt"
 }
 ]
 },
@@ -8306,6 +8318,10 @@
 {
 "type": "file",
 "name": "2387_八潮瑠唯_R5 靜靜飄落堆積.txt"
+},
+{
+"type": "file",
+"name": "2427_八潮瑠唯_R4 被看透的內心.txt"
 }
 ]
 },
@@ -8420,6 +8436,10 @@
 {
 "type": "file",
 "name": "2376_LAYER_R5 RUNAWAY STAR.txt"
+},
+{
+"type": "file",
+"name": "2429_LAYER_R5 映滿視野的櫻花色.txt"
 }
 ]
 },
@@ -20820,6 +20840,40 @@
 {
 "type": "file",
 "name": "event325-10 結尾：全新的樂音，相互共鳴.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "326 Liberamente，邁向廣闊世界",
+"children": [
+{
+"type": "file",
+"name": "event326-01 開場：我的色彩.txt"
+},
+{
+"type": "file",
+"name": "event326-02 第１話：困惑的心.txt"
+},
+{
+"type": "file",
+"name": "event326-03 第２話：停滯不前.txt"
+},
+{
+"type": "file",
+"name": "event326-04 第３話：踏不出的那一步.txt"
+},
+{
+"type": "file",
+"name": "event326-05 第４話：將心意寄託於畫筆.txt"
+},
+{
+"type": "file",
+"name": "event326-06 第５話：推動背影的勇氣.txt"
+},
+{
+"type": "file",
+"name": "event326-07 結尾：大家的色彩.txt"
 }
 ]
 }
