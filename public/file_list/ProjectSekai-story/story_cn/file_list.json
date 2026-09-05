@@ -4631,6 +4631,10 @@
 },
 {
 "type": "file",
+"name": "1235_初音未来_R4 牢记约定 (event_179).txt"
+},
+{
+"type": "file",
 "name": "1242_初音未来_R4 指引之歌.txt"
 }
 ]
@@ -4818,6 +4822,10 @@
 {
 "type": "file",
 "name": "1203_镜音铃 (Ln)_R4 娱乐委员大显身手♪ (event_173).txt"
+},
+{
+"type": "file",
+"name": "1236_镜音铃_R4 在旋转木马上比耶！ (event_179).txt"
 }
 ]
 },
@@ -5004,6 +5012,10 @@
 {
 "type": "file",
 "name": "1225_镜音连 (N25)_R4 分享美味 (event_177).txt"
+},
+{
+"type": "file",
+"name": "1237_镜音连_R4 双手捧满的零食 (event_179).txt"
 }
 ]
 },
@@ -5190,6 +5202,10 @@
 {
 "type": "file",
 "name": "1215_巡音流歌 (VBS)_R4 两人的悄悄话 (event_175).txt"
+},
+{
+"type": "file",
+"name": "1238_巡音流歌_R4 激动不已的舞台！ (event_179).txt"
 }
 ]
 },
@@ -5372,6 +5388,10 @@
 {
 "type": "file",
 "name": "1205_MEIKO (Ln)_R2 热血沸腾的主题 (event_173).txt"
+},
+{
+"type": "file",
+"name": "1239_MEIKO_R4 好多美食！ (event_179).txt"
 }
 ]
 },
@@ -5558,6 +5578,10 @@
 {
 "type": "file",
 "name": "1211_KAITO (MMJ)_R2 「世界」的偶像粉丝 (event_174).txt"
+},
+{
+"type": "file",
+"name": "1240_KAITO_R4 被“奇妙现象”耍得团团转 (event_179).txt"
 }
 ]
 }
@@ -6151,7 +6175,7 @@
 },
 {
 "type": "dir",
-"name": "016 天马家的女儿节 (WxS_天马咲希)",
+"name": "016 天马家的女儿节 (Mix_天马咲希)",
 "children": [
 {
 "type": "file",
@@ -12456,6 +12480,72 @@
 "name": "178-08 作为对手.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "179 Link the Beats！ (VS_WL)",
+"children": [
+{
+"type": "file",
+"name": "179-01 「世界」的异变？！.txt"
+},
+{
+"type": "file",
+"name": "179-02 在星星的守护下 (镜音连).txt"
+},
+{
+"type": "file",
+"name": "179-03 即使彼此分离 (镜音连).txt"
+},
+{
+"type": "file",
+"name": "179-04 到处都是灰色的 (初音未来).txt"
+},
+{
+"type": "file",
+"name": "179-05 为了传递希望 (初音未来).txt"
+},
+{
+"type": "file",
+"name": "179-06 在花田的舞台上 (巡音流歌).txt"
+},
+{
+"type": "file",
+"name": "179-07 传递给全世界！ (巡音流歌).txt"
+},
+{
+"type": "file",
+"name": "179-08 尝尝美味的餐品吧♪ (MEIKO).txt"
+},
+{
+"type": "file",
+"name": "179-09 看到崭新的景色 (MEIKO).txt"
+},
+{
+"type": "file",
+"name": "179-10 好多奇妙的现象？！ (KAITO).txt"
+},
+{
+"type": "file",
+"name": "179-11 用音乐紧密相连 (KAITO).txt"
+},
+{
+"type": "file",
+"name": "179-12 充满快乐！ (镜音铃).txt"
+},
+{
+"type": "file",
+"name": "179-13 大家融为一体 (镜音铃).txt"
+},
+{
+"type": "file",
+"name": "179-14 将相遇的奇迹珍藏于心.txt"
+},
+{
+"type": "file",
+"name": "179-15 今后也要一直.txt"
+}
+]
 }
 ]
 },
@@ -13962,6 +14052,10 @@
 {
 "type": "file",
 "name": "397 Deep Dark For Light 后日谈·演唱会 (event_178).txt"
+},
+{
+"type": "file",
+"name": "399 Link the Beats！ 后日谈·演唱会 (event_179).txt"
 }
 ]
 },
