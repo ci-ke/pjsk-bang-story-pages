@@ -865,6 +865,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_216.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2828,6 +2832,10 @@
 {
 "type": "file",
 "name": "1407_小豆沢こはね_R4 心の奥へ届く歌 (event_207).txt"
+},
+{
+"type": "file",
+"name": "1469_小豆沢こはね_R2 お気に入りの１枚 (event_216).txt"
 }
 ]
 },
@@ -3034,6 +3042,10 @@
 {
 "type": "file",
 "name": "1433_白石杏_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1468_白石杏_R3 交流は折り紙で！ (event_216).txt"
 }
 ]
 },
@@ -3252,6 +3264,10 @@
 {
 "type": "file",
 "name": "1447_東雲彰人_R4 背を叩く言葉 (event_214).txt"
+},
+{
+"type": "file",
+"name": "1465_東雲彰人_R4 こぼれ落ちた波紋 (event_216).txt"
 }
 ]
 },
@@ -3474,6 +3490,10 @@
 {
 "type": "file",
 "name": "1430_青柳冬弥_R4 願いのレシーブ (event_211).txt"
+},
+{
+"type": "file",
+"name": "1466_青柳冬弥_R4 初めて分かち合う喜び (event_216).txt"
 }
 ]
 },
@@ -5674,6 +5694,10 @@
 {
 "type": "file",
 "name": "1456_鏡音リン (WxS)_R2 風船で飾り付け♪ (event_215).txt"
+},
+{
+"type": "file",
+"name": "1467_鏡音リン (VBS)_R4 重なる想いと歌声 (event_216).txt"
 }
 ]
 },
@@ -14814,6 +14838,44 @@
 {
 "type": "file",
 "name": "215-08 最後に、届けたい想い.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "216 After the Fire (VBS_東雲彰人)",
+"children": [
+{
+"type": "file",
+"name": "216-01 気合いは十分.txt"
+},
+{
+"type": "file",
+"name": "216-02 予想外の来訪者達.txt"
+},
+{
+"type": "file",
+"name": "216-03 それぞれの相棒.txt"
+},
+{
+"type": "file",
+"name": "216-04 あの頃の距離.txt"
+},
+{
+"type": "file",
+"name": "216-05 たしかな熱を.txt"
+},
+{
+"type": "file",
+"name": "216-06 共鳴する想い.txt"
+},
+{
+"type": "file",
+"name": "216-07 混乱.txt"
+},
+{
+"type": "file",
+"name": "216-08 疑念.txt"
 }
 ]
 }
