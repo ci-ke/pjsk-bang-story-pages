@@ -4611,6 +4611,10 @@
 },
 {
 "type": "file",
+"name": "1235_Hatsune Miku_R4 A Precious Promise (event_179).txt"
+},
+{
+"type": "file",
 "name": "1242_Hatsune Miku_R4 A Guiding Song.txt"
 }
 ]
@@ -4794,6 +4798,10 @@
 {
 "type": "file",
 "name": "1203_Kagamine Rin (Ln)_R4 Bringing The Fun And Games♪ (event_173).txt"
+},
+{
+"type": "file",
+"name": "1236_Kagamine Rin_R4 Merry-Go-Round Merriment! (event_179).txt"
 }
 ]
 },
@@ -4980,6 +4988,10 @@
 {
 "type": "file",
 "name": "1225_Kagamine Len (N25)_R4 Sharing Deliciousness (event_177).txt"
+},
+{
+"type": "file",
+"name": "1237_Kagamine Len_R4 Arms Laden With Snacks (event_179).txt"
 }
 ]
 },
@@ -5166,6 +5178,10 @@
 {
 "type": "file",
 "name": "1215_Megurine Luka (VBS)_R4 Between You And Me (event_175).txt"
+},
+{
+"type": "file",
+"name": "1238_Megurine Luka_R4 An Exhilarating Stage! (event_179).txt"
 }
 ]
 },
@@ -5348,6 +5364,10 @@
 {
 "type": "file",
 "name": "1205_MEIKO (Ln)_R2 Heat's My Game (event_173).txt"
+},
+{
+"type": "file",
+"name": "1239_MEIKO_R4 Feasting Like A Queen! (event_179).txt"
 }
 ]
 },
@@ -5534,6 +5554,10 @@
 {
 "type": "file",
 "name": "1211_KAITO (MMJ)_R2 Idol Fan In SEKAI (event_174).txt"
+},
+{
+"type": "file",
+"name": "1240_KAITO_R4 At The Mercy Of The Mysterious (event_179).txt"
 }
 ]
 }
@@ -12392,6 +12416,72 @@
 {
 "type": "file",
 "name": "178-08 As Rivals.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "179 Link the Beats! (VS_WL)",
+"children": [
+{
+"type": "file",
+"name": "179-01 What Happened to SEKAI？!.txt"
+},
+{
+"type": "file",
+"name": "179-02 Watched Over by the Stars (Kagamine Len).txt"
+},
+{
+"type": "file",
+"name": "179-03 Even When We're Apart (Kagamine Len).txt"
+},
+{
+"type": "file",
+"name": "179-04 A Gray Expanse (Hatsune Miku).txt"
+},
+{
+"type": "file",
+"name": "179-05 To Bring Hope (Hatsune Miku).txt"
+},
+{
+"type": "file",
+"name": "179-06 A Stage in a Flower Field (Megurine Luka).txt"
+},
+{
+"type": "file",
+"name": "179-07 Reach the Whole World! (Megurine Luka).txt"
+},
+{
+"type": "file",
+"name": "179-08 Bon Appetit♪ (MEIKO).txt"
+},
+{
+"type": "file",
+"name": "179-09 New Sights (MEIKO).txt"
+},
+{
+"type": "file",
+"name": "179-10 So Much Mystery! (KAITO).txt"
+},
+{
+"type": "file",
+"name": "179-11 Bonded by Music (KAITO).txt"
+},
+{
+"type": "file",
+"name": "179-12 So Much Fun! (Kagamine Rin).txt"
+},
+{
+"type": "file",
+"name": "179-13 Coming Together (Kagamine Rin).txt"
+},
+{
+"type": "file",
+"name": "179-14 Fond Farewells.txt"
+},
+{
+"type": "file",
+"name": "179-15 Now and Forever More.txt"
 }
 ]
 }
