@@ -2742,6 +2742,10 @@
 {
 "type": "file",
 "name": "2220_Saya Yamabuki_R5 A Hand Reached Out.txt"
+},
+{
+"type": "file",
+"name": "2360_Saya Yamabuki_R5 Wrapped in Gentle Snow.txt"
 }
 ]
 },
@@ -3226,6 +3230,10 @@
 {
 "type": "file",
 "name": "2281_Ran Mitake_R5 The Colors of Your World.txt"
+},
+{
+"type": "file",
+"name": "2358_Ran Mitake_R5 What Lies Ahead.txt"
 }
 ]
 },
@@ -5010,6 +5018,10 @@
 {
 "type": "file",
 "name": "2197_Kanon Matsubara_R5 A Dazzling Someone.txt"
+},
+{
+"type": "file",
+"name": "2353_Kanon Matsubara_R5 Plum Blossoms in the Winter Sky.txt"
 }
 ]
 },
@@ -6422,6 +6434,10 @@
 {
 "type": "file",
 "name": "2304_Eve Wakamiya_R5 Exciting Fitting Time.txt"
+},
+{
+"type": "file",
+"name": "2357_Eve Wakamiya_R4 A Bowl of Bliss.txt"
 }
 ]
 },
@@ -7946,6 +7962,10 @@
 {
 "type": "file",
 "name": "2207_Nanami Hiromachi_R5 Call of the Secret!.txt"
+},
+{
+"type": "file",
+"name": "2354_Nanami Hiromachi_R5 Hand in Hand.txt"
 }
 ]
 },
@@ -8638,6 +8658,10 @@
 {
 "type": "file",
 "name": "2293_Reona Nyubara_R5 Take My Hand, Brave Hero.txt"
+},
+{
+"type": "file",
+"name": "2359_Reona Nyubara_R5 For You, Who Never Stops Trying.txt"
 }
 ]
 },
@@ -20354,6 +20378,40 @@
 {
 "type": "file",
 "name": "event316-07 Ending：Kaoru Seta Land Forever.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "317 Beyond the Winding Road, Fortune Awaits",
+"children": [
+{
+"type": "file",
+"name": "event317-01 Opening：First Days of the New Year....txt"
+},
+{
+"type": "file",
+"name": "event317-02 Chapter 1：Lost as Ever.txt"
+},
+{
+"type": "file",
+"name": "event317-03 Chapter 2：A Moment to Breathe.txt"
+},
+{
+"type": "file",
+"name": "event317-04 Chapter 3：The Shrine Experience.txt"
+},
+{
+"type": "file",
+"name": "event317-05 Chapter 4：Mission Accomplished!.txt"
+},
+{
+"type": "file",
+"name": "event317-06 Chapter 5：Someone Appears.txt"
+},
+{
+"type": "file",
+"name": "event317-07 Ending：Not Lost, Just....txt"
 }
 ]
 }
