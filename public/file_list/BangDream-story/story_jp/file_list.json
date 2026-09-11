@@ -3520,6 +3520,10 @@
 {
 "type": "file",
 "name": "2482_青葉モカ_R5 初めての熱を浴びて.txt"
+},
+{
+"type": "file",
+"name": "2518_青葉モカ_R5 微睡みのプロローグ.txt"
 }
 ]
 },
@@ -5416,6 +5420,10 @@
 {
 "type": "file",
 "name": "2453_ミッシェル_R5 泣き顔、２人分.txt"
+},
+{
+"type": "file",
+"name": "2519_ミッシェル_R5 Clutch Play！.txt"
 }
 ]
 },
@@ -7384,6 +7392,10 @@
 {
 "type": "file",
 "name": "2468_今井リサ_R4 約束の場所.txt"
+},
+{
+"type": "file",
+"name": "2514_今井リサ_R5 彼女の選ぶ未来.txt"
 }
 ]
 },
@@ -7626,6 +7638,10 @@
 {
 "type": "file",
 "name": "2462_宇田川あこ_R5 NEAR FUTURE.txt"
+},
+{
+"type": "file",
+"name": "2517_宇田川あこ_R4 純白に滲む色彩.txt"
 }
 ]
 },
@@ -7856,6 +7872,10 @@
 {
 "type": "file",
 "name": "2428_白金燐子_R5 薄紅の差す窓際で.txt"
+},
+{
+"type": "file",
+"name": "2513_白金燐子_R5 True brillante.txt"
 }
 ]
 },
@@ -21708,6 +21728,40 @@
 {
 "type": "file",
 "name": "event341-07 エンディング：英雄誕生.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "342 未来想送曲",
+"children": [
+{
+"type": "file",
+"name": "event342-01 オープニング：その道の分岐点.txt"
+},
+{
+"type": "file",
+"name": "event342-02 第１話：無限の可能性.txt"
+},
+{
+"type": "file",
+"name": "event342-03 第２話：転職クエスト.txt"
+},
+{
+"type": "file",
+"name": "event342-04 第３話：幾つものわたしたち.txt"
+},
+{
+"type": "file",
+"name": "event342-05 第４話：誰が為にピアノは鳴る.txt"
+},
+{
+"type": "file",
+"name": "event342-06 第５話：燐子の音.txt"
+},
+{
+"type": "file",
+"name": "event342-07 エンディング：道はこれからも.txt"
 }
 ]
 }
