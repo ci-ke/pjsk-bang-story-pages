@@ -4606,6 +4606,10 @@
 {
 "type": "file",
 "name": "2348_瀨田薰_R5 虛幻盛宴的序幕.txt"
+},
+{
+"type": "file",
+"name": "2430_瀨田薰_R5 僅此一次的革命.txt"
 }
 ]
 },
@@ -5062,6 +5066,10 @@
 {
 "type": "file",
 "name": "2408_松原花音_R5 舒適的空間.txt"
+},
+{
+"type": "file",
+"name": "2434_松原花音_R4 微笑的溫度.txt"
 }
 ]
 },
@@ -6026,6 +6034,10 @@
 {
 "type": "file",
 "name": "2403_白鷺千聖_R5 我的心意.txt"
+},
+{
+"type": "file",
+"name": "2431_白鷺千聖_R5 遺落之物.txt"
 }
 ]
 },
@@ -20874,6 +20886,40 @@
 {
 "type": "file",
 "name": "event326-07 結尾：大家的色彩.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "327 黎明 Stand By",
+"children": [
+{
+"type": "file",
+"name": "event327-01 開場：見到光芒的那一天.txt"
+},
+{
+"type": "file",
+"name": "event327-02 第１話：決心的輪廓.txt"
+},
+{
+"type": "file",
+"name": "event327-03 第２話：公園裡的雙人舞.txt"
+},
+{
+"type": "file",
+"name": "event327-04 第３話：守望的人們.txt"
+},
+{
+"type": "file",
+"name": "event327-05 第４話：不同面貌，不同名字，相同的心。.txt"
+},
+{
+"type": "file",
+"name": "event327-06 第５話：沸騰.txt"
+},
+{
+"type": "file",
+"name": "event327-07 結尾：尚未命名的黎明.txt"
 }
 ]
 }
