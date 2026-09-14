@@ -20,6 +20,9 @@ export function Browser() {
   const [proxyEnabled, setProxyEnabled] = useState(
     () => localStorage.getItem('proxyToggle') !== 'false',
   );
+  const [sortDesc, setSortDesc] = useState(
+    () => localStorage.getItem('sortDesc') === 'true',
+  );
 
   const [node, setNode] = useState<Node | null>(null);
   const [resolvedPath, setResolvedPath] = useState('');
@@ -71,12 +74,24 @@ export function Browser() {
   }, [proxyEnabled]);
 
   useEffect(() => {
+    localStorage.setItem('sortDesc', String(sortDesc));
+  }, [sortDesc]);
+
+  useEffect(() => {
     initialLoadDone.current = true;
   }, []);
 
+  const isRoot = !(resolvedPath || path);
+  const isDir = node?.type === 'dir';
+
   return (
     <>
-      <Breadcrumb path={resolvedPath || path} />
+      <Breadcrumb
+        path={resolvedPath || path}
+        showSort={!isRoot && isDir}
+        sortDesc={sortDesc}
+        onToggleSort={() => setSortDesc((v) => !v)}
+      />
 
       {loading && (
         <div id="loading">
@@ -94,7 +109,7 @@ export function Browser() {
 
       {!loading && !error && node && (
         node.type === 'dir' ? (
-          <DirList path={resolvedPath} children={node.children || []} />
+          <DirList path={resolvedPath} items={node.children || []} sortDesc={sortDesc} />
         ) : (
           <FileView
             filePath={resolvedPath}

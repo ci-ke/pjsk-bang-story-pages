@@ -5,7 +5,8 @@ import type { Node } from '../types';
 
 interface DirListProps {
   path: string;
-  children: Node[];
+  items: Node[];
+  sortDesc?: boolean;
 }
 
 /* 轻量 SVG 图标 */
@@ -26,20 +27,22 @@ function FileIcon() {
   );
 }
 
-export function DirList({ path, children }: DirListProps) {
+export function DirList({ path, items, sortDesc }: DirListProps) {
   const isHome = !path;
   const showExtra = isHome;
 
   const filtered = isHome
-    ? children.filter((item) => REPOS[item.name])
-    : children;
+    ? items.filter((item) => REPOS[item.name])
+    : items;
 
   const repoOrder = Object.keys(REPOS);
   const sorted = [...filtered].sort((a, b) => {
     if (isHome) {
       return repoOrder.indexOf(a.name) - repoOrder.indexOf(b.name);
     }
-    if (a.type === b.type) return a.name.localeCompare(b.name);
+    if (a.type === b.type) {
+      return a.name.localeCompare(b.name) * (sortDesc ? -1 : 1);
+    }
     return a.type === 'dir' ? -1 : 1;
   });
 

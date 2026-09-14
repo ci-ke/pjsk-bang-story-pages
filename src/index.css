@@ -99,6 +99,34 @@ hr {
   padding: 2px 6px;
 }
 
+#breadcrumb .bc-sort-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  margin-left: 2px;
+  /* 按钮随行内文字流排布，浏览器按父级字体 x-height 中线对齐图标，无需像素补偿 */
+  vertical-align: middle;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--text-secondary);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition);
+}
+
+#breadcrumb .bc-sort-btn:hover {
+  background: var(--primary-light);
+  color: var(--primary);
+}
+
+#breadcrumb .bc-sort-btn svg {
+  width: 14px;
+  height: 14px;
+}
+
 /* ============================================================ */
 /* Toolbar                                                         */
 /* ============================================================ */
