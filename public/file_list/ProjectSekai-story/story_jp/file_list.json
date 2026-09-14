@@ -869,6 +869,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_217.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3934,6 +3938,10 @@
 {
 "type": "file",
 "name": "1464_鳳えむ_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1471_鳳えむ_R4 全力いんぐりっしゅ！ (event_217).txt"
 }
 ]
 },
@@ -4148,6 +4156,10 @@
 {
 "type": "file",
 "name": "1448_草薙寧々_R4 森の導き手 (event_214).txt"
+},
+{
+"type": "file",
+"name": "1470_草薙寧々_R4 憧れを焼き付けて (event_217).txt"
 }
 ]
 },
@@ -4362,6 +4374,10 @@
 {
 "type": "file",
 "name": "1431_神代類_R4 心の濁り (event_211).txt"
+},
+{
+"type": "file",
+"name": "1473_神代類_R3 いい１枚を頼むよ (event_217).txt"
 }
 ]
 },
@@ -5924,6 +5940,10 @@
 {
 "type": "file",
 "name": "1453_鏡音レン (MMJ)_R4 花咲くレン談義 (event_215).txt"
+},
+{
+"type": "file",
+"name": "1474_鏡音レン (WxS)_R2 アメリカンサイズは夢いっぱい？ (event_217).txt"
 }
 ]
 },
@@ -6142,6 +6162,10 @@
 {
 "type": "file",
 "name": "1452_巡音ルカ (VBS)_R4 仲良くイエーイ！ (event_215).txt"
+},
+{
+"type": "file",
+"name": "1472_巡音ルカ (WxS)_R4 静かな祈り (event_217).txt"
 }
 ]
 },
@@ -14876,6 +14900,44 @@
 {
 "type": "file",
 "name": "216-08 疑念.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "217 Drive to Dream！ (WxS_草薙寧々)",
+"children": [
+{
+"type": "file",
+"name": "217-01 驚きの便り.txt"
+},
+{
+"type": "file",
+"name": "217-02 憧れの地へ.txt"
+},
+{
+"type": "file",
+"name": "217-03 トラブル発生！？.txt"
+},
+{
+"type": "file",
+"name": "217-04 悩むより前へ.txt"
+},
+{
+"type": "file",
+"name": "217-05 魔法のショータイム！.txt"
+},
+{
+"type": "file",
+"name": "217-06 仕上げの魔法.txt"
+},
+{
+"type": "file",
+"name": "217-07 進む覚悟.txt"
+},
+{
+"type": "file",
+"name": "217-08 胸に抱く光.txt"
 }
 ]
 }
