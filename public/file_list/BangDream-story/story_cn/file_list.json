@@ -5868,6 +5868,10 @@
 {
 "type": "file",
 "name": "2310_冰川日菜_R5 说出口，听进心.txt"
+},
+{
+"type": "file",
+"name": "2404_冰川日菜_R5 让人感到噜♪的歌词.txt"
 }
 ]
 },
@@ -6098,6 +6102,10 @@
 {
 "type": "file",
 "name": "2331_白鹭千圣_R5 My dear dog.txt"
+},
+{
+"type": "file",
+"name": "2403_白鹭千圣_R5 我的心意.txt"
 }
 ]
 },
@@ -6566,6 +6574,10 @@
 {
 "type": "file",
 "name": "2357_若宫伊芙_R4 幸福满满的年糕小豆汤.txt"
+},
+{
+"type": "file",
+"name": "2407_若宫伊芙_R4 寻觅话语.txt"
 }
 ]
 },
@@ -20854,6 +20866,40 @@
 {
 "type": "file",
 "name": "event322-07 终章：一直、一直、一直。.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "323 纵使千言万语亦不足以表达",
+"children": [
+{
+"type": "file",
+"name": "event323-01 序章：充实的偶像活动.txt"
+},
+{
+"type": "file",
+"name": "event323-02 第１话：歌词的主题.txt"
+},
+{
+"type": "file",
+"name": "event323-03 第２话：寻而未得的词句.txt"
+},
+{
+"type": "file",
+"name": "event323-04 第３话：那份内心深处的.txt"
+},
+{
+"type": "file",
+"name": "event323-05 第４话：无法展露真心.txt"
+},
+{
+"type": "file",
+"name": "event323-06 第５话：即便并不完美.txt"
+},
+{
+"type": "file",
+"name": "event323-07 终章：终于寻得的词句.txt"
 }
 ]
 }
