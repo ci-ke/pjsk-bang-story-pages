@@ -7714,6 +7714,10 @@
 {
 "type": "file",
 "name": "2262_Mashiro Kurata_R4 Diving into the Love of Summer.txt"
+},
+{
+"type": "file",
+"name": "2362_Mashiro Kurata_R5 The One Who's Always Been There.txt"
 }
 ]
 },
@@ -8088,6 +8092,10 @@
 {
 "type": "file",
 "name": "2279_Tsukushi Futaba_R4 Because We Were Together.txt"
+},
+{
+"type": "file",
+"name": "2361_Tsukushi Futaba_R5 You, Bathed in Morning Light.txt"
 }
 ]
 },
@@ -8202,6 +8210,10 @@
 {
 "type": "file",
 "name": "2276_Rui Yashio_R5 Since That Day.txt"
+},
+{
+"type": "file",
+"name": "2365_Rui Yashio_R4 Resolve Carried on the Music.txt"
 }
 ]
 },
@@ -20412,6 +20424,40 @@
 {
 "type": "file",
 "name": "event317-07 Ending：Not Lost, Just....txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "318 An Overture That Lights Your Way",
+"children": [
+{
+"type": "file",
+"name": "event318-01 Opening：Carrying That Score.txt"
+},
+{
+"type": "file",
+"name": "event318-02 Chapter 1：The Best Choice.txt"
+},
+{
+"type": "file",
+"name": "event318-03 Chapter 2：Notes That Don't Quite Fit.txt"
+},
+{
+"type": "file",
+"name": "event318-04 Chapter 3：An Answer Out of Reach.txt"
+},
+{
+"type": "file",
+"name": "event318-05 Chapter 4：Someone Who Believes in Me.txt"
+},
+{
+"type": "file",
+"name": "event318-06 Chapter 5：Even Without a Dazzling Light.txt"
+},
+{
+"type": "file",
+"name": "event318-07 Ending：A Warmth Like Sunlight.txt"
 }
 ]
 }
