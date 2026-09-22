@@ -3254,10 +3254,6 @@
 {
 "type": "file",
 "name": "2385_美竹蘭_R4 傾注真心裝飾.txt"
-},
-{
-"type": "file",
-"name": "2435_美竹蘭_R5 勾起小指.txt"
 }
 ]
 },
@@ -3476,10 +3472,6 @@
 {
 "type": "file",
 "name": "2382_青葉摩卡_R5 請品嚐力作～.txt"
-},
-{
-"type": "file",
-"name": "2439_青葉摩卡_R4 認真的指正？.txt"
 }
 ]
 },
@@ -3718,10 +3710,6 @@
 {
 "type": "file",
 "name": "2284_上原緋瑪麗_R4 喜歡的日常習慣？.txt"
-},
-{
-"type": "file",
-"name": "2436_上原緋瑪麗_R5 黃昏時分的約定.txt"
 }
 ]
 },
@@ -20932,40 +20920,6 @@
 {
 "type": "file",
 "name": "event327-07 結尾：尚未命名的黎明.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "328 將萌生的心意，交付夕陽",
-"children": [
-{
-"type": "file",
-"name": "event328-01 開場：難以抉擇的選擇.txt"
-},
-{
-"type": "file",
-"name": "event328-02 第１話：邁向 Fes！.txt"
-},
-{
-"type": "file",
-"name": "event328-03 第２話：充實感的背後.txt"
-},
-{
-"type": "file",
-"name": "event328-04 第３話：悄然萌生的心意.txt"
-},
-{
-"type": "file",
-"name": "event328-05 第４話：想知道真正的心意！.txt"
-},
-{
-"type": "file",
-"name": "event328-06 第５話：蘭真正想做的事.txt"
-},
-{
-"type": "file",
-"name": "event328-07 結尾：大家一起.txt"
 }
 ]
 }
