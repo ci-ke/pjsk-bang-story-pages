@@ -873,6 +873,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_218.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -14938,6 +14942,16 @@
 {
 "type": "file",
 "name": "217-08 胸に抱く光.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "218 Connect to SEKAI！ (Mix_WL)",
+"children": [
+{
+"type": "file",
+"name": "218-01 共にセカイへ！.txt"
 }
 ]
 }
