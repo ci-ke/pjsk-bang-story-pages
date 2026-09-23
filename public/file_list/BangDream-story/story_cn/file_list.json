@@ -4916,6 +4916,10 @@
 {
 "type": "file",
 "name": "2349_北泽育美_R5 解开心灵的枷锁.txt"
+},
+{
+"type": "file",
+"name": "2412_北泽育美_R4 好多点心！.txt"
 }
 ]
 },
@@ -5142,6 +5146,10 @@
 {
 "type": "file",
 "name": "2353_松原花音_R5 梅花，在寒空中绽放.txt"
+},
+{
+"type": "file",
+"name": "2408_松原花音_R5 惬意的空间.txt"
 }
 ]
 },
@@ -5376,6 +5384,10 @@
 {
 "type": "file",
 "name": "2332_米歇尔_R5 与你共度的放学后.txt"
+},
+{
+"type": "file",
+"name": "2409_米歇尔_R5 极致的放松.txt"
 }
 ]
 },
@@ -20900,6 +20912,40 @@
 {
 "type": "file",
 "name": "event323-07 终章：终于寻得的词句.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "324 悠然一刻、HelloHappy温泉之旅",
+"children": [
+{
+"type": "file",
+"name": "event324-01 序章：想去泡温泉.txt"
+},
+{
+"type": "file",
+"name": "event324-02 第１话：来场普通的温泉旅行吧！.txt"
+},
+{
+"type": "file",
+"name": "event324-03 第２话：大家一起参拜！.txt"
+},
+{
+"type": "file",
+"name": "event324-04 第３话：兴奋地入住！.txt"
+},
+{
+"type": "file",
+"name": "event324-05 第４话：温泉的讲究.txt"
+},
+{
+"type": "file",
+"name": "event324-06 第５话：宁静的片刻时光.txt"
+},
+{
+"type": "file",
+"name": "event324-07 终章：“无事收场”做到了吗？.txt"
 }
 ]
 }
