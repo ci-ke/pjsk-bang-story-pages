@@ -12554,6 +12554,20 @@
 "name": "179-15 今后也要一直.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "180 Wishes in Bloom！ (Mix_WL)",
+"children": [
+{
+"type": "file",
+"name": "180-01 成长，然后.txt"
+},
+{
+"type": "file",
+"name": "180-02 愿大家前来「世界」.txt"
+}
+]
 }
 ]
 },
@@ -14055,7 +14069,7 @@
 },
 {
 "type": "file",
-"name": "396 HAPPY ANNIVERSARY演唱会 未来2026.txt"
+"name": "396 HAPPY ANNIVERSARY演唱会 初音未来2026.txt"
 },
 {
 "type": "file",

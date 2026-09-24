@@ -12554,6 +12554,20 @@
 "name": "179-15 今後也永遠不變.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "180 Wishes in Bloom! (Mix_WL)",
+"children": [
+{
+"type": "file",
+"name": "180-01 在成長之後.txt"
+},
+{
+"type": "file",
+"name": "180-02 心願化為「世界」.txt"
+}
+]
 }
 ]
 },
