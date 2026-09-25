@@ -30,6 +30,9 @@ jobs:
       - name: Clone BangDream story repository
         run: git clone --depth 1 https://github.com/ci-ke/BangDream-story.git ./BangDream-story
 
+      - name: Clone OurNotes story repository
+        run: git clone --depth 1 https://github.com/ci-ke/OurNotes-story.git ./OurNotes-story
+
       - name: Setup uv
         uses: astral-sh/setup-uv@v7
 
