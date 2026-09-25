@@ -6,6 +6,7 @@ import generate
 REPOS = [
     {'local': './ProjectSekai-story', 'repo': 'ProjectSekai-story'},
     {'local': './BangDream-story', 'repo': 'BangDream-story'},
+    {'local': './OurNotes-story', 'repo': 'OurNotes-story'},
 ]
 
 generate.main(REPOS)

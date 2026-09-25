@@ -6,6 +6,7 @@ export const BRANCH = 'main';
 export const REPOS: Record<string, string> = {
   'ProjectSekai-story': 'ProjectSekai-story',
   'BangDream-story': 'BangDream-story',
+  'OurNotes-story': 'OurNotes-story'
 };
 
 // GitHub Raw 代理前缀
@@ -37,6 +38,10 @@ export const HOME_EXTRA: HomeExtraItem[] = [
   { text: 'BangDream-story 仓库（国内）', url: 'https://gitee.com/ci-ke/BangDream-story' },
   { text: 'BangDream-story 仓库下载', url: 'https://github.com/ci-ke/BangDream-story/archive/refs/heads/main.zip' },
   { text: 'BangDream-story 仓库下载（国内）', url: 'https://github.com/ci-ke/BangDream-story/archive/refs/heads/main.zip', useProxy: true },
+  { text: 'OurNotes-story 仓库', url: 'https://github.com/ci-ke/OurNotes-story' },
+  { text: 'OurNotes-story 仓库（国内）', url: 'https://gitee.com/ci-ke/OurNotes-story' },
+  { text: 'OurNotes-story 仓库下载', url: 'https://github.com/ci-ke/OurNotes-story/archive/refs/heads/main.zip' },
+  { text: 'OurNotes-story 仓库下载（国内）', url: 'https://github.com/ci-ke/OurNotes-story/archive/refs/heads/main.zip', useProxy: true },
 ];
 
 export const HOME_EXTRA_POSITION: 'top' | 'bottom' = 'bottom';

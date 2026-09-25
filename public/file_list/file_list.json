@@ -42,5 +42,27 @@
 "name": "story_tw"
 }
 ]
+},
+{
+"type": "dir",
+"name": "OurNotes-story",
+"children": [
+{
+"type": "dir",
+"name": "story_cn"
+},
+{
+"type": "dir",
+"name": "story_en"
+},
+{
+"type": "dir",
+"name": "story_jp"
+},
+{
+"type": "dir",
+"name": "story_tw"
+}
+]
 }
 ]
