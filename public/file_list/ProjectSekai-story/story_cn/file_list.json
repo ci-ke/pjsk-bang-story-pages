@@ -12573,7 +12573,967 @@
 },
 {
 "type": "dir",
-"name": "live",
+"name": "main",
+"children": [
+{
+"type": "dir",
+"name": "1 虚拟歌手",
+"children": [
+{
+"type": "file",
+"name": "vsleo_01_01 秘密练习.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_02 学姐能做到的事.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_03 出人意料的一面.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_04 闪闪发光的每一天.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_01 全力以赴的演唱会！.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_02 打起精神来.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_03 蓝色的舞台.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_04 一起来开演唱会！.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_01 从一开始就存在的歌.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_02 痛苦的音符.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_03 我会陪在你身边.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_04 你的音乐.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_01 MEIKO研制的新品.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_02 成熟的口味.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_03 迈出和好的一步.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_04 大家一起歌唱！.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_01 玩偶装与奇妙幻境.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_02 有终才有始.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_03 让你绽放笑容的演出.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_04 在飞天舞台演出？！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "2 Leo／need",
+"children": [
+{
+"type": "file",
+"name": "leo_01_00 序章.txt"
+},
+{
+"type": "file",
+"name": "leo_01_01 第四位儿时的伙伴.txt"
+},
+{
+"type": "file",
+"name": "leo_01_02 至少我…….txt"
+},
+{
+"type": "file",
+"name": "leo_01_03 只有两个人好像有点寂寞.txt"
+},
+{
+"type": "file",
+"name": "leo_01_04 教室「世界」.txt"
+},
+{
+"type": "file",
+"name": "leo_01_05 要不要组个乐队？.txt"
+},
+{
+"type": "file",
+"name": "leo_01_06 第一步.txt"
+},
+{
+"type": "file",
+"name": "leo_01_07 流歌姐，教教我！.txt"
+},
+{
+"type": "file",
+"name": "leo_01_08 看不见的星星.txt"
+},
+{
+"type": "file",
+"name": "leo_01_09 三人合奏？！.txt"
+},
+{
+"type": "file",
+"name": "leo_01_10 攀登架与流星雨.txt"
+},
+{
+"type": "file",
+"name": "leo_01_11 我可警告过你们了.txt"
+},
+{
+"type": "file",
+"name": "leo_01_12 “你到底帮谁？”.txt"
+},
+{
+"type": "file",
+"name": "leo_01_13 咲希的决定.txt"
+},
+{
+"type": "file",
+"name": "leo_01_14 因为珍惜.txt"
+},
+{
+"type": "file",
+"name": "leo_01_15 别自欺欺人了.txt"
+},
+{
+"type": "file",
+"name": "leo_01_16 “永不分离”.txt"
+},
+{
+"type": "file",
+"name": "leo_01_17 穗波的心愿.txt"
+},
+{
+"type": "file",
+"name": "leo_01_18 四个人的星空.txt"
+},
+{
+"type": "file",
+"name": "leo_01_19 needLe.txt"
+},
+{
+"type": "file",
+"name": "leo_01_20 Leo／need.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "3 MORE MORE JUMP！",
+"children": [
+{
+"type": "file",
+"name": "mmj_01_00 序章.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_01 崇拜的偶像！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_02 把话说清楚！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_03 只要努力就一定可以…….txt"
+},
+{
+"type": "file",
+"name": "mmj_01_04 正因为是偶像.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_05 来看演唱会吧！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_06 舞台「世界」.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_07 偶像们的纠葛.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_08 伤人的话语.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_09 铃带来的勇气！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_10 隐退.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_11 一直以来，谢谢你们.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_12 偶像的资格.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_13 骗子.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_14 我能传递给观众的事物.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_15 似近实远的舞台.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_16 蔚蓝的景色.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_17 再次欣赏那片景色.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_18 那一天看到的希望.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_19 偶像新锐队.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_20 MORE MORE JUMP！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "4 Vivid BAD SQUAD",
+"children": [
+{
+"type": "file",
+"name": "street_01_00 序章.txt"
+},
+{
+"type": "file",
+"name": "street_01_01 满是涂鸦的街头.txt"
+},
+{
+"type": "file",
+"name": "street_01_02 最让人心潮澎湃的歌.txt"
+},
+{
+"type": "file",
+"name": "street_01_03 WEEKEND GARAGE.txt"
+},
+{
+"type": "file",
+"name": "street_01_04 BAD DOGS.txt"
+},
+{
+"type": "file",
+"name": "street_01_05 街头「世界」.txt"
+},
+{
+"type": "file",
+"name": "street_01_06 神奇的咖啡厅.txt"
+},
+{
+"type": "file",
+"name": "street_01_07 秘密的练习宝地.txt"
+},
+{
+"type": "file",
+"name": "street_01_08 我想这么认为.txt"
+},
+{
+"type": "file",
+"name": "street_01_09 首场演唱会.txt"
+},
+{
+"type": "file",
+"name": "street_01_10 被质疑的信念.txt"
+},
+{
+"type": "file",
+"name": "street_01_11 打开门的勇气.txt"
+},
+{
+"type": "file",
+"name": "street_01_12 绝不逃避！.txt"
+},
+{
+"type": "file",
+"name": "street_01_13 Vivids！.txt"
+},
+{
+"type": "file",
+"name": "street_01_14 你是认真的吗.txt"
+},
+{
+"type": "file",
+"name": "street_01_15 因为他们承认了我们的实力.txt"
+},
+{
+"type": "file",
+"name": "street_01_16 第三个人.txt"
+},
+{
+"type": "file",
+"name": "street_01_17 连与MEIKO与“秘密武器”.txt"
+},
+{
+"type": "file",
+"name": "street_01_18 决意.txt"
+},
+{
+"type": "file",
+"name": "street_01_19 Ready Steady.txt"
+},
+{
+"type": "file",
+"name": "street_01_20 Vivid BAD SQUAD.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "5 Wonderlands×Showtime",
+"children": [
+{
+"type": "file",
+"name": "wonder_01_00 序章.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_01 欢迎来到奇幻舞台！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_02 与未来之星Wonderhoi .txt"
+},
+{
+"type": "file",
+"name": "wonder_01_03 奇幻乐园「世界」.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_04 物色成员！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_05 异想天开的导演.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_06 第四名成员？.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_07 宁宁机器人登台亮相？！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_08 演出剧团！成立！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_09 怪人发挥本领.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_10 KAITO的提示.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_11 笑梦的梦想.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_12 公演开始！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_13 失去的笑容.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_14 那日的心愿.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_15 爷爷的舞台.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_16 绝对不会失败的方法.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_17 孤独的炼金术师.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_18 什么是“最精彩的演出”.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_19 「世界」还没开始.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_20 Wonderlands×Showtime.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "6 25点，Nightcord见。",
+"children": [
+{
+"type": "file",
+"name": "nightcode_01_00 序章.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_01 午夜音乐社团.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_02 白色的初音未来.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_03 OWN.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_04 我是好孩子.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_05 消失的雪.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_06 无人「世界」.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_07 你们也都想抛开一切不是吗？.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_08 平庸之人的画.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_09 我只是想做自己而已.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_10 凭这种旋律是不够的.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_11 创作带来幸福的音乐.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_12 独一无二的歌.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_13 迷失的“自我”.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_14 会感到寂寞的.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_15 在自暴自弃之前.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_16 崩溃.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_17 两个人的诅咒.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_18 就算是这样我也要救你.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_19 写作悔恨的未来.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_20 25点，Nightcord见。.txt"
+}
+]
+}
+]
+},
+{
+"type": "dir",
+"name": "mysekai",
+"children": [
+{
+"type": "file",
+"name": "01 Ln_星乃一歌.txt"
+},
+{
+"type": "file",
+"name": "02 Ln_天马咲希.txt"
+},
+{
+"type": "file",
+"name": "03 Ln_望月穗波.txt"
+},
+{
+"type": "file",
+"name": "04 Ln_日野森志步.txt"
+},
+{
+"type": "file",
+"name": "05 MMJ_花里实乃理.txt"
+},
+{
+"type": "file",
+"name": "06 MMJ_桐谷遥.txt"
+},
+{
+"type": "file",
+"name": "07 MMJ_桃井爱莉.txt"
+},
+{
+"type": "file",
+"name": "08 MMJ_日野森雫.txt"
+},
+{
+"type": "file",
+"name": "09 VBS_小豆泽心羽.txt"
+},
+{
+"type": "file",
+"name": "10 VBS_白石杏.txt"
+},
+{
+"type": "file",
+"name": "11 VBS_东云彰人.txt"
+},
+{
+"type": "file",
+"name": "12 VBS_青柳冬弥.txt"
+},
+{
+"type": "file",
+"name": "13 WxS_天马司.txt"
+},
+{
+"type": "file",
+"name": "14 WxS_凤笑梦.txt"
+},
+{
+"type": "file",
+"name": "15 WxS_草薙宁宁.txt"
+},
+{
+"type": "file",
+"name": "16 WxS_神代类.txt"
+},
+{
+"type": "file",
+"name": "17 N25_宵崎奏.txt"
+},
+{
+"type": "file",
+"name": "18 N25_朝比奈真冬.txt"
+},
+{
+"type": "file",
+"name": "19 N25_东云绘名.txt"
+},
+{
+"type": "file",
+"name": "20 N25_晓山瑞希.txt"
+},
+{
+"type": "file",
+"name": "27 Ln_初音未来.txt"
+},
+{
+"type": "file",
+"name": "28 MMJ_初音未来.txt"
+},
+{
+"type": "file",
+"name": "29 VBS_初音未来.txt"
+},
+{
+"type": "file",
+"name": "30 WxS_初音未来.txt"
+},
+{
+"type": "file",
+"name": "31 N25_初音未来.txt"
+},
+{
+"type": "file",
+"name": "33 MMJ_镜音铃.txt"
+},
+{
+"type": "file",
+"name": "39 VBS_镜音连.txt"
+},
+{
+"type": "file",
+"name": "42 Ln_巡音流歌.txt"
+},
+{
+"type": "file",
+"name": "49 VBS_MEIKO.txt"
+},
+{
+"type": "file",
+"name": "55 WxS_KAITO.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "self",
+"children": [
+{
+"type": "file",
+"name": "01 Ln_星乃一歌.txt"
+},
+{
+"type": "file",
+"name": "02 Ln_天马咲希.txt"
+},
+{
+"type": "file",
+"name": "03 Ln_望月穗波.txt"
+},
+{
+"type": "file",
+"name": "04 Ln_日野森志步.txt"
+},
+{
+"type": "file",
+"name": "05 MMJ_花里实乃理.txt"
+},
+{
+"type": "file",
+"name": "06 MMJ_桐谷遥.txt"
+},
+{
+"type": "file",
+"name": "07 MMJ_桃井爱莉.txt"
+},
+{
+"type": "file",
+"name": "08 MMJ_日野森雫.txt"
+},
+{
+"type": "file",
+"name": "09 VBS_小豆泽心羽.txt"
+},
+{
+"type": "file",
+"name": "10 VBS_白石杏.txt"
+},
+{
+"type": "file",
+"name": "11 VBS_东云彰人.txt"
+},
+{
+"type": "file",
+"name": "12 VBS_青柳冬弥.txt"
+},
+{
+"type": "file",
+"name": "13 WxS_天马司.txt"
+},
+{
+"type": "file",
+"name": "14 WxS_凤笑梦.txt"
+},
+{
+"type": "file",
+"name": "15 WxS_草薙宁宁.txt"
+},
+{
+"type": "file",
+"name": "16 WxS_神代类.txt"
+},
+{
+"type": "file",
+"name": "17 N25_宵崎奏.txt"
+},
+{
+"type": "file",
+"name": "18 N25_朝比奈真冬.txt"
+},
+{
+"type": "file",
+"name": "19 N25_东云绘名.txt"
+},
+{
+"type": "file",
+"name": "20 N25_晓山瑞希.txt"
+},
+{
+"type": "file",
+"name": "21 VS_初音未来.txt"
+},
+{
+"type": "file",
+"name": "22 VS_镜音铃.txt"
+},
+{
+"type": "file",
+"name": "23 VS_镜音连.txt"
+},
+{
+"type": "file",
+"name": "24 VS_巡音流歌.txt"
+},
+{
+"type": "file",
+"name": "25 VS_MEIKO.txt"
+},
+{
+"type": "file",
+"name": "26 VS_KAITO.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "special",
+"children": [
+{
+"type": "file",
+"name": "sp003 1周年跨年倒计时动画01.txt"
+},
+{
+"type": "file",
+"name": "sp004 1周年跨年倒计时动画02.txt"
+},
+{
+"type": "file",
+"name": "sp005 1周年跨年倒计时动画03.txt"
+},
+{
+"type": "file",
+"name": "sp006 1周年跨年倒计时动画04.txt"
+},
+{
+"type": "file",
+"name": "sp007 1周年跨年倒计时动画05.txt"
+},
+{
+"type": "file",
+"name": "sp008 1周年跨年倒计时动画06.txt"
+},
+{
+"type": "file",
+"name": "sp009 遷移測試用劇情_聯動的「世界」.txt"
+},
+{
+"type": "file",
+"name": "sp010 愚人节2023前导动画.txt"
+},
+{
+"type": "file",
+"name": "sp011 愚人节2023后日谈动画.txt"
+},
+{
+"type": "file",
+"name": "sp014 2周年跨年倒计时动画01.txt"
+},
+{
+"type": "file",
+"name": "sp015 2周年跨年倒计时动画02.txt"
+},
+{
+"type": "file",
+"name": "sp016 2周年跨年倒计时动画03.txt"
+},
+{
+"type": "file",
+"name": "sp017 2周年跨年倒计时动画04.txt"
+},
+{
+"type": "file",
+"name": "sp018 2周年跨年倒计时动画05.txt"
+},
+{
+"type": "file",
+"name": "sp019 2周年跨年倒计时动画06.txt"
+},
+{
+"type": "file",
+"name": "sp022 愚人节2024前导动画.txt"
+},
+{
+"type": "file",
+"name": "sp023 愚人节2024后日谈动画.txt"
+},
+{
+"type": "file",
+"name": "sp024 [回响]恶之大罪系列前导动画.txt"
+},
+{
+"type": "file",
+"name": "sp028 3周年跨年倒计时动画01.txt"
+},
+{
+"type": "file",
+"name": "sp029 3周年跨年倒计时动画02.txt"
+},
+{
+"type": "file",
+"name": "sp030 3周年跨年倒计时动画03.txt"
+},
+{
+"type": "file",
+"name": "sp031 3周年跨年倒计时动画04.txt"
+},
+{
+"type": "file",
+"name": "sp032 3周年跨年倒计时动画05.txt"
+},
+{
+"type": "file",
+"name": "sp033 3周年跨年倒计时动画06.txt"
+},
+{
+"type": "file",
+"name": "sp034 3周年动画.txt"
+},
+{
+"type": "file",
+"name": "sp036 [初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情序章.txt"
+},
+{
+"type": "file",
+"name": "sp037 [初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情终章.txt"
+},
+{
+"type": "file",
+"name": "sp038 3900's感谢庆典动画.txt"
+},
+{
+"type": "file",
+"name": "sp039 愚人节2025前导动画.txt"
+},
+{
+"type": "file",
+"name": "sp040 愚人节2025后日谈动画.txt"
+},
+{
+"type": "file",
+"name": "sp042 4周年跨年倒计时动画01.txt"
+},
+{
+"type": "file",
+"name": "sp043 4周年跨年倒计时动画02.txt"
+},
+{
+"type": "file",
+"name": "sp044 4周年跨年倒计时动画03.txt"
+},
+{
+"type": "file",
+"name": "sp045 4周年跨年倒计时动画04.txt"
+},
+{
+"type": "file",
+"name": "sp046 4周年跨年倒计时动画05.txt"
+},
+{
+"type": "file",
+"name": "sp047 4周年跨年倒计时动画06.txt"
+},
+{
+"type": "file",
+"name": "sp049 [初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 序章.txt"
+},
+{
+"type": "file",
+"name": "sp050 [初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 终章.txt"
+},
+{
+"type": "file",
+"name": "sp052 连接世界活动前日谈登录剧情.txt"
+},
+{
+"type": "file",
+"name": "sp053 愚人节2026前导动画.txt"
+},
+{
+"type": "file",
+"name": "sp054 愚人节2026后日谈动画.txt"
+},
+{
+"type": "file",
+"name": "sp056 [初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 序章.txt"
+},
+{
+"type": "file",
+"name": "sp057 [初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 终章.txt"
+},
+{
+"type": "file",
+"name": "sp058 1.5周年登录剧情.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "virtual_live",
 "children": [
 {
 "type": "file",
@@ -14082,966 +15042,6 @@
 {
 "type": "file",
 "name": "399 Link the Beats！ 后日谈·演唱会 (event_179).txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "main",
-"children": [
-{
-"type": "dir",
-"name": "1 虚拟歌手",
-"children": [
-{
-"type": "file",
-"name": "vsleo_01_01 秘密练习.txt"
-},
-{
-"type": "file",
-"name": "vsleo_01_02 学姐能做到的事.txt"
-},
-{
-"type": "file",
-"name": "vsleo_01_03 出人意料的一面.txt"
-},
-{
-"type": "file",
-"name": "vsleo_01_04 闪闪发光的每一天.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_01 全力以赴的演唱会！.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_02 打起精神来.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_03 蓝色的舞台.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_04 一起来开演唱会！.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_01 从一开始就存在的歌.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_02 痛苦的音符.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_03 我会陪在你身边.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_04 你的音乐.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_01 MEIKO研制的新品.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_02 成熟的口味.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_03 迈出和好的一步.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_04 大家一起歌唱！.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_01 玩偶装与奇妙幻境.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_02 有终才有始.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_03 让你绽放笑容的演出.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_04 在飞天舞台演出？！.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "2 Leo／need",
-"children": [
-{
-"type": "file",
-"name": "leo_01_00 序章.txt"
-},
-{
-"type": "file",
-"name": "leo_01_01 第四位儿时的伙伴.txt"
-},
-{
-"type": "file",
-"name": "leo_01_02 至少我…….txt"
-},
-{
-"type": "file",
-"name": "leo_01_03 只有两个人好像有点寂寞.txt"
-},
-{
-"type": "file",
-"name": "leo_01_04 教室「世界」.txt"
-},
-{
-"type": "file",
-"name": "leo_01_05 要不要组个乐队？.txt"
-},
-{
-"type": "file",
-"name": "leo_01_06 第一步.txt"
-},
-{
-"type": "file",
-"name": "leo_01_07 流歌姐，教教我！.txt"
-},
-{
-"type": "file",
-"name": "leo_01_08 看不见的星星.txt"
-},
-{
-"type": "file",
-"name": "leo_01_09 三人合奏？！.txt"
-},
-{
-"type": "file",
-"name": "leo_01_10 攀登架与流星雨.txt"
-},
-{
-"type": "file",
-"name": "leo_01_11 我可警告过你们了.txt"
-},
-{
-"type": "file",
-"name": "leo_01_12 “你到底帮谁？”.txt"
-},
-{
-"type": "file",
-"name": "leo_01_13 咲希的决定.txt"
-},
-{
-"type": "file",
-"name": "leo_01_14 因为珍惜.txt"
-},
-{
-"type": "file",
-"name": "leo_01_15 别自欺欺人了.txt"
-},
-{
-"type": "file",
-"name": "leo_01_16 “永不分离”.txt"
-},
-{
-"type": "file",
-"name": "leo_01_17 穗波的心愿.txt"
-},
-{
-"type": "file",
-"name": "leo_01_18 四个人的星空.txt"
-},
-{
-"type": "file",
-"name": "leo_01_19 needLe.txt"
-},
-{
-"type": "file",
-"name": "leo_01_20 Leo／need.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "3 MORE MORE JUMP！",
-"children": [
-{
-"type": "file",
-"name": "mmj_01_00 序章.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_01 崇拜的偶像！.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_02 把话说清楚！.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_03 只要努力就一定可以…….txt"
-},
-{
-"type": "file",
-"name": "mmj_01_04 正因为是偶像.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_05 来看演唱会吧！.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_06 舞台「世界」.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_07 偶像们的纠葛.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_08 伤人的话语.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_09 铃带来的勇气！.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_10 隐退.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_11 一直以来，谢谢你们.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_12 偶像的资格.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_13 骗子.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_14 我能传递给观众的事物.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_15 似近实远的舞台.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_16 蔚蓝的景色.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_17 再次欣赏那片景色.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_18 那一天看到的希望.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_19 偶像新锐队.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_20 MORE MORE JUMP！.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "4 Vivid BAD SQUAD",
-"children": [
-{
-"type": "file",
-"name": "street_01_00 序章.txt"
-},
-{
-"type": "file",
-"name": "street_01_01 满是涂鸦的街头.txt"
-},
-{
-"type": "file",
-"name": "street_01_02 最让人心潮澎湃的歌.txt"
-},
-{
-"type": "file",
-"name": "street_01_03 WEEKEND GARAGE.txt"
-},
-{
-"type": "file",
-"name": "street_01_04 BAD DOGS.txt"
-},
-{
-"type": "file",
-"name": "street_01_05 街头「世界」.txt"
-},
-{
-"type": "file",
-"name": "street_01_06 神奇的咖啡厅.txt"
-},
-{
-"type": "file",
-"name": "street_01_07 秘密的练习宝地.txt"
-},
-{
-"type": "file",
-"name": "street_01_08 我想这么认为.txt"
-},
-{
-"type": "file",
-"name": "street_01_09 首场演唱会.txt"
-},
-{
-"type": "file",
-"name": "street_01_10 被质疑的信念.txt"
-},
-{
-"type": "file",
-"name": "street_01_11 打开门的勇气.txt"
-},
-{
-"type": "file",
-"name": "street_01_12 绝不逃避！.txt"
-},
-{
-"type": "file",
-"name": "street_01_13 Vivids！.txt"
-},
-{
-"type": "file",
-"name": "street_01_14 你是认真的吗.txt"
-},
-{
-"type": "file",
-"name": "street_01_15 因为他们承认了我们的实力.txt"
-},
-{
-"type": "file",
-"name": "street_01_16 第三个人.txt"
-},
-{
-"type": "file",
-"name": "street_01_17 连与MEIKO与“秘密武器”.txt"
-},
-{
-"type": "file",
-"name": "street_01_18 决意.txt"
-},
-{
-"type": "file",
-"name": "street_01_19 Ready Steady.txt"
-},
-{
-"type": "file",
-"name": "street_01_20 Vivid BAD SQUAD.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "5 Wonderlands×Showtime",
-"children": [
-{
-"type": "file",
-"name": "wonder_01_00 序章.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_01 欢迎来到奇幻舞台！.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_02 与未来之星Wonderhoi .txt"
-},
-{
-"type": "file",
-"name": "wonder_01_03 奇幻乐园「世界」.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_04 物色成员！.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_05 异想天开的导演.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_06 第四名成员？.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_07 宁宁机器人登台亮相？！.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_08 演出剧团！成立！.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_09 怪人发挥本领.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_10 KAITO的提示.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_11 笑梦的梦想.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_12 公演开始！.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_13 失去的笑容.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_14 那日的心愿.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_15 爷爷的舞台.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_16 绝对不会失败的方法.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_17 孤独的炼金术师.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_18 什么是“最精彩的演出”.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_19 「世界」还没开始.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_20 Wonderlands×Showtime.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "6 25点，Nightcord见。",
-"children": [
-{
-"type": "file",
-"name": "nightcode_01_00 序章.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_01 午夜音乐社团.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_02 白色的初音未来.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_03 OWN.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_04 我是好孩子.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_05 消失的雪.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_06 无人「世界」.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_07 你们也都想抛开一切不是吗？.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_08 平庸之人的画.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_09 我只是想做自己而已.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_10 凭这种旋律是不够的.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_11 创作带来幸福的音乐.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_12 独一无二的歌.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_13 迷失的“自我”.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_14 会感到寂寞的.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_15 在自暴自弃之前.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_16 崩溃.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_17 两个人的诅咒.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_18 就算是这样我也要救你.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_19 写作悔恨的未来.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_20 25点，Nightcord见。.txt"
-}
-]
-}
-]
-},
-{
-"type": "dir",
-"name": "mysekai",
-"children": [
-{
-"type": "file",
-"name": "01 Ln_星乃一歌.txt"
-},
-{
-"type": "file",
-"name": "02 Ln_天马咲希.txt"
-},
-{
-"type": "file",
-"name": "03 Ln_望月穗波.txt"
-},
-{
-"type": "file",
-"name": "04 Ln_日野森志步.txt"
-},
-{
-"type": "file",
-"name": "05 MMJ_花里实乃理.txt"
-},
-{
-"type": "file",
-"name": "06 MMJ_桐谷遥.txt"
-},
-{
-"type": "file",
-"name": "07 MMJ_桃井爱莉.txt"
-},
-{
-"type": "file",
-"name": "08 MMJ_日野森雫.txt"
-},
-{
-"type": "file",
-"name": "09 VBS_小豆泽心羽.txt"
-},
-{
-"type": "file",
-"name": "10 VBS_白石杏.txt"
-},
-{
-"type": "file",
-"name": "11 VBS_东云彰人.txt"
-},
-{
-"type": "file",
-"name": "12 VBS_青柳冬弥.txt"
-},
-{
-"type": "file",
-"name": "13 WxS_天马司.txt"
-},
-{
-"type": "file",
-"name": "14 WxS_凤笑梦.txt"
-},
-{
-"type": "file",
-"name": "15 WxS_草薙宁宁.txt"
-},
-{
-"type": "file",
-"name": "16 WxS_神代类.txt"
-},
-{
-"type": "file",
-"name": "17 N25_宵崎奏.txt"
-},
-{
-"type": "file",
-"name": "18 N25_朝比奈真冬.txt"
-},
-{
-"type": "file",
-"name": "19 N25_东云绘名.txt"
-},
-{
-"type": "file",
-"name": "20 N25_晓山瑞希.txt"
-},
-{
-"type": "file",
-"name": "27 Ln_初音未来.txt"
-},
-{
-"type": "file",
-"name": "28 MMJ_初音未来.txt"
-},
-{
-"type": "file",
-"name": "29 VBS_初音未来.txt"
-},
-{
-"type": "file",
-"name": "30 WxS_初音未来.txt"
-},
-{
-"type": "file",
-"name": "31 N25_初音未来.txt"
-},
-{
-"type": "file",
-"name": "33 MMJ_镜音铃.txt"
-},
-{
-"type": "file",
-"name": "39 VBS_镜音连.txt"
-},
-{
-"type": "file",
-"name": "42 Ln_巡音流歌.txt"
-},
-{
-"type": "file",
-"name": "49 VBS_MEIKO.txt"
-},
-{
-"type": "file",
-"name": "55 WxS_KAITO.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "self",
-"children": [
-{
-"type": "file",
-"name": "01 Ln_星乃一歌.txt"
-},
-{
-"type": "file",
-"name": "02 Ln_天马咲希.txt"
-},
-{
-"type": "file",
-"name": "03 Ln_望月穗波.txt"
-},
-{
-"type": "file",
-"name": "04 Ln_日野森志步.txt"
-},
-{
-"type": "file",
-"name": "05 MMJ_花里实乃理.txt"
-},
-{
-"type": "file",
-"name": "06 MMJ_桐谷遥.txt"
-},
-{
-"type": "file",
-"name": "07 MMJ_桃井爱莉.txt"
-},
-{
-"type": "file",
-"name": "08 MMJ_日野森雫.txt"
-},
-{
-"type": "file",
-"name": "09 VBS_小豆泽心羽.txt"
-},
-{
-"type": "file",
-"name": "10 VBS_白石杏.txt"
-},
-{
-"type": "file",
-"name": "11 VBS_东云彰人.txt"
-},
-{
-"type": "file",
-"name": "12 VBS_青柳冬弥.txt"
-},
-{
-"type": "file",
-"name": "13 WxS_天马司.txt"
-},
-{
-"type": "file",
-"name": "14 WxS_凤笑梦.txt"
-},
-{
-"type": "file",
-"name": "15 WxS_草薙宁宁.txt"
-},
-{
-"type": "file",
-"name": "16 WxS_神代类.txt"
-},
-{
-"type": "file",
-"name": "17 N25_宵崎奏.txt"
-},
-{
-"type": "file",
-"name": "18 N25_朝比奈真冬.txt"
-},
-{
-"type": "file",
-"name": "19 N25_东云绘名.txt"
-},
-{
-"type": "file",
-"name": "20 N25_晓山瑞希.txt"
-},
-{
-"type": "file",
-"name": "21 VS_初音未来.txt"
-},
-{
-"type": "file",
-"name": "22 VS_镜音铃.txt"
-},
-{
-"type": "file",
-"name": "23 VS_镜音连.txt"
-},
-{
-"type": "file",
-"name": "24 VS_巡音流歌.txt"
-},
-{
-"type": "file",
-"name": "25 VS_MEIKO.txt"
-},
-{
-"type": "file",
-"name": "26 VS_KAITO.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "special",
-"children": [
-{
-"type": "file",
-"name": "sp003 1周年跨年倒计时动画01.txt"
-},
-{
-"type": "file",
-"name": "sp004 1周年跨年倒计时动画02.txt"
-},
-{
-"type": "file",
-"name": "sp005 1周年跨年倒计时动画03.txt"
-},
-{
-"type": "file",
-"name": "sp006 1周年跨年倒计时动画04.txt"
-},
-{
-"type": "file",
-"name": "sp007 1周年跨年倒计时动画05.txt"
-},
-{
-"type": "file",
-"name": "sp008 1周年跨年倒计时动画06.txt"
-},
-{
-"type": "file",
-"name": "sp009 遷移測試用劇情_聯動的「世界」.txt"
-},
-{
-"type": "file",
-"name": "sp010 愚人节2023前导动画.txt"
-},
-{
-"type": "file",
-"name": "sp011 愚人节2023后日谈动画.txt"
-},
-{
-"type": "file",
-"name": "sp014 2周年跨年倒计时动画01.txt"
-},
-{
-"type": "file",
-"name": "sp015 2周年跨年倒计时动画02.txt"
-},
-{
-"type": "file",
-"name": "sp016 2周年跨年倒计时动画03.txt"
-},
-{
-"type": "file",
-"name": "sp017 2周年跨年倒计时动画04.txt"
-},
-{
-"type": "file",
-"name": "sp018 2周年跨年倒计时动画05.txt"
-},
-{
-"type": "file",
-"name": "sp019 2周年跨年倒计时动画06.txt"
-},
-{
-"type": "file",
-"name": "sp022 愚人节2024前导动画.txt"
-},
-{
-"type": "file",
-"name": "sp023 愚人节2024后日谈动画.txt"
-},
-{
-"type": "file",
-"name": "sp024 [回响]恶之大罪系列前导动画.txt"
-},
-{
-"type": "file",
-"name": "sp028 3周年跨年倒计时动画01.txt"
-},
-{
-"type": "file",
-"name": "sp029 3周年跨年倒计时动画02.txt"
-},
-{
-"type": "file",
-"name": "sp030 3周年跨年倒计时动画03.txt"
-},
-{
-"type": "file",
-"name": "sp031 3周年跨年倒计时动画04.txt"
-},
-{
-"type": "file",
-"name": "sp032 3周年跨年倒计时动画05.txt"
-},
-{
-"type": "file",
-"name": "sp033 3周年跨年倒计时动画06.txt"
-},
-{
-"type": "file",
-"name": "sp034 3周年动画.txt"
-},
-{
-"type": "file",
-"name": "sp036 [初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情序章.txt"
-},
-{
-"type": "file",
-"name": "sp037 [初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情终章.txt"
-},
-{
-"type": "file",
-"name": "sp038 3900's感谢庆典动画.txt"
-},
-{
-"type": "file",
-"name": "sp039 愚人节2025前导动画.txt"
-},
-{
-"type": "file",
-"name": "sp040 愚人节2025后日谈动画.txt"
-},
-{
-"type": "file",
-"name": "sp042 4周年跨年倒计时动画01.txt"
-},
-{
-"type": "file",
-"name": "sp043 4周年跨年倒计时动画02.txt"
-},
-{
-"type": "file",
-"name": "sp044 4周年跨年倒计时动画03.txt"
-},
-{
-"type": "file",
-"name": "sp045 4周年跨年倒计时动画04.txt"
-},
-{
-"type": "file",
-"name": "sp046 4周年跨年倒计时动画05.txt"
-},
-{
-"type": "file",
-"name": "sp047 4周年跨年倒计时动画06.txt"
-},
-{
-"type": "file",
-"name": "sp049 [初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 序章.txt"
-},
-{
-"type": "file",
-"name": "sp050 [初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 终章.txt"
-},
-{
-"type": "file",
-"name": "sp052 连接世界活动前日谈登录剧情.txt"
-},
-{
-"type": "file",
-"name": "sp053 愚人节2026前导动画.txt"
-},
-{
-"type": "file",
-"name": "sp054 愚人节2026后日谈动画.txt"
-},
-{
-"type": "file",
-"name": "sp056 [初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 序章.txt"
-},
-{
-"type": "file",
-"name": "sp057 [初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 终章.txt"
-},
-{
-"type": "file",
-"name": "sp058 1.5周年登录剧情.txt"
 }
 ]
 }

@@ -12511,7 +12511,943 @@
 },
 {
 "type": "dir",
-"name": "live",
+"name": "main",
+"children": [
+{
+"type": "dir",
+"name": "1 VIRTUAL SINGER",
+"children": [
+{
+"type": "file",
+"name": "vsleo_01_01 Secret Practice.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_02 Because I'm Your Senpai.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_03 An Unusual Side.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_04 Sparkling Days.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_01 All-Out Show!.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_02 Cheer Up.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_03 A Blue Stage.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_04 On Stage Together!.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_01 The First Song.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_02 Painful Note.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_03 Right Here With You.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_04 Your Music.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_01 MEIKO's New Menu.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_02 An Adult's Palate.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_03 A Step Towards Reconciliation.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_04 Let's All Sing!.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_01 Mascot Wonderland.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_02 Endings and Beginnings.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_03 A Show to Make You Smile.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_04 The Flying Show？!.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "2 Leo／need",
+"children": [
+{
+"type": "file",
+"name": "leo_01_00 Opening.txt"
+},
+{
+"type": "file",
+"name": "leo_01_01 The Fourth Childhood Friend.txt"
+},
+{
+"type": "file",
+"name": "leo_01_02 At the Very Least.txt"
+},
+{
+"type": "file",
+"name": "leo_01_03 Two is Still Lonely.txt"
+},
+{
+"type": "file",
+"name": "leo_01_04 School SEKAI.txt"
+},
+{
+"type": "file",
+"name": "leo_01_05 Wanna Start a Band？.txt"
+},
+{
+"type": "file",
+"name": "leo_01_06 The First Step.txt"
+},
+{
+"type": "file",
+"name": "leo_01_07 Teach Me, Luka!.txt"
+},
+{
+"type": "file",
+"name": "leo_01_08 Unseen Star.txt"
+},
+{
+"type": "file",
+"name": "leo_01_09 Three-Person Session？.txt"
+},
+{
+"type": "file",
+"name": "leo_01_10 Monkey Bars and Meteor Showers.txt"
+},
+{
+"type": "file",
+"name": "leo_01_11 I Warned You.txt"
+},
+{
+"type": "file",
+"name": "leo_01_12 Whose Side Are You On？.txt"
+},
+{
+"type": "file",
+"name": "leo_01_13 Saki's Resolve.txt"
+},
+{
+"type": "file",
+"name": "leo_01_14 Precious to Me.txt"
+},
+{
+"type": "file",
+"name": "leo_01_15 Tell Me Straight.txt"
+},
+{
+"type": "file",
+"name": "leo_01_16 Together Forever.txt"
+},
+{
+"type": "file",
+"name": "leo_01_17 Honami's Feelings.txt"
+},
+{
+"type": "file",
+"name": "leo_01_18 Quartet's Starry Sky.txt"
+},
+{
+"type": "file",
+"name": "leo_01_19 needLe.txt"
+},
+{
+"type": "file",
+"name": "leo_01_20 Leo／need.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "3 MORE MORE JUMP!",
+"children": [
+{
+"type": "file",
+"name": "mmj_01_00 Opening.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_01 The Idol I Admire!.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_02 Make Up Your Mind!.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_03 If You Try Your Best.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_04 Because I'm an Idol.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_05 Come See My Show!.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_06 Stage SEKAI.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_07 Idol Troubles.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_08 Unwanted Words.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_09 Cheering Up with Rin!.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_10 Retirement.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_11 Thank You For Everything.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_12 Idol Qualifications.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_13 Liar.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_14 That Which You Give.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_15 So Close, Yet So Far.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_16 A Blue View.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_17 To See That View Once More.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_18 The Hope I Saw That Day.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_19 Newly Edgy Idols.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_20 MORE MORE JUMP!.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "4 Vivid BAD SQUAD",
+"children": [
+{
+"type": "file",
+"name": "street_01_00 Opening.txt"
+},
+{
+"type": "file",
+"name": "street_01_01 Graffiti Everywhere.txt"
+},
+{
+"type": "file",
+"name": "street_01_02 The Most Heart-Pounding Song.txt"
+},
+{
+"type": "file",
+"name": "street_01_03 Weekend Garage.txt"
+},
+{
+"type": "file",
+"name": "street_01_04 BAD DOGS.txt"
+},
+{
+"type": "file",
+"name": "street_01_05 Street SEKAI.txt"
+},
+{
+"type": "file",
+"name": "street_01_06 Mysterious Cafe.txt"
+},
+{
+"type": "file",
+"name": "street_01_07 Best Place to Practice.txt"
+},
+{
+"type": "file",
+"name": "street_01_08 I Want to Believe.txt"
+},
+{
+"type": "file",
+"name": "street_01_09 First Ever Event.txt"
+},
+{
+"type": "file",
+"name": "street_01_10 Resolve in Question.txt"
+},
+{
+"type": "file",
+"name": "street_01_11 The Courage I Need.txt"
+},
+{
+"type": "file",
+"name": "street_01_12 I Refuse to Run Away!.txt"
+},
+{
+"type": "file",
+"name": "street_01_13 Vivids!.txt"
+},
+{
+"type": "file",
+"name": "street_01_14 Are You Serious？.txt"
+},
+{
+"type": "file",
+"name": "street_01_15 A Helping Hand.txt"
+},
+{
+"type": "file",
+"name": "street_01_16 The Third.txt"
+},
+{
+"type": "file",
+"name": "street_01_17 Len, MEIKO, and the Reserve Member.txt"
+},
+{
+"type": "file",
+"name": "street_01_18 Distinction.txt"
+},
+{
+"type": "file",
+"name": "street_01_19 Ready Steady.txt"
+},
+{
+"type": "file",
+"name": "street_01_20 Vivid BAD SQUAD.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "5 Wonderlands×Showtime",
+"children": [
+{
+"type": "file",
+"name": "wonder_01_00 Opening.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_01 Welcome to the Wonder Stage!.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_02 The Future Star and Wonderhoy!.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_03 Wonderland SEKAI.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_04 Members Needed!.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_05 Strange Producer.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_06 The Fourth Member？.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_07 Robo-Nene on Stage？!.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_08 The Team's All Here!.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_09 The Strange and the Talented.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_10 KAITO's Hint.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_11 Emu's Dream.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_12 Public Performance!.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_13 A Smile Lost.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_14 The Feeling That Day.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_15 Grandpa's Stage.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_16 How Not to Fail.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_17 The Lonely Alchemist.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_18 The Path to the Greatest Show.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_19 The World Hasn't Even Started Yet.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_20 Wonderlands×Showtime.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "6 Nightcord at 25：00",
+"children": [
+{
+"type": "file",
+"name": "nightcode_01_00 Opening.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_01 Midnight Meet-Up.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_02 White Miku.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_03 OWN.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_04 I'm a ＂Good Girl＂.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_05 Vanishing Snow.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_06 Empty SEKAI.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_07 Though I Want to Disappear.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_08 Amateur Painter.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_09 I Just Want to be Myself.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_10 The Missing Sound.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_11 Music For Happiness.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_12 A Single Song.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_13 Who am ＂I＂？.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_14 To Be So Lonely.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_15 Before I Disappear.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_16 Dissolve Away.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_17 Their Curse.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_18 Desire To Save.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_19 Composing the Future.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_20 Nightcord at 25：00.txt"
+}
+]
+}
+]
+},
+{
+"type": "dir",
+"name": "mysekai",
+"children": [
+{
+"type": "file",
+"name": "01 Ln_Ichika Hoshino.txt"
+},
+{
+"type": "file",
+"name": "02 Ln_Saki Tenma.txt"
+},
+{
+"type": "file",
+"name": "03 Ln_Honami Mochizuki.txt"
+},
+{
+"type": "file",
+"name": "04 Ln_Shiho Hinomori.txt"
+},
+{
+"type": "file",
+"name": "05 MMJ_Minori Hanasato.txt"
+},
+{
+"type": "file",
+"name": "06 MMJ_Haruka Kiritani.txt"
+},
+{
+"type": "file",
+"name": "07 MMJ_Airi Momoi.txt"
+},
+{
+"type": "file",
+"name": "08 MMJ_Shizuku Hinomori.txt"
+},
+{
+"type": "file",
+"name": "09 VBS_Kohane Azusawa.txt"
+},
+{
+"type": "file",
+"name": "10 VBS_An Shiraishi.txt"
+},
+{
+"type": "file",
+"name": "11 VBS_Akito Shinonome.txt"
+},
+{
+"type": "file",
+"name": "12 VBS_Toya Aoyagi.txt"
+},
+{
+"type": "file",
+"name": "13 WxS_Tsukasa Tenma.txt"
+},
+{
+"type": "file",
+"name": "14 WxS_Emu Otori.txt"
+},
+{
+"type": "file",
+"name": "15 WxS_Nene Kusanagi.txt"
+},
+{
+"type": "file",
+"name": "16 WxS_Rui Kamishiro.txt"
+},
+{
+"type": "file",
+"name": "17 N25_Kanade Yoisaki.txt"
+},
+{
+"type": "file",
+"name": "18 N25_Mafuyu Asahina.txt"
+},
+{
+"type": "file",
+"name": "19 N25_Ena Shinonome.txt"
+},
+{
+"type": "file",
+"name": "20 N25_Mizuki Akiyama.txt"
+},
+{
+"type": "file",
+"name": "27 Ln_Hatsune Miku.txt"
+},
+{
+"type": "file",
+"name": "28 MMJ_Hatsune Miku.txt"
+},
+{
+"type": "file",
+"name": "29 VBS_Hatsune Miku.txt"
+},
+{
+"type": "file",
+"name": "30 WxS_Hatsune Miku.txt"
+},
+{
+"type": "file",
+"name": "31 N25_Hatsune Miku.txt"
+},
+{
+"type": "file",
+"name": "33 MMJ_Kagamine Rin.txt"
+},
+{
+"type": "file",
+"name": "39 VBS_Kagamine Len.txt"
+},
+{
+"type": "file",
+"name": "42 Ln_Megurine Luka.txt"
+},
+{
+"type": "file",
+"name": "49 VBS_MEIKO.txt"
+},
+{
+"type": "file",
+"name": "55 WxS_KAITO.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "self",
+"children": [
+{
+"type": "file",
+"name": "01 Ln_Ichika Hoshino.txt"
+},
+{
+"type": "file",
+"name": "02 Ln_Saki Tenma.txt"
+},
+{
+"type": "file",
+"name": "03 Ln_Honami Mochizuki.txt"
+},
+{
+"type": "file",
+"name": "04 Ln_Shiho Hinomori.txt"
+},
+{
+"type": "file",
+"name": "05 MMJ_Minori Hanasato.txt"
+},
+{
+"type": "file",
+"name": "06 MMJ_Haruka Kiritani.txt"
+},
+{
+"type": "file",
+"name": "07 MMJ_Airi Momoi.txt"
+},
+{
+"type": "file",
+"name": "08 MMJ_Shizuku Hinomori.txt"
+},
+{
+"type": "file",
+"name": "09 VBS_Kohane Azusawa.txt"
+},
+{
+"type": "file",
+"name": "10 VBS_An Shiraishi.txt"
+},
+{
+"type": "file",
+"name": "11 VBS_Akito Shinonome.txt"
+},
+{
+"type": "file",
+"name": "12 VBS_Toya Aoyagi.txt"
+},
+{
+"type": "file",
+"name": "13 WxS_Tsukasa Tenma.txt"
+},
+{
+"type": "file",
+"name": "14 WxS_Emu Otori.txt"
+},
+{
+"type": "file",
+"name": "15 WxS_Nene Kusanagi.txt"
+},
+{
+"type": "file",
+"name": "16 WxS_Rui Kamishiro.txt"
+},
+{
+"type": "file",
+"name": "17 N25_Kanade Yoisaki.txt"
+},
+{
+"type": "file",
+"name": "18 N25_Mafuyu Asahina.txt"
+},
+{
+"type": "file",
+"name": "19 N25_Ena Shinonome.txt"
+},
+{
+"type": "file",
+"name": "20 N25_Mizuki Akiyama.txt"
+},
+{
+"type": "file",
+"name": "21 VS_Hatsune Miku.txt"
+},
+{
+"type": "file",
+"name": "22 VS_Kagamine Rin.txt"
+},
+{
+"type": "file",
+"name": "23 VS_Kagamine Len.txt"
+},
+{
+"type": "file",
+"name": "24 VS_Megurine Luka.txt"
+},
+{
+"type": "file",
+"name": "25 VS_MEIKO.txt"
+},
+{
+"type": "file",
+"name": "26 VS_KAITO.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "special",
+"children": [
+{
+"type": "file",
+"name": "sp003 一周年カウントダウンムービー01.txt"
+},
+{
+"type": "file",
+"name": "sp004 一周年カウントダウンムービー02.txt"
+},
+{
+"type": "file",
+"name": "sp005 一周年カウントダウンムービー03.txt"
+},
+{
+"type": "file",
+"name": "sp006 一周年カウントダウンムービー04.txt"
+},
+{
+"type": "file",
+"name": "sp007 一周年カウントダウンムービー05.txt"
+},
+{
+"type": "file",
+"name": "sp008 一周年カウントダウンムービー06.txt"
+},
+{
+"type": "file",
+"name": "sp009 遷移テスト用ストーリー_コラボのセカイ.txt"
+},
+{
+"type": "file",
+"name": "sp010 エイプリルフール2022導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp011 エイプリルフール2022後日談ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp022 エイプリルフール2023導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp023 エイプリルフール2023後日談ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp028 3周年カウントダウンムービー01.txt"
+},
+{
+"type": "file",
+"name": "sp029 3周年カウントダウンムービー02.txt"
+},
+{
+"type": "file",
+"name": "sp030 3周年カウントダウンムービー03.txt"
+},
+{
+"type": "file",
+"name": "sp031 3周年カウントダウンムービー04.txt"
+},
+{
+"type": "file",
+"name": "sp032 3周年カウントダウンムービー05.txt"
+},
+{
+"type": "file",
+"name": "sp033 3周年カウントダウンムービー06.txt"
+},
+{
+"type": "file",
+"name": "sp034 3周年ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp036 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ.txt"
+},
+{
+"type": "file",
+"name": "sp037 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ.txt"
+},
+{
+"type": "file",
+"name": "sp039 April Fool's 2024 Opening Cutscene.txt"
+},
+{
+"type": "file",
+"name": "sp040 April Fool's 2024 Ending Cutscene.txt"
+},
+{
+"type": "file",
+"name": "sp042 4周年カウントダウンムービー01.txt"
+},
+{
+"type": "file",
+"name": "sp043 4周年カウントダウンムービー02.txt"
+},
+{
+"type": "file",
+"name": "sp044 4周年カウントダウンムービー03.txt"
+},
+{
+"type": "file",
+"name": "sp045 4周年カウントダウンムービー04.txt"
+},
+{
+"type": "file",
+"name": "sp046 4周年カウントダウンムービー05.txt"
+},
+{
+"type": "file",
+"name": "sp047 4周年カウントダウンムービー06.txt"
+},
+{
+"type": "file",
+"name": "sp049 [プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ.txt"
+},
+{
+"type": "file",
+"name": "sp050 [プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ.txt"
+},
+{
+"type": "file",
+"name": "sp052 ワールドリンクイベント前日譚ログインストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp053 エイプリルフール2025導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp054 エイプリルフール2025後日談ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp056 COLORFUL STAGE!×Tamagotchi Crossover Login Story Prologue.txt"
+},
+{
+"type": "file",
+"name": "sp057 COLORFUL STAGE!×Tamagotchi Crossover Login Story Epilogue.txt"
+},
+{
+"type": "file",
+"name": "sp061 [復刻]悪ノ大罪シリーズ導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp098 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ.txt"
+},
+{
+"type": "file",
+"name": "sp099 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "virtual_live",
 "children": [
 {
 "type": "file",
@@ -14008,942 +14944,6 @@
 {
 "type": "file",
 "name": "397 Deep Dark for Light After Show (event_178).txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "main",
-"children": [
-{
-"type": "dir",
-"name": "1 VIRTUAL SINGER",
-"children": [
-{
-"type": "file",
-"name": "vsleo_01_01 Secret Practice.txt"
-},
-{
-"type": "file",
-"name": "vsleo_01_02 Because I'm Your Senpai.txt"
-},
-{
-"type": "file",
-"name": "vsleo_01_03 An Unusual Side.txt"
-},
-{
-"type": "file",
-"name": "vsleo_01_04 Sparkling Days.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_01 All-Out Show!.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_02 Cheer Up.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_03 A Blue Stage.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_04 On Stage Together!.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_01 The First Song.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_02 Painful Note.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_03 Right Here With You.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_04 Your Music.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_01 MEIKO's New Menu.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_02 An Adult's Palate.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_03 A Step Towards Reconciliation.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_04 Let's All Sing!.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_01 Mascot Wonderland.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_02 Endings and Beginnings.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_03 A Show to Make You Smile.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_04 The Flying Show？!.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "2 Leo／need",
-"children": [
-{
-"type": "file",
-"name": "leo_01_00 Opening.txt"
-},
-{
-"type": "file",
-"name": "leo_01_01 The Fourth Childhood Friend.txt"
-},
-{
-"type": "file",
-"name": "leo_01_02 At the Very Least.txt"
-},
-{
-"type": "file",
-"name": "leo_01_03 Two is Still Lonely.txt"
-},
-{
-"type": "file",
-"name": "leo_01_04 School SEKAI.txt"
-},
-{
-"type": "file",
-"name": "leo_01_05 Wanna Start a Band？.txt"
-},
-{
-"type": "file",
-"name": "leo_01_06 The First Step.txt"
-},
-{
-"type": "file",
-"name": "leo_01_07 Teach Me, Luka!.txt"
-},
-{
-"type": "file",
-"name": "leo_01_08 Unseen Star.txt"
-},
-{
-"type": "file",
-"name": "leo_01_09 Three-Person Session？.txt"
-},
-{
-"type": "file",
-"name": "leo_01_10 Monkey Bars and Meteor Showers.txt"
-},
-{
-"type": "file",
-"name": "leo_01_11 I Warned You.txt"
-},
-{
-"type": "file",
-"name": "leo_01_12 Whose Side Are You On？.txt"
-},
-{
-"type": "file",
-"name": "leo_01_13 Saki's Resolve.txt"
-},
-{
-"type": "file",
-"name": "leo_01_14 Precious to Me.txt"
-},
-{
-"type": "file",
-"name": "leo_01_15 Tell Me Straight.txt"
-},
-{
-"type": "file",
-"name": "leo_01_16 Together Forever.txt"
-},
-{
-"type": "file",
-"name": "leo_01_17 Honami's Feelings.txt"
-},
-{
-"type": "file",
-"name": "leo_01_18 Quartet's Starry Sky.txt"
-},
-{
-"type": "file",
-"name": "leo_01_19 needLe.txt"
-},
-{
-"type": "file",
-"name": "leo_01_20 Leo／need.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "3 MORE MORE JUMP!",
-"children": [
-{
-"type": "file",
-"name": "mmj_01_00 Opening.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_01 The Idol I Admire!.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_02 Make Up Your Mind!.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_03 If You Try Your Best.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_04 Because I'm an Idol.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_05 Come See My Show!.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_06 Stage SEKAI.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_07 Idol Troubles.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_08 Unwanted Words.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_09 Cheering Up with Rin!.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_10 Retirement.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_11 Thank You For Everything.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_12 Idol Qualifications.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_13 Liar.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_14 That Which You Give.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_15 So Close, Yet So Far.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_16 A Blue View.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_17 To See That View Once More.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_18 The Hope I Saw That Day.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_19 Newly Edgy Idols.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_20 MORE MORE JUMP!.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "4 Vivid BAD SQUAD",
-"children": [
-{
-"type": "file",
-"name": "street_01_00 Opening.txt"
-},
-{
-"type": "file",
-"name": "street_01_01 Graffiti Everywhere.txt"
-},
-{
-"type": "file",
-"name": "street_01_02 The Most Heart-Pounding Song.txt"
-},
-{
-"type": "file",
-"name": "street_01_03 Weekend Garage.txt"
-},
-{
-"type": "file",
-"name": "street_01_04 BAD DOGS.txt"
-},
-{
-"type": "file",
-"name": "street_01_05 Street SEKAI.txt"
-},
-{
-"type": "file",
-"name": "street_01_06 Mysterious Cafe.txt"
-},
-{
-"type": "file",
-"name": "street_01_07 Best Place to Practice.txt"
-},
-{
-"type": "file",
-"name": "street_01_08 I Want to Believe.txt"
-},
-{
-"type": "file",
-"name": "street_01_09 First Ever Event.txt"
-},
-{
-"type": "file",
-"name": "street_01_10 Resolve in Question.txt"
-},
-{
-"type": "file",
-"name": "street_01_11 The Courage I Need.txt"
-},
-{
-"type": "file",
-"name": "street_01_12 I Refuse to Run Away!.txt"
-},
-{
-"type": "file",
-"name": "street_01_13 Vivids!.txt"
-},
-{
-"type": "file",
-"name": "street_01_14 Are You Serious？.txt"
-},
-{
-"type": "file",
-"name": "street_01_15 A Helping Hand.txt"
-},
-{
-"type": "file",
-"name": "street_01_16 The Third.txt"
-},
-{
-"type": "file",
-"name": "street_01_17 Len, MEIKO, and the Reserve Member.txt"
-},
-{
-"type": "file",
-"name": "street_01_18 Distinction.txt"
-},
-{
-"type": "file",
-"name": "street_01_19 Ready Steady.txt"
-},
-{
-"type": "file",
-"name": "street_01_20 Vivid BAD SQUAD.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "5 Wonderlands×Showtime",
-"children": [
-{
-"type": "file",
-"name": "wonder_01_00 Opening.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_01 Welcome to the Wonder Stage!.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_02 The Future Star and Wonderhoy!.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_03 Wonderland SEKAI.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_04 Members Needed!.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_05 Strange Producer.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_06 The Fourth Member？.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_07 Robo-Nene on Stage？!.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_08 The Team's All Here!.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_09 The Strange and the Talented.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_10 KAITO's Hint.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_11 Emu's Dream.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_12 Public Performance!.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_13 A Smile Lost.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_14 The Feeling That Day.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_15 Grandpa's Stage.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_16 How Not to Fail.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_17 The Lonely Alchemist.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_18 The Path to the Greatest Show.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_19 The World Hasn't Even Started Yet.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_20 Wonderlands×Showtime.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "6 Nightcord at 25：00",
-"children": [
-{
-"type": "file",
-"name": "nightcode_01_00 Opening.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_01 Midnight Meet-Up.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_02 White Miku.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_03 OWN.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_04 I'm a ＂Good Girl＂.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_05 Vanishing Snow.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_06 Empty SEKAI.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_07 Though I Want to Disappear.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_08 Amateur Painter.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_09 I Just Want to be Myself.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_10 The Missing Sound.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_11 Music For Happiness.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_12 A Single Song.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_13 Who am ＂I＂？.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_14 To Be So Lonely.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_15 Before I Disappear.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_16 Dissolve Away.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_17 Their Curse.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_18 Desire To Save.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_19 Composing the Future.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_20 Nightcord at 25：00.txt"
-}
-]
-}
-]
-},
-{
-"type": "dir",
-"name": "mysekai",
-"children": [
-{
-"type": "file",
-"name": "01 Ln_Ichika Hoshino.txt"
-},
-{
-"type": "file",
-"name": "02 Ln_Saki Tenma.txt"
-},
-{
-"type": "file",
-"name": "03 Ln_Honami Mochizuki.txt"
-},
-{
-"type": "file",
-"name": "04 Ln_Shiho Hinomori.txt"
-},
-{
-"type": "file",
-"name": "05 MMJ_Minori Hanasato.txt"
-},
-{
-"type": "file",
-"name": "06 MMJ_Haruka Kiritani.txt"
-},
-{
-"type": "file",
-"name": "07 MMJ_Airi Momoi.txt"
-},
-{
-"type": "file",
-"name": "08 MMJ_Shizuku Hinomori.txt"
-},
-{
-"type": "file",
-"name": "09 VBS_Kohane Azusawa.txt"
-},
-{
-"type": "file",
-"name": "10 VBS_An Shiraishi.txt"
-},
-{
-"type": "file",
-"name": "11 VBS_Akito Shinonome.txt"
-},
-{
-"type": "file",
-"name": "12 VBS_Toya Aoyagi.txt"
-},
-{
-"type": "file",
-"name": "13 WxS_Tsukasa Tenma.txt"
-},
-{
-"type": "file",
-"name": "14 WxS_Emu Otori.txt"
-},
-{
-"type": "file",
-"name": "15 WxS_Nene Kusanagi.txt"
-},
-{
-"type": "file",
-"name": "16 WxS_Rui Kamishiro.txt"
-},
-{
-"type": "file",
-"name": "17 N25_Kanade Yoisaki.txt"
-},
-{
-"type": "file",
-"name": "18 N25_Mafuyu Asahina.txt"
-},
-{
-"type": "file",
-"name": "19 N25_Ena Shinonome.txt"
-},
-{
-"type": "file",
-"name": "20 N25_Mizuki Akiyama.txt"
-},
-{
-"type": "file",
-"name": "27 Ln_Hatsune Miku.txt"
-},
-{
-"type": "file",
-"name": "28 MMJ_Hatsune Miku.txt"
-},
-{
-"type": "file",
-"name": "29 VBS_Hatsune Miku.txt"
-},
-{
-"type": "file",
-"name": "30 WxS_Hatsune Miku.txt"
-},
-{
-"type": "file",
-"name": "31 N25_Hatsune Miku.txt"
-},
-{
-"type": "file",
-"name": "33 MMJ_Kagamine Rin.txt"
-},
-{
-"type": "file",
-"name": "39 VBS_Kagamine Len.txt"
-},
-{
-"type": "file",
-"name": "42 Ln_Megurine Luka.txt"
-},
-{
-"type": "file",
-"name": "49 VBS_MEIKO.txt"
-},
-{
-"type": "file",
-"name": "55 WxS_KAITO.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "self",
-"children": [
-{
-"type": "file",
-"name": "01 Ln_Ichika Hoshino.txt"
-},
-{
-"type": "file",
-"name": "02 Ln_Saki Tenma.txt"
-},
-{
-"type": "file",
-"name": "03 Ln_Honami Mochizuki.txt"
-},
-{
-"type": "file",
-"name": "04 Ln_Shiho Hinomori.txt"
-},
-{
-"type": "file",
-"name": "05 MMJ_Minori Hanasato.txt"
-},
-{
-"type": "file",
-"name": "06 MMJ_Haruka Kiritani.txt"
-},
-{
-"type": "file",
-"name": "07 MMJ_Airi Momoi.txt"
-},
-{
-"type": "file",
-"name": "08 MMJ_Shizuku Hinomori.txt"
-},
-{
-"type": "file",
-"name": "09 VBS_Kohane Azusawa.txt"
-},
-{
-"type": "file",
-"name": "10 VBS_An Shiraishi.txt"
-},
-{
-"type": "file",
-"name": "11 VBS_Akito Shinonome.txt"
-},
-{
-"type": "file",
-"name": "12 VBS_Toya Aoyagi.txt"
-},
-{
-"type": "file",
-"name": "13 WxS_Tsukasa Tenma.txt"
-},
-{
-"type": "file",
-"name": "14 WxS_Emu Otori.txt"
-},
-{
-"type": "file",
-"name": "15 WxS_Nene Kusanagi.txt"
-},
-{
-"type": "file",
-"name": "16 WxS_Rui Kamishiro.txt"
-},
-{
-"type": "file",
-"name": "17 N25_Kanade Yoisaki.txt"
-},
-{
-"type": "file",
-"name": "18 N25_Mafuyu Asahina.txt"
-},
-{
-"type": "file",
-"name": "19 N25_Ena Shinonome.txt"
-},
-{
-"type": "file",
-"name": "20 N25_Mizuki Akiyama.txt"
-},
-{
-"type": "file",
-"name": "21 VS_Hatsune Miku.txt"
-},
-{
-"type": "file",
-"name": "22 VS_Kagamine Rin.txt"
-},
-{
-"type": "file",
-"name": "23 VS_Kagamine Len.txt"
-},
-{
-"type": "file",
-"name": "24 VS_Megurine Luka.txt"
-},
-{
-"type": "file",
-"name": "25 VS_MEIKO.txt"
-},
-{
-"type": "file",
-"name": "26 VS_KAITO.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "special",
-"children": [
-{
-"type": "file",
-"name": "sp003 一周年カウントダウンムービー01.txt"
-},
-{
-"type": "file",
-"name": "sp004 一周年カウントダウンムービー02.txt"
-},
-{
-"type": "file",
-"name": "sp005 一周年カウントダウンムービー03.txt"
-},
-{
-"type": "file",
-"name": "sp006 一周年カウントダウンムービー04.txt"
-},
-{
-"type": "file",
-"name": "sp007 一周年カウントダウンムービー05.txt"
-},
-{
-"type": "file",
-"name": "sp008 一周年カウントダウンムービー06.txt"
-},
-{
-"type": "file",
-"name": "sp009 遷移テスト用ストーリー_コラボのセカイ.txt"
-},
-{
-"type": "file",
-"name": "sp010 エイプリルフール2022導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp011 エイプリルフール2022後日談ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp022 エイプリルフール2023導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp023 エイプリルフール2023後日談ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp028 3周年カウントダウンムービー01.txt"
-},
-{
-"type": "file",
-"name": "sp029 3周年カウントダウンムービー02.txt"
-},
-{
-"type": "file",
-"name": "sp030 3周年カウントダウンムービー03.txt"
-},
-{
-"type": "file",
-"name": "sp031 3周年カウントダウンムービー04.txt"
-},
-{
-"type": "file",
-"name": "sp032 3周年カウントダウンムービー05.txt"
-},
-{
-"type": "file",
-"name": "sp033 3周年カウントダウンムービー06.txt"
-},
-{
-"type": "file",
-"name": "sp034 3周年ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp036 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ.txt"
-},
-{
-"type": "file",
-"name": "sp037 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ.txt"
-},
-{
-"type": "file",
-"name": "sp039 April Fool's 2024 Opening Cutscene.txt"
-},
-{
-"type": "file",
-"name": "sp040 April Fool's 2024 Ending Cutscene.txt"
-},
-{
-"type": "file",
-"name": "sp042 4周年カウントダウンムービー01.txt"
-},
-{
-"type": "file",
-"name": "sp043 4周年カウントダウンムービー02.txt"
-},
-{
-"type": "file",
-"name": "sp044 4周年カウントダウンムービー03.txt"
-},
-{
-"type": "file",
-"name": "sp045 4周年カウントダウンムービー04.txt"
-},
-{
-"type": "file",
-"name": "sp046 4周年カウントダウンムービー05.txt"
-},
-{
-"type": "file",
-"name": "sp047 4周年カウントダウンムービー06.txt"
-},
-{
-"type": "file",
-"name": "sp049 [プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ.txt"
-},
-{
-"type": "file",
-"name": "sp050 [プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ.txt"
-},
-{
-"type": "file",
-"name": "sp052 ワールドリンクイベント前日譚ログインストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp053 エイプリルフール2025導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp054 エイプリルフール2025後日談ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp056 COLORFUL STAGE!×Tamagotchi Crossover Login Story Prologue.txt"
-},
-{
-"type": "file",
-"name": "sp057 COLORFUL STAGE!×Tamagotchi Crossover Login Story Epilogue.txt"
-},
-{
-"type": "file",
-"name": "sp061 [復刻]悪ノ大罪シリーズ導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp098 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ.txt"
-},
-{
-"type": "file",
-"name": "sp099 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ.txt"
 }
 ]
 }

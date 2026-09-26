@@ -14959,7 +14959,1059 @@
 },
 {
 "type": "dir",
-"name": "live",
+"name": "main",
+"children": [
+{
+"type": "dir",
+"name": "1 バーチャル・シンガー",
+"children": [
+{
+"type": "file",
+"name": "vsleo_01_01 秘密の練習.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_02 先輩だからできること.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_03 意外な一面.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_04 キラキラの毎日.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_01 全力ライブ！.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_02 元気を出して.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_03 青のステージ.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_04 みんなでライブ！.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_01 最初からあった歌.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_02 痛そうな音符.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_03 隣にいるから.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_04 あなたの音楽.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_01 メイコの新作メニュー.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_02 大人の味.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_03 仲直りの一歩.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_04 みんなで歌おう！.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_01 着ぐるみワンダーランド.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_02 終わるから始まるもの.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_03 君が笑顔になるショーを.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_04 空飛ぶショーステージ！？.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "2 Leo／need",
+"children": [
+{
+"type": "file",
+"name": "leo_01_00 オープニング.txt"
+},
+{
+"type": "file",
+"name": "leo_01_01 ４人目の幼馴染み.txt"
+},
+{
+"type": "file",
+"name": "leo_01_02 せめて、私は.txt"
+},
+{
+"type": "file",
+"name": "leo_01_03 ふたりだけだとさびしいね.txt"
+},
+{
+"type": "file",
+"name": "leo_01_04 教室のセカイ.txt"
+},
+{
+"type": "file",
+"name": "leo_01_05 バンド、やってみない？.txt"
+},
+{
+"type": "file",
+"name": "leo_01_06 最初の一歩.txt"
+},
+{
+"type": "file",
+"name": "leo_01_07 おしえてルカさん！.txt"
+},
+{
+"type": "file",
+"name": "leo_01_08 見えない星.txt"
+},
+{
+"type": "file",
+"name": "leo_01_09 ３人でセッション！？.txt"
+},
+{
+"type": "file",
+"name": "leo_01_10 ジャングルジムと流星群.txt"
+},
+{
+"type": "file",
+"name": "leo_01_11 警告したから.txt"
+},
+{
+"type": "file",
+"name": "leo_01_12 「誰の味方なの？」.txt"
+},
+{
+"type": "file",
+"name": "leo_01_13 咲希の決意.txt"
+},
+{
+"type": "file",
+"name": "leo_01_14 大切だから.txt"
+},
+{
+"type": "file",
+"name": "leo_01_15 ごまかさないで.txt"
+},
+{
+"type": "file",
+"name": "leo_01_16 「ずっと一緒に」.txt"
+},
+{
+"type": "file",
+"name": "leo_01_17 穂波の想い.txt"
+},
+{
+"type": "file",
+"name": "leo_01_18 ４人の星空.txt"
+},
+{
+"type": "file",
+"name": "leo_01_19 needLe.txt"
+},
+{
+"type": "file",
+"name": "leo_01_20 Leo／need.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "3 MORE MORE JUMP！",
+"children": [
+{
+"type": "file",
+"name": "mmj_01_00 オープニング.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_01 あこがれのアイドル！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_02 はっきりしなさい！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_03 がんばればきっと.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_04 アイドルだからこそ.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_05 ライブに来てね！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_06 ステージのセカイ.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_07 アイドル達の葛藤.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_08 聞きたくなかった言葉.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_09 リンっと元気に！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_10 引退.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_11 いままで、ありがとう.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_12 アイドルの資格.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_13 嘘つき.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_14 届けられるものは.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_15 近くて遠いステージ.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_16 青色の景色.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_17 もう一度あの景色を.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_18 あの日見た希望.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_19 アイドル新鋭隊.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_20 MORE MORE JUMP！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "4 Vivid BAD SQUAD",
+"children": [
+{
+"type": "file",
+"name": "street_01_00 オープニング.txt"
+},
+{
+"type": "file",
+"name": "street_01_01 落書きだらけのストリート.txt"
+},
+{
+"type": "file",
+"name": "street_01_02 一番ドキドキする歌.txt"
+},
+{
+"type": "file",
+"name": "street_01_03 WEEKEND GARAGE.txt"
+},
+{
+"type": "file",
+"name": "street_01_04 BAD DOGS.txt"
+},
+{
+"type": "file",
+"name": "street_01_05 ストリートのセカイ.txt"
+},
+{
+"type": "file",
+"name": "street_01_06 不思議なカフェ.txt"
+},
+{
+"type": "file",
+"name": "street_01_07 とっておきの練習場所.txt"
+},
+{
+"type": "file",
+"name": "street_01_08 思ってるって思いたい.txt"
+},
+{
+"type": "file",
+"name": "street_01_09 初めてのイベント.txt"
+},
+{
+"type": "file",
+"name": "street_01_10 問われた覚悟.txt"
+},
+{
+"type": "file",
+"name": "street_01_11 扉を開く勇気を.txt"
+},
+{
+"type": "file",
+"name": "street_01_12 絶対、逃げない！.txt"
+},
+{
+"type": "file",
+"name": "street_01_13 Vivids！.txt"
+},
+{
+"type": "file",
+"name": "street_01_14 本気で言ってんのか.txt"
+},
+{
+"type": "file",
+"name": "street_01_15 認めてくれたから.txt"
+},
+{
+"type": "file",
+"name": "street_01_16 ３人目.txt"
+},
+{
+"type": "file",
+"name": "street_01_17 レンとMEIKOととっておき.txt"
+},
+{
+"type": "file",
+"name": "street_01_18 けじめ.txt"
+},
+{
+"type": "file",
+"name": "street_01_19 Ready Steady.txt"
+},
+{
+"type": "file",
+"name": "street_01_20 Vivid BAD SQUAD.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "5 ワンダーランズ×ショウタイム",
+"children": [
+{
+"type": "file",
+"name": "wonder_01_00 オープニング.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_01 ようこそワンダーステージへ！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_02 未来のスターとわんだほい.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_03 ワンダーランドのセカイ.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_04 メンバーを探そう！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_05 奇妙な演出家.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_06 ４人目のメンバー？.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_07 ネネロボ・オンステージ！？.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_08 結成！ショーユニット！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_09 変人、本領発揮.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_10 KAITOのヒント.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_11 えむの夢.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_12 公演スタート！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_13 失った笑顔.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_14 あの日の想い.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_15 おじいちゃんのステージ.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_16 絶対に失敗しない方法.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_17 ひとりぼっちの錬金術師.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_18 “最高のショー＂の答え.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_19 セカイはまだ始まってすらいない.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_20 ワンダーランズ×ショウタイム.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "6 25時、ナイトコードで。",
+"children": [
+{
+"type": "file",
+"name": "nightcode_01_00 オープニング.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_01 真夜中のサークル.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_02 白いミク.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_03 OWN.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_04 私はいい子.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_05 消えた雪.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_06 誰もいないセカイ.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_07 消えたがってるくせに.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_08 凡人の絵.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_09 ボクはボクでいたいのに.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_10 足りない音.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_11 幸せになる音楽を.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_12 ただひとつの歌.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_13 どこにもいない“私”.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_14 寂しいなぁ、って.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_15 消えてしまう前に.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_16 崩壊.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_17 ふたりの呪い.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_18 それでも救いたいから.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_19 悔やむと書いてミライ.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_20 25時、ナイトコードで。.txt"
+}
+]
+}
+]
+},
+{
+"type": "dir",
+"name": "mysekai",
+"children": [
+{
+"type": "file",
+"name": "01 Ln_星乃一歌.txt"
+},
+{
+"type": "file",
+"name": "02 Ln_天馬咲希.txt"
+},
+{
+"type": "file",
+"name": "03 Ln_望月穂波.txt"
+},
+{
+"type": "file",
+"name": "04 Ln_日野森志歩.txt"
+},
+{
+"type": "file",
+"name": "05 MMJ_花里みのり.txt"
+},
+{
+"type": "file",
+"name": "06 MMJ_桐谷遥.txt"
+},
+{
+"type": "file",
+"name": "07 MMJ_桃井愛莉.txt"
+},
+{
+"type": "file",
+"name": "08 MMJ_日野森雫.txt"
+},
+{
+"type": "file",
+"name": "09 VBS_小豆沢こはね.txt"
+},
+{
+"type": "file",
+"name": "10 VBS_白石杏.txt"
+},
+{
+"type": "file",
+"name": "11 VBS_東雲彰人.txt"
+},
+{
+"type": "file",
+"name": "12 VBS_青柳冬弥.txt"
+},
+{
+"type": "file",
+"name": "13 WxS_天馬司.txt"
+},
+{
+"type": "file",
+"name": "14 WxS_鳳えむ.txt"
+},
+{
+"type": "file",
+"name": "15 WxS_草薙寧々.txt"
+},
+{
+"type": "file",
+"name": "16 WxS_神代類.txt"
+},
+{
+"type": "file",
+"name": "17 N25_宵崎奏.txt"
+},
+{
+"type": "file",
+"name": "18 N25_朝比奈まふゆ.txt"
+},
+{
+"type": "file",
+"name": "19 N25_東雲絵名.txt"
+},
+{
+"type": "file",
+"name": "20 N25_暁山瑞希.txt"
+},
+{
+"type": "file",
+"name": "27 Ln_初音ミク.txt"
+},
+{
+"type": "file",
+"name": "28 MMJ_初音ミク.txt"
+},
+{
+"type": "file",
+"name": "29 VBS_初音ミク.txt"
+},
+{
+"type": "file",
+"name": "30 WxS_初音ミク.txt"
+},
+{
+"type": "file",
+"name": "31 N25_初音ミク.txt"
+},
+{
+"type": "file",
+"name": "33 MMJ_鏡音リン.txt"
+},
+{
+"type": "file",
+"name": "39 VBS_鏡音レン.txt"
+},
+{
+"type": "file",
+"name": "42 Ln_巡音ルカ.txt"
+},
+{
+"type": "file",
+"name": "49 VBS_MEIKO.txt"
+},
+{
+"type": "file",
+"name": "55 WxS_KAITO.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "self",
+"children": [
+{
+"type": "file",
+"name": "01 Ln_星乃一歌.txt"
+},
+{
+"type": "file",
+"name": "02 Ln_天馬咲希.txt"
+},
+{
+"type": "file",
+"name": "03 Ln_望月穂波.txt"
+},
+{
+"type": "file",
+"name": "04 Ln_日野森志歩.txt"
+},
+{
+"type": "file",
+"name": "05 MMJ_花里みのり.txt"
+},
+{
+"type": "file",
+"name": "06 MMJ_桐谷遥.txt"
+},
+{
+"type": "file",
+"name": "07 MMJ_桃井愛莉.txt"
+},
+{
+"type": "file",
+"name": "08 MMJ_日野森雫.txt"
+},
+{
+"type": "file",
+"name": "09 VBS_小豆沢こはね.txt"
+},
+{
+"type": "file",
+"name": "10 VBS_白石杏.txt"
+},
+{
+"type": "file",
+"name": "11 VBS_東雲彰人.txt"
+},
+{
+"type": "file",
+"name": "12 VBS_青柳冬弥.txt"
+},
+{
+"type": "file",
+"name": "13 WxS_天馬司.txt"
+},
+{
+"type": "file",
+"name": "14 WxS_鳳えむ.txt"
+},
+{
+"type": "file",
+"name": "15 WxS_草薙寧々.txt"
+},
+{
+"type": "file",
+"name": "16 WxS_神代類.txt"
+},
+{
+"type": "file",
+"name": "17 N25_宵崎奏.txt"
+},
+{
+"type": "file",
+"name": "18 N25_朝比奈まふゆ.txt"
+},
+{
+"type": "file",
+"name": "19 N25_東雲絵名.txt"
+},
+{
+"type": "file",
+"name": "20 N25_暁山瑞希.txt"
+},
+{
+"type": "file",
+"name": "21 VS_初音ミク.txt"
+},
+{
+"type": "file",
+"name": "22 VS_鏡音リン.txt"
+},
+{
+"type": "file",
+"name": "23 VS_鏡音レン.txt"
+},
+{
+"type": "file",
+"name": "24 VS_巡音ルカ.txt"
+},
+{
+"type": "file",
+"name": "25 VS_MEIKO.txt"
+},
+{
+"type": "file",
+"name": "26 VS_KAITO.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "special",
+"children": [
+{
+"type": "file",
+"name": "sp003 一周年カウントダウンムービー01.txt"
+},
+{
+"type": "file",
+"name": "sp004 一周年カウントダウンムービー02.txt"
+},
+{
+"type": "file",
+"name": "sp005 一周年カウントダウンムービー03.txt"
+},
+{
+"type": "file",
+"name": "sp006 一周年カウントダウンムービー04.txt"
+},
+{
+"type": "file",
+"name": "sp007 一周年カウントダウンムービー05.txt"
+},
+{
+"type": "file",
+"name": "sp008 一周年カウントダウンムービー06.txt"
+},
+{
+"type": "file",
+"name": "sp009 遷移テスト用ストーリー_コラボのセカイ.txt"
+},
+{
+"type": "file",
+"name": "sp010 エイプリルフール2022導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp011 エイプリルフール2022後日談ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp012 ビビバスコネクトライブ前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp013 ポカリスエットコラボストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp014 2周年カウントダウンムービー01.txt"
+},
+{
+"type": "file",
+"name": "sp015 2周年カウントダウンムービー02.txt"
+},
+{
+"type": "file",
+"name": "sp016 2周年カウントダウンムービー03.txt"
+},
+{
+"type": "file",
+"name": "sp017 2周年カウントダウンムービー04.txt"
+},
+{
+"type": "file",
+"name": "sp018 2周年カウントダウンムービー05.txt"
+},
+{
+"type": "file",
+"name": "sp019 2周年カウントダウンムービー06.txt"
+},
+{
+"type": "file",
+"name": "sp020 2周年コネクトライブ前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp021 モモジャンコネクトライブ前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp022 エイプリルフール2023導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp023 エイプリルフール2023後日談ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp024 [復刻]悪ノ大罪シリーズ導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp025 レオニコネクトライブ前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp026 ニーゴコネクトライブ前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp027 ワンダショコネクトライブ前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp028 3周年カウントダウンムービー01.txt"
+},
+{
+"type": "file",
+"name": "sp029 3周年カウントダウンムービー02.txt"
+},
+{
+"type": "file",
+"name": "sp030 3周年カウントダウンムービー03.txt"
+},
+{
+"type": "file",
+"name": "sp031 3周年カウントダウンムービー04.txt"
+},
+{
+"type": "file",
+"name": "sp032 3周年カウントダウンムービー05.txt"
+},
+{
+"type": "file",
+"name": "sp033 3周年カウントダウンムービー06.txt"
+},
+{
+"type": "file",
+"name": "sp034 3周年ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp035 3周年コネクトライブ前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp036 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ.txt"
+},
+{
+"type": "file",
+"name": "sp037 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ.txt"
+},
+{
+"type": "file",
+"name": "sp038 3900's感謝祭ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp039 エイプリルフール2024導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp040 エイプリルフール2024後日談ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp041 コネクトライブ RESONANCE BEATS!! 前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp042 4周年カウントダウンムービー01.txt"
+},
+{
+"type": "file",
+"name": "sp043 4周年カウントダウンムービー02.txt"
+},
+{
+"type": "file",
+"name": "sp044 4周年カウントダウンムービー03.txt"
+},
+{
+"type": "file",
+"name": "sp045 4周年カウントダウンムービー04.txt"
+},
+{
+"type": "file",
+"name": "sp046 4周年カウントダウンムービー05.txt"
+},
+{
+"type": "file",
+"name": "sp047 4周年カウントダウンムービー06.txt"
+},
+{
+"type": "file",
+"name": "sp048 コネクトライブ 4th ANNIVERSARY Brilliant Stage前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp049 [プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ.txt"
+},
+{
+"type": "file",
+"name": "sp050 [プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ.txt"
+},
+{
+"type": "file",
+"name": "sp051 [プロセカ×あんさんぶるスターズ！！]コネクトライブ前日譚ログインストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp052 ワールドリンクイベント前日譚ログインストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp053 エイプリルフール2025導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp054 エイプリルフール2025後日談ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp055 コネクトライブ Dreamscape 前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp056 [プロセカ×たまごっち]コラボ記念ログインストーリー プロローグ.txt"
+},
+{
+"type": "file",
+"name": "sp057 [プロセカ×たまごっち]コラボ記念ログインストーリー エピローグ.txt"
+},
+{
+"type": "file",
+"name": "sp058 5周年ログインストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp059 5周年スペシャルメッセージ導入ログインストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp060 コネクトライブ わん！もあ！HAPPY TIME 前日ストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp061 [復刻]悪ノ大罪シリーズ導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp062 [復刻][プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ.txt"
+},
+{
+"type": "file",
+"name": "sp063 [復刻][プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ.txt"
+},
+{
+"type": "file",
+"name": "sp064 エイプリルフール2026導入ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp065 エイプリルフール2026後日談ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp066 [復刻][プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ.txt"
+},
+{
+"type": "file",
+"name": "sp067 [復刻][プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ.txt"
+},
+{
+"type": "file",
+"name": "sp068 ワールドリンクイベント前日譚ログインストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp069 コネクトライブ Parallel Paaaarty!!!! 前日ストーリー.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "virtual_live",
 "children": [
 {
 "type": "file",
@@ -16816,1058 +17868,6 @@
 {
 "type": "file",
 "name": "487 Drive to Dream！ アフターライブ (event_217).txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "main",
-"children": [
-{
-"type": "dir",
-"name": "1 バーチャル・シンガー",
-"children": [
-{
-"type": "file",
-"name": "vsleo_01_01 秘密の練習.txt"
-},
-{
-"type": "file",
-"name": "vsleo_01_02 先輩だからできること.txt"
-},
-{
-"type": "file",
-"name": "vsleo_01_03 意外な一面.txt"
-},
-{
-"type": "file",
-"name": "vsleo_01_04 キラキラの毎日.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_01 全力ライブ！.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_02 元気を出して.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_03 青のステージ.txt"
-},
-{
-"type": "file",
-"name": "vsmmj_01_04 みんなでライブ！.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_01 最初からあった歌.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_02 痛そうな音符.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_03 隣にいるから.txt"
-},
-{
-"type": "file",
-"name": "vsnightcode_01_04 あなたの音楽.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_01 メイコの新作メニュー.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_02 大人の味.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_03 仲直りの一歩.txt"
-},
-{
-"type": "file",
-"name": "vsstreet_01_04 みんなで歌おう！.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_01 着ぐるみワンダーランド.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_02 終わるから始まるもの.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_03 君が笑顔になるショーを.txt"
-},
-{
-"type": "file",
-"name": "vswonder_01_04 空飛ぶショーステージ！？.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "2 Leo／need",
-"children": [
-{
-"type": "file",
-"name": "leo_01_00 オープニング.txt"
-},
-{
-"type": "file",
-"name": "leo_01_01 ４人目の幼馴染み.txt"
-},
-{
-"type": "file",
-"name": "leo_01_02 せめて、私は.txt"
-},
-{
-"type": "file",
-"name": "leo_01_03 ふたりだけだとさびしいね.txt"
-},
-{
-"type": "file",
-"name": "leo_01_04 教室のセカイ.txt"
-},
-{
-"type": "file",
-"name": "leo_01_05 バンド、やってみない？.txt"
-},
-{
-"type": "file",
-"name": "leo_01_06 最初の一歩.txt"
-},
-{
-"type": "file",
-"name": "leo_01_07 おしえてルカさん！.txt"
-},
-{
-"type": "file",
-"name": "leo_01_08 見えない星.txt"
-},
-{
-"type": "file",
-"name": "leo_01_09 ３人でセッション！？.txt"
-},
-{
-"type": "file",
-"name": "leo_01_10 ジャングルジムと流星群.txt"
-},
-{
-"type": "file",
-"name": "leo_01_11 警告したから.txt"
-},
-{
-"type": "file",
-"name": "leo_01_12 「誰の味方なの？」.txt"
-},
-{
-"type": "file",
-"name": "leo_01_13 咲希の決意.txt"
-},
-{
-"type": "file",
-"name": "leo_01_14 大切だから.txt"
-},
-{
-"type": "file",
-"name": "leo_01_15 ごまかさないで.txt"
-},
-{
-"type": "file",
-"name": "leo_01_16 「ずっと一緒に」.txt"
-},
-{
-"type": "file",
-"name": "leo_01_17 穂波の想い.txt"
-},
-{
-"type": "file",
-"name": "leo_01_18 ４人の星空.txt"
-},
-{
-"type": "file",
-"name": "leo_01_19 needLe.txt"
-},
-{
-"type": "file",
-"name": "leo_01_20 Leo／need.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "3 MORE MORE JUMP！",
-"children": [
-{
-"type": "file",
-"name": "mmj_01_00 オープニング.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_01 あこがれのアイドル！.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_02 はっきりしなさい！.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_03 がんばればきっと.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_04 アイドルだからこそ.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_05 ライブに来てね！.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_06 ステージのセカイ.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_07 アイドル達の葛藤.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_08 聞きたくなかった言葉.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_09 リンっと元気に！.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_10 引退.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_11 いままで、ありがとう.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_12 アイドルの資格.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_13 嘘つき.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_14 届けられるものは.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_15 近くて遠いステージ.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_16 青色の景色.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_17 もう一度あの景色を.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_18 あの日見た希望.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_19 アイドル新鋭隊.txt"
-},
-{
-"type": "file",
-"name": "mmj_01_20 MORE MORE JUMP！.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "4 Vivid BAD SQUAD",
-"children": [
-{
-"type": "file",
-"name": "street_01_00 オープニング.txt"
-},
-{
-"type": "file",
-"name": "street_01_01 落書きだらけのストリート.txt"
-},
-{
-"type": "file",
-"name": "street_01_02 一番ドキドキする歌.txt"
-},
-{
-"type": "file",
-"name": "street_01_03 WEEKEND GARAGE.txt"
-},
-{
-"type": "file",
-"name": "street_01_04 BAD DOGS.txt"
-},
-{
-"type": "file",
-"name": "street_01_05 ストリートのセカイ.txt"
-},
-{
-"type": "file",
-"name": "street_01_06 不思議なカフェ.txt"
-},
-{
-"type": "file",
-"name": "street_01_07 とっておきの練習場所.txt"
-},
-{
-"type": "file",
-"name": "street_01_08 思ってるって思いたい.txt"
-},
-{
-"type": "file",
-"name": "street_01_09 初めてのイベント.txt"
-},
-{
-"type": "file",
-"name": "street_01_10 問われた覚悟.txt"
-},
-{
-"type": "file",
-"name": "street_01_11 扉を開く勇気を.txt"
-},
-{
-"type": "file",
-"name": "street_01_12 絶対、逃げない！.txt"
-},
-{
-"type": "file",
-"name": "street_01_13 Vivids！.txt"
-},
-{
-"type": "file",
-"name": "street_01_14 本気で言ってんのか.txt"
-},
-{
-"type": "file",
-"name": "street_01_15 認めてくれたから.txt"
-},
-{
-"type": "file",
-"name": "street_01_16 ３人目.txt"
-},
-{
-"type": "file",
-"name": "street_01_17 レンとMEIKOととっておき.txt"
-},
-{
-"type": "file",
-"name": "street_01_18 けじめ.txt"
-},
-{
-"type": "file",
-"name": "street_01_19 Ready Steady.txt"
-},
-{
-"type": "file",
-"name": "street_01_20 Vivid BAD SQUAD.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "5 ワンダーランズ×ショウタイム",
-"children": [
-{
-"type": "file",
-"name": "wonder_01_00 オープニング.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_01 ようこそワンダーステージへ！.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_02 未来のスターとわんだほい.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_03 ワンダーランドのセカイ.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_04 メンバーを探そう！.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_05 奇妙な演出家.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_06 ４人目のメンバー？.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_07 ネネロボ・オンステージ！？.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_08 結成！ショーユニット！.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_09 変人、本領発揮.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_10 KAITOのヒント.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_11 えむの夢.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_12 公演スタート！.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_13 失った笑顔.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_14 あの日の想い.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_15 おじいちゃんのステージ.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_16 絶対に失敗しない方法.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_17 ひとりぼっちの錬金術師.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_18 “最高のショー＂の答え.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_19 セカイはまだ始まってすらいない.txt"
-},
-{
-"type": "file",
-"name": "wonder_01_20 ワンダーランズ×ショウタイム.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "6 25時、ナイトコードで。",
-"children": [
-{
-"type": "file",
-"name": "nightcode_01_00 オープニング.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_01 真夜中のサークル.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_02 白いミク.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_03 OWN.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_04 私はいい子.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_05 消えた雪.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_06 誰もいないセカイ.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_07 消えたがってるくせに.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_08 凡人の絵.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_09 ボクはボクでいたいのに.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_10 足りない音.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_11 幸せになる音楽を.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_12 ただひとつの歌.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_13 どこにもいない“私”.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_14 寂しいなぁ、って.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_15 消えてしまう前に.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_16 崩壊.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_17 ふたりの呪い.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_18 それでも救いたいから.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_19 悔やむと書いてミライ.txt"
-},
-{
-"type": "file",
-"name": "nightcode_01_20 25時、ナイトコードで。.txt"
-}
-]
-}
-]
-},
-{
-"type": "dir",
-"name": "mysekai",
-"children": [
-{
-"type": "file",
-"name": "01 Ln_星乃一歌.txt"
-},
-{
-"type": "file",
-"name": "02 Ln_天馬咲希.txt"
-},
-{
-"type": "file",
-"name": "03 Ln_望月穂波.txt"
-},
-{
-"type": "file",
-"name": "04 Ln_日野森志歩.txt"
-},
-{
-"type": "file",
-"name": "05 MMJ_花里みのり.txt"
-},
-{
-"type": "file",
-"name": "06 MMJ_桐谷遥.txt"
-},
-{
-"type": "file",
-"name": "07 MMJ_桃井愛莉.txt"
-},
-{
-"type": "file",
-"name": "08 MMJ_日野森雫.txt"
-},
-{
-"type": "file",
-"name": "09 VBS_小豆沢こはね.txt"
-},
-{
-"type": "file",
-"name": "10 VBS_白石杏.txt"
-},
-{
-"type": "file",
-"name": "11 VBS_東雲彰人.txt"
-},
-{
-"type": "file",
-"name": "12 VBS_青柳冬弥.txt"
-},
-{
-"type": "file",
-"name": "13 WxS_天馬司.txt"
-},
-{
-"type": "file",
-"name": "14 WxS_鳳えむ.txt"
-},
-{
-"type": "file",
-"name": "15 WxS_草薙寧々.txt"
-},
-{
-"type": "file",
-"name": "16 WxS_神代類.txt"
-},
-{
-"type": "file",
-"name": "17 N25_宵崎奏.txt"
-},
-{
-"type": "file",
-"name": "18 N25_朝比奈まふゆ.txt"
-},
-{
-"type": "file",
-"name": "19 N25_東雲絵名.txt"
-},
-{
-"type": "file",
-"name": "20 N25_暁山瑞希.txt"
-},
-{
-"type": "file",
-"name": "27 Ln_初音ミク.txt"
-},
-{
-"type": "file",
-"name": "28 MMJ_初音ミク.txt"
-},
-{
-"type": "file",
-"name": "29 VBS_初音ミク.txt"
-},
-{
-"type": "file",
-"name": "30 WxS_初音ミク.txt"
-},
-{
-"type": "file",
-"name": "31 N25_初音ミク.txt"
-},
-{
-"type": "file",
-"name": "33 MMJ_鏡音リン.txt"
-},
-{
-"type": "file",
-"name": "39 VBS_鏡音レン.txt"
-},
-{
-"type": "file",
-"name": "42 Ln_巡音ルカ.txt"
-},
-{
-"type": "file",
-"name": "49 VBS_MEIKO.txt"
-},
-{
-"type": "file",
-"name": "55 WxS_KAITO.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "self",
-"children": [
-{
-"type": "file",
-"name": "01 Ln_星乃一歌.txt"
-},
-{
-"type": "file",
-"name": "02 Ln_天馬咲希.txt"
-},
-{
-"type": "file",
-"name": "03 Ln_望月穂波.txt"
-},
-{
-"type": "file",
-"name": "04 Ln_日野森志歩.txt"
-},
-{
-"type": "file",
-"name": "05 MMJ_花里みのり.txt"
-},
-{
-"type": "file",
-"name": "06 MMJ_桐谷遥.txt"
-},
-{
-"type": "file",
-"name": "07 MMJ_桃井愛莉.txt"
-},
-{
-"type": "file",
-"name": "08 MMJ_日野森雫.txt"
-},
-{
-"type": "file",
-"name": "09 VBS_小豆沢こはね.txt"
-},
-{
-"type": "file",
-"name": "10 VBS_白石杏.txt"
-},
-{
-"type": "file",
-"name": "11 VBS_東雲彰人.txt"
-},
-{
-"type": "file",
-"name": "12 VBS_青柳冬弥.txt"
-},
-{
-"type": "file",
-"name": "13 WxS_天馬司.txt"
-},
-{
-"type": "file",
-"name": "14 WxS_鳳えむ.txt"
-},
-{
-"type": "file",
-"name": "15 WxS_草薙寧々.txt"
-},
-{
-"type": "file",
-"name": "16 WxS_神代類.txt"
-},
-{
-"type": "file",
-"name": "17 N25_宵崎奏.txt"
-},
-{
-"type": "file",
-"name": "18 N25_朝比奈まふゆ.txt"
-},
-{
-"type": "file",
-"name": "19 N25_東雲絵名.txt"
-},
-{
-"type": "file",
-"name": "20 N25_暁山瑞希.txt"
-},
-{
-"type": "file",
-"name": "21 VS_初音ミク.txt"
-},
-{
-"type": "file",
-"name": "22 VS_鏡音リン.txt"
-},
-{
-"type": "file",
-"name": "23 VS_鏡音レン.txt"
-},
-{
-"type": "file",
-"name": "24 VS_巡音ルカ.txt"
-},
-{
-"type": "file",
-"name": "25 VS_MEIKO.txt"
-},
-{
-"type": "file",
-"name": "26 VS_KAITO.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "special",
-"children": [
-{
-"type": "file",
-"name": "sp003 一周年カウントダウンムービー01.txt"
-},
-{
-"type": "file",
-"name": "sp004 一周年カウントダウンムービー02.txt"
-},
-{
-"type": "file",
-"name": "sp005 一周年カウントダウンムービー03.txt"
-},
-{
-"type": "file",
-"name": "sp006 一周年カウントダウンムービー04.txt"
-},
-{
-"type": "file",
-"name": "sp007 一周年カウントダウンムービー05.txt"
-},
-{
-"type": "file",
-"name": "sp008 一周年カウントダウンムービー06.txt"
-},
-{
-"type": "file",
-"name": "sp009 遷移テスト用ストーリー_コラボのセカイ.txt"
-},
-{
-"type": "file",
-"name": "sp010 エイプリルフール2022導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp011 エイプリルフール2022後日談ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp012 ビビバスコネクトライブ前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp013 ポカリスエットコラボストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp014 2周年カウントダウンムービー01.txt"
-},
-{
-"type": "file",
-"name": "sp015 2周年カウントダウンムービー02.txt"
-},
-{
-"type": "file",
-"name": "sp016 2周年カウントダウンムービー03.txt"
-},
-{
-"type": "file",
-"name": "sp017 2周年カウントダウンムービー04.txt"
-},
-{
-"type": "file",
-"name": "sp018 2周年カウントダウンムービー05.txt"
-},
-{
-"type": "file",
-"name": "sp019 2周年カウントダウンムービー06.txt"
-},
-{
-"type": "file",
-"name": "sp020 2周年コネクトライブ前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp021 モモジャンコネクトライブ前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp022 エイプリルフール2023導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp023 エイプリルフール2023後日談ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp024 [復刻]悪ノ大罪シリーズ導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp025 レオニコネクトライブ前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp026 ニーゴコネクトライブ前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp027 ワンダショコネクトライブ前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp028 3周年カウントダウンムービー01.txt"
-},
-{
-"type": "file",
-"name": "sp029 3周年カウントダウンムービー02.txt"
-},
-{
-"type": "file",
-"name": "sp030 3周年カウントダウンムービー03.txt"
-},
-{
-"type": "file",
-"name": "sp031 3周年カウントダウンムービー04.txt"
-},
-{
-"type": "file",
-"name": "sp032 3周年カウントダウンムービー05.txt"
-},
-{
-"type": "file",
-"name": "sp033 3周年カウントダウンムービー06.txt"
-},
-{
-"type": "file",
-"name": "sp034 3周年ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp035 3周年コネクトライブ前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp036 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ.txt"
-},
-{
-"type": "file",
-"name": "sp037 [プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ.txt"
-},
-{
-"type": "file",
-"name": "sp038 3900's感謝祭ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp039 エイプリルフール2024導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp040 エイプリルフール2024後日談ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp041 コネクトライブ RESONANCE BEATS!! 前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp042 4周年カウントダウンムービー01.txt"
-},
-{
-"type": "file",
-"name": "sp043 4周年カウントダウンムービー02.txt"
-},
-{
-"type": "file",
-"name": "sp044 4周年カウントダウンムービー03.txt"
-},
-{
-"type": "file",
-"name": "sp045 4周年カウントダウンムービー04.txt"
-},
-{
-"type": "file",
-"name": "sp046 4周年カウントダウンムービー05.txt"
-},
-{
-"type": "file",
-"name": "sp047 4周年カウントダウンムービー06.txt"
-},
-{
-"type": "file",
-"name": "sp048 コネクトライブ 4th ANNIVERSARY Brilliant Stage前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp049 [プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ.txt"
-},
-{
-"type": "file",
-"name": "sp050 [プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ.txt"
-},
-{
-"type": "file",
-"name": "sp051 [プロセカ×あんさんぶるスターズ！！]コネクトライブ前日譚ログインストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp052 ワールドリンクイベント前日譚ログインストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp053 エイプリルフール2025導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp054 エイプリルフール2025後日談ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp055 コネクトライブ Dreamscape 前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp056 [プロセカ×たまごっち]コラボ記念ログインストーリー プロローグ.txt"
-},
-{
-"type": "file",
-"name": "sp057 [プロセカ×たまごっち]コラボ記念ログインストーリー エピローグ.txt"
-},
-{
-"type": "file",
-"name": "sp058 5周年ログインストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp059 5周年スペシャルメッセージ導入ログインストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp060 コネクトライブ わん！もあ！HAPPY TIME 前日ストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp061 [復刻]悪ノ大罪シリーズ導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp062 [復刻][プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ.txt"
-},
-{
-"type": "file",
-"name": "sp063 [復刻][プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ.txt"
-},
-{
-"type": "file",
-"name": "sp064 エイプリルフール2026導入ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp065 エイプリルフール2026後日談ムービー.txt"
-},
-{
-"type": "file",
-"name": "sp066 [復刻][プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ.txt"
-},
-{
-"type": "file",
-"name": "sp067 [復刻][プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ.txt"
-},
-{
-"type": "file",
-"name": "sp068 ワールドリンクイベント前日譚ログインストーリー.txt"
-},
-{
-"type": "file",
-"name": "sp069 コネクトライブ Parallel Paaaarty!!!! 前日ストーリー.txt"
 }
 ]
 }
