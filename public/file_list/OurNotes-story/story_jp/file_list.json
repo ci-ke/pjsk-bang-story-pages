@@ -89,23 +89,23 @@
 },
 {
 "type": "file",
-"name": "another-01-01 燈 MyGO!!!!!.txt"
+"name": "another-01-01 MyGO!!!!! (燈).txt"
 },
 {
 "type": "file",
-"name": "another-01-02 愛音 うた.txt"
+"name": "another-01-02 うた (愛音).txt"
 },
 {
 "type": "file",
-"name": "another-01-03 楽奈 MyGO!!!!!.txt"
+"name": "another-01-03 MyGO!!!!! (楽奈).txt"
 },
 {
 "type": "file",
-"name": "another-01-04 そよ MyGO!!!!!.txt"
+"name": "another-01-04 MyGO!!!!! (そよ).txt"
 },
 {
 "type": "file",
-"name": "another-01-05 立希 MyGO!!!!!.txt"
+"name": "another-01-05 MyGO!!!!! (立希).txt"
 },
 {
 "type": "file",
@@ -207,23 +207,23 @@
 },
 {
 "type": "file",
-"name": "another-02-01 初華 In paradisum..txt"
+"name": "another-02-01 In paradisum. (初華).txt"
 },
 {
 "type": "file",
-"name": "another-02-02 睦 In paradisum..txt"
+"name": "another-02-02 In paradisum. (睦).txt"
 },
 {
 "type": "file",
-"name": "another-02-03 海鈴 Sine vita, nihil..txt"
+"name": "another-02-03 Sine vita, nihil. (海鈴).txt"
 },
 {
 "type": "file",
-"name": "another-02-04 にゃむ In paradisum..txt"
+"name": "another-02-04 In paradisum. (にゃむ).txt"
 },
 {
 "type": "file",
-"name": "another-02-05 祥子 In paradisum..txt"
+"name": "another-02-05 In paradisum. (祥子).txt"
 },
 {
 "type": "file",
@@ -325,23 +325,23 @@
 },
 {
 "type": "file",
-"name": "another-03-01 あられ かのうせいは夢限大.txt"
+"name": "another-03-01 かのうせいは夢限大 (あられ).txt"
 },
 {
 "type": "file",
-"name": "another-03-02 ののか うたう.txt"
+"name": "another-03-02 うたう (ののか).txt"
 },
 {
 "type": "file",
-"name": "another-03-03 律 ちょうかいふく.txt"
+"name": "another-03-03 ちょうかいふく (律).txt"
 },
 {
 "type": "file",
-"name": "another-03-04 都子 かのうせいは夢限大.txt"
+"name": "another-03-04 かのうせいは夢限大 (都子).txt"
 },
 {
 "type": "file",
-"name": "another-03-05 ユノ かのうせいは夢限大.txt"
+"name": "another-03-05 かのうせいは夢限大 (ユノ).txt"
 },
 {
 "type": "file",
@@ -443,23 +443,23 @@
 },
 {
 "type": "file",
-"name": "another-04-01 蛍 ハッピーエンド.txt"
+"name": "another-04-01 ハッピーエンド (蛍).txt"
 },
 {
 "type": "file",
-"name": "another-04-02 なつめ ハッピーエンド.txt"
+"name": "another-04-02 ハッピーエンド (なつめ).txt"
 },
 {
 "type": "file",
-"name": "another-04-03 凪 幸せの中に.txt"
+"name": "another-04-03 幸せの中に (凪).txt"
 },
 {
 "type": "file",
-"name": "another-04-04 まほろ ハッピーエンド.txt"
+"name": "another-04-04 ハッピーエンド (まほろ).txt"
 },
 {
 "type": "file",
-"name": "another-04-05 朋花 幸せの中に.txt"
+"name": "another-04-05 幸せの中に (朋花).txt"
 }
 ]
 },
@@ -549,23 +549,23 @@
 },
 {
 "type": "file",
-"name": "another-05-01 蕾叶 一家Dumb Rock!.txt"
+"name": "another-05-01 一家Dumb Rock! (蕾叶).txt"
 },
 {
 "type": "file",
-"name": "another-05-02 心玖 一家Dumb Rock!.txt"
+"name": "another-05-02 一家Dumb Rock! (心玖).txt"
 },
 {
 "type": "file",
-"name": "another-05-03 蓬咲 この熱は絶対絶やさない！！.txt"
+"name": "another-05-03 この熱は絶対絶やさない！！ (蓬咲).txt"
 },
 {
 "type": "file",
-"name": "another-05-04 ちえり 一家Dumb Rock!.txt"
+"name": "another-05-04 一家Dumb Rock! (ちえり).txt"
 },
 {
 "type": "file",
-"name": "another-05-05 寧月 『ホーム』は渡さない！！.txt"
+"name": "another-05-05 『ホーム』は渡さない！！ (寧月).txt"
 }
 ]
 }
@@ -1482,1578 +1482,160 @@
 "name": "home",
 "children": [
 {
-"type": "dir",
-"name": "10001 にぎやかなティータイム",
-"children": [
-{
-"type": "file",
-"name": "10001 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "1000101 にぎやかなティータイム.txt"
-},
-{
-"type": "file",
-"name": "1000102 にぎやかなティータイム.txt"
-},
-{
-"type": "file",
-"name": "1000103 にぎやかなティータイム.txt"
-},
-{
-"type": "file",
-"name": "1000104 にぎやかなティータイム.txt"
-},
-{
-"type": "file",
-"name": "1000105 にぎやかなティータイム.txt"
-},
-{
-"type": "file",
-"name": "1000106 にぎやかなティータイム.txt"
-},
-{
-"type": "file",
-"name": "1000107 にぎやかなティータイム.txt"
-},
-{
-"type": "file",
-"name": "1000108 にぎやかなティータイム.txt"
-},
-{
-"type": "file",
-"name": "1000109 にぎやかなティータイム.txt"
-},
-{
-"type": "file",
-"name": "1000110 にぎやかなティータイム.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10002 止まらない衣装プレゼン",
-"children": [
-{
-"type": "file",
-"name": "10002 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "1000201 止まらない衣装プレゼン.txt"
-},
-{
-"type": "file",
-"name": "1000202 止まらない衣装プレゼン.txt"
-},
-{
-"type": "file",
-"name": "1000203 止まらない衣装プレゼン.txt"
-},
-{
-"type": "file",
-"name": "1000204 止まらない衣装プレゼン.txt"
-},
-{
-"type": "file",
-"name": "1000205 止まらない衣装プレゼン.txt"
-},
-{
-"type": "file",
-"name": "1000206 止まらない衣装プレゼン.txt"
-},
-{
-"type": "file",
-"name": "1000207 止まらない衣装プレゼン.txt"
-},
-{
-"type": "file",
-"name": "1000208 止まらない衣装プレゼン.txt"
-},
-{
-"type": "file",
-"name": "1000209 止まらない衣装プレゼン.txt"
-},
-{
-"type": "file",
-"name": "1000210 止まらない衣装プレゼン.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10003 かわいいどうぶつ、見つけた",
-"children": [
-{
-"type": "file",
-"name": "10003 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "1000301 かわいいどうぶつ、見つけた.txt"
-},
-{
-"type": "file",
-"name": "1000302 かわいいどうぶつ、見つけた.txt"
-},
-{
-"type": "file",
-"name": "1000303 かわいいどうぶつ、見つけた.txt"
-},
-{
-"type": "file",
-"name": "1000304 かわいいどうぶつ、見つけた.txt"
-},
-{
-"type": "file",
-"name": "1000305 かわいいどうぶつ、見つけた.txt"
-},
-{
-"type": "file",
-"name": "1000306 かわいいどうぶつ、見つけた.txt"
-},
-{
-"type": "file",
-"name": "1000307 かわいいどうぶつ、見つけた.txt"
-},
-{
-"type": "file",
-"name": "1000308 かわいいどうぶつ、見つけた.txt"
-},
-{
-"type": "file",
-"name": "1000309 かわいいどうぶつ、見つけた.txt"
-},
-{
-"type": "file",
-"name": "1000310 かわいいどうぶつ、見つけた.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10004 ふー、ふー、ふー",
-"children": [
-{
-"type": "file",
-"name": "10004 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "1000401 ふー、ふー、ふー.txt"
-},
-{
-"type": "file",
-"name": "1000402 ふー、ふー、ふー.txt"
-},
-{
-"type": "file",
-"name": "1000403 ふー、ふー、ふー.txt"
-},
-{
-"type": "file",
-"name": "1000404 ふー、ふー、ふー.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10005 迷子のねこ",
-"children": [
-{
-"type": "file",
-"name": "10005 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "1000501 迷子のねこ.txt"
-},
-{
-"type": "file",
-"name": "1000502 迷子のねこ.txt"
-},
-{
-"type": "file",
-"name": "1000503 迷子のねこ.txt"
-},
-{
-"type": "file",
-"name": "1000504 迷子のねこ.txt"
-},
-{
-"type": "file",
-"name": "1000505 迷子のねこ.txt"
-},
-{
-"type": "file",
-"name": "1000506 迷子のねこ.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10006 みんなでひと休み",
-"children": [
-{
-"type": "file",
-"name": "10006 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "1000601 みんなでひと休み.txt"
-},
-{
-"type": "file",
-"name": "1000602 みんなでひと休み.txt"
-},
-{
-"type": "file",
-"name": "1000603 みんなでひと休み.txt"
-},
-{
-"type": "file",
-"name": "1000604 みんなでひと休み.txt"
-},
-{
-"type": "file",
-"name": "1000605 みんなでひと休み.txt"
-},
-{
-"type": "file",
-"name": "1000606 みんなでひと休み.txt"
-},
-{
-"type": "file",
-"name": "1000607 みんなでひと休み.txt"
-},
-{
-"type": "file",
-"name": "1000608 みんなでひと休み.txt"
-},
-{
-"type": "file",
-"name": "1000609 みんなでひと休み.txt"
-},
-{
-"type": "file",
-"name": "1000610 みんなでひと休み.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10007 がんばった指先",
-"children": [
-{
-"type": "file",
-"name": "10007 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "1000701 がんばった指先.txt"
-},
-{
-"type": "file",
-"name": "1000702 がんばった指先.txt"
-},
-{
-"type": "file",
-"name": "1000703 がんばった指先.txt"
-},
-{
-"type": "file",
-"name": "1000704 がんばった指先.txt"
-},
-{
-"type": "file",
-"name": "1000705 がんばった指先.txt"
-},
-{
-"type": "file",
-"name": "1000706 がんばった指先.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10008 ぶっきらぼうな優しさ",
-"children": [
-{
-"type": "file",
-"name": "10008 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "1000801 ぶっきらぼうな優しさ.txt"
-},
-{
-"type": "file",
-"name": "1000802 ぶっきらぼうな優しさ.txt"
-},
-{
-"type": "file",
-"name": "1000803 ぶっきらぼうな優しさ.txt"
-},
-{
-"type": "file",
-"name": "1000804 ぶっきらぼうな優しさ.txt"
-},
-{
-"type": "file",
-"name": "1000805 ぶっきらぼうな優しさ.txt"
-},
-{
-"type": "file",
-"name": "1000806 ぶっきらぼうな優しさ.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10009 １１１の記念日",
-"children": [
-{
-"type": "file",
-"name": "10009 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "1000901 １１１の記念日.txt"
-},
-{
-"type": "file",
-"name": "1000902 １１１の記念日.txt"
-},
-{
-"type": "file",
-"name": "1000903 １１１の記念日.txt"
-},
-{
-"type": "file",
-"name": "1000904 １１１の記念日.txt"
-},
-{
-"type": "file",
-"name": "1000905 １１１の記念日.txt"
-},
-{
-"type": "file",
-"name": "1000906 １１１の記念日.txt"
-},
-{
-"type": "file",
-"name": "1000907 １１１の記念日.txt"
-},
-{
-"type": "file",
-"name": "1000908 １１１の記念日.txt"
-},
-{
-"type": "file",
-"name": "1000909 １１１の記念日.txt"
-},
-{
-"type": "file",
-"name": "1000910 １１１の記念日.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20001 効率重視のお昼ご飯",
-"children": [
-{
-"type": "file",
-"name": "20001 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "2000101 効率重視のお昼ご飯.txt"
-},
-{
-"type": "file",
-"name": "2000102 効率重視のお昼ご飯.txt"
-},
-{
-"type": "file",
-"name": "2000103 効率重視のお昼ご飯.txt"
-},
-{
-"type": "file",
-"name": "2000104 効率重視のお昼ご飯.txt"
-},
-{
-"type": "file",
-"name": "2000105 効率重視のお昼ご飯.txt"
-},
-{
-"type": "file",
-"name": "2000106 効率重視のお昼ご飯.txt"
-},
-{
-"type": "file",
-"name": "2000107 効率重視のお昼ご飯.txt"
-},
-{
-"type": "file",
-"name": "2000108 効率重視のお昼ご飯.txt"
-},
-{
-"type": "file",
-"name": "2000109 効率重視のお昼ご飯.txt"
-},
-{
-"type": "file",
-"name": "2000110 効率重視のお昼ご飯.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20002 みんなでクールダウン",
-"children": [
-{
-"type": "file",
-"name": "20002 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "2000201 みんなでクールダウン.txt"
-},
-{
-"type": "file",
-"name": "2000202 みんなでクールダウン.txt"
-},
-{
-"type": "file",
-"name": "2000203 みんなでクールダウン.txt"
-},
-{
-"type": "file",
-"name": "2000204 みんなでクールダウン.txt"
-},
-{
-"type": "file",
-"name": "2000205 みんなでクールダウン.txt"
-},
-{
-"type": "file",
-"name": "2000206 みんなでクールダウン.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20003 研鑽の日々",
-"children": [
-{
-"type": "file",
-"name": "20003 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "2000301 研鑽の日々.txt"
-},
-{
-"type": "file",
-"name": "2000302 研鑽の日々.txt"
-},
-{
-"type": "file",
-"name": "2000303 研鑽の日々.txt"
-},
-{
-"type": "file",
-"name": "2000304 研鑽の日々.txt"
-},
-{
-"type": "file",
-"name": "2000305 研鑽の日々.txt"
-},
-{
-"type": "file",
-"name": "2000306 研鑽の日々.txt"
-},
-{
-"type": "file",
-"name": "2000307 研鑽の日々.txt"
-},
-{
-"type": "file",
-"name": "2000308 研鑽の日々.txt"
-},
-{
-"type": "file",
-"name": "2000309 研鑽の日々.txt"
-},
-{
-"type": "file",
-"name": "2000310 研鑽の日々.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20004 会議の前に、まず一枚",
-"children": [
-{
-"type": "file",
-"name": "20004 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "2000401 会議の前に、まず一枚.txt"
-},
-{
-"type": "file",
-"name": "2000402 会議の前に、まず一枚.txt"
-},
-{
-"type": "file",
-"name": "2000403 会議の前に、まず一枚.txt"
-},
-{
-"type": "file",
-"name": "2000404 会議の前に、まず一枚.txt"
-},
-{
-"type": "file",
-"name": "2000405 会議の前に、まず一枚.txt"
-},
-{
-"type": "file",
-"name": "2000406 会議の前に、まず一枚.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20005 万全を期して",
-"children": [
-{
-"type": "file",
-"name": "20005 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "2000501 万全を期して.txt"
-},
-{
-"type": "file",
-"name": "2000502 万全を期して.txt"
-},
-{
-"type": "file",
-"name": "2000503 万全を期して.txt"
-},
-{
-"type": "file",
-"name": "2000504 万全を期して.txt"
-},
-{
-"type": "file",
-"name": "2000505 万全を期して.txt"
-},
-{
-"type": "file",
-"name": "2000506 万全を期して.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20006 ドーナツを囲んで",
-"children": [
-{
-"type": "file",
-"name": "20006 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "2000601 ドーナツを囲んで.txt"
-},
-{
-"type": "file",
-"name": "2000602 ドーナツを囲んで.txt"
-},
-{
-"type": "file",
-"name": "2000603 ドーナツを囲んで.txt"
-},
-{
-"type": "file",
-"name": "2000604 ドーナツを囲んで.txt"
-},
-{
-"type": "file",
-"name": "2000605 ドーナツを囲んで.txt"
-},
-{
-"type": "file",
-"name": "2000606 ドーナツを囲んで.txt"
-},
-{
-"type": "file",
-"name": "2000607 ドーナツを囲んで.txt"
-},
-{
-"type": "file",
-"name": "2000608 ドーナツを囲んで.txt"
-},
-{
-"type": "file",
-"name": "2000609 ドーナツを囲んで.txt"
-},
-{
-"type": "file",
-"name": "2000610 ドーナツを囲んで.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20007 降り出した雨に",
-"children": [
-{
-"type": "file",
-"name": "20007 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "2000701 降り出した雨に.txt"
-},
-{
-"type": "file",
-"name": "2000702 降り出した雨に.txt"
-},
-{
-"type": "file",
-"name": "2000703 降り出した雨に.txt"
-},
-{
-"type": "file",
-"name": "2000704 降り出した雨に.txt"
-},
-{
-"type": "file",
-"name": "2000705 降り出した雨に.txt"
-},
-{
-"type": "file",
-"name": "2000706 降り出した雨に.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20008 今宵、船上にて",
-"children": [
-{
-"type": "file",
-"name": "20008 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "2000801 今宵、船上にて.txt"
-},
-{
-"type": "file",
-"name": "2000802 今宵、船上にて.txt"
-},
-{
-"type": "file",
-"name": "2000803 今宵、船上にて.txt"
-},
-{
-"type": "file",
-"name": "2000804 今宵、船上にて.txt"
-},
-{
-"type": "file",
-"name": "2000805 今宵、船上にて.txt"
-},
-{
-"type": "file",
-"name": "2000806 今宵、船上にて.txt"
-},
-{
-"type": "file",
-"name": "2000807 今宵、船上にて.txt"
-},
-{
-"type": "file",
-"name": "2000808 今宵、船上にて.txt"
-},
-{
-"type": "file",
-"name": "2000809 今宵、船上にて.txt"
-},
-{
-"type": "file",
-"name": "2000810 今宵、船上にて.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30001 ふよふよ、すい〜",
-"children": [
-{
-"type": "file",
-"name": "30001 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "3000101 ふよふよ、すい〜.txt"
-},
-{
-"type": "file",
-"name": "3000102 ふよふよ、すい〜.txt"
-},
-{
-"type": "file",
-"name": "3000103 ふよふよ、すい〜.txt"
-},
-{
-"type": "file",
-"name": "3000104 ふよふよ、すい〜.txt"
-},
-{
-"type": "file",
-"name": "3000105 ふよふよ、すい〜.txt"
-},
-{
-"type": "file",
-"name": "3000106 ふよふよ、すい〜.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30002 ライブじゅんびちゅう",
-"children": [
-{
-"type": "file",
-"name": "30002 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "3000201 ライブじゅんびちゅう.txt"
-},
-{
-"type": "file",
-"name": "3000202 ライブじゅんびちゅう.txt"
-},
-{
-"type": "file",
-"name": "3000203 ライブじゅんびちゅう.txt"
-},
-{
-"type": "file",
-"name": "3000204 ライブじゅんびちゅう.txt"
-},
-{
-"type": "file",
-"name": "3000205 ライブじゅんびちゅう.txt"
-},
-{
-"type": "file",
-"name": "3000206 ライブじゅんびちゅう.txt"
-},
-{
-"type": "file",
-"name": "3000207 ライブじゅんびちゅう.txt"
-},
-{
-"type": "file",
-"name": "3000208 ライブじゅんびちゅう.txt"
-},
-{
-"type": "file",
-"name": "3000209 ライブじゅんびちゅう.txt"
-},
-{
-"type": "file",
-"name": "3000210 ライブじゅんびちゅう.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30003 クマさんたんてい",
-"children": [
-{
-"type": "file",
-"name": "30003 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "3000301 クマさんたんてい.txt"
-},
-{
-"type": "file",
-"name": "3000302 クマさんたんてい.txt"
-},
-{
-"type": "file",
-"name": "3000303 クマさんたんてい.txt"
-},
-{
-"type": "file",
-"name": "3000304 クマさんたんてい.txt"
-},
-{
-"type": "file",
-"name": "3000305 クマさんたんてい.txt"
-},
-{
-"type": "file",
-"name": "3000306 クマさんたんてい.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30004 かいふくアイテム",
-"children": [
-{
-"type": "file",
-"name": "30004 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "3000401 かいふくアイテム.txt"
-},
-{
-"type": "file",
-"name": "3000402 かいふくアイテム.txt"
-},
-{
-"type": "file",
-"name": "3000403 かいふくアイテム.txt"
-},
-{
-"type": "file",
-"name": "3000404 かいふくアイテム.txt"
-},
-{
-"type": "file",
-"name": "3000405 かいふくアイテム.txt"
-},
-{
-"type": "file",
-"name": "3000406 かいふくアイテム.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30005 うきうきランチ",
-"children": [
-{
-"type": "file",
-"name": "30005 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "3000501 うきうきランチ.txt"
-},
-{
-"type": "file",
-"name": "3000502 うきうきランチ.txt"
-},
-{
-"type": "file",
-"name": "3000503 うきうきランチ.txt"
-},
-{
-"type": "file",
-"name": "3000504 うきうきランチ.txt"
-},
-{
-"type": "file",
-"name": "3000505 うきうきランチ.txt"
-},
-{
-"type": "file",
-"name": "3000506 うきうきランチ.txt"
-},
-{
-"type": "file",
-"name": "3000507 うきうきランチ.txt"
-},
-{
-"type": "file",
-"name": "3000508 うきうきランチ.txt"
-},
-{
-"type": "file",
-"name": "3000509 うきうきランチ.txt"
-},
-{
-"type": "file",
-"name": "3000510 うきうきランチ.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30006 ゆうやけこやけ",
-"children": [
-{
-"type": "file",
-"name": "30006 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "3000601 ゆうやけこやけ.txt"
-},
-{
-"type": "file",
-"name": "3000602 ゆうやけこやけ.txt"
-},
-{
-"type": "file",
-"name": "3000603 ゆうやけこやけ.txt"
-},
-{
-"type": "file",
-"name": "3000604 ゆうやけこやけ.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30007 おつかれ、おやすみ",
-"children": [
-{
-"type": "file",
-"name": "30007 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "3000701 おつかれ、おやすみ.txt"
-},
-{
-"type": "file",
-"name": "3000702 おつかれ、おやすみ.txt"
-},
-{
-"type": "file",
-"name": "3000703 おつかれ、おやすみ.txt"
-},
-{
-"type": "file",
-"name": "3000704 おつかれ、おやすみ.txt"
-},
-{
-"type": "file",
-"name": "3000705 おつかれ、おやすみ.txt"
-},
-{
-"type": "file",
-"name": "3000706 おつかれ、おやすみ.txt"
-},
-{
-"type": "file",
-"name": "3000707 おつかれ、おやすみ.txt"
-},
-{
-"type": "file",
-"name": "3000708 おつかれ、おやすみ.txt"
-},
-{
-"type": "file",
-"name": "3000709 おつかれ、おやすみ.txt"
-},
-{
-"type": "file",
-"name": "3000710 おつかれ、おやすみ.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30008 にゅうてん",
-"children": [
-{
-"type": "file",
-"name": "30008 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "3000801 にゅうてん.txt"
-},
-{
-"type": "file",
-"name": "3000802 にゅうてん.txt"
-},
-{
 "type": "file",
-"name": "3000803 にゅうてん.txt"
+"name": "10001 にぎやかなティータイム.txt"
 },
 {
 "type": "file",
-"name": "3000804 にゅうてん.txt"
+"name": "10002 止まらない衣装プレゼン.txt"
 },
 {
 "type": "file",
-"name": "3000805 にゅうてん.txt"
+"name": "10003 かわいいどうぶつ、見つけた.txt"
 },
 {
 "type": "file",
-"name": "3000806 にゅうてん.txt"
+"name": "10004 ふー、ふー、ふー.txt"
 },
 {
 "type": "file",
-"name": "3000807 にゅうてん.txt"
+"name": "10005 迷子のねこ.txt"
 },
 {
 "type": "file",
-"name": "3000808 にゅうてん.txt"
+"name": "10006 みんなでひと休み.txt"
 },
 {
 "type": "file",
-"name": "3000809 にゅうてん.txt"
+"name": "10007 がんばった指先.txt"
 },
 {
 "type": "file",
-"name": "3000810 にゅうてん.txt"
-}
-]
+"name": "10008 ぶっきらぼうな優しさ.txt"
 },
 {
-"type": "dir",
-"name": "40001 いつもの光景",
-"children": [
-{
-"type": "file",
-"name": "40001 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "4000101 いつもの光景.txt"
-},
-{
-"type": "file",
-"name": "4000102 いつもの光景.txt"
-},
-{
-"type": "file",
-"name": "4000103 いつもの光景.txt"
-},
-{
-"type": "file",
-"name": "4000104 いつもの光景.txt"
-},
-{
-"type": "file",
-"name": "4000105 いつもの光景.txt"
-},
-{
-"type": "file",
-"name": "4000106 いつもの光景.txt"
-},
-{
-"type": "file",
-"name": "4000107 いつもの光景.txt"
-},
-{
-"type": "file",
-"name": "4000108 いつもの光景.txt"
-},
-{
-"type": "file",
-"name": "4000109 いつもの光景.txt"
-},
-{
-"type": "file",
-"name": "4000110 いつもの光景.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40002 始まる、その前に",
-"children": [
-{
-"type": "file",
-"name": "40002 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "4000201 始まる、その前に.txt"
-},
-{
-"type": "file",
-"name": "4000202 始まる、その前に.txt"
-},
-{
-"type": "file",
-"name": "4000203 始まる、その前に.txt"
-},
-{
-"type": "file",
-"name": "4000204 始まる、その前に.txt"
-},
-{
-"type": "file",
-"name": "4000205 始まる、その前に.txt"
-},
-{
-"type": "file",
-"name": "4000206 始まる、その前に.txt"
-},
-{
-"type": "file",
-"name": "4000207 始まる、その前に.txt"
-},
-{
-"type": "file",
-"name": "4000208 始まる、その前に.txt"
-},
-{
-"type": "file",
-"name": "4000209 始まる、その前に.txt"
-},
-{
-"type": "file",
-"name": "4000210 始まる、その前に.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40003 甘えはなし",
-"children": [
-{
-"type": "file",
-"name": "40003 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "4000301 甘えはなし.txt"
-},
-{
-"type": "file",
-"name": "4000302 甘えはなし.txt"
-},
-{
-"type": "file",
-"name": "4000303 甘えはなし.txt"
-},
-{
-"type": "file",
-"name": "4000304 甘えはなし.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40004 おしゃべりに花を咲かせて",
-"children": [
-{
-"type": "file",
-"name": "40004 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "4000401 おしゃべりに花を咲かせて.txt"
-},
-{
-"type": "file",
-"name": "4000402 おしゃべりに花を咲かせて.txt"
-},
-{
-"type": "file",
-"name": "4000403 おしゃべりに花を咲かせて.txt"
-},
-{
-"type": "file",
-"name": "4000404 おしゃべりに花を咲かせて.txt"
-},
-{
-"type": "file",
-"name": "4000405 おしゃべりに花を咲かせて.txt"
-},
-{
-"type": "file",
-"name": "4000406 おしゃべりに花を咲かせて.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40005 そーっと、そーっと",
-"children": [
-{
-"type": "file",
-"name": "40005 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "4000501 そーっと、そーっと.txt"
-},
-{
-"type": "file",
-"name": "4000502 そーっと、そーっと.txt"
-},
-{
-"type": "file",
-"name": "4000503 そーっと、そーっと.txt"
-},
-{
-"type": "file",
-"name": "4000504 そーっと、そーっと.txt"
-},
-{
-"type": "file",
-"name": "4000505 そーっと、そーっと.txt"
-},
-{
-"type": "file",
-"name": "4000506 そーっと、そーっと.txt"
-},
-{
 "type": "file",
-"name": "4000507 そーっと、そーっと.txt"
+"name": "10009 １１１の記念日.txt"
 },
 {
 "type": "file",
-"name": "4000508 そーっと、そーっと.txt"
+"name": "20001 効率重視のお昼ご飯.txt"
 },
 {
 "type": "file",
-"name": "4000509 そーっと、そーっと.txt"
+"name": "20002 みんなでクールダウン.txt"
 },
 {
 "type": "file",
-"name": "4000510 そーっと、そーっと.txt"
-}
-]
+"name": "20003 研鑽の日々.txt"
 },
 {
-"type": "dir",
-"name": "40006 本物を味わって",
-"children": [
-{
-"type": "file",
-"name": "40006 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "4000601 本物を味わって.txt"
-},
-{
-"type": "file",
-"name": "4000602 本物を味わって.txt"
-},
-{
-"type": "file",
-"name": "4000603 本物を味わって.txt"
-},
-{
-"type": "file",
-"name": "4000604 本物を味わって.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40007 つれない返事",
-"children": [
-{
-"type": "file",
-"name": "40007 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "4000701 つれない返事.txt"
-},
-{
-"type": "file",
-"name": "4000702 つれない返事.txt"
-},
-{
-"type": "file",
-"name": "4000703 つれない返事.txt"
-},
-{
-"type": "file",
-"name": "4000704 つれない返事.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50001 Roarin' Kids!!",
-"children": [
-{
-"type": "file",
-"name": "50001 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "5000101 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000102 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000103 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000104 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000105 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000106 Roarin' Kids!!.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50002 労働の時間、はじまり！",
-"children": [
-{
-"type": "file",
-"name": "50002 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "5000201 労働の時間、はじまり！.txt"
-},
-{
-"type": "file",
-"name": "5000202 労働の時間、はじまり！.txt"
-},
-{
 "type": "file",
-"name": "5000203 労働の時間、はじまり！.txt"
+"name": "20004 会議の前に、まず一枚.txt"
 },
 {
 "type": "file",
-"name": "5000204 労働の時間、はじまり！.txt"
+"name": "20005 万全を期して.txt"
 },
 {
 "type": "file",
-"name": "5000205 労働の時間、はじまり！.txt"
+"name": "20006 ドーナツを囲んで.txt"
 },
 {
 "type": "file",
-"name": "5000206 労働の時間、はじまり！.txt"
+"name": "20007 降り出した雨に.txt"
 },
 {
 "type": "file",
-"name": "5000207 労働の時間、はじまり！.txt"
+"name": "20008 今宵、船上にて.txt"
 },
 {
 "type": "file",
-"name": "5000208 労働の時間、はじまり！.txt"
+"name": "30001 ふよふよ、すい〜.txt"
 },
 {
 "type": "file",
-"name": "5000209 労働の時間、はじまり！.txt"
+"name": "30002 ライブじゅんびちゅう.txt"
 },
 {
 "type": "file",
-"name": "5000210 労働の時間、はじまり！.txt"
-}
-]
+"name": "30003 クマさんたんてい.txt"
 },
 {
-"type": "dir",
-"name": "50003 ばいばい",
-"children": [
-{
-"type": "file",
-"name": "50003 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "5000301 ばいばい.txt"
-},
-{
-"type": "file",
-"name": "5000302 ばいばい.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50004 最安価格のお宝",
-"children": [
-{
-"type": "file",
-"name": "50004 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "5000401 最安価格のお宝.txt"
-},
-{
-"type": "file",
-"name": "5000402 最安価格のお宝.txt"
-},
-{
-"type": "file",
-"name": "5000403 最安価格のお宝.txt"
-},
-{
-"type": "file",
-"name": "5000404 最安価格のお宝.txt"
-},
-{
-"type": "file",
-"name": "5000405 最安価格のお宝.txt"
-},
-{
-"type": "file",
-"name": "5000406 最安価格のお宝.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50005 背徳の味を知った夜",
-"children": [
-{
-"type": "file",
-"name": "50005 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "5000501 背徳の味を知った夜.txt"
-},
-{
-"type": "file",
-"name": "5000502 背徳の味を知った夜.txt"
-},
-{
-"type": "file",
-"name": "5000503 背徳の味を知った夜.txt"
-},
-{
-"type": "file",
-"name": "5000504 背徳の味を知った夜.txt"
-},
-{
 "type": "file",
-"name": "5000505 背徳の味を知った夜.txt"
+"name": "30004 かいふくアイテム.txt"
 },
 {
 "type": "file",
-"name": "5000506 背徳の味を知った夜.txt"
-}
-]
+"name": "30005 うきうきランチ.txt"
 },
 {
-"type": "dir",
-"name": "50006 団欒のゲーム・パーティ",
-"children": [
-{
-"type": "file",
-"name": "50006 メンバートーク.txt"
-},
-{
-"type": "file",
-"name": "5000601 団欒のゲーム・パーティ.txt"
-},
-{
-"type": "file",
-"name": "5000602 団欒のゲーム・パーティ.txt"
-},
-{
-"type": "file",
-"name": "5000603 団欒のゲーム・パーティ.txt"
-},
-{
-"type": "file",
-"name": "5000604 団欒のゲーム・パーティ.txt"
-},
-{
 "type": "file",
-"name": "5000605 団欒のゲーム・パーティ.txt"
+"name": "30006 ゆうやけこやけ.txt"
 },
 {
 "type": "file",
-"name": "5000606 団欒のゲーム・パーティ.txt"
+"name": "30007 おつかれ、おやすみ.txt"
 },
 {
 "type": "file",
-"name": "5000607 団欒のゲーム・パーティ.txt"
+"name": "30008 にゅうてん.txt"
 },
 {
 "type": "file",
-"name": "5000608 団欒のゲーム・パーティ.txt"
+"name": "40001 いつもの光景.txt"
 },
 {
 "type": "file",
-"name": "5000609 団欒のゲーム・パーティ.txt"
+"name": "40002 始まる、その前に.txt"
 },
 {
 "type": "file",
-"name": "5000610 団欒のゲーム・パーティ.txt"
-}
-]
+"name": "40003 甘えはなし.txt"
 },
-{
-"type": "dir",
-"name": "50007 アイスはみんなで",
-"children": [
 {
 "type": "file",
-"name": "50007 メンバートーク.txt"
+"name": "40004 おしゃべりに花を咲かせて.txt"
 },
 {
 "type": "file",
-"name": "5000701 アイスはみんなで.txt"
+"name": "40005 そーっと、そーっと.txt"
 },
 {
 "type": "file",
-"name": "5000702 アイスはみんなで.txt"
+"name": "40006 本物を味わって.txt"
 },
 {
 "type": "file",
-"name": "5000703 アイスはみんなで.txt"
+"name": "40007 つれない返事.txt"
 },
 {
 "type": "file",
-"name": "5000704 アイスはみんなで.txt"
+"name": "50001 Roarin' Kids!!.txt"
 },
 {
 "type": "file",
-"name": "5000705 アイスはみんなで.txt"
+"name": "50002 労働の時間、はじまり！.txt"
 },
 {
 "type": "file",
-"name": "5000706 アイスはみんなで.txt"
+"name": "50003 ばいばい.txt"
 },
 {
 "type": "file",
-"name": "5000707 アイスはみんなで.txt"
+"name": "50004 最安価格のお宝.txt"
 },
 {
 "type": "file",
-"name": "5000708 アイスはみんなで.txt"
+"name": "50005 背徳の味を知った夜.txt"
 },
 {
 "type": "file",
-"name": "5000709 アイスはみんなで.txt"
+"name": "50006 団欒のゲーム・パーティ.txt"
 },
 {
 "type": "file",
-"name": "5000710 アイスはみんなで.txt"
-}
-]
+"name": "50007 アイスはみんなで.txt"
 }
 ]
 },

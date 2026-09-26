@@ -89,23 +89,23 @@
 },
 {
 "type": "file",
-"name": "another-01-01 Tomori MyGO!!!!!.txt"
+"name": "another-01-01 MyGO!!!!! (Tomori).txt"
 },
 {
 "type": "file",
-"name": "another-01-02 Anon A song....txt"
+"name": "another-01-02 A song... (Anon).txt"
 },
 {
 "type": "file",
-"name": "another-01-03 Rāna MyGO!!!!!.txt"
+"name": "another-01-03 MyGO!!!!! (Rāna).txt"
 },
 {
 "type": "file",
-"name": "another-01-04 Soyo MyGO!!!!!.txt"
+"name": "another-01-04 MyGO!!!!! (Soyo).txt"
 },
 {
 "type": "file",
-"name": "another-01-05 Taki MyGO!!!!!.txt"
+"name": "another-01-05 MyGO!!!!! (Taki).txt"
 },
 {
 "type": "file",
@@ -207,23 +207,23 @@
 },
 {
 "type": "file",
-"name": "another-02-01 Uika In paradisum..txt"
+"name": "another-02-01 In paradisum. (Uika).txt"
 },
 {
 "type": "file",
-"name": "another-02-02 Mutsumi In paradisum..txt"
+"name": "another-02-02 In paradisum. (Mutsumi).txt"
 },
 {
 "type": "file",
-"name": "another-02-03 Umiri Sine vita, nihil..txt"
+"name": "another-02-03 Sine vita, nihil. (Umiri).txt"
 },
 {
 "type": "file",
-"name": "another-02-04 Nyamu In paradisum..txt"
+"name": "another-02-04 In paradisum. (Nyamu).txt"
 },
 {
 "type": "file",
-"name": "another-02-05 Sakiko In paradisum..txt"
+"name": "another-02-05 In paradisum. (Sakiko).txt"
 },
 {
 "type": "file",
@@ -325,23 +325,23 @@
 },
 {
 "type": "file",
-"name": "another-03-01 Arale Potential is Mugendai.txt"
+"name": "another-03-01 Potential is Mugendai (Arale).txt"
 },
 {
 "type": "file",
-"name": "another-03-02 Nonoka Sing.txt"
+"name": "another-03-02 Sing (Nonoka).txt"
 },
 {
 "type": "file",
-"name": "another-03-03 Ritsu Super recovery.txt"
+"name": "another-03-03 Super recovery (Ritsu).txt"
 },
 {
 "type": "file",
-"name": "another-03-04 Miyako Potential is Mugendai.txt"
+"name": "another-03-04 Potential is Mugendai (Miyako).txt"
 },
 {
 "type": "file",
-"name": "another-03-05 Yuno Potential is Mugendai.txt"
+"name": "another-03-05 Potential is Mugendai (Yuno).txt"
 },
 {
 "type": "file",
@@ -443,23 +443,23 @@
 },
 {
 "type": "file",
-"name": "another-04-01 Hotaru Happy end.txt"
+"name": "another-04-01 Happy end (Hotaru).txt"
 },
 {
 "type": "file",
-"name": "another-04-02 Natsume Happy end.txt"
+"name": "another-04-02 Happy end (Natsume).txt"
 },
 {
 "type": "file",
-"name": "another-04-03 Nagi In happiness.txt"
+"name": "another-04-03 In happiness (Nagi).txt"
 },
 {
 "type": "file",
-"name": "another-04-04 Mahoro Happy end.txt"
+"name": "another-04-04 Happy end (Mahoro).txt"
 },
 {
 "type": "file",
-"name": "another-04-05 Houka In happiness.txt"
+"name": "another-04-05 In happiness (Houka).txt"
 }
 ]
 },
@@ -549,23 +549,23 @@
 },
 {
 "type": "file",
-"name": "another-05-01 Raika Ikka Dumb Rock!.txt"
+"name": "another-05-01 Ikka Dumb Rock! (Raika).txt"
 },
 {
 "type": "file",
-"name": "another-05-02 Miku Ikka Dumb Rock!.txt"
+"name": "another-05-02 Ikka Dumb Rock! (Miku).txt"
 },
 {
 "type": "file",
-"name": "another-05-03 Yomogi I will never let this passion die down!!.txt"
+"name": "another-05-03 I will never let this passion die down!! (Yomogi).txt"
 },
 {
 "type": "file",
-"name": "another-05-04 Chieri Ikka Dumb Rock!.txt"
+"name": "another-05-04 Ikka Dumb Rock! (Chieri).txt"
 },
 {
 "type": "file",
-"name": "another-05-05 Shizuku I won't give up ＂Home＂!!.txt"
+"name": "another-05-05 I won't give up ＂Home＂!! (Shizuku).txt"
 }
 ]
 }
@@ -1482,1578 +1482,160 @@
 "name": "home",
 "children": [
 {
-"type": "dir",
-"name": "10001 Lively Tea Time",
-"children": [
-{
-"type": "file",
-"name": "10001 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "1000101 Lively Tea Time.txt"
-},
-{
-"type": "file",
-"name": "1000102 Lively Tea Time.txt"
-},
-{
-"type": "file",
-"name": "1000103 Lively Tea Time.txt"
-},
-{
-"type": "file",
-"name": "1000104 Lively Tea Time.txt"
-},
-{
-"type": "file",
-"name": "1000105 Lively Tea Time.txt"
-},
-{
-"type": "file",
-"name": "1000106 Lively Tea Time.txt"
-},
-{
-"type": "file",
-"name": "1000107 Lively Tea Time.txt"
-},
-{
-"type": "file",
-"name": "1000108 Lively Tea Time.txt"
-},
-{
-"type": "file",
-"name": "1000109 Lively Tea Time.txt"
-},
-{
-"type": "file",
-"name": "1000110 Lively Tea Time.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10002 Non-Stop Outfit Pitch",
-"children": [
-{
-"type": "file",
-"name": "10002 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "1000201 Non-Stop Outfit Pitch.txt"
-},
-{
-"type": "file",
-"name": "1000202 Non-Stop Outfit Pitch.txt"
-},
-{
-"type": "file",
-"name": "1000203 Non-Stop Outfit Pitch.txt"
-},
-{
-"type": "file",
-"name": "1000204 Non-Stop Outfit Pitch.txt"
-},
-{
-"type": "file",
-"name": "1000205 Non-Stop Outfit Pitch.txt"
-},
-{
-"type": "file",
-"name": "1000206 Non-Stop Outfit Pitch.txt"
-},
-{
-"type": "file",
-"name": "1000207 Non-Stop Outfit Pitch.txt"
-},
-{
-"type": "file",
-"name": "1000208 Non-Stop Outfit Pitch.txt"
-},
-{
-"type": "file",
-"name": "1000209 Non-Stop Outfit Pitch.txt"
-},
-{
-"type": "file",
-"name": "1000210 Non-Stop Outfit Pitch.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10003 Found Cute Animals",
-"children": [
-{
-"type": "file",
-"name": "10003 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "1000301 Found Cute Animals.txt"
-},
-{
-"type": "file",
-"name": "1000302 Found Cute Animals.txt"
-},
-{
-"type": "file",
-"name": "1000303 Found Cute Animals.txt"
-},
-{
-"type": "file",
-"name": "1000304 Found Cute Animals.txt"
-},
-{
-"type": "file",
-"name": "1000305 Found Cute Animals.txt"
-},
-{
-"type": "file",
-"name": "1000306 Found Cute Animals.txt"
-},
-{
-"type": "file",
-"name": "1000307 Found Cute Animals.txt"
-},
-{
-"type": "file",
-"name": "1000308 Found Cute Animals.txt"
-},
-{
-"type": "file",
-"name": "1000309 Found Cute Animals.txt"
-},
-{
-"type": "file",
-"name": "1000310 Found Cute Animals.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10004 Fwoo, Fwoo, Fwoo",
-"children": [
-{
-"type": "file",
-"name": "10004 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "1000401 Fwoo, Fwoo, Fwoo....txt"
-},
-{
-"type": "file",
-"name": "1000402 Fwoo, Fwoo, Fwoo....txt"
-},
-{
-"type": "file",
-"name": "1000403 Fwoo, Fwoo, Fwoo....txt"
-},
-{
-"type": "file",
-"name": "1000404 Fwoo, Fwoo, Fwoo....txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10005 The Lost Cat",
-"children": [
-{
-"type": "file",
-"name": "10005 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "1000501 The Lost Cat.txt"
-},
-{
-"type": "file",
-"name": "1000502 The Lost Cat.txt"
-},
-{
-"type": "file",
-"name": "1000503 The Lost Cat.txt"
-},
-{
-"type": "file",
-"name": "1000504 The Lost Cat.txt"
-},
-{
-"type": "file",
-"name": "1000505 The Lost Cat.txt"
-},
-{
-"type": "file",
-"name": "1000506 The Lost Cat.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10006 Taking a Break Together",
-"children": [
-{
-"type": "file",
-"name": "10006 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "1000601 Taking a Break Together.txt"
-},
-{
-"type": "file",
-"name": "1000602 Taking a Break Together.txt"
-},
-{
-"type": "file",
-"name": "1000603 Taking a Break Together.txt"
-},
-{
-"type": "file",
-"name": "1000604 Taking a Break Together.txt"
-},
-{
-"type": "file",
-"name": "1000605 Taking a Break Together.txt"
-},
-{
-"type": "file",
-"name": "1000606 Taking a Break Together.txt"
-},
-{
-"type": "file",
-"name": "1000607 Taking a Break Together.txt"
-},
-{
-"type": "file",
-"name": "1000608 Taking a Break Together.txt"
-},
-{
-"type": "file",
-"name": "1000609 Taking a Break Together.txt"
-},
-{
-"type": "file",
-"name": "1000610 Taking a Break Together.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10007 Hardworking Fingertips",
-"children": [
-{
-"type": "file",
-"name": "10007 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "1000701 Hardworking Fingertips.txt"
-},
-{
-"type": "file",
-"name": "1000702 Hardworking Fingertips.txt"
-},
-{
-"type": "file",
-"name": "1000703 Hardworking Fingertips.txt"
-},
-{
-"type": "file",
-"name": "1000704 Hardworking Fingertips.txt"
-},
-{
-"type": "file",
-"name": "1000705 Hardworking Fingertips.txt"
-},
-{
-"type": "file",
-"name": "1000706 Hardworking Fingertips.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10008 Gruff Kindness",
-"children": [
-{
-"type": "file",
-"name": "10008 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "1000801 Gruff Kindness.txt"
-},
-{
-"type": "file",
-"name": "1000802 Gruff Kindness.txt"
-},
-{
-"type": "file",
-"name": "1000803 Gruff Kindness.txt"
-},
-{
-"type": "file",
-"name": "1000804 Gruff Kindness.txt"
-},
-{
-"type": "file",
-"name": "1000805 Gruff Kindness.txt"
-},
-{
-"type": "file",
-"name": "1000806 Gruff Kindness.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10009 The 111th Anniversary",
-"children": [
-{
-"type": "file",
-"name": "10009 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "1000901 The 111th Anniversary.txt"
-},
-{
-"type": "file",
-"name": "1000902 The 111th Anniversary.txt"
-},
-{
-"type": "file",
-"name": "1000903 The 111th Anniversary.txt"
-},
-{
-"type": "file",
-"name": "1000904 The 111th Anniversary.txt"
-},
-{
-"type": "file",
-"name": "1000905 The 111th Anniversary.txt"
-},
-{
-"type": "file",
-"name": "1000906 The 111th Anniversary.txt"
-},
-{
-"type": "file",
-"name": "1000907 The 111th Anniversary.txt"
-},
-{
-"type": "file",
-"name": "1000908 The 111th Anniversary.txt"
-},
-{
-"type": "file",
-"name": "1000909 The 111th Anniversary.txt"
-},
-{
-"type": "file",
-"name": "1000910 The 111th Anniversary.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20001 Efficiency-First Lunch",
-"children": [
-{
-"type": "file",
-"name": "20001 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "2000101 Efficiency-First Lunch.txt"
-},
-{
-"type": "file",
-"name": "2000102 Efficiency-First Lunch.txt"
-},
-{
-"type": "file",
-"name": "2000103 Efficiency-First Lunch.txt"
-},
-{
-"type": "file",
-"name": "2000104 Efficiency-First Lunch.txt"
-},
-{
-"type": "file",
-"name": "2000105 Efficiency-First Lunch.txt"
-},
-{
-"type": "file",
-"name": "2000106 Efficiency-First Lunch.txt"
-},
-{
-"type": "file",
-"name": "2000107 Efficiency-First Lunch.txt"
-},
-{
-"type": "file",
-"name": "2000108 Efficiency-First Lunch.txt"
-},
-{
-"type": "file",
-"name": "2000109 Efficiency-First Lunch.txt"
-},
-{
-"type": "file",
-"name": "2000110 Efficiency-First Lunch.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20002 Cooling Down Together",
-"children": [
-{
-"type": "file",
-"name": "20002 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "2000201 Cooling Down Together.txt"
-},
-{
-"type": "file",
-"name": "2000202 Cooling Down Together.txt"
-},
-{
-"type": "file",
-"name": "2000203 Cooling Down Together.txt"
-},
-{
-"type": "file",
-"name": "2000204 Cooling Down Together.txt"
-},
-{
-"type": "file",
-"name": "2000205 Cooling Down Together.txt"
-},
-{
-"type": "file",
-"name": "2000206 Cooling Down Together.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20003 Days of Dedication",
-"children": [
-{
-"type": "file",
-"name": "20003 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "2000301 Days of Dedication.txt"
-},
-{
-"type": "file",
-"name": "2000302 Days of Dedication.txt"
-},
-{
-"type": "file",
-"name": "2000303 Days of Dedication.txt"
-},
-{
-"type": "file",
-"name": "2000304 Days of Dedication.txt"
-},
-{
-"type": "file",
-"name": "2000305 Days of Dedication.txt"
-},
-{
-"type": "file",
-"name": "2000306 Days of Dedication.txt"
-},
-{
-"type": "file",
-"name": "2000307 Days of Dedication.txt"
-},
-{
-"type": "file",
-"name": "2000308 Days of Dedication.txt"
-},
-{
-"type": "file",
-"name": "2000309 Days of Dedication.txt"
-},
-{
-"type": "file",
-"name": "2000310 Days of Dedication.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20004 A Quick Pic Before the Meeting",
-"children": [
-{
-"type": "file",
-"name": "20004 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "2000401 A Quick Pic Before the Meeting.txt"
-},
-{
-"type": "file",
-"name": "2000402 A Quick Pic Before the Meeting.txt"
-},
-{
-"type": "file",
-"name": "2000403 A Quick Pic Before the Meeting.txt"
-},
-{
-"type": "file",
-"name": "2000404 A Quick Pic Before the Meeting.txt"
-},
-{
-"type": "file",
-"name": "2000405 A Quick Pic Before the Meeting.txt"
-},
-{
-"type": "file",
-"name": "2000406 A Quick Pic Before the Meeting.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20005 Leaving Nothing to Chance",
-"children": [
-{
-"type": "file",
-"name": "20005 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "2000501 Leaving Nothing to Chance.txt"
-},
-{
-"type": "file",
-"name": "2000502 Leaving Nothing to Chance.txt"
-},
-{
-"type": "file",
-"name": "2000503 Leaving Nothing to Chance.txt"
-},
-{
-"type": "file",
-"name": "2000504 Leaving Nothing to Chance.txt"
-},
-{
-"type": "file",
-"name": "2000505 Leaving Nothing to Chance.txt"
-},
-{
-"type": "file",
-"name": "2000506 Leaving Nothing to Chance.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20006 Bonding Over Donuts",
-"children": [
-{
-"type": "file",
-"name": "20006 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "2000601 Bonding Over Donuts.txt"
-},
-{
-"type": "file",
-"name": "2000602 Bonding Over Donuts.txt"
-},
-{
-"type": "file",
-"name": "2000603 Bonding Over Donuts.txt"
-},
-{
-"type": "file",
-"name": "2000604 Bonding Over Donuts.txt"
-},
-{
-"type": "file",
-"name": "2000605 Bonding Over Donuts.txt"
-},
-{
-"type": "file",
-"name": "2000606 Bonding Over Donuts.txt"
-},
-{
-"type": "file",
-"name": "2000607 Bonding Over Donuts.txt"
-},
-{
-"type": "file",
-"name": "2000608 Bonding Over Donuts.txt"
-},
-{
-"type": "file",
-"name": "2000609 Bonding Over Donuts.txt"
-},
-{
-"type": "file",
-"name": "2000610 Bonding Over Donuts.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20007 In the Falling Rain",
-"children": [
-{
-"type": "file",
-"name": "20007 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "2000701 In the Falling Rain.txt"
-},
-{
-"type": "file",
-"name": "2000702 In the Falling Rain.txt"
-},
-{
-"type": "file",
-"name": "2000703 In the Falling Rain.txt"
-},
-{
-"type": "file",
-"name": "2000704 In the Falling Rain.txt"
-},
-{
-"type": "file",
-"name": "2000705 In the Falling Rain.txt"
-},
-{
-"type": "file",
-"name": "2000706 In the Falling Rain.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20008 Tonight, Aboard the Ship",
-"children": [
-{
-"type": "file",
-"name": "20008 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "2000801 Tonight, Aboard the Ship.txt"
-},
-{
-"type": "file",
-"name": "2000802 Tonight, Aboard the Ship.txt"
-},
-{
-"type": "file",
-"name": "2000803 Tonight, Aboard the Ship.txt"
-},
-{
-"type": "file",
-"name": "2000804 Tonight, Aboard the Ship.txt"
-},
-{
-"type": "file",
-"name": "2000805 Tonight, Aboard the Ship.txt"
-},
-{
-"type": "file",
-"name": "2000806 Tonight, Aboard the Ship.txt"
-},
-{
-"type": "file",
-"name": "2000807 Tonight, Aboard the Ship.txt"
-},
-{
-"type": "file",
-"name": "2000808 Tonight, Aboard the Ship.txt"
-},
-{
-"type": "file",
-"name": "2000809 Tonight, Aboard the Ship.txt"
-},
-{
-"type": "file",
-"name": "2000810 Tonight, Aboard the Ship.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30001 Float, Float, Glide~",
-"children": [
-{
-"type": "file",
-"name": "30001 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "3000101 Float, Float, Glide~.txt"
-},
-{
-"type": "file",
-"name": "3000102 Float, Float, Glide~.txt"
-},
-{
-"type": "file",
-"name": "3000103 Float, Float, Glide~.txt"
-},
-{
-"type": "file",
-"name": "3000104 Float, Float, Glide~.txt"
-},
-{
-"type": "file",
-"name": "3000105 Float, Float, Glide~.txt"
-},
-{
-"type": "file",
-"name": "3000106 Float, Float, Glide~.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30002 Getting Ready for the Live",
-"children": [
-{
-"type": "file",
-"name": "30002 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "3000201 Getting Ready for the Live.txt"
-},
-{
-"type": "file",
-"name": "3000202 Getting Ready for the Live.txt"
-},
-{
-"type": "file",
-"name": "3000203 Getting Ready for the Live.txt"
-},
-{
-"type": "file",
-"name": "3000204 Getting Ready for the Live.txt"
-},
-{
-"type": "file",
-"name": "3000205 Getting Ready for the Live.txt"
-},
-{
-"type": "file",
-"name": "3000206 Getting Ready for the Live.txt"
-},
-{
-"type": "file",
-"name": "3000207 Getting Ready for the Live.txt"
-},
-{
-"type": "file",
-"name": "3000208 Getting Ready for the Live.txt"
-},
-{
-"type": "file",
-"name": "3000209 Getting Ready for the Live.txt"
-},
-{
-"type": "file",
-"name": "3000210 Getting Ready for the Live.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30003 Detective Mr. Panda Eyes",
-"children": [
-{
-"type": "file",
-"name": "30003 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "3000301 Detective Mr. Panda Eyes.txt"
-},
-{
-"type": "file",
-"name": "3000302 Detective Mr. Panda Eyes.txt"
-},
-{
-"type": "file",
-"name": "3000303 Detective Mr. Panda Eyes.txt"
-},
-{
-"type": "file",
-"name": "3000304 Detective Mr. Panda Eyes.txt"
-},
-{
-"type": "file",
-"name": "3000305 Detective Mr. Panda Eyes.txt"
-},
-{
-"type": "file",
-"name": "3000306 Detective Mr. Panda Eyes.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30004 Recovery Item",
-"children": [
-{
-"type": "file",
-"name": "30004 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "3000401 Recovery Item.txt"
-},
-{
-"type": "file",
-"name": "3000402 Recovery Item.txt"
-},
-{
-"type": "file",
-"name": "3000403 Recovery Item.txt"
-},
-{
-"type": "file",
-"name": "3000404 Recovery Item.txt"
-},
-{
-"type": "file",
-"name": "3000405 Recovery Item.txt"
-},
-{
-"type": "file",
-"name": "3000406 Recovery Item.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30005 A Joyful Lunch",
-"children": [
-{
-"type": "file",
-"name": "30005 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "3000501 A Joyful Lunch.txt"
-},
-{
-"type": "file",
-"name": "3000502 A Joyful Lunch.txt"
-},
-{
-"type": "file",
-"name": "3000503 A Joyful Lunch.txt"
-},
-{
-"type": "file",
-"name": "3000504 A Joyful Lunch.txt"
-},
-{
-"type": "file",
-"name": "3000505 A Joyful Lunch.txt"
-},
-{
-"type": "file",
-"name": "3000506 A Joyful Lunch.txt"
-},
-{
-"type": "file",
-"name": "3000507 A Joyful Lunch.txt"
-},
-{
-"type": "file",
-"name": "3000508 A Joyful Lunch.txt"
-},
-{
-"type": "file",
-"name": "3000509 A Joyful Lunch.txt"
-},
-{
-"type": "file",
-"name": "3000510 A Joyful Lunch.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30006 Evening Glow",
-"children": [
-{
-"type": "file",
-"name": "30006 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "3000601 Evening Glow.txt"
-},
-{
-"type": "file",
-"name": "3000602 Evening Glow.txt"
-},
-{
-"type": "file",
-"name": "3000603 Evening Glow.txt"
-},
-{
-"type": "file",
-"name": "3000604 Evening Glow.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30007 Good Work Today. Good Night",
-"children": [
-{
-"type": "file",
-"name": "30007 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "3000701 Good Work Today. Good Night..txt"
-},
-{
-"type": "file",
-"name": "3000702 Good Work Today. Good Night..txt"
-},
-{
-"type": "file",
-"name": "3000703 Good Work Today. Good Night..txt"
-},
-{
-"type": "file",
-"name": "3000704 Good Work Today. Good Night..txt"
-},
-{
-"type": "file",
-"name": "3000705 Good Work Today. Good Night..txt"
-},
-{
-"type": "file",
-"name": "3000706 Good Work Today. Good Night..txt"
-},
-{
-"type": "file",
-"name": "3000707 Good Work Today. Good Night..txt"
-},
-{
-"type": "file",
-"name": "3000708 Good Work Today. Good Night..txt"
-},
-{
-"type": "file",
-"name": "3000709 Good Work Today. Good Night..txt"
-},
-{
-"type": "file",
-"name": "3000710 Good Work Today. Good Night..txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30008 Entering the Shop",
-"children": [
-{
-"type": "file",
-"name": "30008 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "3000801 Entering the Shop.txt"
-},
-{
-"type": "file",
-"name": "3000802 Entering the Shop.txt"
-},
-{
 "type": "file",
-"name": "3000803 Entering the Shop.txt"
+"name": "10001 Lively Tea Time.txt"
 },
 {
 "type": "file",
-"name": "3000804 Entering the Shop.txt"
+"name": "10002 Non-Stop Outfit Pitch.txt"
 },
 {
 "type": "file",
-"name": "3000805 Entering the Shop.txt"
+"name": "10003 Found Cute Animals.txt"
 },
 {
 "type": "file",
-"name": "3000806 Entering the Shop.txt"
+"name": "10004 Fwoo, Fwoo, Fwoo....txt"
 },
 {
 "type": "file",
-"name": "3000807 Entering the Shop.txt"
+"name": "10005 The Lost Cat.txt"
 },
 {
 "type": "file",
-"name": "3000808 Entering the Shop.txt"
+"name": "10006 Taking a Break Together.txt"
 },
 {
 "type": "file",
-"name": "3000809 Entering the Shop.txt"
+"name": "10007 Hardworking Fingertips.txt"
 },
 {
 "type": "file",
-"name": "3000810 Entering the Shop.txt"
-}
-]
+"name": "10008 Gruff Kindness.txt"
 },
 {
-"type": "dir",
-"name": "40001 The Usual Scene",
-"children": [
-{
-"type": "file",
-"name": "40001 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "4000101 The Usual Scene.txt"
-},
-{
-"type": "file",
-"name": "4000102 The Usual Scene.txt"
-},
-{
-"type": "file",
-"name": "4000103 The Usual Scene.txt"
-},
-{
-"type": "file",
-"name": "4000104 The Usual Scene.txt"
-},
-{
-"type": "file",
-"name": "4000105 The Usual Scene.txt"
-},
-{
-"type": "file",
-"name": "4000106 The Usual Scene.txt"
-},
-{
-"type": "file",
-"name": "4000107 The Usual Scene.txt"
-},
-{
-"type": "file",
-"name": "4000108 The Usual Scene.txt"
-},
-{
-"type": "file",
-"name": "4000109 The Usual Scene.txt"
-},
-{
-"type": "file",
-"name": "4000110 The Usual Scene.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40002 Before It Begins",
-"children": [
-{
-"type": "file",
-"name": "40002 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "4000201 Before It Begins.txt"
-},
-{
-"type": "file",
-"name": "4000202 Before It Begins.txt"
-},
-{
-"type": "file",
-"name": "4000203 Before It Begins.txt"
-},
-{
-"type": "file",
-"name": "4000204 Before It Begins.txt"
-},
-{
-"type": "file",
-"name": "4000205 Before It Begins.txt"
-},
-{
-"type": "file",
-"name": "4000206 Before It Begins.txt"
-},
-{
-"type": "file",
-"name": "4000207 Before It Begins.txt"
-},
-{
-"type": "file",
-"name": "4000208 Before It Begins.txt"
-},
-{
-"type": "file",
-"name": "4000209 Before It Begins.txt"
-},
-{
-"type": "file",
-"name": "4000210 Before It Begins.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40003 No Holding Back",
-"children": [
-{
-"type": "file",
-"name": "40003 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "4000301 No Holding Back.txt"
-},
-{
-"type": "file",
-"name": "4000302 No Holding Back.txt"
-},
-{
-"type": "file",
-"name": "4000303 No Holding Back.txt"
-},
-{
-"type": "file",
-"name": "4000304 No Holding Back.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40004 Let the Chat Bloom",
-"children": [
-{
-"type": "file",
-"name": "40004 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "4000401 Let the Chat Bloom.txt"
-},
-{
-"type": "file",
-"name": "4000402 Let the Chat Bloom.txt"
-},
-{
-"type": "file",
-"name": "4000403 Let the Chat Bloom.txt"
-},
-{
-"type": "file",
-"name": "4000404 Let the Chat Bloom.txt"
-},
-{
-"type": "file",
-"name": "4000405 Let the Chat Bloom.txt"
-},
-{
-"type": "file",
-"name": "4000406 Let the Chat Bloom.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40005 Nice and Easy... Nice and Easy",
-"children": [
-{
-"type": "file",
-"name": "40005 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "4000501 Nice and Easy... Nice and Easy....txt"
-},
-{
-"type": "file",
-"name": "4000502 Nice and Easy... Nice and Easy....txt"
-},
-{
-"type": "file",
-"name": "4000503 Nice and Easy... Nice and Easy....txt"
-},
-{
-"type": "file",
-"name": "4000504 Nice and Easy... Nice and Easy....txt"
-},
-{
-"type": "file",
-"name": "4000505 Nice and Easy... Nice and Easy....txt"
-},
-{
-"type": "file",
-"name": "4000506 Nice and Easy... Nice and Easy....txt"
-},
-{
 "type": "file",
-"name": "4000507 Nice and Easy... Nice and Easy....txt"
+"name": "10009 The 111th Anniversary.txt"
 },
 {
 "type": "file",
-"name": "4000508 Nice and Easy... Nice and Easy....txt"
+"name": "20001 Efficiency-First Lunch.txt"
 },
 {
 "type": "file",
-"name": "4000509 Nice and Easy... Nice and Easy....txt"
+"name": "20002 Cooling Down Together.txt"
 },
 {
 "type": "file",
-"name": "4000510 Nice and Easy... Nice and Easy....txt"
-}
-]
+"name": "20003 Days of Dedication.txt"
 },
 {
-"type": "dir",
-"name": "40006 Savor the Real Thing",
-"children": [
-{
-"type": "file",
-"name": "40006 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "4000601 Savor the Real Thing.txt"
-},
-{
-"type": "file",
-"name": "4000602 Savor the Real Thing.txt"
-},
-{
-"type": "file",
-"name": "4000603 Savor the Real Thing.txt"
-},
-{
-"type": "file",
-"name": "4000604 Savor the Real Thing.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40007 A Cold Reply",
-"children": [
-{
-"type": "file",
-"name": "40007 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "4000701 A Cold Reply.txt"
-},
-{
-"type": "file",
-"name": "4000702 A Cold Reply.txt"
-},
-{
-"type": "file",
-"name": "4000703 A Cold Reply.txt"
-},
-{
-"type": "file",
-"name": "4000704 A Cold Reply.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50001 Roarin' Kids!!",
-"children": [
-{
-"type": "file",
-"name": "50001 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "5000101 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000102 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000103 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000104 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000105 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000106 Roarin' Kids!!.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50002 Time to Get to Work!",
-"children": [
-{
-"type": "file",
-"name": "50002 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "5000201 Time to Get to Work!.txt"
-},
-{
-"type": "file",
-"name": "5000202 Time to Get to Work!.txt"
-},
-{
 "type": "file",
-"name": "5000203 Time to Get to Work!.txt"
+"name": "20004 A Quick Pic Before the Meeting.txt"
 },
 {
 "type": "file",
-"name": "5000204 Time to Get to Work!.txt"
+"name": "20005 Leaving Nothing to Chance.txt"
 },
 {
 "type": "file",
-"name": "5000205 Time to Get to Work!.txt"
+"name": "20006 Bonding Over Donuts.txt"
 },
 {
 "type": "file",
-"name": "5000206 Time to Get to Work!.txt"
+"name": "20007 In the Falling Rain.txt"
 },
 {
 "type": "file",
-"name": "5000207 Time to Get to Work!.txt"
+"name": "20008 Tonight, Aboard the Ship.txt"
 },
 {
 "type": "file",
-"name": "5000208 Time to Get to Work!.txt"
+"name": "30001 Float, Float, Glide~.txt"
 },
 {
 "type": "file",
-"name": "5000209 Time to Get to Work!.txt"
+"name": "30002 Getting Ready for the Live.txt"
 },
 {
 "type": "file",
-"name": "5000210 Time to Get to Work!.txt"
-}
-]
+"name": "30003 Detective Mr. Panda Eyes.txt"
 },
 {
-"type": "dir",
-"name": "50003 Bye-Bye",
-"children": [
-{
-"type": "file",
-"name": "50003 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "5000301 Bye-Bye.txt"
-},
-{
-"type": "file",
-"name": "5000302 Bye-Bye.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50004 Best Bargain",
-"children": [
-{
-"type": "file",
-"name": "50004 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "5000401 Best Bargain.txt"
-},
-{
-"type": "file",
-"name": "5000402 Best Bargain.txt"
-},
-{
-"type": "file",
-"name": "5000403 Best Bargain.txt"
-},
-{
-"type": "file",
-"name": "5000404 Best Bargain.txt"
-},
-{
-"type": "file",
-"name": "5000405 Best Bargain.txt"
-},
-{
-"type": "file",
-"name": "5000406 Best Bargain.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50005 A Night of Forbidden Taste",
-"children": [
-{
-"type": "file",
-"name": "50005 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "5000501 A Night of Forbidden Taste.txt"
-},
-{
-"type": "file",
-"name": "5000502 A Night of Forbidden Taste.txt"
-},
-{
-"type": "file",
-"name": "5000503 A Night of Forbidden Taste.txt"
-},
-{
-"type": "file",
-"name": "5000504 A Night of Forbidden Taste.txt"
-},
-{
 "type": "file",
-"name": "5000505 A Night of Forbidden Taste.txt"
+"name": "30004 Recovery Item.txt"
 },
 {
 "type": "file",
-"name": "5000506 A Night of Forbidden Taste.txt"
-}
-]
+"name": "30005 A Joyful Lunch.txt"
 },
 {
-"type": "dir",
-"name": "50006 Game Party Get-Together",
-"children": [
-{
-"type": "file",
-"name": "50006 Member Talk.txt"
-},
-{
-"type": "file",
-"name": "5000601 Game Party Get-Together.txt"
-},
-{
-"type": "file",
-"name": "5000602 Game Party Get-Together.txt"
-},
-{
-"type": "file",
-"name": "5000603 Game Party Get-Together.txt"
-},
-{
-"type": "file",
-"name": "5000604 Game Party Get-Together.txt"
-},
-{
 "type": "file",
-"name": "5000605 Game Party Get-Together.txt"
+"name": "30006 Evening Glow.txt"
 },
 {
 "type": "file",
-"name": "5000606 Game Party Get-Together.txt"
+"name": "30007 Good Work Today. Good Night..txt"
 },
 {
 "type": "file",
-"name": "5000607 Game Party Get-Together.txt"
+"name": "30008 Entering the Shop.txt"
 },
 {
 "type": "file",
-"name": "5000608 Game Party Get-Together.txt"
+"name": "40001 The Usual Scene.txt"
 },
 {
 "type": "file",
-"name": "5000609 Game Party Get-Together.txt"
+"name": "40002 Before It Begins.txt"
 },
 {
 "type": "file",
-"name": "5000610 Game Party Get-Together.txt"
-}
-]
+"name": "40003 No Holding Back.txt"
 },
-{
-"type": "dir",
-"name": "50007 Ice Cream for Everyone",
-"children": [
 {
 "type": "file",
-"name": "50007 Member Talk.txt"
+"name": "40004 Let the Chat Bloom.txt"
 },
 {
 "type": "file",
-"name": "5000701 Ice Cream for Everyone.txt"
+"name": "40005 Nice and Easy... Nice and Easy....txt"
 },
 {
 "type": "file",
-"name": "5000702 Ice Cream for Everyone.txt"
+"name": "40006 Savor the Real Thing.txt"
 },
 {
 "type": "file",
-"name": "5000703 Ice Cream for Everyone.txt"
+"name": "40007 A Cold Reply.txt"
 },
 {
 "type": "file",
-"name": "5000704 Ice Cream for Everyone.txt"
+"name": "50001 Roarin' Kids!!.txt"
 },
 {
 "type": "file",
-"name": "5000705 Ice Cream for Everyone.txt"
+"name": "50002 Time to Get to Work!.txt"
 },
 {
 "type": "file",
-"name": "5000706 Ice Cream for Everyone.txt"
+"name": "50003 Bye-Bye.txt"
 },
 {
 "type": "file",
-"name": "5000707 Ice Cream for Everyone.txt"
+"name": "50004 Best Bargain.txt"
 },
 {
 "type": "file",
-"name": "5000708 Ice Cream for Everyone.txt"
+"name": "50005 A Night of Forbidden Taste.txt"
 },
 {
 "type": "file",
-"name": "5000709 Ice Cream for Everyone.txt"
+"name": "50006 Game Party Get-Together.txt"
 },
 {
 "type": "file",
-"name": "5000710 Ice Cream for Everyone.txt"
-}
-]
+"name": "50007 Ice Cream for Everyone.txt"
 }
 ]
 },

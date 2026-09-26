@@ -89,23 +89,23 @@
 },
 {
 "type": "file",
-"name": "another-01-01 灯 MyGO!!!!!.txt"
+"name": "another-01-01 MyGO!!!!! (灯).txt"
 },
 {
 "type": "file",
-"name": "another-01-02 爱音 歌.txt"
+"name": "another-01-02 歌 (爱音).txt"
 },
 {
 "type": "file",
-"name": "another-01-03 乐奈 MyGO!!!!!.txt"
+"name": "another-01-03 MyGO!!!!! (乐奈).txt"
 },
 {
 "type": "file",
-"name": "another-01-04 爽世 MyGO!!!!!.txt"
+"name": "another-01-04 MyGO!!!!! (爽世).txt"
 },
 {
 "type": "file",
-"name": "another-01-05 立希 MyGO!!!!!.txt"
+"name": "another-01-05 MyGO!!!!! (立希).txt"
 },
 {
 "type": "file",
@@ -207,23 +207,23 @@
 },
 {
 "type": "file",
-"name": "another-02-01 初华 In paradisum..txt"
+"name": "another-02-01 In paradisum. (初华).txt"
 },
 {
 "type": "file",
-"name": "another-02-02 睦 In paradisum..txt"
+"name": "another-02-02 In paradisum. (睦).txt"
 },
 {
 "type": "file",
-"name": "another-02-03 海铃 Sine vita, nihil..txt"
+"name": "another-02-03 Sine vita, nihil. (海铃).txt"
 },
 {
 "type": "file",
-"name": "another-02-04 若麦 In paradisum..txt"
+"name": "another-02-04 In paradisum. (若麦).txt"
 },
 {
 "type": "file",
-"name": "another-02-05 祥子 In paradisum..txt"
+"name": "another-02-05 In paradisum. (祥子).txt"
 },
 {
 "type": "file",
@@ -325,23 +325,23 @@
 },
 {
 "type": "file",
-"name": "another-03-01 阿拉蕾 可能性梦限大.txt"
+"name": "another-03-01 可能性梦限大 (阿拉蕾).txt"
 },
 {
 "type": "file",
-"name": "another-03-02 野乃花 唱歌.txt"
+"name": "another-03-02 唱歌 (野乃花).txt"
 },
 {
 "type": "file",
-"name": "another-03-03 律 超级恢复.txt"
+"name": "another-03-03 超级恢复 (律).txt"
 },
 {
 "type": "file",
-"name": "another-03-04 都子 可能性梦限大.txt"
+"name": "another-03-04 可能性梦限大 (都子).txt"
 },
 {
 "type": "file",
-"name": "another-03-05 由乃 可能性梦限大.txt"
+"name": "another-03-05 可能性梦限大 (由乃).txt"
 },
 {
 "type": "file",
@@ -443,23 +443,23 @@
 },
 {
 "type": "file",
-"name": "another-04-01 萤 Happy End.txt"
+"name": "another-04-01 Happy End (萤).txt"
 },
 {
 "type": "file",
-"name": "another-04-02 枣 Happy End.txt"
+"name": "another-04-02 Happy End (枣).txt"
 },
 {
 "type": "file",
-"name": "another-04-03 凪 在幸福之中.txt"
+"name": "another-04-03 在幸福之中 (凪).txt"
 },
 {
 "type": "file",
-"name": "another-04-04 茉幌 Happy End.txt"
+"name": "another-04-04 Happy End (茉幌).txt"
 },
 {
 "type": "file",
-"name": "another-04-05 朋花 在幸福之中.txt"
+"name": "another-04-05 在幸福之中 (朋花).txt"
 }
 ]
 },
@@ -549,23 +549,23 @@
 },
 {
 "type": "file",
-"name": "another-05-01 蕾叶 一家Dumb Rock!.txt"
+"name": "another-05-01 一家Dumb Rock! (蕾叶).txt"
 },
 {
 "type": "file",
-"name": "another-05-02 心玖 一家Dumb Rock!.txt"
+"name": "another-05-02 一家Dumb Rock! (心玖).txt"
 },
 {
 "type": "file",
-"name": "another-05-03 蓬咲 绝对不让这份热情熄灭！！.txt"
+"name": "another-05-03 绝对不让这份热情熄灭！！ (蓬咲).txt"
 },
 {
 "type": "file",
-"name": "another-05-04 千樱梨 一家Dumb Rock!.txt"
+"name": "another-05-04 一家Dumb Rock! (千樱梨).txt"
 },
 {
 "type": "file",
-"name": "another-05-05 宁月 绝不交出『Home』！！.txt"
+"name": "another-05-05 绝不交出『Home』！！ (宁月).txt"
 }
 ]
 }
@@ -1482,1578 +1482,160 @@
 "name": "home",
 "children": [
 {
-"type": "dir",
-"name": "10001 热闹的下午茶时光",
-"children": [
-{
-"type": "file",
-"name": "10001 成员对话.txt"
-},
-{
-"type": "file",
-"name": "1000101 热闹的下午茶时光.txt"
-},
-{
-"type": "file",
-"name": "1000102 热闹的下午茶时光.txt"
-},
-{
-"type": "file",
-"name": "1000103 热闹的下午茶时光.txt"
-},
-{
-"type": "file",
-"name": "1000104 热闹的下午茶时光.txt"
-},
-{
-"type": "file",
-"name": "1000105 热闹的下午茶时光.txt"
-},
-{
-"type": "file",
-"name": "1000106 热闹的下午茶时光.txt"
-},
-{
-"type": "file",
-"name": "1000107 热闹的下午茶时光.txt"
-},
-{
-"type": "file",
-"name": "1000108 热闹的下午茶时光.txt"
-},
-{
-"type": "file",
-"name": "1000109 热闹的下午茶时光.txt"
-},
-{
-"type": "file",
-"name": "1000110 热闹的下午茶时光.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10002 停不下来的服装展示",
-"children": [
-{
-"type": "file",
-"name": "10002 成员对话.txt"
-},
-{
-"type": "file",
-"name": "1000201 停不下来的服装展示.txt"
-},
-{
-"type": "file",
-"name": "1000202 停不下来的服装展示.txt"
-},
-{
-"type": "file",
-"name": "1000203 停不下来的服装展示.txt"
-},
-{
-"type": "file",
-"name": "1000204 停不下来的服装展示.txt"
-},
-{
-"type": "file",
-"name": "1000205 停不下来的服装展示.txt"
-},
-{
-"type": "file",
-"name": "1000206 停不下来的服装展示.txt"
-},
-{
-"type": "file",
-"name": "1000207 停不下来的服装展示.txt"
-},
-{
-"type": "file",
-"name": "1000208 停不下来的服装展示.txt"
-},
-{
-"type": "file",
-"name": "1000209 停不下来的服装展示.txt"
-},
-{
-"type": "file",
-"name": "1000210 停不下来的服装展示.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10003 发现了可爱的小动物",
-"children": [
-{
-"type": "file",
-"name": "10003 成员对话.txt"
-},
-{
-"type": "file",
-"name": "1000301 发现了可爱的小动物.txt"
-},
-{
-"type": "file",
-"name": "1000302 发现了可爱的小动物.txt"
-},
-{
-"type": "file",
-"name": "1000303 发现了可爱的小动物.txt"
-},
-{
-"type": "file",
-"name": "1000304 发现了可爱的小动物.txt"
-},
-{
-"type": "file",
-"name": "1000305 发现了可爱的小动物.txt"
-},
-{
-"type": "file",
-"name": "1000306 发现了可爱的小动物.txt"
-},
-{
-"type": "file",
-"name": "1000307 发现了可爱的小动物.txt"
-},
-{
-"type": "file",
-"name": "1000308 发现了可爱的小动物.txt"
-},
-{
-"type": "file",
-"name": "1000309 发现了可爱的小动物.txt"
-},
-{
-"type": "file",
-"name": "1000310 发现了可爱的小动物.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10004 呼——呼——呼——",
-"children": [
-{
-"type": "file",
-"name": "10004 成员对话.txt"
-},
-{
-"type": "file",
-"name": "1000401 呼——呼——呼——.txt"
-},
-{
-"type": "file",
-"name": "1000402 呼——呼——呼——.txt"
-},
-{
-"type": "file",
-"name": "1000403 呼——呼——呼——.txt"
-},
-{
-"type": "file",
-"name": "1000404 呼——呼——呼——.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10005 迷路的小猫",
-"children": [
-{
-"type": "file",
-"name": "10005 成员对话.txt"
-},
-{
-"type": "file",
-"name": "1000501 迷路的小猫.txt"
-},
-{
-"type": "file",
-"name": "1000502 迷路的小猫.txt"
-},
-{
-"type": "file",
-"name": "1000503 迷路的小猫.txt"
-},
-{
-"type": "file",
-"name": "1000504 迷路的小猫.txt"
-},
-{
-"type": "file",
-"name": "1000505 迷路的小猫.txt"
-},
-{
-"type": "file",
-"name": "1000506 迷路的小猫.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10006 大家一起休息一下",
-"children": [
-{
-"type": "file",
-"name": "10006 成员对话.txt"
-},
-{
-"type": "file",
-"name": "1000601 大家一起休息一下.txt"
-},
-{
-"type": "file",
-"name": "1000602 大家一起休息一下.txt"
-},
-{
-"type": "file",
-"name": "1000603 大家一起休息一下.txt"
-},
-{
-"type": "file",
-"name": "1000604 大家一起休息一下.txt"
-},
-{
-"type": "file",
-"name": "1000605 大家一起休息一下.txt"
-},
-{
-"type": "file",
-"name": "1000606 大家一起休息一下.txt"
-},
-{
-"type": "file",
-"name": "1000607 大家一起休息一下.txt"
-},
-{
-"type": "file",
-"name": "1000608 大家一起休息一下.txt"
-},
-{
-"type": "file",
-"name": "1000609 大家一起休息一下.txt"
-},
-{
-"type": "file",
-"name": "1000610 大家一起休息一下.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10007 努力过后的指尖",
-"children": [
-{
-"type": "file",
-"name": "10007 成员对话.txt"
-},
-{
-"type": "file",
-"name": "1000701 努力过后的指尖.txt"
-},
-{
-"type": "file",
-"name": "1000702 努力过后的指尖.txt"
-},
-{
-"type": "file",
-"name": "1000703 努力过后的指尖.txt"
-},
-{
-"type": "file",
-"name": "1000704 努力过后的指尖.txt"
-},
-{
-"type": "file",
-"name": "1000705 努力过后的指尖.txt"
-},
-{
-"type": "file",
-"name": "1000706 努力过后的指尖.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10008 笨拙的温柔",
-"children": [
-{
-"type": "file",
-"name": "10008 成员对话.txt"
-},
-{
-"type": "file",
-"name": "1000801 笨拙的温柔.txt"
-},
-{
-"type": "file",
-"name": "1000802 笨拙的温柔.txt"
-},
-{
-"type": "file",
-"name": "1000803 笨拙的温柔.txt"
-},
-{
-"type": "file",
-"name": "1000804 笨拙的温柔.txt"
-},
-{
-"type": "file",
-"name": "1000805 笨拙的温柔.txt"
-},
-{
-"type": "file",
-"name": "1000806 笨拙的温柔.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "10009 111的纪念日",
-"children": [
-{
-"type": "file",
-"name": "10009 成员对话.txt"
-},
-{
-"type": "file",
-"name": "1000901 111的纪念日.txt"
-},
-{
-"type": "file",
-"name": "1000902 111的纪念日.txt"
-},
-{
-"type": "file",
-"name": "1000903 111的纪念日.txt"
-},
-{
-"type": "file",
-"name": "1000904 111的纪念日.txt"
-},
-{
-"type": "file",
-"name": "1000905 111的纪念日.txt"
-},
-{
-"type": "file",
-"name": "1000906 111的纪念日.txt"
-},
-{
-"type": "file",
-"name": "1000907 111的纪念日.txt"
-},
-{
-"type": "file",
-"name": "1000908 111的纪念日.txt"
-},
-{
-"type": "file",
-"name": "1000909 111的纪念日.txt"
-},
-{
-"type": "file",
-"name": "1000910 111的纪念日.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20001 效率至上的午餐",
-"children": [
-{
-"type": "file",
-"name": "20001 成员对话.txt"
-},
-{
-"type": "file",
-"name": "2000101 效率至上的午餐.txt"
-},
-{
-"type": "file",
-"name": "2000102 效率至上的午餐.txt"
-},
-{
-"type": "file",
-"name": "2000103 效率至上的午餐.txt"
-},
-{
-"type": "file",
-"name": "2000104 效率至上的午餐.txt"
-},
-{
-"type": "file",
-"name": "2000105 效率至上的午餐.txt"
-},
-{
-"type": "file",
-"name": "2000106 效率至上的午餐.txt"
-},
-{
-"type": "file",
-"name": "2000107 效率至上的午餐.txt"
-},
-{
-"type": "file",
-"name": "2000108 效率至上的午餐.txt"
-},
-{
-"type": "file",
-"name": "2000109 效率至上的午餐.txt"
-},
-{
-"type": "file",
-"name": "2000110 效率至上的午餐.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20002 大家一起乘凉",
-"children": [
-{
-"type": "file",
-"name": "20002 成员对话.txt"
-},
-{
-"type": "file",
-"name": "2000201 大家一起乘凉.txt"
-},
-{
-"type": "file",
-"name": "2000202 大家一起乘凉.txt"
-},
-{
-"type": "file",
-"name": "2000203 大家一起乘凉.txt"
-},
-{
-"type": "file",
-"name": "2000204 大家一起乘凉.txt"
-},
-{
-"type": "file",
-"name": "2000205 大家一起乘凉.txt"
-},
-{
-"type": "file",
-"name": "2000206 大家一起乘凉.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20003 刻苦钻研的每一天",
-"children": [
-{
-"type": "file",
-"name": "20003 成员对话.txt"
-},
-{
-"type": "file",
-"name": "2000301 刻苦钻研的每一天.txt"
-},
-{
-"type": "file",
-"name": "2000302 刻苦钻研的每一天.txt"
-},
-{
-"type": "file",
-"name": "2000303 刻苦钻研的每一天.txt"
-},
-{
-"type": "file",
-"name": "2000304 刻苦钻研的每一天.txt"
-},
-{
-"type": "file",
-"name": "2000305 刻苦钻研的每一天.txt"
-},
-{
-"type": "file",
-"name": "2000306 刻苦钻研的每一天.txt"
-},
-{
-"type": "file",
-"name": "2000307 刻苦钻研的每一天.txt"
-},
-{
-"type": "file",
-"name": "2000308 刻苦钻研的每一天.txt"
-},
-{
-"type": "file",
-"name": "2000309 刻苦钻研的每一天.txt"
-},
-{
-"type": "file",
-"name": "2000310 刻苦钻研的每一天.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20004 开会之前，先拍一张",
-"children": [
-{
-"type": "file",
-"name": "20004 成员对话.txt"
-},
-{
-"type": "file",
-"name": "2000401 开会之前，先拍一张.txt"
-},
-{
-"type": "file",
-"name": "2000402 开会之前，先拍一张.txt"
-},
-{
-"type": "file",
-"name": "2000403 开会之前，先拍一张.txt"
-},
-{
-"type": "file",
-"name": "2000404 开会之前，先拍一张.txt"
-},
-{
-"type": "file",
-"name": "2000405 开会之前，先拍一张.txt"
-},
-{
-"type": "file",
-"name": "2000406 开会之前，先拍一张.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20005 确保万无一失",
-"children": [
-{
-"type": "file",
-"name": "20005 成员对话.txt"
-},
-{
-"type": "file",
-"name": "2000501 确保万无一失.txt"
-},
-{
-"type": "file",
-"name": "2000502 确保万无一失.txt"
-},
-{
-"type": "file",
-"name": "2000503 确保万无一失.txt"
-},
-{
-"type": "file",
-"name": "2000504 确保万无一失.txt"
-},
-{
-"type": "file",
-"name": "2000505 确保万无一失.txt"
-},
-{
-"type": "file",
-"name": "2000506 确保万无一失.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20006 围坐在甜甜圈旁",
-"children": [
-{
-"type": "file",
-"name": "20006 成员对话.txt"
-},
-{
-"type": "file",
-"name": "2000601 围坐在甜甜圈旁.txt"
-},
-{
-"type": "file",
-"name": "2000602 围坐在甜甜圈旁.txt"
-},
-{
-"type": "file",
-"name": "2000603 围坐在甜甜圈旁.txt"
-},
-{
-"type": "file",
-"name": "2000604 围坐在甜甜圈旁.txt"
-},
-{
-"type": "file",
-"name": "2000605 围坐在甜甜圈旁.txt"
-},
-{
-"type": "file",
-"name": "2000606 围坐在甜甜圈旁.txt"
-},
-{
-"type": "file",
-"name": "2000607 围坐在甜甜圈旁.txt"
-},
-{
-"type": "file",
-"name": "2000608 围坐在甜甜圈旁.txt"
-},
-{
-"type": "file",
-"name": "2000609 围坐在甜甜圈旁.txt"
-},
-{
-"type": "file",
-"name": "2000610 围坐在甜甜圈旁.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20007 在突如其来的雨中",
-"children": [
-{
-"type": "file",
-"name": "20007 成员对话.txt"
-},
-{
-"type": "file",
-"name": "2000701 在突如其来的雨中.txt"
-},
-{
-"type": "file",
-"name": "2000702 在突如其来的雨中.txt"
-},
-{
-"type": "file",
-"name": "2000703 在突如其来的雨中.txt"
-},
-{
-"type": "file",
-"name": "2000704 在突如其来的雨中.txt"
-},
-{
-"type": "file",
-"name": "2000705 在突如其来的雨中.txt"
-},
-{
-"type": "file",
-"name": "2000706 在突如其来的雨中.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "20008 今宵，于船之上",
-"children": [
-{
-"type": "file",
-"name": "20008 成员对话.txt"
-},
-{
-"type": "file",
-"name": "2000801 今宵，于船之上.txt"
-},
-{
-"type": "file",
-"name": "2000802 今宵，于船之上.txt"
-},
-{
-"type": "file",
-"name": "2000803 今宵，于船之上.txt"
-},
-{
-"type": "file",
-"name": "2000804 今宵，于船之上.txt"
-},
-{
-"type": "file",
-"name": "2000805 今宵，于船之上.txt"
-},
-{
-"type": "file",
-"name": "2000806 今宵，于船之上.txt"
-},
-{
-"type": "file",
-"name": "2000807 今宵，于船之上.txt"
-},
-{
-"type": "file",
-"name": "2000808 今宵，于船之上.txt"
-},
-{
-"type": "file",
-"name": "2000809 今宵，于船之上.txt"
-},
-{
-"type": "file",
-"name": "2000810 今宵，于船之上.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30001 飘呀飘，咻～",
-"children": [
-{
-"type": "file",
-"name": "30001 成员对话.txt"
-},
-{
-"type": "file",
-"name": "3000101 飘呀飘，咻～.txt"
-},
-{
-"type": "file",
-"name": "3000102 飘呀飘，咻～.txt"
-},
-{
-"type": "file",
-"name": "3000103 飘呀飘，咻～.txt"
-},
-{
-"type": "file",
-"name": "3000104 飘呀飘，咻～.txt"
-},
-{
-"type": "file",
-"name": "3000105 飘呀飘，咻～.txt"
-},
-{
-"type": "file",
-"name": "3000106 飘呀飘，咻～.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30002 演出准备中",
-"children": [
-{
-"type": "file",
-"name": "30002 成员对话.txt"
-},
-{
-"type": "file",
-"name": "3000201 演出准备中.txt"
-},
-{
-"type": "file",
-"name": "3000202 演出准备中.txt"
-},
-{
-"type": "file",
-"name": "3000203 演出准备中.txt"
-},
-{
-"type": "file",
-"name": "3000204 演出准备中.txt"
-},
-{
-"type": "file",
-"name": "3000205 演出准备中.txt"
-},
-{
-"type": "file",
-"name": "3000206 演出准备中.txt"
-},
-{
-"type": "file",
-"name": "3000207 演出准备中.txt"
-},
-{
-"type": "file",
-"name": "3000208 演出准备中.txt"
-},
-{
-"type": "file",
-"name": "3000209 演出准备中.txt"
-},
-{
-"type": "file",
-"name": "3000210 演出准备中.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30003 熊猫眼侦探",
-"children": [
-{
-"type": "file",
-"name": "30003 成员对话.txt"
-},
-{
-"type": "file",
-"name": "3000301 熊猫眼侦探.txt"
-},
-{
-"type": "file",
-"name": "3000302 熊猫眼侦探.txt"
-},
-{
-"type": "file",
-"name": "3000303 熊猫眼侦探.txt"
-},
-{
-"type": "file",
-"name": "3000304 熊猫眼侦探.txt"
-},
-{
-"type": "file",
-"name": "3000305 熊猫眼侦探.txt"
-},
-{
-"type": "file",
-"name": "3000306 熊猫眼侦探.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30004 恢复道具",
-"children": [
-{
-"type": "file",
-"name": "30004 成员对话.txt"
-},
-{
-"type": "file",
-"name": "3000401 恢复道具.txt"
-},
-{
-"type": "file",
-"name": "3000402 恢复道具.txt"
-},
-{
-"type": "file",
-"name": "3000403 恢复道具.txt"
-},
-{
-"type": "file",
-"name": "3000404 恢复道具.txt"
-},
-{
-"type": "file",
-"name": "3000405 恢复道具.txt"
-},
-{
-"type": "file",
-"name": "3000406 恢复道具.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30005 雀跃的午餐",
-"children": [
-{
-"type": "file",
-"name": "30005 成员对话.txt"
-},
-{
-"type": "file",
-"name": "3000501 雀跃的午餐.txt"
-},
-{
-"type": "file",
-"name": "3000502 雀跃的午餐.txt"
-},
-{
-"type": "file",
-"name": "3000503 雀跃的午餐.txt"
-},
-{
-"type": "file",
-"name": "3000504 雀跃的午餐.txt"
-},
-{
-"type": "file",
-"name": "3000505 雀跃的午餐.txt"
-},
-{
-"type": "file",
-"name": "3000506 雀跃的午餐.txt"
-},
-{
-"type": "file",
-"name": "3000507 雀跃的午餐.txt"
-},
-{
-"type": "file",
-"name": "3000508 雀跃的午餐.txt"
-},
-{
-"type": "file",
-"name": "3000509 雀跃的午餐.txt"
-},
-{
-"type": "file",
-"name": "3000510 雀跃的午餐.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30006 晚霞渐褪",
-"children": [
-{
-"type": "file",
-"name": "30006 成员对话.txt"
-},
-{
-"type": "file",
-"name": "3000601 晚霞渐褪.txt"
-},
-{
-"type": "file",
-"name": "3000602 晚霞渐褪.txt"
-},
-{
-"type": "file",
-"name": "3000603 晚霞渐褪.txt"
-},
-{
-"type": "file",
-"name": "3000604 晚霞渐褪.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30007 辛苦啦，晚安",
-"children": [
-{
-"type": "file",
-"name": "30007 成员对话.txt"
-},
-{
-"type": "file",
-"name": "3000701 辛苦啦，晚安.txt"
-},
-{
-"type": "file",
-"name": "3000702 辛苦啦，晚安.txt"
-},
-{
-"type": "file",
-"name": "3000703 辛苦啦，晚安.txt"
-},
-{
-"type": "file",
-"name": "3000704 辛苦啦，晚安.txt"
-},
-{
-"type": "file",
-"name": "3000705 辛苦啦，晚安.txt"
-},
-{
-"type": "file",
-"name": "3000706 辛苦啦，晚安.txt"
-},
-{
-"type": "file",
-"name": "3000707 辛苦啦，晚安.txt"
-},
-{
-"type": "file",
-"name": "3000708 辛苦啦，晚安.txt"
-},
-{
-"type": "file",
-"name": "3000709 辛苦啦，晚安.txt"
-},
-{
-"type": "file",
-"name": "3000710 辛苦啦，晚安.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "30008 进店",
-"children": [
-{
-"type": "file",
-"name": "30008 成员对话.txt"
-},
-{
-"type": "file",
-"name": "3000801 进店.txt"
-},
-{
-"type": "file",
-"name": "3000802 进店.txt"
-},
-{
 "type": "file",
-"name": "3000803 进店.txt"
+"name": "10001 热闹的下午茶时光.txt"
 },
 {
 "type": "file",
-"name": "3000804 进店.txt"
+"name": "10002 停不下来的服装展示.txt"
 },
 {
 "type": "file",
-"name": "3000805 进店.txt"
+"name": "10003 发现了可爱的小动物.txt"
 },
 {
 "type": "file",
-"name": "3000806 进店.txt"
+"name": "10004 呼——呼——呼——.txt"
 },
 {
 "type": "file",
-"name": "3000807 进店.txt"
+"name": "10005 迷路的小猫.txt"
 },
 {
 "type": "file",
-"name": "3000808 进店.txt"
+"name": "10006 大家一起休息一下.txt"
 },
 {
 "type": "file",
-"name": "3000809 进店.txt"
+"name": "10007 努力过后的指尖.txt"
 },
 {
 "type": "file",
-"name": "3000810 进店.txt"
-}
-]
+"name": "10008 笨拙的温柔.txt"
 },
 {
-"type": "dir",
-"name": "40001 一如既往的光景",
-"children": [
-{
-"type": "file",
-"name": "40001 成员对话.txt"
-},
-{
-"type": "file",
-"name": "4000101 一如既往的光景.txt"
-},
-{
-"type": "file",
-"name": "4000102 一如既往的光景.txt"
-},
-{
-"type": "file",
-"name": "4000103 一如既往的光景.txt"
-},
-{
-"type": "file",
-"name": "4000104 一如既往的光景.txt"
-},
-{
-"type": "file",
-"name": "4000105 一如既往的光景.txt"
-},
-{
-"type": "file",
-"name": "4000106 一如既往的光景.txt"
-},
-{
-"type": "file",
-"name": "4000107 一如既往的光景.txt"
-},
-{
-"type": "file",
-"name": "4000108 一如既往的光景.txt"
-},
-{
-"type": "file",
-"name": "4000109 一如既往的光景.txt"
-},
-{
-"type": "file",
-"name": "4000110 一如既往的光景.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40002 在开始之前",
-"children": [
-{
-"type": "file",
-"name": "40002 成员对话.txt"
-},
-{
-"type": "file",
-"name": "4000201 在开始之前.txt"
-},
-{
-"type": "file",
-"name": "4000202 在开始之前.txt"
-},
-{
-"type": "file",
-"name": "4000203 在开始之前.txt"
-},
-{
-"type": "file",
-"name": "4000204 在开始之前.txt"
-},
-{
-"type": "file",
-"name": "4000205 在开始之前.txt"
-},
-{
-"type": "file",
-"name": "4000206 在开始之前.txt"
-},
-{
-"type": "file",
-"name": "4000207 在开始之前.txt"
-},
-{
-"type": "file",
-"name": "4000208 在开始之前.txt"
-},
-{
-"type": "file",
-"name": "4000209 在开始之前.txt"
-},
-{
-"type": "file",
-"name": "4000210 在开始之前.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40003 不准撒娇",
-"children": [
-{
-"type": "file",
-"name": "40003 成员对话.txt"
-},
-{
-"type": "file",
-"name": "4000301 不准撒娇.txt"
-},
-{
-"type": "file",
-"name": "4000302 不准撒娇.txt"
-},
-{
-"type": "file",
-"name": "4000303 不准撒娇.txt"
-},
-{
-"type": "file",
-"name": "4000304 不准撒娇.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40004 让闲聊如花朵般绽放",
-"children": [
-{
-"type": "file",
-"name": "40004 成员对话.txt"
-},
-{
-"type": "file",
-"name": "4000401 让闲聊如花朵般绽放.txt"
-},
-{
-"type": "file",
-"name": "4000402 让闲聊如花朵般绽放.txt"
-},
-{
-"type": "file",
-"name": "4000403 让闲聊如花朵般绽放.txt"
-},
-{
-"type": "file",
-"name": "4000404 让闲聊如花朵般绽放.txt"
-},
-{
-"type": "file",
-"name": "4000405 让闲聊如花朵般绽放.txt"
-},
-{
-"type": "file",
-"name": "4000406 让闲聊如花朵般绽放.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40005 小心点，小心点",
-"children": [
-{
-"type": "file",
-"name": "40005 成员对话.txt"
-},
-{
-"type": "file",
-"name": "4000501 小心点，小心点.txt"
-},
-{
-"type": "file",
-"name": "4000502 小心点，小心点.txt"
-},
-{
-"type": "file",
-"name": "4000503 小心点，小心点.txt"
-},
-{
-"type": "file",
-"name": "4000504 小心点，小心点.txt"
-},
-{
-"type": "file",
-"name": "4000505 小心点，小心点.txt"
-},
-{
-"type": "file",
-"name": "4000506 小心点，小心点.txt"
-},
-{
 "type": "file",
-"name": "4000507 小心点，小心点.txt"
+"name": "10009 111的纪念日.txt"
 },
 {
 "type": "file",
-"name": "4000508 小心点，小心点.txt"
+"name": "20001 效率至上的午餐.txt"
 },
 {
 "type": "file",
-"name": "4000509 小心点，小心点.txt"
+"name": "20002 大家一起乘凉.txt"
 },
 {
 "type": "file",
-"name": "4000510 小心点，小心点.txt"
-}
-]
+"name": "20003 刻苦钻研的每一天.txt"
 },
 {
-"type": "dir",
-"name": "40006 品味纯正",
-"children": [
-{
-"type": "file",
-"name": "40006 成员对话.txt"
-},
-{
-"type": "file",
-"name": "4000601 品味纯正.txt"
-},
-{
-"type": "file",
-"name": "4000602 品味纯正.txt"
-},
-{
-"type": "file",
-"name": "4000603 品味纯正.txt"
-},
-{
-"type": "file",
-"name": "4000604 品味纯正.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "40007 冷淡的回答",
-"children": [
-{
-"type": "file",
-"name": "40007 成员对话.txt"
-},
-{
-"type": "file",
-"name": "4000701 冷淡的回答.txt"
-},
-{
-"type": "file",
-"name": "4000702 冷淡的回答.txt"
-},
-{
-"type": "file",
-"name": "4000703 冷淡的回答.txt"
-},
-{
-"type": "file",
-"name": "4000704 冷淡的回答.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50001 Roarin' Kids!!",
-"children": [
-{
-"type": "file",
-"name": "50001 成员对话.txt"
-},
-{
-"type": "file",
-"name": "5000101 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000102 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000103 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000104 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000105 Roarin' Kids!!.txt"
-},
-{
-"type": "file",
-"name": "5000106 Roarin' Kids!!.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50002 劳动时间，开始！",
-"children": [
-{
-"type": "file",
-"name": "50002 成员对话.txt"
-},
-{
-"type": "file",
-"name": "5000201 劳动时间，开始！.txt"
-},
-{
-"type": "file",
-"name": "5000202 劳动时间，开始！.txt"
-},
-{
 "type": "file",
-"name": "5000203 劳动时间，开始！.txt"
+"name": "20004 开会之前，先拍一张.txt"
 },
 {
 "type": "file",
-"name": "5000204 劳动时间，开始！.txt"
+"name": "20005 确保万无一失.txt"
 },
 {
 "type": "file",
-"name": "5000205 劳动时间，开始！.txt"
+"name": "20006 围坐在甜甜圈旁.txt"
 },
 {
 "type": "file",
-"name": "5000206 劳动时间，开始！.txt"
+"name": "20007 在突如其来的雨中.txt"
 },
 {
 "type": "file",
-"name": "5000207 劳动时间，开始！.txt"
+"name": "20008 今宵，于船之上.txt"
 },
 {
 "type": "file",
-"name": "5000208 劳动时间，开始！.txt"
+"name": "30001 飘呀飘，咻～.txt"
 },
 {
 "type": "file",
-"name": "5000209 劳动时间，开始！.txt"
+"name": "30002 演出准备中.txt"
 },
 {
 "type": "file",
-"name": "5000210 劳动时间，开始！.txt"
-}
-]
+"name": "30003 熊猫眼侦探.txt"
 },
 {
-"type": "dir",
-"name": "50003 拜拜",
-"children": [
-{
-"type": "file",
-"name": "50003 成员对话.txt"
-},
-{
-"type": "file",
-"name": "5000301 拜拜.txt"
-},
-{
-"type": "file",
-"name": "5000302 拜拜.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50004 最廉价的宝物",
-"children": [
-{
-"type": "file",
-"name": "50004 成员对话.txt"
-},
-{
-"type": "file",
-"name": "5000401 最廉价的宝物.txt"
-},
-{
-"type": "file",
-"name": "5000402 最廉价的宝物.txt"
-},
-{
-"type": "file",
-"name": "5000403 最廉价的宝物.txt"
-},
-{
-"type": "file",
-"name": "5000404 最廉价的宝物.txt"
-},
-{
-"type": "file",
-"name": "5000405 最廉价的宝物.txt"
-},
-{
-"type": "file",
-"name": "5000406 最廉价的宝物.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "50005 初尝罪恶之味的夜晚",
-"children": [
-{
-"type": "file",
-"name": "50005 成员对话.txt"
-},
-{
-"type": "file",
-"name": "5000501 初尝罪恶之味的夜晚.txt"
-},
-{
-"type": "file",
-"name": "5000502 初尝罪恶之味的夜晚.txt"
-},
-{
-"type": "file",
-"name": "5000503 初尝罪恶之味的夜晚.txt"
-},
-{
-"type": "file",
-"name": "5000504 初尝罪恶之味的夜晚.txt"
-},
-{
 "type": "file",
-"name": "5000505 初尝罪恶之味的夜晚.txt"
+"name": "30004 恢复道具.txt"
 },
 {
 "type": "file",
-"name": "5000506 初尝罪恶之味的夜晚.txt"
-}
-]
+"name": "30005 雀跃的午餐.txt"
 },
 {
-"type": "dir",
-"name": "50006 阖家团圆游戏派对",
-"children": [
-{
-"type": "file",
-"name": "50006 成员对话.txt"
-},
-{
-"type": "file",
-"name": "5000601 阖家团圆游戏派对.txt"
-},
-{
-"type": "file",
-"name": "5000602 阖家团圆游戏派对.txt"
-},
-{
-"type": "file",
-"name": "5000603 阖家团圆游戏派对.txt"
-},
-{
-"type": "file",
-"name": "5000604 阖家团圆游戏派对.txt"
-},
-{
 "type": "file",
-"name": "5000605 阖家团圆游戏派对.txt"
+"name": "30006 晚霞渐褪.txt"
 },
 {
 "type": "file",
-"name": "5000606 阖家团圆游戏派对.txt"
+"name": "30007 辛苦啦，晚安.txt"
 },
 {
 "type": "file",
-"name": "5000607 阖家团圆游戏派对.txt"
+"name": "30008 进店.txt"
 },
 {
 "type": "file",
-"name": "5000608 阖家团圆游戏派对.txt"
+"name": "40001 一如既往的光景.txt"
 },
 {
 "type": "file",
-"name": "5000609 阖家团圆游戏派对.txt"
+"name": "40002 在开始之前.txt"
 },
 {
 "type": "file",
-"name": "5000610 阖家团圆游戏派对.txt"
-}
-]
+"name": "40003 不准撒娇.txt"
 },
-{
-"type": "dir",
-"name": "50007 大家一起吃冰淇淋",
-"children": [
 {
 "type": "file",
-"name": "50007 成员对话.txt"
+"name": "40004 让闲聊如花朵般绽放.txt"
 },
 {
 "type": "file",
-"name": "5000701 大家一起吃冰淇淋.txt"
+"name": "40005 小心点，小心点.txt"
 },
 {
 "type": "file",
-"name": "5000702 大家一起吃冰淇淋.txt"
+"name": "40006 品味纯正.txt"
 },
 {
 "type": "file",
-"name": "5000703 大家一起吃冰淇淋.txt"
+"name": "40007 冷淡的回答.txt"
 },
 {
 "type": "file",
-"name": "5000704 大家一起吃冰淇淋.txt"
+"name": "50001 Roarin' Kids!!.txt"
 },
 {
 "type": "file",
-"name": "5000705 大家一起吃冰淇淋.txt"
+"name": "50002 劳动时间，开始！.txt"
 },
 {
 "type": "file",
-"name": "5000706 大家一起吃冰淇淋.txt"
+"name": "50003 拜拜.txt"
 },
 {
 "type": "file",
-"name": "5000707 大家一起吃冰淇淋.txt"
+"name": "50004 最廉价的宝物.txt"
 },
 {
 "type": "file",
-"name": "5000708 大家一起吃冰淇淋.txt"
+"name": "50005 初尝罪恶之味的夜晚.txt"
 },
 {
 "type": "file",
-"name": "5000709 大家一起吃冰淇淋.txt"
+"name": "50006 阖家团圆游戏派对.txt"
 },
 {
 "type": "file",
-"name": "5000710 大家一起吃冰淇淋.txt"
-}
-]
+"name": "50007 大家一起吃冰淇淋.txt"
 }
 ]
 },
