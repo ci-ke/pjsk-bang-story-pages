@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>演示：单独 \r（CR）在当前查看器中的显示行为</title>
+<style>
+  body { font-family: system-ui, -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; margin: 24px auto 60px; max-width: 920px; padding: 0 16px; color: #24292f; line-height: 1.65; }
+  h1 { font-size: 20px; }
+  h2 { font-size: 16px; margin-top: 32px; border-left: 4px solid #4a90d9; padding-left: 8px; }
+  .panel { border: 1px solid #d8dee4; border-radius: 6px; padding: 12px; background: #f9fafb; }
+  pre.viz { white-space: pre-wrap; word-break: break-all; background: #fff; border: 1px solid #e3e6ea; padding: 10px; font-size: 13px; margin: 6px 0; }
+  .mk { border-radius: 3px; padding: 0 3px; font-size: 12px; font-weight: 700; font-family: Consolas, monospace; }
+  .cr { background: #ffd7d7; color: #c00; }
+  .lf { background: #d7e8ff; color: #06c; }
+  .num { color: #6a737d; font-size: 12.5px; }
+  /* ↓ 与 FileView 的 #content 一致：自动换行开=pre-wrap，关=pre */
+  .content { white-space: pre-wrap; background: #fff; border: 1px solid #e3e6ea; padding: 10px; font-size: 15px; line-height: 1.6; overflow-wrap: break-word; }
+  .content.pre { white-space: pre; overflow-x: auto; }
+  .content a { color: #0366d6; }
+  code { background: #eee; padding: 1px 5px; border-radius: 3px; font-size: 90%; }
+  button { padding: 6px 16px; cursor: pointer; }
+  textarea { width: 100%; height: 130px; font-size: 14px; box-sizing: border-box; }
+  ul { margin: 6px 0; }
+</style>
+</head>
+<body>
+<h1>演示：行中出现单独 <code>\r</code>（CR，旧 Mac 换行符）时，当前查看器如何显示</h1>
+<p>本页复刻 <code>src/components/FileView.tsx</code> 的完整渲染管线（<code>fetch</code> → HTML 转义 → URL 链接化 → <code>innerHTML</code>，CSS 与 <code>#content</code> 一致），并用 <span class="mk cr">␍</span> / <span class="mk lf">␊</span> 标记出文本里每个 <code>\r</code> 与 <code>\n</code> 的位置。</p>
+
+<h2>0. 测试文件（经 dev 服务器 fetch 到的原始文本，与正文加载路径一致）</h2>
+<div class="panel">
+  <div class="num">原始文本可视化（<span class="mk cr">␍</span> = CR (0x0D)，<span class="mk lf">␊</span> = LF (0x0A)）：</div>
+  <pre class="viz" id="vizRaw">加载中…</pre>
+  <div class="num">JSON.stringify 视图（<code>\r</code> 与 <code>\n</code> 一目了然）：</div>
+  <pre class="viz" id="vizJson"></pre>
+  <div id="stats" class="num"></div>
+</div>
+
+<h2>1. 查看器实际渲染效果（自动换行「开」= <code>white-space: pre-wrap</code>）</h2>
+<div class="panel"><div class="content" id="renderWrap"></div></div>
+
+<h2>2. 查看器实际渲染效果（自动换行「关」= <code>white-space: pre</code>）</h2>
+<div class="panel"><div class="content pre" id="renderNowrap"></div></div>
+
+<h2>3. 验证：<code>\r</code> 在 <code>innerHTML</code> 解析后去哪了？</h2>
+<div class="panel">
+  <div class="num">对渲染容器读回 <code>textContent</code> 再做同样的可视化：</div>
+  <pre class="viz" id="vizAfter"></pre>
+  <div class="num" id="afterStats"></div>
+</div>
+
+<h2>4. 对照：原生 <code>&lt;textarea&gt;</code>（浏览器自带的文本编辑控件）</h2>
+<div class="panel">
+  <textarea id="ta"></textarea>
+  <div id="taStats" class="num"></div>
+</div>
+
+<h2>5. 复制行为（与查看器「复制全文」按钮同一套代码）</h2>
+<div class="panel">
+  <button id="copyBtn">复制原始文本（含单独 \r）</button>
+  <div class="num" id="copyInfo">复制的是 fetch 到的原始字符串，\r 不会被清除。粘贴到 VS Code 等编辑器后若状态栏显示 CRLF/混合换行，即可察觉差异。</div>
+</div>
+
+<h2>结论</h2>
+<ul>
+  <li><b>显示层面</b>：单独 <code>\r</code> 与 <code>\n</code> 的显示完全相同——<code>innerHTML</code> 解析时按 HTML 规范把孤立的 CR 归一化为 LF，行会在 <code>\r</code> 处折断，且无法从画面上区分它是「真换行」还是「CR」。</li>
+  <li><b>数据层面</b>：「复制全文」复制的是原始文本，<code>\r</code> 原样保留，只有粘贴到能显示换行符的工具里才能发现。</li>
+</ul>
+
+<script>
+(async () => {
+  const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const viz = (s) => esc(s)
+    .replace(/\r/g, '<span class="mk cr">␍</span>')
+    .replace(/\n/g, '<span class="mk lf">␊</span>\n');
+  const cntCR = (s) => (s.match(/\r/g) || []).length;
+  const cntLF = (s) => (s.match(/\n/g) || []).length;
+
+  const res = await fetch('sample.txt');
+  const text = await res.text();
+
+  document.getElementById('vizRaw').innerHTML = viz(text);
+  document.getElementById('vizJson').textContent = JSON.stringify(text);
+  document.getElementById('stats').textContent =
+    '字符数 ' + text.length + '，CR(\\r) × ' + cntCR(text) + '，LF(\\n) × ' + cntLF(text);
+
+  // ===== 与 FileView.tsx 的 loadFile 完全相同的管线 =====
+  const urlRegex = /https?:\/\/[^\s）)】」』\]\[）)\],，。！？]+/g;
+  const html = text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(urlRegex, (m) => {
+      return `<a href="${m}" target="_blank" rel="noreferrer noopener">${m}</a>`;
+    });
+  // dangerouslySetInnerHTML 等价于 innerHTML 赋值
+  const wrap = document.getElementById('renderWrap');
+  const nowrap = document.getElementById('renderNowrap');
+  wrap.innerHTML = html;
+  nowrap.innerHTML = html;
+  // ===== 管线结束 =====
+
+  const after = wrap.textContent;
+  document.getElementById('vizAfter').innerHTML = viz(after);
+  document.getElementById('afterStats').textContent =
+    '解析后 DOM 文本：CR × ' + cntCR(after) + '，LF × ' + cntLF(after) +
+    '（原始为 CR × ' + cntCR(text) + '，LF × ' + cntLF(text) + '）';
+
+  const ta = document.getElementById('ta');
+  ta.value = text;
+  const back = ta.value;
+  document.getElementById('taStats').textContent =
+    'textarea.value 读回：CR × ' + cntCR(back) + '，LF × ' + cntLF(back);
+
+  document.getElementById('copyBtn').onclick = async () => {
+    const t = text;
+    try {
+      await navigator.clipboard.writeText(t);
+    } catch {
+      const el = document.createElement('textarea');
+      el.value = t;
+      el.style.position = 'fixed';
+      el.style.opacity = '0';
+      document.body.appendChild(el);
+      el.select();
+      document.execCommand('copy');
+      document.body.removeChild(el);
+    }
+    document.getElementById('copyInfo').textContent = '已复制（剪贴板中 \r 原样保留）';
+  };
+})();
+</script>
+</body>
+</html>
