@@ -48,19 +48,22 @@ export function useFileTree() {
   const fuzzyFindNode = useCallback(async (
     tree: Node[],
     path: string,
-  ): Promise<{ node: Node; resolvedPath: string } | null> => {
+  ): Promise<{ node: Node; resolvedPath: string; siblings: Node[] } | null> => {
     if (!path) {
-      return { node: { type: 'dir', name: '', children: tree } as DirNode, resolvedPath: '' };
+      return { node: { type: 'dir', name: '', children: tree } as DirNode, resolvedPath: '', siblings: tree };
     }
 
     const parts = path.split('/');
     let nodes = tree;
     let node: Node | null = null;
+    // 当前段所在的数组，即最终节点的兄弟节点集合
+    let siblings = tree;
     const resolvedParts: string[] = [];
 
     for (let i = 0; i < parts.length; i++) {
       const part = parts[i];
       const partLower = part.toLowerCase();
+      siblings = nodes;
 
       // 先精确匹配（大小写不敏感）
       let matched = nodes.find((n) => n.name.toLowerCase() === partLower) ?? null;
@@ -90,13 +93,13 @@ export function useFileTree() {
     }
 
     if (!node) return null;
-    return { node, resolvedPath: resolvedParts.join('/') };
+    return { node, resolvedPath: resolvedParts.join('/'), siblings };
   }, [loadLazyNode]);
 
   /** 完整的路径解析：加载树 → 模糊查找 → 懒加载拆分点 */
   const resolvePath = useCallback(async (
     path: string,
-  ): Promise<{ node: Node; resolvedPath: string } | null> => {
+  ): Promise<{ node: Node; resolvedPath: string; siblings: Node[] } | null> => {
     const tree = await loadTree();
     const result = await fuzzyFindNode(tree, path);
     if (!result) return null;

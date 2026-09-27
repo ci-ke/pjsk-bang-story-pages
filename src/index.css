@@ -381,6 +381,47 @@ hr {
 }
 
 /* ============================================================ */
+/* File Nav (上一文件 / 回到顶部 / 下一文件)                          */
+/* ============================================================ */
+#file-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 0 20px;
+  margin-top: 16px;
+}
+
+#file-nav .file-nav-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 5px 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--primary);
+  font-size: 13px;
+  font-weight: 500;
+  font-family: inherit;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background var(--transition), border-color var(--transition), color var(--transition);
+}
+
+#file-nav .file-nav-btn:hover:not(:disabled) {
+  background: var(--primary-light);
+  border-color: var(--primary);
+}
+
+#file-nav .file-nav-btn:disabled {
+  color: var(--text-muted);
+  background: var(--bg);
+  cursor: default;
+}
+
+/* ============================================================ */
 /* Source Links (加载中/失败时显示)                                 */
 /* ============================================================ */
 #source-links {

@@ -1,5 +1,5 @@
 import { useParams, useNavigate } from 'react-router-dom';
-import { useState, useEffect, useCallback, useRef } from 'react';
+import { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { useFileTree } from '../hooks/useFileTree';
 import { Breadcrumb } from './Breadcrumb';
 import { DirList } from './DirList';
@@ -25,6 +25,7 @@ export function Browser() {
   );
 
   const [node, setNode] = useState<Node | null>(null);
+  const [siblings, setSiblings] = useState<Node[]>([]);
   const [resolvedPath, setResolvedPath] = useState('');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -43,6 +44,7 @@ export function Browser() {
         setError('路径不存在');
       } else {
         setNode(result.node);
+        setSiblings(result.siblings);
         setResolvedPath(result.resolvedPath);
 
         if (result.resolvedPath !== path) {
@@ -84,6 +86,22 @@ export function Browser() {
   const isRoot = !(resolvedPath || path);
   const isDir = node?.type === 'dir';
 
+  // 同目录内按文件名正序（与列表的倒序开关无关）算出上一/下一个文件
+  const { prevPath, nextPath } = useMemo(() => {
+    if (!node || node.type !== 'file') return { prevPath: null, nextPath: null };
+    const files = siblings
+      .filter((s): s is Extract<Node, { type: 'file' }> => s.type === 'file')
+      .sort((a, b) => a.name.localeCompare(b.name));
+    const idx = files.findIndex((f) => f.name === node.name);
+    if (idx === -1) return { prevPath: null, nextPath: null };
+    const parentDir = resolvedPath.split('/').slice(0, -1).join('/');
+    const join = (name: string) => (parentDir ? parentDir + '/' + name : name);
+    return {
+      prevPath: idx > 0 ? join(files[idx - 1].name) : null,
+      nextPath: idx < files.length - 1 ? join(files[idx + 1].name) : null,
+    };
+  }, [node, siblings, resolvedPath]);
+
   return (
     <>
       <Breadcrumb
@@ -113,6 +131,8 @@ export function Browser() {
         ) : (
           <FileView
             filePath={resolvedPath}
+            prevPath={prevPath}
+            nextPath={nextPath}
             proxyEnabled={proxyEnabled}
             wrapEnabled={wrapEnabled}
             onWrapChange={setWrapEnabled}

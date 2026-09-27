@@ -1,4 +1,5 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { OWNER, BRANCH, PROXY_PREFIX, REPOS, SOURCE_LINKS } from '../config';
 
 /* 复制图标（SVG） */
@@ -21,6 +22,8 @@ function CheckIcon() {
 
 interface FileViewProps {
   filePath: string;
+  prevPath: string | null;
+  nextPath: string | null;
   proxyEnabled: boolean;
   wrapEnabled: boolean;
   onWrapChange: (v: boolean) => void;
@@ -29,6 +32,8 @@ interface FileViewProps {
 
 export function FileView({
   filePath,
+  prevPath,
+  nextPath,
   proxyEnabled,
   wrapEnabled,
   onWrapChange,
@@ -40,6 +45,16 @@ export function FileView({
   const [error, setError] = useState<string | null>(null);
   const [copied, setCopied] = useState(false);
   const latestRequestRef = useRef(0);
+  const navigate = useNavigate();
+
+  /** 站内跳转到另一个文件（与目录列表一致，# 需转义） */
+  const goToPath = useCallback((p: string) => {
+    navigate('/' + p.replace(/#/g, '%23'));
+  }, [navigate]);
+
+  const scrollToTop = useCallback(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, []);
 
   const handleCopy = useCallback(async () => {
     const text = rawTextRef.current;
@@ -168,6 +183,29 @@ export function FileView({
           className={wrapEnabled ? '' : 'nowrap'}
           dangerouslySetInnerHTML={{ __html: content }}
         />
+      )}
+
+      {/* 上一文件 / 回到顶部 / 下一文件，随正文一起加载完才显示 */}
+      {!loading && !error && (
+        <div id="file-nav">
+          <button
+            className="file-nav-btn"
+            onClick={() => prevPath && goToPath(prevPath)}
+            disabled={!prevPath}
+          >
+            上一文件
+          </button>
+          <button className="file-nav-btn" onClick={scrollToTop}>
+            回到顶部
+          </button>
+          <button
+            className="file-nav-btn"
+            onClick={() => nextPath && goToPath(nextPath)}
+            disabled={!nextPath}
+          >
+            下一文件
+          </button>
+        </div>
       )}
 
       <div id="source-links">
