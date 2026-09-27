@@ -7,6 +7,17 @@ import { FileView } from './FileView';
 import { ScrollHandle } from './ScrollHandle';
 import type { Node } from '../types';
 
+// 目录滚动位置记忆：key 为目录路径。只保留当前路径链（根目录 → 当前位置）上的记录，
+// 进入新的路径时把链外的旧记录刷掉，因此缓存最多只有路径深度几条
+const dirScrollMem = new Map<string, number>();
+
+function pruneDirScroll(activePath: string) {
+  for (const key of [...dirScrollMem.keys()]) {
+    const onChain = key === '' || activePath === key || activePath.startsWith(key + '/');
+    if (!onChain) dirScrollMem.delete(key);
+  }
+}
+
 export function Browser() {
   const { '*': pathParam } = useParams();
   const path = (pathParam ?? '').replace(/\/+$/, '');
@@ -31,8 +42,19 @@ export function Browser() {
   const [error, setError] = useState<string | null>(null);
 
   const initialLoadDone = useRef(false);
+  // 上一个已加载完成的视图（用于离开目录时记录滚动位置）
+  const prevViewRef = useRef<{ path: string; isDir: boolean } | null>(null);
+  // 待恢复的目录滚动位置（列表渲染后生效）
+  const pendingRestoreRef = useRef<number | null>(null);
 
   const route = useCallback(async () => {
+    // 离开目录时记录当时的位置；同一路径重复执行（如 StrictMode）不记
+    const prev = prevViewRef.current;
+    if (prev && prev.path !== path && prev.isDir) {
+      dirScrollMem.set(prev.path, window.scrollY);
+    }
+    pendingRestoreRef.current = null;
+
     setLoading(true);
     setError(null);
     setNode(null);
@@ -42,18 +64,30 @@ export function Browser() {
       const result = await resolvePath(path);
       if (!result) {
         setError('路径不存在');
+        prevViewRef.current = { path, isDir: false };
       } else {
+        pruneDirScroll(result.resolvedPath);
         setNode(result.node);
         setSiblings(result.siblings);
         setResolvedPath(result.resolvedPath);
+        prevViewRef.current = { path: result.resolvedPath, isDir: result.node.type === 'dir' };
 
         if (result.resolvedPath !== path) {
           navigate('/' + result.resolvedPath.replace(/#/g, '%23'), { replace: true });
           setResolvedPath(result.resolvedPath);
         }
+
+        // 目录有记录点时，等列表渲染完再恢复
+        if (result.node.type === 'dir') {
+          const saved = dirScrollMem.get(result.resolvedPath);
+          if (saved !== undefined && saved > 0) {
+            pendingRestoreRef.current = saved;
+          }
+        }
       }
     } catch (e) {
       setError('加载失败：' + (e as Error).message);
+      prevViewRef.current = { path, isDir: false };
     } finally {
       setLoading(false);
     }
@@ -62,6 +96,15 @@ export function Browser() {
   useEffect(() => {
     route();
   }, [route]);
+
+  // 目录列表渲染完成后恢复记录的滚动位置
+  useEffect(() => {
+    if (loading || error || node?.type !== 'dir') return;
+    const pos = pendingRestoreRef.current;
+    if (pos === null) return;
+    pendingRestoreRef.current = null;
+    window.scrollTo(0, pos);
+  }, [loading, error, node]);
 
   useEffect(() => {
     if (initialLoadDone.current) {
