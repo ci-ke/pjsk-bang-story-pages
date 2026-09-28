@@ -15606,6 +15606,10 @@
 {
 "type": "file",
 "name": "2270_Rei Wakana_R5 Memories shining bright.txt"
+},
+{
+"type": "file",
+"name": "2376_Rei Wakana_R5 RUNAWAY STAR.txt"
 }
 ]
 },
@@ -15846,6 +15850,10 @@
 {
 "type": "file",
 "name": "2263_Masuki Sato_R5 Raindrops from Blue Skies.txt"
+},
+{
+"type": "file",
+"name": "2377_Masuki Sato_R5 NO STAR HERE.txt"
 }
 ]
 },
@@ -16078,6 +16086,10 @@
 {
 "type": "file",
 "name": "2296_Chiyu Tamade_R4 Break Out Of.txt"
+},
+{
+"type": "file",
+"name": "2380_Chiyu Tamade_R4 in the mirror.txt"
 }
 ]
 },
@@ -27740,6 +27752,40 @@
 {
 "type": "file",
 "name": "event318-07 Ending：A Warmth Like Sunlight.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "319 Radiance and Eclipse",
+"children": [
+{
+"type": "file",
+"name": "event319-01 Opening：Call us.txt"
+},
+{
+"type": "file",
+"name": "event319-02 Chapter 1：Dawn Session.txt"
+},
+{
+"type": "file",
+"name": "event319-03 Chapter 2：Silent Line.txt"
+},
+{
+"type": "file",
+"name": "event319-04 Chapter 3：Star Break.txt"
+},
+{
+"type": "file",
+"name": "event319-05 Chapter 4：Street Alone.txt"
+},
+{
+"type": "file",
+"name": "event319-06 Chapter 5：Cross Night.txt"
+},
+{
+"type": "file",
+"name": "event319-07 Ending：Raise A.txt"
 }
 ]
 }
