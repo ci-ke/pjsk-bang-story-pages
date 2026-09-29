@@ -725,6 +725,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_181.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1858,6 +1862,10 @@
 {
 "type": "file",
 "name": "1256_桐谷遥_R4 舞台侧边的热情 (event_181).txt"
+},
+{
+"type": "file",
+"name": "1260_桐谷遥_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -12604,6 +12612,44 @@
 "name": "180-02 愿大家前来「世界」.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "181 Our Golden Days (Mix_白石杏)",
+"children": [
+{
+"type": "file",
+"name": "181-01 邀请参加音乐节.txt"
+},
+{
+"type": "file",
+"name": "181-02 彩排之后.txt"
+},
+{
+"type": "file",
+"name": "181-03 集章巡礼.txt"
+},
+{
+"type": "file",
+"name": "181-04 满满一页的回忆.txt"
+},
+{
+"type": "file",
+"name": "181-05 此时此刻，一定是最享受的.txt"
+},
+{
+"type": "file",
+"name": "181-06 不断延续下去的事物.txt"
+},
+{
+"type": "file",
+"name": "181-07 将最热烈的气氛.txt"
+},
+{
+"type": "file",
+"name": "181-08 将全力以赴的“当下”.txt"
+}
+]
 }
 ]
 },
@@ -15082,6 +15128,10 @@
 {
 "type": "file",
 "name": "426 1.5周年纪念特别演唱会.txt"
+},
+{
+"type": "file",
+"name": "427 Our Golden Days 后日谈·演唱会 (event_181).txt"
 }
 ]
 }

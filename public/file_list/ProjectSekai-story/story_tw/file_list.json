@@ -725,6 +725,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_181.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1118,6 +1122,10 @@
 {
 "type": "file",
 "name": "1190_天馬咲希_R4 王牌選手！ (event_171).txt"
+},
+{
+"type": "file",
+"name": "1255_天馬咲希_R4 幸運冰棒！ (event_181).txt"
 }
 ]
 },
@@ -1664,6 +1672,10 @@
 {
 "type": "file",
 "name": "1218_花里實乃理_R4 夢想沒入人潮之中 (event_176).txt"
+},
+{
+"type": "file",
+"name": "1252_花里實乃理_R4 閃亮的偶像！.txt"
 }
 ]
 },
@@ -1846,6 +1858,14 @@
 {
 "type": "file",
 "name": "1219_桐谷遙_R4 相識培育的情誼 (event_176).txt"
+},
+{
+"type": "file",
+"name": "1256_桐谷遙_R4 舞台側邊的熱情 (event_181).txt"
+},
+{
+"type": "file",
+"name": "1260_桐谷遙_RB Happy Birthday!! 2026.txt"
 }
 ]
 },
@@ -2570,6 +2590,10 @@
 {
 "type": "file",
 "name": "1213_白石杏_R4 笑著揮手 (event_175).txt"
+},
+{
+"type": "file",
+"name": "1254_白石杏_R4 將這個瞬間銘刻於心 (event_181).txt"
 }
 ]
 },
@@ -2756,6 +2780,10 @@
 {
 "type": "file",
 "name": "1217_東雲彰人_R2 回歸日常 (event_175).txt"
+},
+{
+"type": "file",
+"name": "1253_東雲彰人_R4 止不住的步伐.txt"
 }
 ]
 },
@@ -3314,6 +3342,10 @@
 {
 "type": "file",
 "name": "1241_鳳笑夢_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1258_鳳笑夢_R3 笑咪咪的集章活動 (event_181).txt"
 }
 ]
 },
@@ -4422,6 +4454,10 @@
 {
 "type": "file",
 "name": "1228_曉山瑞希_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1257_曉山瑞希_R4 轉播最燦爛的笑容！ (event_181).txt"
 }
 ]
 },
@@ -4648,6 +4684,10 @@
 {
 "type": "file",
 "name": "1242_初音未來_R4 引導之歌.txt"
+},
+{
+"type": "file",
+"name": "1259_初音未來 (VBS)_R2 偶爾也要享受寧靜的時光 (event_181).txt"
 }
 ]
 },
@@ -12572,6 +12612,44 @@
 "name": "180-02 心願化為「世界」.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "181 Our Golden Days (Mix_白石杏)",
+"children": [
+{
+"type": "file",
+"name": "181-01 音樂節的邀請.txt"
+},
+{
+"type": "file",
+"name": "181-02 在彩排之後.txt"
+},
+{
+"type": "file",
+"name": "181-03 走訪各處的集章活動.txt"
+},
+{
+"type": "file",
+"name": "181-04 回憶的一頁.txt"
+},
+{
+"type": "file",
+"name": "181-05 當下就是最棒的.txt"
+},
+{
+"type": "file",
+"name": "181-06 持續下去的事物.txt"
+},
+{
+"type": "file",
+"name": "181-07 帶來最熱烈的氣氛.txt"
+},
+{
+"type": "file",
+"name": "181-08 盡全力享受「現在」.txt"
+}
+]
 }
 ]
 },
@@ -14982,6 +15060,10 @@
 {
 "type": "file",
 "name": "426 5週年紀念Special LIVE.txt"
+},
+{
+"type": "file",
+"name": "427 Our Golden Days AFTER LIVE (event_181).txt"
 }
 ]
 }
