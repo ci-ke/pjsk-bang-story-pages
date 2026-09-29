@@ -13418,6 +13418,10 @@
 {
 "type": "file",
 "name": "2452_北沢はぐみ_R5 なんでも屋さんに！.txt"
+},
+{
+"type": "file",
+"name": "2531_北沢はぐみ_R5 どきどき★サプライズ.txt"
 }
 ]
 },
@@ -13660,6 +13664,10 @@
 {
 "type": "file",
 "name": "2512_松原花音_R4 ハートフルハイカー.txt"
+},
+{
+"type": "file",
+"name": "2534_松原花音_R4 とびきりの瞬間.txt"
 }
 ]
 },
@@ -14656,6 +14664,10 @@
 {
 "type": "file",
 "name": "2487_白鷺千聖_R5 歓喜の輪.txt"
+},
+{
+"type": "file",
+"name": "2530_白鷺千聖_R5 For One Night Only.txt"
 }
 ]
 },
@@ -15148,6 +15160,10 @@
 {
 "type": "file",
 "name": "2490_若宮イヴ_R4 杜の都を望んで.txt"
+},
+{
+"type": "file",
+"name": "2535_若宮イヴ_R5 浮かぶ七色、空ふわり.txt"
 }
 ]
 },
@@ -15378,6 +15394,10 @@
 {
 "type": "file",
 "name": "2492_湊友希那_R5 激闘！　真夏の決戦！.txt"
+},
+{
+"type": "file",
+"name": "2536_湊友希那_R5 誰も知らない私.txt"
 }
 ]
 },
@@ -30278,6 +30298,40 @@
 {
 "type": "file",
 "name": "event343-07 エンディング：あなたの姿は眩しくて.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "344 A Little Magical Me",
+"children": [
+{
+"type": "file",
+"name": "event344-01 オープニング：決定！　レッツサプライズ★.txt"
+},
+{
+"type": "file",
+"name": "event344-02 第１話：計画は前途多難.txt"
+},
+{
+"type": "file",
+"name": "event344-03 第２話：魔女と姫の物語.txt"
+},
+{
+"type": "file",
+"name": "event344-04 第３話：甘い香りと秘密の匂い.txt"
+},
+{
+"type": "file",
+"name": "event344-05 第４話：先輩.txt"
+},
+{
+"type": "file",
+"name": "event344-06 第５話：喜んで、欲しくて.txt"
+},
+{
+"type": "file",
+"name": "event344-07 エンディング：Just for Halloween night.txt"
 }
 ]
 }
