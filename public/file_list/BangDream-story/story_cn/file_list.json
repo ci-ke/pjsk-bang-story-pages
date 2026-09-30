@@ -7962,6 +7962,174 @@
 {
 "type": "file",
 "name": "1997 立希と蘭の失敗会話.txt"
+},
+{
+"type": "file",
+"name": "1998 ひまりとロックの大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "1999 ひまりとロックの大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2000 ロックとひまりの大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2001 ひまりとロックの成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2002 ロックとひまりの成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2003 ロックとひまりの成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2004 ロックとひまりの失敗会話.txt"
+},
+{
+"type": "file",
+"name": "2005 美咲と彩の大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2006 美咲と彩の大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2007 美咲と彩の大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2008 彩と美咲の成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2009 彩と美咲の成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2010 彩と美咲の成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2011 彩と美咲の失敗会話.txt"
+},
+{
+"type": "file",
+"name": "2012 美咲と彩の大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2013 美咲と彩の大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2014 美咲と彩の大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2015 彩と美咲の成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2016 彩と美咲の成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2017 彩と美咲の成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2018 彩と美咲の失敗会話.txt"
+},
+{
+"type": "file",
+"name": "2019 燐子とレイヤの大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2020 燐子とレイヤの大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2021 燐子とレイヤの大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2022 レイヤと燐子の成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2023 レイヤと燐子の成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2024 レイヤと燐子の成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2025 レイヤと燐子の失敗会話.txt"
+},
+{
+"type": "file",
+"name": "2026 透子とリサの大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2027 透子とリサの大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2028 リサと透子の大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2029 リサと透子の成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2030 リサと透子の成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2031 透子とリサの成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2032 リサと透子の失敗会話.txt"
+},
+{
+"type": "file",
+"name": "2033 七深と花音の大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2034 花音と七深の大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2035 七深と花音の大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2036 花音と七深の成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2037 花音と七深の成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2038 七深と花音の成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2039 七深と花音の失敗会話.txt"
 }
 ]
 },
@@ -10792,6 +10960,10 @@
 {
 "type": "file",
 "name": "2360_山吹沙绫_R5 被温暖的雪包围.txt"
+},
+{
+"type": "file",
+"name": "2414_山吹沙绫_R5 这就是我的声音！.txt"
 }
 ]
 },
@@ -11974,6 +12146,10 @@
 {
 "type": "file",
 "name": "2314_宇田川巴_R5 寻找属于我的颜色.txt"
+},
+{
+"type": "file",
+"name": "2415_宇田川巴_R5 为了热情的演奏！.txt"
 }
 ]
 },
@@ -13604,6 +13780,10 @@
 {
 "type": "file",
 "name": "2322_丸山彩_R5 轻飘飘的爱心♡.txt"
+},
+{
+"type": "file",
+"name": "2421_丸山彩_R5 镜中无法映照之物.txt"
 }
 ]
 },
@@ -14310,6 +14490,10 @@
 {
 "type": "file",
 "name": "2308_大和麻弥_R4 干劲满满的发表会.txt"
+},
+{
+"type": "file",
+"name": "2416_大和麻弥_R5 心意相通的瞬间.txt"
 }
 ]
 },
@@ -15500,6 +15684,10 @@
 {
 "type": "file",
 "name": "2399_宇田川亚子_R5 Re：VENGER.txt"
+},
+{
+"type": "file",
+"name": "2420_宇田川亚子_R4 沉浸于深渊般的旋律中…….txt"
 }
 ]
 },
@@ -16246,6 +16434,10 @@
 {
 "type": "file",
 "name": "2361_二叶筑紫_R5 被朝阳照亮的你.txt"
+},
+{
+"type": "file",
+"name": "2413_二叶筑紫_R5 将心意寄于交叠的手中.txt"
 }
 ]
 },
@@ -16734,6 +16926,10 @@
 {
 "type": "file",
 "name": "2377_佐藤益木_R5 NO STAR HERE.txt"
+},
+{
+"type": "file",
+"name": "2419_佐藤益木_R4 狂犬的迷惘.txt"
 }
 ]
 },
@@ -16970,6 +17166,10 @@
 {
 "type": "file",
 "name": "2380_珠手知由_R4 in the mirror.txt"
+},
+{
+"type": "file",
+"name": "2422_珠手知由_R5 这样的休假方式.txt"
 }
 ]
 },
@@ -28912,6 +29112,52 @@
 {
 "type": "file",
 "name": "event324-07 终章：“无事收场”做到了吗？.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "325 All☆Stars CiRCRiNG Fes!",
+"children": [
+{
+"type": "file",
+"name": "event325-01 序章：紧锣密鼓！CiRCRiNG!.txt"
+},
+{
+"type": "file",
+"name": "event325-02 第１话：和学姐们一起.txt"
+},
+{
+"type": "file",
+"name": "event325-03 第２话：谁来当队长？.txt"
+},
+{
+"type": "file",
+"name": "event325-04 第３话：高效能干的一组.txt"
+},
+{
+"type": "file",
+"name": "event325-05 第４话：兴奋激动的一组！.txt"
+},
+{
+"type": "file",
+"name": "event325-06 第５话：悠闲的下午茶时间.txt"
+},
+{
+"type": "file",
+"name": "event325-07 第６话：登上舞台吧！.txt"
+},
+{
+"type": "file",
+"name": "event325-08 第７话：传递接力棒.txt"
+},
+{
+"type": "file",
+"name": "event325-09 第８话：闪闪发光与心动不已.txt"
+},
+{
+"type": "file",
+"name": "event325-10 终章：新的声音交织共鸣.txt"
 }
 ]
 }
