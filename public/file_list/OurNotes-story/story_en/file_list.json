@@ -568,6 +568,48 @@
 "name": "another-05-05 I won't give up ＂Home＂!! (Shizuku).txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "06 Mugendai MewType：Love Rush A to Z",
+"children": [
+{
+"type": "file",
+"name": "06-01 New Song.txt"
+},
+{
+"type": "file",
+"name": "06-02 Not Bad.txt"
+},
+{
+"type": "file",
+"name": "06-03 Compass.txt"
+},
+{
+"type": "file",
+"name": "06-04 Yuno's Music.txt"
+},
+{
+"type": "file",
+"name": "06-05 Squeeze Out.txt"
+},
+{
+"type": "file",
+"name": "06-06 The YMMT.txt"
+},
+{
+"type": "file",
+"name": "06-07 Delivery.txt"
+},
+{
+"type": "file",
+"name": "another-06-01 Here I Go.txt"
+},
+{
+"type": "file",
+"name": "another-06-02 Packed Tightly.txt"
+}
+]
 }
 ]
 },

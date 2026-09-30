@@ -568,6 +568,48 @@
 "name": "another-05-05 绝不交出『Home』！！ (宁月).txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "06 梦限大MewType：爱的奔流 AtoZ",
+"children": [
+{
+"type": "file",
+"name": "06-01 新曲.txt"
+},
+{
+"type": "file",
+"name": "06-02 慢慢来.txt"
+},
+{
+"type": "file",
+"name": "06-03 指南针.txt"
+},
+{
+"type": "file",
+"name": "06-04 由乃的音乐.txt"
+},
+{
+"type": "file",
+"name": "06-05 绞尽脑汁.txt"
+},
+{
+"type": "file",
+"name": "06-06 The・梦限大.txt"
+},
+{
+"type": "file",
+"name": "06-07 交稿.txt"
+},
+{
+"type": "file",
+"name": "another-06-01 上吧.txt"
+},
+{
+"type": "file",
+"name": "another-06-02 满满地.txt"
+}
+]
 }
 ]
 },

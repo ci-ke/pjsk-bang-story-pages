@@ -568,6 +568,48 @@
 "name": "another-05-05 絕不讓出我們的「家」！！ (寧月).txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "06 夢限大MewType：愛的奔流 AtoZ",
+"children": [
+{
+"type": "file",
+"name": "06-01 新曲.txt"
+},
+{
+"type": "file",
+"name": "06-02 還算可以.txt"
+},
+{
+"type": "file",
+"name": "06-03 指南針.txt"
+},
+{
+"type": "file",
+"name": "06-04 由乃的音樂.txt"
+},
+{
+"type": "file",
+"name": "06-05 絞盡腦汁.txt"
+},
+{
+"type": "file",
+"name": "06-06 充滿夢限大風格.txt"
+},
+{
+"type": "file",
+"name": "06-07 交件.txt"
+},
+{
+"type": "file",
+"name": "another-06-01 現在出發.txt"
+},
+{
+"type": "file",
+"name": "another-06-02 塞滿滿.txt"
+}
+]
 }
 ]
 },

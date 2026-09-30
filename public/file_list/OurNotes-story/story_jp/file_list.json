@@ -568,6 +568,48 @@
 "name": "another-05-05 『ホーム』は渡さない！！ (寧月).txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "06 夢限大みゅーたいぷ：アイの奔流　AtoZ",
+"children": [
+{
+"type": "file",
+"name": "06-01 しんきょく.txt"
+},
+{
+"type": "file",
+"name": "06-02 ぼちぼち.txt"
+},
+{
+"type": "file",
+"name": "06-03 らしんばん.txt"
+},
+{
+"type": "file",
+"name": "06-04 ユノのおんがく.txt"
+},
+{
+"type": "file",
+"name": "06-05 しぼりだす.txt"
+},
+{
+"type": "file",
+"name": "06-06 ザ・ゆめみた.txt"
+},
+{
+"type": "file",
+"name": "06-07 のうひん.txt"
+},
+{
+"type": "file",
+"name": "another-06-01 いざまいる.txt"
+},
+{
+"type": "file",
+"name": "another-06-02 ぎゅうぎゅう.txt"
+}
+]
 }
 ]
 },
