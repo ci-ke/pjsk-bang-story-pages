@@ -877,6 +877,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_219.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1112,6 +1116,10 @@
 {
 "type": "file",
 "name": "1439_星乃一歌_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1481_星乃一歌_R3 黙々と集中！ (event_219).txt"
 }
 ]
 },
@@ -1330,6 +1338,10 @@
 {
 "type": "file",
 "name": "1429_天馬咲希_R4 あの日の諦め (event_211).txt"
+},
+{
+"type": "file",
+"name": "1475_天馬咲希_R4 押し込めた想い.txt"
 }
 ]
 },
@@ -2190,6 +2202,10 @@
 {
 "type": "file",
 "name": "1440_桐谷遥_R4 準決勝への意気込み (event_213).txt"
+},
+{
+"type": "file",
+"name": "1482_桐谷遥_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -2408,6 +2424,10 @@
 {
 "type": "file",
 "name": "1446_桃井愛莉_R4 夢の力になるものは (event_214).txt"
+},
+{
+"type": "file",
+"name": "1477_桃井愛莉_R4 共に綴る思い出は (event_219).txt"
 }
 ]
 },
@@ -2844,6 +2864,10 @@
 {
 "type": "file",
 "name": "1469_小豆沢こはね_R2 お気に入りの１枚 (event_216).txt"
+},
+{
+"type": "file",
+"name": "1478_小豆沢こはね_R4 飛び込んだ先の大手柄 (event_219).txt"
 }
 ]
 },
@@ -4382,6 +4406,10 @@
 {
 "type": "file",
 "name": "1473_神代類_R3 いい１枚を頼むよ (event_217).txt"
+},
+{
+"type": "file",
+"name": "1479_神代類_R4 笑顔を生み出す仕掛け (event_219).txt"
 }
 ]
 },
@@ -5028,6 +5056,10 @@
 {
 "type": "file",
 "name": "1449_東雲絵名_R4 あの頃言えなかったこと (event_214).txt"
+},
+{
+"type": "file",
+"name": "1480_東雲絵名_R4 未来に残すメッセージ (event_219).txt"
 }
 ]
 },
@@ -5496,6 +5528,10 @@
 {
 "type": "file",
 "name": "1455_初音ミク (Ln)_R2 久しぶりの学級会 (event_215).txt"
+},
+{
+"type": "file",
+"name": "1476_初音ミク_R4 共に歩める未来.txt"
 }
 ]
 },
@@ -14956,6 +14992,44 @@
 {
 "type": "file",
 "name": "218-02 これからは……！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "219 Side by Side, Our Ways！ (Mix_桃井愛莉)",
+"children": [
+{
+"type": "file",
+"name": "219-01 街角の知らせ.txt"
+},
+{
+"type": "file",
+"name": "219-02 目指せグランプリ！.txt"
+},
+{
+"type": "file",
+"name": "219-03 ピンチだからこそ.txt"
+},
+{
+"type": "file",
+"name": "219-04 いざ、お披露目！.txt"
+},
+{
+"type": "file",
+"name": "219-05 特別な思い出.txt"
+},
+{
+"type": "file",
+"name": "219-06 ずっと、一番近くで.txt"
+},
+{
+"type": "file",
+"name": "219-07 未来の自分へ.txt"
+},
+{
+"type": "file",
+"name": "219-08 つながりの証.txt"
 }
 ]
 }
