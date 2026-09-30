@@ -721,6 +721,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_181.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1114,6 +1118,10 @@
 {
 "type": "file",
 "name": "1190_Saki Tenma_R4 The Ace! (event_171).txt"
+},
+{
+"type": "file",
+"name": "1255_Saki Tenma_R4 Lucky Ice Cream! (event_181).txt"
 }
 ]
 },
@@ -1660,6 +1668,10 @@
 {
 "type": "file",
 "name": "1218_Minori Hanasato_R4 A Dream Lost In The Crowds (event_176).txt"
+},
+{
+"type": "file",
+"name": "1252_Minori Hanasato_R4 A Dazzling Idol!.txt"
 }
 ]
 },
@@ -1842,6 +1854,14 @@
 {
 "type": "file",
 "name": "1219_Haruka Kiritani_R4 Brought Together (event_176).txt"
+},
+{
+"type": "file",
+"name": "1256_Haruka Kiritani_R4 Fired Up In The Wings (event_181).txt"
+},
+{
+"type": "file",
+"name": "1260_Haruka Kiritani_RB Happy Birthday! 2026.txt"
 }
 ]
 },
@@ -2566,6 +2586,10 @@
 {
 "type": "file",
 "name": "1213_An Shiraishi_R4 Waving With A Smile (event_175).txt"
+},
+{
+"type": "file",
+"name": "1254_An Shiraishi_R4 Savoring This Moment (event_181).txt"
 }
 ]
 },
@@ -2752,6 +2776,10 @@
 {
 "type": "file",
 "name": "1217_Akito Shinonome_R2 Return To Regular Life (event_175).txt"
+},
+{
+"type": "file",
+"name": "1253_Akito Shinonome_R4 Unfaltering Footsteps.txt"
 }
 ]
 },
@@ -3302,6 +3330,10 @@
 {
 "type": "file",
 "name": "1241_Emu Otori_RB Happy Birthday! 2026.txt"
+},
+{
+"type": "file",
+"name": "1258_Emu Otori_R3 Smiley Stamp Rally (event_181).txt"
 }
 ]
 },
@@ -4402,6 +4434,10 @@
 {
 "type": "file",
 "name": "1228_Mizuki Akiyama_RB Happy Birthday! 2026.txt"
+},
+{
+"type": "file",
+"name": "1257_Mizuki Akiyama_R4 Big Smile Live On Camera! (event_181).txt"
 }
 ]
 },
@@ -4628,6 +4664,10 @@
 {
 "type": "file",
 "name": "1242_Hatsune Miku_R4 A Guiding Song.txt"
+},
+{
+"type": "file",
+"name": "1259_Hatsune Miku (VBS)_R2 Time For A Break (event_181).txt"
 }
 ]
 },
@@ -7271,7 +7311,7 @@
 },
 {
 "type": "file",
-"name": "045-09 Please Let It Comes True.txt"
+"name": "045-09 Please Let It Come True.txt"
 }
 ]
 },
@@ -12510,6 +12550,44 @@
 "name": "180-02 Wishes in Bloom.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "181 Our Golden Days (Mix_An Shiraishi)",
+"children": [
+{
+"type": "file",
+"name": "181-01 Invitation to the Festival.txt"
+},
+{
+"type": "file",
+"name": "181-02 After Rehearsal.txt"
+},
+{
+"type": "file",
+"name": "181-03 A Stamp Rally Adventure.txt"
+},
+{
+"type": "file",
+"name": "181-04 A Chapter of Our Youth.txt"
+},
+{
+"type": "file",
+"name": "181-05 My Happiest Days.txt"
+},
+{
+"type": "file",
+"name": "181-06 What Does Last.txt"
+},
+{
+"type": "file",
+"name": "181-07 Ultimate Excitement.txt"
+},
+{
+"type": "file",
+"name": "181-08 Sprinting Toward the Future.txt"
+}
+]
 }
 ]
 },
@@ -13434,6 +13512,10 @@
 {
 "type": "file",
 "name": "sp057 COLORFUL STAGE!×Tamagotchi Crossover Login Story Epilogue.txt"
+},
+{
+"type": "file",
+"name": "sp058 JP 5th Anniversary Login Story.txt"
 },
 {
 "type": "file",
