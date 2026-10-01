@@ -12868,6 +12868,10 @@
 {
 "type": "file",
 "name": "2434_松原花音_R4 微笑的溫度.txt"
+},
+{
+"type": "file",
+"name": "2445_松原花音_R5 街角時尚達人.txt"
 }
 ]
 },
@@ -16006,6 +16010,10 @@
 {
 "type": "file",
 "name": "2413_二葉筑紫_R5 將心意寄託於交疊的手.txt"
+},
+{
+"type": "file",
+"name": "2446_二葉筑紫_R5 猛力扣殺！.txt"
 }
 ]
 },
@@ -16372,6 +16380,10 @@
 {
 "type": "file",
 "name": "2292_LOCK_R5 為黑暗帶來光芒.txt"
+},
+{
+"type": "file",
+"name": "2440_LOCK_R5 率直的「喜歡」.txt"
 }
 ]
 },
@@ -16608,6 +16620,10 @@
 {
 "type": "file",
 "name": "2359_PAREO_R5 獻給總是努力的你.txt"
+},
+{
+"type": "file",
+"name": "2444_PAREO_R4 也讓我們加入吧～！.txt"
 }
 ]
 },
@@ -16738,6 +16754,10 @@
 {
 "type": "file",
 "name": "2422_CHU²_R5 這樣度過休假日.txt"
+},
+{
+"type": "file",
+"name": "2441_CHU²_R5 這條道路.txt"
 }
 ]
 },
@@ -28752,6 +28772,40 @@
 {
 "type": "file",
 "name": "event328-07 結尾：大家一起.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "329 Beyond my Imagination",
+"children": [
+{
+"type": "file",
+"name": "event329-01 開場：閃耀的星辰，堅定地.txt"
+},
+{
+"type": "file",
+"name": "event329-02 第１話：遠征準備！.txt"
+},
+{
+"type": "file",
+"name": "event329-03 第２話：製作人.txt"
+},
+{
+"type": "file",
+"name": "event329-04 第３話：RAS 最佳的選擇.txt"
+},
+{
+"type": "file",
+"name": "event329-05 第４話：找到的奇蹟.txt"
+},
+{
+"type": "file",
+"name": "event329-06 第５話：我想做的音樂.txt"
+},
+{
+"type": "file",
+"name": "event329-07 結尾：下定決心.txt"
 }
 ]
 }
