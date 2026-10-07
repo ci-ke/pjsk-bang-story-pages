@@ -10516,6 +10516,10 @@
 {
 "type": "file",
 "name": "2358_Ran Mitake_R5 What Lies Ahead.txt"
+},
+{
+"type": "file",
+"name": "2385_Ran Mitake_R4 Decorating with All Our Heart.txt"
 }
 ]
 },
@@ -10730,6 +10734,10 @@
 {
 "type": "file",
 "name": "2280_Moca Aoba_R5 B5-Sized Infinity.txt"
+},
+{
+"type": "file",
+"name": "2382_Moca Aoba_R5 Savor Our Labor of Love~♪.txt"
 }
 ]
 },
@@ -11424,6 +11432,10 @@
 {
 "type": "file",
 "name": "2298_Tsugumi Hazawa_R5 Sharing Between the Two of Us.txt"
+},
+{
+"type": "file",
+"name": "2381_Tsugumi Hazawa_R5 Sunset Paints My Cheeks.txt"
 }
 ]
 },
@@ -14176,6 +14188,10 @@
 {
 "type": "file",
 "name": "2309_Sayo Hikawa_R5 Two Pieces.txt"
+},
+{
+"type": "file",
+"name": "2386_Sayo Hikawa_R5 Carried on a Warm Breeze.txt"
 }
 ]
 },
@@ -15496,6 +15512,10 @@
 {
 "type": "file",
 "name": "2365_Rui Yashio_R4 Resolve Carried on the Music.txt"
+},
+{
+"type": "file",
+"name": "2387_Rui Yashio_R5 Silently Falling Snow.txt"
 }
 ]
 },
@@ -27786,6 +27806,40 @@
 {
 "type": "file",
 "name": "event319-07 Ending：Raise A.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "320 Our Sweetest Valentine!",
+"children": [
+{
+"type": "file",
+"name": "event320-01 Opening：A Specially Deep Page.txt"
+},
+{
+"type": "file",
+"name": "event320-02 Chapter 1：A Sweet Little Plan.txt"
+},
+{
+"type": "file",
+"name": "event320-03 Chapter 2：Each Their Own Super Special.txt"
+},
+{
+"type": "file",
+"name": "event320-04 Chapter 3：What Can I Do？.txt"
+},
+{
+"type": "file",
+"name": "event320-05 Chapter 4：When Things Get Tsugurific.txt"
+},
+{
+"type": "file",
+"name": "event320-06 Chapter 5：A Super Special Valentine's.txt"
+},
+{
+"type": "file",
+"name": "event320-07 Ending：One for the Notebook.txt"
 }
 ]
 }
