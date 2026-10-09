@@ -13356,6 +13356,10 @@
 {
 "type": "file",
 "name": "2421_丸山彩_R5 鏡中映照不出的事物.txt"
+},
+{
+"type": "file",
+"name": "2451_丸山彩_R4 實吃！在地美食.txt"
 }
 ]
 },
@@ -14070,6 +14074,10 @@
 {
 "type": "file",
 "name": "2416_大和麻彌_R5 心意交會的片刻.txt"
+},
+{
+"type": "file",
+"name": "2448_大和麻彌_R5 一句句令人欣喜的話語.txt"
 }
 ]
 },
@@ -14316,6 +14324,10 @@
 {
 "type": "file",
 "name": "2407_若宮伊芙_R4 尋找話語.txt"
+},
+{
+"type": "file",
+"name": "2447_若宮伊芙_R5 加上 Hashtag.txt"
 }
 ]
 },
@@ -28806,6 +28818,40 @@
 {
 "type": "file",
 "name": "event329-07 結尾：下定決心.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "330 與你一起！PasPale全國巡演！",
+"children": [
+{
+"type": "file",
+"name": "event330-01 開場：我們能做到的事.txt"
+},
+{
+"type": "file",
+"name": "event330-02 第１話：47 都道府縣巡演開幕！.txt"
+},
+{
+"type": "file",
+"name": "event330-03 第２話：正因為能親自相見.txt"
+},
+{
+"type": "file",
+"name": "event330-04 第３話：巡演獨有的熱情.txt"
+},
+{
+"type": "file",
+"name": "event330-05 第４話：PasPale風格的樂團巡迴車！.txt"
+},
+{
+"type": "file",
+"name": "event330-06 第５話：持續進化的巡演.txt"
+},
+{
+"type": "file",
+"name": "event330-07 結尾：希望能傳達給大家！.txt"
 }
 ]
 }
