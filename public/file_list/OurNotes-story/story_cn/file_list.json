@@ -610,6 +610,48 @@
 "name": "another-06-02 满满地.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "07 millsage：拜托了，倾心一掷",
+"children": [
+{
+"type": "file",
+"name": "07-01 阴霾.txt"
+},
+{
+"type": "file",
+"name": "07-02 4与1.txt"
+},
+{
+"type": "file",
+"name": "07-03 所谓努力.txt"
+},
+{
+"type": "file",
+"name": "07-04 背过身去.txt"
+},
+{
+"type": "file",
+"name": "07-05 无法看见.txt"
+},
+{
+"type": "file",
+"name": "07-06 波涛逆卷.txt"
+},
+{
+"type": "file",
+"name": "07-07 等待羽化.txt"
+},
+{
+"type": "file",
+"name": "another-07-01 归于平静.txt"
+},
+{
+"type": "file",
+"name": "another-07-02 anesthetic.txt"
+}
+]
 }
 ]
 },
@@ -2994,6 +3036,16 @@
 {
 "type": "dir",
 "name": "33：HAPPY BIRTHDAY 26-27",
+"children": [
+{
+"type": "file",
+"name": "33-01 26年生日：马桥心玖(10／4).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "33：Happy Birthday 26-27",
 "children": [
 {
 "type": "file",

@@ -610,6 +610,48 @@
 "name": "another-06-02 ぎゅうぎゅう.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "07 millsage：お願い、サイドスロー",
+"children": [
+{
+"type": "file",
+"name": "07-01 翳り.txt"
+},
+{
+"type": "file",
+"name": "07-02 ４と１.txt"
+},
+{
+"type": "file",
+"name": "07-03 がんばるということ.txt"
+},
+{
+"type": "file",
+"name": "07-04 背を向ける.txt"
+},
+{
+"type": "file",
+"name": "07-05 見えない.txt"
+},
+{
+"type": "file",
+"name": "07-06 波、逆巻いて.txt"
+},
+{
+"type": "file",
+"name": "07-07 羽化を待つ.txt"
+},
+{
+"type": "file",
+"name": "another-07-01 凪になる.txt"
+},
+{
+"type": "file",
+"name": "another-07-02 anesthetic.txt"
+}
+]
 }
 ]
 },
@@ -2994,6 +3036,16 @@
 {
 "type": "dir",
 "name": "33：HAPPY BIRTHDAY 26-27",
+"children": [
+{
+"type": "file",
+"name": "33-01 26年誕生日：馬橋 心玖(10／4).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "33：Happy Birthday 26-27",
 "children": [
 {
 "type": "file",
