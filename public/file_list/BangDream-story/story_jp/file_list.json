@@ -16658,6 +16658,10 @@
 {
 "type": "file",
 "name": "2497_桐ヶ谷透子_R5 夢中の天才.txt"
+},
+{
+"type": "file",
+"name": "2537_桐ヶ谷透子_R5 過ぎにし時に想い馳せ.txt"
 }
 ]
 },
@@ -16934,6 +16938,10 @@
 {
 "type": "file",
 "name": "2446_二葉つくし_R5 スマッシュ炸裂！.txt"
+},
+{
+"type": "file",
+"name": "2538_二葉つくし_R5 月ノ森のみんなで！.txt"
 }
 ]
 },
@@ -17064,6 +17072,10 @@
 {
 "type": "file",
 "name": "2470_八潮瑠唯_R5 私を照らした光.txt"
+},
+{
+"type": "file",
+"name": "2541_八潮瑠唯_R4 ドキュメントマイスター.txt"
 }
 ]
 },
@@ -30332,6 +30344,40 @@
 {
 "type": "file",
 "name": "event344-07 エンディング：Just for Halloween night.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "345 時を繋ぐノクターン",
+"children": [
+{
+"type": "file",
+"name": "event345-01 オープニング：『月ノ森のあゆみ』.txt"
+},
+{
+"type": "file",
+"name": "event345-02 第１話：『輝きの灯』.txt"
+},
+{
+"type": "file",
+"name": "event345-03 第２話：試作品作り開始！.txt"
+},
+{
+"type": "file",
+"name": "event345-04 第３話：かすかな違和感.txt"
+},
+{
+"type": "file",
+"name": "event345-05 第４話：生徒一丸.txt"
+},
+{
+"type": "file",
+"name": "event345-06 第５話：文化祭当日！.txt"
+},
+{
+"type": "file",
+"name": "event345-07 エンディング：想いよ空へ.txt"
 }
 ]
 }
