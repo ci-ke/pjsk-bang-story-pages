@@ -729,6 +729,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_182.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -932,6 +936,10 @@
 {
 "type": "file",
 "name": "1222_星乃一歌_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1261_星乃一歌_R4 震驚的早晨 (event_182).txt"
 }
 ]
 },
@@ -1126,6 +1134,10 @@
 {
 "type": "file",
 "name": "1255_天馬咲希_R4 幸運冰棒！ (event_181).txt"
+},
+{
+"type": "file",
+"name": "1265_天馬咲希_R2 為了抓住心願！ (event_182).txt"
 }
 ]
 },
@@ -1304,6 +1316,10 @@
 {
 "type": "file",
 "name": "1201_望月穗波_R4 困惑歸於寂靜 (event_173).txt"
+},
+{
+"type": "file",
+"name": "1262_望月穗波_R4 味道怎麼樣？ (event_182).txt"
 }
 ]
 },
@@ -1494,6 +1510,10 @@
 {
 "type": "file",
 "name": "1243_日野森志步_R4 仰望繁星.txt"
+},
+{
+"type": "file",
+"name": "1263_日野森志步_R4 每天的例行公事 (event_182).txt"
 }
 ]
 },
@@ -5444,6 +5464,10 @@
 {
 "type": "file",
 "name": "1239_MEIKO_R4 一大堆美食！ (event_179).txt"
+},
+{
+"type": "file",
+"name": "1264_MEIKO (Ln)_R3 感受滿溢的心願 (event_182).txt"
 }
 ]
 },
@@ -12650,6 +12674,44 @@
 "name": "181-08 盡全力享受「現在」.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "182 與你相繫的Heart Beat (Ln_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "182-01 發表新歌！.txt"
+},
+{
+"type": "file",
+"name": "182-02 萌生的想法.txt"
+},
+{
+"type": "file",
+"name": "182-03 源源不絕的點子.txt"
+},
+{
+"type": "file",
+"name": "182-04 傾注在音樂中的心意.txt"
+},
+{
+"type": "file",
+"name": "182-05 驚人的通知.txt"
+},
+{
+"type": "file",
+"name": "182-06 傳遞與連繫.txt"
+},
+{
+"type": "file",
+"name": "182-07 連鎖.txt"
+},
+{
+"type": "file",
+"name": "182-08 連結的中心.txt"
+}
+]
 }
 ]
 },
@@ -13606,6 +13668,10 @@
 {
 "type": "file",
 "name": "sp058 5週年紀念特別登入劇情.txt"
+},
+{
+"type": "file",
+"name": "sp059 5週年特別留言導入登入劇情.txt"
 },
 {
 "type": "file",
@@ -15059,6 +15125,110 @@
 },
 {
 "type": "file",
+"name": "400 5th Anniversary Special Message（一歌）.txt"
+},
+{
+"type": "file",
+"name": "401 5th Anniversary Special Message（咲希）.txt"
+},
+{
+"type": "file",
+"name": "402 5th Anniversary Special Message（穗波）.txt"
+},
+{
+"type": "file",
+"name": "403 5th Anniversary Special Message（志步）.txt"
+},
+{
+"type": "file",
+"name": "404 5th Anniversary Special Message（實乃理）.txt"
+},
+{
+"type": "file",
+"name": "405 5th Anniversary Special Message（遙）.txt"
+},
+{
+"type": "file",
+"name": "406 5th Anniversary Special Message（愛莉）.txt"
+},
+{
+"type": "file",
+"name": "407 5th Anniversary Special Message（雫）.txt"
+},
+{
+"type": "file",
+"name": "408 5th Anniversary Special Message（心羽）.txt"
+},
+{
+"type": "file",
+"name": "409 5th Anniversary Special Message（杏）.txt"
+},
+{
+"type": "file",
+"name": "410 5th Anniversary Special Message（彰人）.txt"
+},
+{
+"type": "file",
+"name": "411 5th Anniversary Special Message（冬彌）.txt"
+},
+{
+"type": "file",
+"name": "412 5th Anniversary Special Message（司）.txt"
+},
+{
+"type": "file",
+"name": "413 5th Anniversary Special Message（笑夢）.txt"
+},
+{
+"type": "file",
+"name": "414 5th Anniversary Special Message（寧寧）.txt"
+},
+{
+"type": "file",
+"name": "415 5th Anniversary Special Message（類）.txt"
+},
+{
+"type": "file",
+"name": "416 5th Anniversary Special Message（奏）.txt"
+},
+{
+"type": "file",
+"name": "417 5th Anniversary Special Message（真冬）.txt"
+},
+{
+"type": "file",
+"name": "418 5th Anniversary Special Message（繪名）.txt"
+},
+{
+"type": "file",
+"name": "419 5th Anniversary Special Message（瑞希）.txt"
+},
+{
+"type": "file",
+"name": "420 5th Anniversary Special Message（初音未來）.txt"
+},
+{
+"type": "file",
+"name": "421 5th Anniversary Special Message（鏡音鈴）.txt"
+},
+{
+"type": "file",
+"name": "422 5th Anniversary Special Message（鏡音連）.txt"
+},
+{
+"type": "file",
+"name": "423 5th Anniversary Special Message（巡音流歌）.txt"
+},
+{
+"type": "file",
+"name": "424 5th Anniversary Special Message（MEIKO）.txt"
+},
+{
+"type": "file",
+"name": "425 5th Anniversary Special Message（KAITO）.txt"
+},
+{
+"type": "file",
 "name": "426 5週年紀念Special LIVE.txt"
 },
 {
@@ -15068,6 +15238,10 @@
 {
 "type": "file",
 "name": "428 HAPPY BIRTHDAY LIVE 遙 2026.txt"
+},
+{
+"type": "file",
+"name": "429 與你相繫的Heart Beat AFTER LIVE (event_182).txt"
 }
 ]
 }

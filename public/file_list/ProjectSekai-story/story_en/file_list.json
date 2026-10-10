@@ -725,6 +725,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_182.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -928,6 +932,10 @@
 {
 "type": "file",
 "name": "1222_Ichika Hoshino_RB Happy Birthday! 2026.txt"
+},
+{
+"type": "file",
+"name": "1261_Ichika Hoshino_R4 Waking To A Shock (event_182).txt"
 }
 ]
 },
@@ -1122,6 +1130,10 @@
 {
 "type": "file",
 "name": "1255_Saki Tenma_R4 Lucky Ice Cream! (event_181).txt"
+},
+{
+"type": "file",
+"name": "1265_Saki Tenma_R2 Picking Up On Feelings! (event_182).txt"
 }
 ]
 },
@@ -1300,6 +1312,10 @@
 {
 "type": "file",
 "name": "1201_Honami Mochizuki_R4 Noise Gives Way To Silence (event_173).txt"
+},
+{
+"type": "file",
+"name": "1262_Honami Mochizuki_R4 How Does It Taste？ (event_182).txt"
 }
 ]
 },
@@ -1490,6 +1506,10 @@
 {
 "type": "file",
 "name": "1243_Shiho Hinomori_R4 Looking Up At The Stars.txt"
+},
+{
+"type": "file",
+"name": "1263_Shiho Hinomori_R4 Daily Routine (event_182).txt"
 }
 ]
 },
@@ -5420,6 +5440,10 @@
 {
 "type": "file",
 "name": "1239_MEIKO_R4 Feasting Like A Queen! (event_179).txt"
+},
+{
+"type": "file",
+"name": "1264_MEIKO (Ln)_R3 Sensing A Depth Of Feeling (event_182).txt"
 }
 ]
 },
@@ -12588,6 +12612,44 @@
 "name": "181-08 Sprinting Toward the Future.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "182 Connected by a Heartbeat (Ln_Ichika Hoshino)",
+"children": [
+{
+"type": "file",
+"name": "182-01 Unveiling the New Song!.txt"
+},
+{
+"type": "file",
+"name": "182-02 An Urge Takes Root.txt"
+},
+{
+"type": "file",
+"name": "182-03 A Flood of Ideas.txt"
+},
+{
+"type": "file",
+"name": "182-04 Music Filled With Emotion.txt"
+},
+{
+"type": "file",
+"name": "182-05 Shocking Notifications.txt"
+},
+{
+"type": "file",
+"name": "182-06 Moving Hearts, Connecting Minds.txt"
+},
+{
+"type": "file",
+"name": "182-07 A Chain Reaction.txt"
+},
+{
+"type": "file",
+"name": "182-08 Part of Something Bigger.txt"
+}
+]
 }
 ]
 },
@@ -13516,6 +13578,10 @@
 {
 "type": "file",
 "name": "sp058 JP 5th Anniversary Login Story.txt"
+},
+{
+"type": "file",
+"name": "sp059 5周年スペシャルメッセージ導入ログインストーリー.txt"
 },
 {
 "type": "file",

@@ -729,6 +729,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_182.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -932,6 +936,10 @@
 {
 "type": "file",
 "name": "1222_星乃一歌_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1261_星乃一歌_R4 震惊的早晨 (event_182).txt"
 }
 ]
 },
@@ -1126,6 +1134,10 @@
 {
 "type": "file",
 "name": "1255_天马咲希_R4 Lucky ice！ (event_181).txt"
+},
+{
+"type": "file",
+"name": "1265_天马咲希_R2 为了抓住心愿！ (event_182).txt"
 }
 ]
 },
@@ -1304,6 +1316,10 @@
 {
 "type": "file",
 "name": "1201_望月穗波_R4 迷惘沉入静寂之中 (event_173).txt"
+},
+{
+"type": "file",
+"name": "1262_望月穗波_R4 味道怎么样？ (event_182).txt"
 }
 ]
 },
@@ -1494,6 +1510,10 @@
 {
 "type": "file",
 "name": "1243_日野森志步_R4 仰望群星.txt"
+},
+{
+"type": "file",
+"name": "1263_日野森志步_R4 每日例行 (event_182).txt"
 }
 ]
 },
@@ -5444,6 +5464,10 @@
 {
 "type": "file",
 "name": "1239_MEIKO_R4 好多美食！ (event_179).txt"
+},
+{
+"type": "file",
+"name": "1264_MEIKO (Ln)_R3 感受满溢的心愿 (event_182).txt"
 }
 ]
 },
@@ -12650,6 +12674,44 @@
 "name": "181-08 将全力以赴的“当下”.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "182 与你相连的Heart Beat (Ln_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "182-01 新曲亮相！.txt"
+},
+{
+"type": "file",
+"name": "182-02 萌生的想法.txt"
+},
+{
+"type": "file",
+"name": "182-03 不断涌现的灵感.txt"
+},
+{
+"type": "file",
+"name": "182-04 乐声中倾注的心愿.txt"
+},
+{
+"type": "file",
+"name": "182-05 惊人的通知.txt"
+},
+{
+"type": "file",
+"name": "182-06 传递，联系在一起.txt"
+},
+{
+"type": "file",
+"name": "182-07 连锁.txt"
+},
+{
+"type": "file",
+"name": "182-08 相连的中心.txt"
+}
+]
 }
 ]
 },
@@ -15244,6 +15306,10 @@
 {
 "type": "file",
 "name": "428 HAPPY BIRTHDAY演唱会 遥 2026.txt"
+},
+{
+"type": "file",
+"name": "429 与你相连的Heart Beat 后日谈·演唱会 (event_182).txt"
 }
 ]
 }
