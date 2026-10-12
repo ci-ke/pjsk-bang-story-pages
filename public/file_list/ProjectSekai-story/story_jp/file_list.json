@@ -881,6 +881,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_220.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1120,6 +1124,10 @@
 {
 "type": "file",
 "name": "1481_星乃一歌_R3 黙々と集中！ (event_219).txt"
+},
+{
+"type": "file",
+"name": "1484_星乃一歌_R4 今はただ、隣に (event_220).txt"
 }
 ]
 },
@@ -1342,6 +1350,10 @@
 {
 "type": "file",
 "name": "1475_天馬咲希_R4 押し込めた想い.txt"
+},
+{
+"type": "file",
+"name": "1486_天馬咲希_R3 きっと今度は、みんなで (event_220).txt"
 }
 ]
 },
@@ -1552,6 +1564,10 @@
 {
 "type": "file",
 "name": "1438_望月穂波_R2 美味しい応援 (event_212).txt"
+},
+{
+"type": "file",
+"name": "1483_望月穂波_R4 残された想いを (event_220).txt"
 }
 ]
 },
@@ -1774,6 +1790,10 @@
 {
 "type": "file",
 "name": "1435_日野森志歩_R4 胸の底にわだかまるもの (event_212).txt"
+},
+{
+"type": "file",
+"name": "1487_日野森志歩_R2 この夢を目指して (event_220).txt"
 }
 ]
 },
@@ -6424,6 +6444,10 @@
 {
 "type": "file",
 "name": "1457_MEIKO (N25)_R2 仲良くチーム分け？ (event_215).txt"
+},
+{
+"type": "file",
+"name": "1485_MEIKO (Ln)_R4 先輩からのアドバイス (event_220).txt"
 }
 ]
 },
@@ -15030,6 +15054,44 @@
 {
 "type": "file",
 "name": "219-08 つながりの証.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "220 Stars Off Orbit (Ln_望月穂波)",
+"children": [
+{
+"type": "file",
+"name": "220-01 新たなチャンス.txt"
+},
+{
+"type": "file",
+"name": "220-02 違和感.txt"
+},
+{
+"type": "file",
+"name": "220-03 幼馴染みとして.txt"
+},
+{
+"type": "file",
+"name": "220-04 週末デートは穏やかに.txt"
+},
+{
+"type": "file",
+"name": "220-05 星降る夜空の下で.txt"
+},
+{
+"type": "file",
+"name": "220-06 集う想い.txt"
+},
+{
+"type": "file",
+"name": "220-07 本音.txt"
+},
+{
+"type": "file",
+"name": "220-08 星々は空の果てへ.txt"
 }
 ]
 }
