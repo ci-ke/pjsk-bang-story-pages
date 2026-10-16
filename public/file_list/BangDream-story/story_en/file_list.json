@@ -9406,6 +9406,10 @@
 {
 "type": "file",
 "name": "2303_Kasumi Toyama_R4 The Most Special Present!.txt"
+},
+{
+"type": "file",
+"name": "2388_Kasumi Toyama_R5 Arisa and Kasumi.txt"
 }
 ]
 },
@@ -9620,6 +9624,10 @@
 {
 "type": "file",
 "name": "2300_Tae Hanazono_R5 A Sky for You to Run Through.txt"
+},
+{
+"type": "file",
+"name": "2392_Tae Hanazono_R4 A Secret Game Plan.txt"
 }
 ]
 },
@@ -10274,6 +10282,10 @@
 {
 "type": "file",
 "name": "2297_Arisa Ichigaya_R5 A Golden Carpet.txt"
+},
+{
+"type": "file",
+"name": "2389_Arisa Ichigaya_R5 Twin♡Flavors.txt"
 }
 ]
 },
@@ -27840,6 +27852,40 @@
 {
 "type": "file",
 "name": "event320-07 Ending：One for the Notebook.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "321 Promising Again, See You Tomorrow",
+"children": [
+{
+"type": "file",
+"name": "event321-01 Opening：A Fight？!.txt"
+},
+{
+"type": "file",
+"name": "event321-02 Chapter 1：All Awkward？!.txt"
+},
+{
+"type": "file",
+"name": "event321-03 Chapter 2：Making Up？!.txt"
+},
+{
+"type": "file",
+"name": "event321-04 Chapter 3：Anticipation!!.txt"
+},
+{
+"type": "file",
+"name": "event321-05 Chapter 4：The Big Day!!.txt"
+},
+{
+"type": "file",
+"name": "event321-06 Chapter 5：A Keepsake!!.txt"
+},
+{
+"type": "file",
+"name": "event321-07 Ending：So Precious!!!!!!.txt"
 }
 ]
 }
