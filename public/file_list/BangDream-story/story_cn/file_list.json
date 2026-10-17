@@ -15914,6 +15914,10 @@
 {
 "type": "file",
 "name": "2326_白金燐子_R5 一心向前.txt"
+},
+{
+"type": "file",
+"name": "2428_白金燐子_R5 浅粉掩映的窗边.txt"
 }
 ]
 },
@@ -16178,6 +16182,10 @@
 {
 "type": "file",
 "name": "2344_桐谷透子_R5 透过玻璃的闪耀光芒.txt"
+},
+{
+"type": "file",
+"name": "2423_桐谷透子_R5 将勇气赠予你.txt"
 }
 ]
 },
@@ -16308,6 +16316,10 @@
 {
 "type": "file",
 "name": "2354_广町七深_R5 携手同行.txt"
+},
+{
+"type": "file",
+"name": "2424_广町七深_R5 指引我的色彩.txt"
 }
 ]
 },
@@ -16560,6 +16572,10 @@
 {
 "type": "file",
 "name": "2387_八潮瑠唯_R5 静静飘落堆积的雪.txt"
+},
+{
+"type": "file",
+"name": "2427_八潮瑠唯_R4 被看穿的内心.txt"
 }
 ]
 },
@@ -16678,6 +16694,10 @@
 {
 "type": "file",
 "name": "2376_和奏瑞依_R5 RUNAWAY STAR.txt"
+},
+{
+"type": "file",
+"name": "2429_和奏瑞依_R5 填满视野的樱粉色.txt"
 }
 ]
 },
@@ -29158,6 +29178,40 @@
 {
 "type": "file",
 "name": "event325-10 终章：新的声音交织共鸣.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "326 迈向广阔世界的自由变奏",
+"children": [
+{
+"type": "file",
+"name": "event326-01 序章：我的色彩.txt"
+},
+{
+"type": "file",
+"name": "event326-02 第１话：迷茫的心.txt"
+},
+{
+"type": "file",
+"name": "event326-03 第２话：停在原地.txt"
+},
+{
+"type": "file",
+"name": "event326-04 第３话：无法迈出的一步.txt"
+},
+{
+"type": "file",
+"name": "event326-05 第４话：将思绪寄托于笔尖.txt"
+},
+{
+"type": "file",
+"name": "event326-06 第５话：推人一把的勇气.txt"
+},
+{
+"type": "file",
+"name": "event326-07 终章：大家的色彩.txt"
 }
 ]
 }

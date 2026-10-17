@@ -12182,6 +12182,10 @@
 {
 "type": "file",
 "name": "2352_弦卷心_R4 委託蜂擁而至！.txt"
+},
+{
+"type": "file",
+"name": "2456_弦卷心_R4 朝著比賽前進！.txt"
 }
 ]
 },
@@ -12638,6 +12642,10 @@
 {
 "type": "file",
 "name": "2412_北澤育美_R4 好多點心！.txt"
+},
+{
+"type": "file",
+"name": "2452_北澤育美_R5 成為萬事屋！.txt"
 }
 ]
 },
@@ -13110,6 +13118,10 @@
 {
 "type": "file",
 "name": "2409_米歇爾_R5 極致的放鬆.txt"
+},
+{
+"type": "file",
+"name": "2453_米歇爾_R5 兩個人的淚顏.txt"
 }
 ]
 },
@@ -28852,6 +28864,40 @@
 {
 "type": "file",
 "name": "event330-07 結尾：希望能傳達給大家！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "331 Hello・Smile♡萬事屋★",
+"children": [
+{
+"type": "file",
+"name": "event331-01 開場：來開萬事屋吧！.txt"
+},
+{
+"type": "file",
+"name": "event331-02 第１話：有什麼困擾呢？.txt"
+},
+{
+"type": "file",
+"name": "event331-03 第２話：找不到的球.txt"
+},
+{
+"type": "file",
+"name": "event331-04 第３話：真正的心意.txt"
+},
+{
+"type": "file",
+"name": "event331-05 第４話：希望你不再感到寂寞.txt"
+},
+{
+"type": "file",
+"name": "event331-06 第５話：「萬事屋」.txt"
+},
+{
+"type": "file",
+"name": "event331-07 結尾：最燦爛的笑容.txt"
 }
 ]
 }
