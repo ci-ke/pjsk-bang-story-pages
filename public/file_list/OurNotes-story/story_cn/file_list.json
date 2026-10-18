@@ -652,6 +652,48 @@
 "name": "another-07-02 anesthetic.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "08 一家Dumb Rock!：Shake Your 魂, Baby!!",
+"children": [
+{
+"type": "file",
+"name": "08-01 你喜欢哪种口味！？.txt"
+},
+{
+"type": "file",
+"name": "08-02 关于喜欢的采访！！.txt"
+},
+{
+"type": "file",
+"name": "08-03 第一次去电器店！！.txt"
+},
+{
+"type": "file",
+"name": "08-04 第一次吃回转寿司！！.txt"
+},
+{
+"type": "file",
+"name": "08-05 第一次的……！？.txt"
+},
+{
+"type": "file",
+"name": "08-06 寻找正确答案！！.txt"
+},
+{
+"type": "file",
+"name": "08-07 今天就选这个口味！！.txt"
+},
+{
+"type": "file",
+"name": "another-08-01 今天发生的事！！.txt"
+},
+{
+"type": "file",
+"name": "another-08-02 吵死人的车厢！！.txt"
+}
+]
 }
 ]
 },

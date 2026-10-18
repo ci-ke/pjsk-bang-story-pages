@@ -652,6 +652,48 @@
 "name": "another-07-02 anesthetic.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "08 Ikka Dumb Rock!：Shake Your Soul, Baby!!",
+"children": [
+{
+"type": "file",
+"name": "08-01 What Flavor Do You Like!？.txt"
+},
+{
+"type": "file",
+"name": "08-02 Favorite Things Interview!!.txt"
+},
+{
+"type": "file",
+"name": "08-03 My First Trip to the Electronics Store!!.txt"
+},
+{
+"type": "file",
+"name": "08-04 My First Conveyor Belt Sushi!!.txt"
+},
+{
+"type": "file",
+"name": "08-05 My First...!？.txt"
+},
+{
+"type": "file",
+"name": "08-06 Searching for the Right Answer!!.txt"
+},
+{
+"type": "file",
+"name": "08-07 This Flavor Today!!.txt"
+},
+{
+"type": "file",
+"name": "another-08-01 What Happened Today!!.txt"
+},
+{
+"type": "file",
+"name": "another-08-02 So Loud in the Car!!.txt"
+}
+]
 }
 ]
 },
