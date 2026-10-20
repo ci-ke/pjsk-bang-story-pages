@@ -733,6 +733,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_183.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1696,6 +1700,10 @@
 {
 "type": "file",
 "name": "1252_花里实乃理_R4 闪耀的偶像！.txt"
+},
+{
+"type": "file",
+"name": "1269_花里实乃理_R3 拼尽全力的训练！ (event_183).txt"
 }
 ]
 },
@@ -1886,6 +1894,10 @@
 {
 "type": "file",
 "name": "1260_桐谷遥_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1270_桐谷遥_R2 联合热身 (event_183).txt"
 }
 ]
 },
@@ -2072,6 +2084,10 @@
 {
 "type": "file",
 "name": "1220_桃井爱莉_R4 特别联合直播！ (event_176).txt"
+},
+{
+"type": "file",
+"name": "1267_桃井爱莉_R4 用冰冰凉恶作剧！ (event_183).txt"
 }
 ]
 },
@@ -2250,6 +2266,10 @@
 {
 "type": "file",
 "name": "1221_日野森雫_R4 完美的微笑 (event_176).txt"
+},
+{
+"type": "file",
+"name": "1266_日野森雫_R4 与过去重合的景色 (event_183).txt"
 }
 ]
 },
@@ -5468,6 +5488,10 @@
 {
 "type": "file",
 "name": "1264_MEIKO (Ln)_R3 感受满溢的心愿 (event_182).txt"
+},
+{
+"type": "file",
+"name": "1268_MEIKO (MMJ)_R4 献上特殊的助威！ (event_183).txt"
 }
 ]
 },
@@ -12712,6 +12736,44 @@
 "name": "182-08 相连的中心.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "183 交织的色彩一如当初 (MMJ_日野森雫)",
+"children": [
+{
+"type": "file",
+"name": "183-01 下一个题目是.txt"
+},
+{
+"type": "file",
+"name": "183-02 该做的事.txt"
+},
+{
+"type": "file",
+"name": "183-03 流言.txt"
+},
+{
+"type": "file",
+"name": "183-04 困难的含义.txt"
+},
+{
+"type": "file",
+"name": "183-05 各自的色彩.txt"
+},
+{
+"type": "file",
+"name": "183-06 无法抹去的想法.txt"
+},
+{
+"type": "file",
+"name": "183-07 不变的姿态.txt"
+},
+{
+"type": "file",
+"name": "183-08 一起呈现最棒的舞台.txt"
+}
+]
 }
 ]
 },
@@ -15310,6 +15372,10 @@
 {
 "type": "file",
 "name": "429 与你相连的Heart Beat 后日谈·演唱会 (event_182).txt"
+},
+{
+"type": "file",
+"name": "430 交织的色彩一如当初 后日谈·演唱会 (event_183).txt"
 }
 ]
 }

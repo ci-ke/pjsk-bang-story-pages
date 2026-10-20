@@ -729,6 +729,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_183.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1692,6 +1696,10 @@
 {
 "type": "file",
 "name": "1252_Minori Hanasato_R4 A Dazzling Idol!.txt"
+},
+{
+"type": "file",
+"name": "1269_Minori Hanasato_R3 All-Out Training! (event_183).txt"
 }
 ]
 },
@@ -1882,6 +1890,10 @@
 {
 "type": "file",
 "name": "1260_Haruka Kiritani_RB Happy Birthday! 2026.txt"
+},
+{
+"type": "file",
+"name": "1270_Haruka Kiritani_R2 Joint Warm-Up (event_183).txt"
 }
 ]
 },
@@ -2068,6 +2080,10 @@
 {
 "type": "file",
 "name": "1220_Airi Momoi_R4 Special Collab Stream! (event_176).txt"
+},
+{
+"type": "file",
+"name": "1267_Airi Momoi_R4 A Chilling Prank! (event_183).txt"
 }
 ]
 },
@@ -2246,6 +2262,10 @@
 {
 "type": "file",
 "name": "1221_Shizuku Hinomori_R4 Giving The Perfect Smile (event_176).txt"
+},
+{
+"type": "file",
+"name": "1266_Shizuku Hinomori_R4 A Familiar Scene (event_183).txt"
 }
 ]
 },
@@ -5444,6 +5464,10 @@
 {
 "type": "file",
 "name": "1264_MEIKO (Ln)_R3 Sensing A Depth Of Feeling (event_182).txt"
+},
+{
+"type": "file",
+"name": "1268_MEIKO (MMJ)_R4 A Special Cheer! (event_183).txt"
 }
 ]
 },
@@ -12648,6 +12672,44 @@
 {
 "type": "file",
 "name": "182-08 Part of Something Bigger.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "183 Blending Together, Just Like Before (MMJ_Shizuku Hinomori)",
+"children": [
+{
+"type": "file",
+"name": "183-01 The Next Task.txt"
+},
+{
+"type": "file",
+"name": "183-02 Doing What We Need To.txt"
+},
+{
+"type": "file",
+"name": "183-03 Gossip.txt"
+},
+{
+"type": "file",
+"name": "183-04 Layers of Difficulty.txt"
+},
+{
+"type": "file",
+"name": "183-05 Different Brands.txt"
+},
+{
+"type": "file",
+"name": "183-06 A Persistent Feeling.txt"
+},
+{
+"type": "file",
+"name": "183-07 Just Like Before.txt"
+},
+{
+"type": "file",
+"name": "183-08 Giving Our Best Together.txt"
 }
 ]
 }
