@@ -11772,6 +11772,10 @@
 {
 "type": "file",
 "name": "2435_美竹蘭_R5 小指を交わして.txt"
+},
+{
+"type": "file",
+"name": "2546_美竹蘭_R4 甘い洗礼.txt"
 }
 ]
 },
@@ -12248,6 +12252,10 @@
 {
 "type": "file",
 "name": "2436_上原ひまり_R5 夕暮れ時の約束.txt"
+},
+{
+"type": "file",
+"name": "2542_上原ひまり_R5 永遠の絆.txt"
 }
 ]
 },
@@ -12478,6 +12486,10 @@
 {
 "type": "file",
 "name": "2507_宇田川巴_R4 お祭りエンジョイ中！.txt"
+},
+{
+"type": "file",
+"name": "2543_宇田川巴_R5 夜はこれから！.txt"
 }
 ]
 },
@@ -30378,6 +30390,40 @@
 {
 "type": "file",
 "name": "event345-07 エンディング：想いよ空へ.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "346 夕日の先に羽を広げて",
+"children": [
+{
+"type": "file",
+"name": "event346-01 オープニング：いざメルボルンへ！.txt"
+},
+{
+"type": "file",
+"name": "event346-02 第１話：Where do we go？.txt"
+},
+{
+"type": "file",
+"name": "event346-03 第２話：今日の思い出、明日の楽しみ.txt"
+},
+{
+"type": "file",
+"name": "event346-04 第３話：『あなたは驚くでしょう』.txt"
+},
+{
+"type": "file",
+"name": "event346-05 第４話：ふわふわ体験.txt"
+},
+{
+"type": "file",
+"name": "event346-06 第５話：寂しさもありのままで.txt"
+},
+{
+"type": "file",
+"name": "event346-07 エンディング：旅は終われども.txt"
 }
 ]
 }
