@@ -1568,6 +1568,10 @@
 {
 "type": "file",
 "name": "1483_望月穂波_R4 残された想いを (event_220).txt"
+},
+{
+"type": "file",
+"name": "1488_望月穂波_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -15092,6 +15096,92 @@
 {
 "type": "file",
 "name": "220-08 星々は空の果てへ.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "221 Vivid BAD SQUAD Memories",
+"children": [
+{
+"type": "file",
+"name": "221-01 Vivid BAD SQUAD Memories 1.txt"
+},
+{
+"type": "file",
+"name": "221-02 Vivid BAD SQUAD Memories 2.txt"
+},
+{
+"type": "file",
+"name": "221-03 Vivid BAD SQUAD Memories 3.txt"
+},
+{
+"type": "file",
+"name": "221-04 Vivid BAD SQUAD Memories 4.txt"
+},
+{
+"type": "file",
+"name": "221-05 Vivid BAD SQUAD Memories 5.txt"
+},
+{
+"type": "file",
+"name": "221-06 Vivid BAD SQUAD Memories 6.txt"
+},
+{
+"type": "file",
+"name": "221-07 Vivid BAD SQUAD Memories 7.txt"
+},
+{
+"type": "file",
+"name": "221-08 Vivid BAD SQUAD Memories 8.txt"
+},
+{
+"type": "file",
+"name": "221-09 Vivid BAD SQUAD Memories 9.txt"
+},
+{
+"type": "file",
+"name": "221-10 Vivid BAD SQUAD Memories 10.txt"
+},
+{
+"type": "file",
+"name": "221-11 Vivid BAD SQUAD Memories 11.txt"
+},
+{
+"type": "file",
+"name": "221-12 Vivid BAD SQUAD Memories 12.txt"
+},
+{
+"type": "file",
+"name": "221-13 Vivid BAD SQUAD Memories 13.txt"
+},
+{
+"type": "file",
+"name": "221-14 Vivid BAD SQUAD Memories 14.txt"
+},
+{
+"type": "file",
+"name": "221-15 Vivid BAD SQUAD Memories 15.txt"
+},
+{
+"type": "file",
+"name": "221-16 Vivid BAD SQUAD Memories 16.txt"
+},
+{
+"type": "file",
+"name": "221-17 Vivid BAD SQUAD Memories 17.txt"
+},
+{
+"type": "file",
+"name": "221-18 Vivid BAD SQUAD Memories 18.txt"
+},
+{
+"type": "file",
+"name": "221-19 Vivid BAD SQUAD Memories 19.txt"
+},
+{
+"type": "file",
+"name": "221-20 Vivid BAD SQUAD Memories 20.txt"
 }
 ]
 }
