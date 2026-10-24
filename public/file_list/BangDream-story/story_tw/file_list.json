@@ -10132,6 +10132,10 @@
 {
 "type": "file",
 "name": "2392_花園多惠_R4 秘密作戰會議.txt"
+},
+{
+"type": "file",
+"name": "2458_花園多惠_R5 熱血彩排.txt"
 }
 ]
 },
@@ -10544,6 +10548,10 @@
 {
 "type": "file",
 "name": "2414_山吹沙綾_R5 這就是我的聲音！.txt"
+},
+{
+"type": "file",
+"name": "2457_山吹沙綾_R5 那時候的溫暖.txt"
 }
 ]
 },
@@ -10794,6 +10802,10 @@
 {
 "type": "file",
 "name": "2389_市谷有咲_R5 雙重♡口味.txt"
+},
+{
+"type": "file",
+"name": "2461_市谷有咲_R4 追求百分之百.txt"
 }
 ]
 },
@@ -15280,6 +15292,10 @@
 {
 "type": "file",
 "name": "2420_宇田川亞子_R4 奏響深淵的旋律…….txt"
+},
+{
+"type": "file",
+"name": "2462_宇田川亞子_R5 NEAR FUTURE.txt"
 }
 ]
 },
@@ -15904,6 +15920,10 @@
 {
 "type": "file",
 "name": "2424_廣町七深_R5 引領我的色彩.txt"
+},
+{
+"type": "file",
+"name": "2463_廣町七深_R5 泡沫之夢.txt"
 }
 ]
 },
@@ -28898,6 +28918,40 @@
 {
 "type": "file",
 "name": "event331-07 結尾：最燦爛的笑容.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "332 今後迎來的每一個清晨",
+"children": [
+{
+"type": "file",
+"name": "event332-01 開場：手作的六月新娘.txt"
+},
+{
+"type": "file",
+"name": "event332-02 第１話：看見星星的那一天.txt"
+},
+{
+"type": "file",
+"name": "event332-03 第２話：想做的事好多.txt"
+},
+{
+"type": "file",
+"name": "event332-04 第３話：我最真實的心意.txt"
+},
+{
+"type": "file",
+"name": "event332-05 第４話：細細品味幸福.txt"
+},
+{
+"type": "file",
+"name": "event332-06 第５話：宛如奇蹟一般.txt"
+},
+{
+"type": "file",
+"name": "event332-07 結尾：剛出爐的麵包香.txt"
 }
 ]
 }

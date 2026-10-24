@@ -13962,6 +13962,10 @@
 {
 "type": "file",
 "name": "2327_Yukina Minato_R5 Feeling the Shared Passion.txt"
+},
+{
+"type": "file",
+"name": "2402_Yukina Minato_R4 The First String.txt"
 }
 ]
 },
@@ -14442,6 +14446,10 @@
 {
 "type": "file",
 "name": "2343_Lisa Imai_R5 Decorating Together!.txt"
+},
+{
+"type": "file",
+"name": "2398_Lisa Imai_R5 DEAR MY LIKE.txt"
 }
 ]
 },
@@ -14668,6 +14676,10 @@
 {
 "type": "file",
 "name": "2330_Ako Udagawa_R4 Strength from Our Vows.txt"
+},
+{
+"type": "file",
+"name": "2399_Ako Udagawa_R5 Re：VENGER.txt"
 }
 ]
 },
@@ -27886,6 +27898,40 @@
 {
 "type": "file",
 "name": "event321-07 Ending：So Precious!!!!!!.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "322 Re：Like Re：Live",
+"children": [
+{
+"type": "file",
+"name": "event322-01 Opening：No Invite, All Resolve.txt"
+},
+{
+"type": "file",
+"name": "event322-02 Chapter 1：Retracing That Day.txt"
+},
+{
+"type": "file",
+"name": "event322-03 Chapter 2：The First Sound.txt"
+},
+{
+"type": "file",
+"name": "event322-04 Chapter 3：That Faint Heat on My Fingertips.txt"
+},
+{
+"type": "file",
+"name": "event322-05 Chapter 4：The Time I Couldn't Touch.txt"
+},
+{
+"type": "file",
+"name": "event322-06 Chapter 5：Welcome Back, Bass.txt"
+},
+{
+"type": "file",
+"name": "event322-07 Ending：Always and Always, Always..txt"
 }
 ]
 }
