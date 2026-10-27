@@ -12832,6 +12832,10 @@
 {
 "type": "file",
 "name": "2348_濑田薰_R5 梦幻盛宴的序幕.txt"
+},
+{
+"type": "file",
+"name": "2430_濑田薰_R5 仅此一次的革命.txt"
 }
 ]
 },
@@ -13292,6 +13296,10 @@
 {
 "type": "file",
 "name": "2408_松原花音_R5 惬意的空间.txt"
+},
+{
+"type": "file",
+"name": "2434_松原花音_R4 微笑的温度.txt"
 }
 ]
 },
@@ -14264,6 +14272,10 @@
 {
 "type": "file",
 "name": "2403_白鹭千圣_R5 我的心意.txt"
+},
+{
+"type": "file",
+"name": "2431_白鹭千圣_R5 遗落之物.txt"
 }
 ]
 },
@@ -29212,6 +29224,40 @@
 {
 "type": "file",
 "name": "event326-07 终章：大家的色彩.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "327 黎明的Stand By",
+"children": [
+{
+"type": "file",
+"name": "event327-01 序章：看见光芒的那天.txt"
+},
+{
+"type": "file",
+"name": "event327-02 第１话：决心的轮廓.txt"
+},
+{
+"type": "file",
+"name": "event327-03 第２话：公园里的双人舞.txt"
+},
+{
+"type": "file",
+"name": "event327-04 第３话：守护着的人们.txt"
+},
+{
+"type": "file",
+"name": "event327-05 第４话：不同的面孔。不同的名字。同样的心。.txt"
+},
+{
+"type": "file",
+"name": "event327-06 第５话：渐渐沸腾.txt"
+},
+{
+"type": "file",
+"name": "event327-07 终章：尚未命名的黎明.txt"
 }
 ]
 }
