@@ -737,10 +737,6 @@
 },
 {
 "type": "file",
-"name": "talk_event_184.txt"
-},
-{
-"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3948,10 +3944,6 @@
 {
 "type": "file",
 "name": "1226_宵崎奏_R3 喜歡的衣服是？ (event_177).txt"
-},
-{
-"type": "file",
-"name": "1273_宵崎奏_R4 獨特的視角 (event_184).txt"
 }
 ]
 },
@@ -4134,10 +4126,6 @@
 {
 "type": "file",
 "name": "1227_朝比奈真冬_R2 尋找回禮 (event_177).txt"
-},
-{
-"type": "file",
-"name": "1276_朝比奈真冬_R2 擔心你熬夜 (event_184).txt"
 }
 ]
 },
@@ -4328,10 +4316,6 @@
 {
 "type": "file",
 "name": "1224_東雲繪名_R4 招架不住的熱烈歡迎！ (event_177).txt"
-},
-{
-"type": "file",
-"name": "1272_東雲繪名_R4 超越自己的界限 (event_184).txt"
 }
 ]
 },
@@ -4748,10 +4732,6 @@
 {
 "type": "file",
 "name": "1259_初音未來 (VBS)_R2 偶爾也要享受寧靜的時光 (event_181).txt"
-},
-{
-"type": "file",
-"name": "1275_初音未來 (N25)_R3 冰淇淋謝禮 (event_184).txt"
 }
 ]
 },
@@ -5516,10 +5496,6 @@
 {
 "type": "file",
 "name": "1268_MEIKO (MMJ)_R4 送上獨一無二的聲援！ (event_183).txt"
-},
-{
-"type": "file",
-"name": "1277_MEIKO_RB Happy Anniversary!! 2026.txt"
 }
 ]
 },
@@ -5710,10 +5686,6 @@
 {
 "type": "file",
 "name": "1240_KAITO_R4 被「不可思議」耍得團團轉 (event_179).txt"
-},
-{
-"type": "file",
-"name": "1274_KAITO (N25)_R4 秉持堅定不移的「本色」 (event_184).txt"
 }
 ]
 }
@@ -12806,44 +12778,6 @@
 "name": "183-08 一起打造最棒的表演.txt"
 }
 ]
-},
-{
-"type": "dir",
-"name": "184 Colors of Pure Sense (N25_東雲繪名)",
-"children": [
-{
-"type": "file",
-"name": "184-01 比賽.txt"
-},
-{
-"type": "file",
-"name": "184-02 失敗作品.txt"
-},
-{
-"type": "file",
-"name": "184-03 迷惘的心.txt"
-},
-{
-"type": "file",
-"name": "184-04 不經意的提示.txt"
-},
-{
-"type": "file",
-"name": "184-05 我討厭的事.txt"
-},
-{
-"type": "file",
-"name": "184-06 自己的武器.txt"
-},
-{
-"type": "file",
-"name": "184-07 對我而言的手.txt"
-},
-{
-"type": "file",
-"name": "184-08 為了下定決心.txt"
-}
-]
 }
 ]
 },
@@ -15382,10 +15316,6 @@
 {
 "type": "file",
 "name": "431 HAPPY BIRTHDAY LIVE 穗波 2026.txt"
-},
-{
-"type": "file",
-"name": "433 Colors of Pure Sense AFTER LIVE (event_184).txt"
 }
 ]
 }
