@@ -885,6 +885,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_223.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -4648,6 +4652,10 @@
 {
 "type": "file",
 "name": "1425_宵崎奏_R3 想定外のスピード！？ (event_210).txt"
+},
+{
+"type": "file",
+"name": "1489_宵崎奏_R4 暗闇の果てに (event_223).txt"
 }
 ]
 },
@@ -4862,6 +4870,10 @@
 {
 "type": "file",
 "name": "1423_朝比奈まふゆ_R4 指先なぞる思い出 (event_210).txt"
+},
+{
+"type": "file",
+"name": "1490_朝比奈まふゆ_R4 ほんの少しの温もりを (event_223).txt"
 }
 ]
 },
@@ -5084,6 +5096,10 @@
 {
 "type": "file",
 "name": "1480_東雲絵名_R4 未来に残すメッセージ (event_219).txt"
+},
+{
+"type": "file",
+"name": "1492_東雲絵名_R3 覚悟を想って (event_223).txt"
 }
 ]
 },
@@ -5298,6 +5314,10 @@
 {
 "type": "file",
 "name": "1450_暁山瑞希_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1493_暁山瑞希_R2 勉強と楽しいの両立 (event_223).txt"
 }
 ]
 },
@@ -6230,6 +6250,10 @@
 {
 "type": "file",
 "name": "1472_巡音ルカ (WxS)_R4 静かな祈り (event_217).txt"
+},
+{
+"type": "file",
+"name": "1491_巡音ルカ (N25)_R4 鍵を壊すために (event_223).txt"
 }
 ]
 },
@@ -6452,6 +6476,10 @@
 {
 "type": "file",
 "name": "1485_MEIKO (Ln)_R4 先輩からのアドバイス (event_220).txt"
+},
+{
+"type": "file",
+"name": "1494_MEIKO_RB Happy Anniversary！！2026.txt"
 }
 ]
 },
@@ -15268,6 +15296,44 @@
 {
 "type": "file",
 "name": "222-20 MORE MORE JUMP！  Memories 20.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "223 いつかの君へ、旋律を (N25_宵崎奏)",
+"children": [
+{
+"type": "file",
+"name": "223-01 答えの出ない日々.txt"
+},
+{
+"type": "file",
+"name": "223-02 気になる出会い.txt"
+},
+{
+"type": "file",
+"name": "223-03 きっかけは音楽で.txt"
+},
+{
+"type": "file",
+"name": "223-04 新たに見える未来.txt"
+},
+{
+"type": "file",
+"name": "223-05 答え.txt"
+},
+{
+"type": "file",
+"name": "223-06 恐怖の理由.txt"
+},
+{
+"type": "file",
+"name": "223-07 本当の想い.txt"
+},
+{
+"type": "file",
+"name": "223-08 暗闇の向こうにある音.txt"
 }
 ]
 }
