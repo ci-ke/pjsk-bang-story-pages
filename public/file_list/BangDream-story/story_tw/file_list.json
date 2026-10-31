@@ -7782,6 +7782,174 @@
 {
 "type": "file",
 "name": "1997 立希と蘭の失敗会話.txt"
+},
+{
+"type": "file",
+"name": "1998 ひまりとロックの大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "1999 ひまりとロックの大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2000 ロックとひまりの大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2001 ひまりとロックの成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2002 ロックとひまりの成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2003 ロックとひまりの成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2004 ロックとひまりの失敗会話.txt"
+},
+{
+"type": "file",
+"name": "2005 美咲と彩の大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2006 美咲と彩の大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2007 美咲と彩の大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2008 彩と美咲の成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2009 彩と美咲の成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2010 彩と美咲の成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2011 彩と美咲の失敗会話.txt"
+},
+{
+"type": "file",
+"name": "2012 美咲と彩の大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2013 美咲と彩の大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2014 美咲と彩の大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2015 彩と美咲の成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2016 彩と美咲の成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2017 彩と美咲の成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2018 彩と美咲の失敗会話.txt"
+},
+{
+"type": "file",
+"name": "2019 燐子とレイヤの大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2020 燐子とレイヤの大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2021 燐子とレイヤの大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2022 レイヤと燐子の成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2023 レイヤと燐子の成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2024 レイヤと燐子の成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2025 レイヤと燐子の失敗会話.txt"
+},
+{
+"type": "file",
+"name": "2026 透子とリサの大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2027 透子とリサの大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2028 リサと透子の大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2029 リサと透子の成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2030 リサと透子の成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2031 透子とリサの成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2032 リサと透子の失敗会話.txt"
+},
+{
+"type": "file",
+"name": "2033 七深と花音の大成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2034 花音と七深の大成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2035 七深と花音の大成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2036 花音と七深の成功会話1.txt"
+},
+{
+"type": "file",
+"name": "2037 花音と七深の成功会話2.txt"
+},
+{
+"type": "file",
+"name": "2038 七深と花音の成功会話3.txt"
+},
+{
+"type": "file",
+"name": "2039 七深と花音の失敗会話.txt"
 }
 ]
 },
@@ -14574,6 +14742,10 @@
 {
 "type": "file",
 "name": "2402_湊友希那_R4 起始的一弦.txt"
+},
+{
+"type": "file",
+"name": "2464_湊友希那_R5 現在我們的音樂.txt"
 }
 ]
 },
@@ -14816,6 +14988,10 @@
 {
 "type": "file",
 "name": "2386_冰川紗夜_R5 乘著溫暖的風.txt"
+},
+{
+"type": "file",
+"name": "2465_冰川紗夜_R5 現在我們的距離.txt"
 }
 ]
 },
@@ -15058,6 +15234,10 @@
 {
 "type": "file",
 "name": "2398_今井莉莎_R5 DEAR MY LIKE.txt"
+},
+{
+"type": "file",
+"name": "2468_今井莉莎_R4 約定的場所.txt"
 }
 ]
 },
@@ -28952,6 +29132,40 @@
 {
 "type": "file",
 "name": "event332-07 結尾：剛出爐的麵包香.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "333 深邃・玫瑰・地平線",
+"children": [
+{
+"type": "file",
+"name": "event333-01 開場：沒有聲音的客廳.txt"
+},
+{
+"type": "file",
+"name": "event333-02 第１話：我們想傳達的事物.txt"
+},
+{
+"type": "file",
+"name": "event333-03 第２話：所謂的Roselia.txt"
+},
+{
+"type": "file",
+"name": "event333-04 第３話：嘗試、錯誤之後.txt"
+},
+{
+"type": "file",
+"name": "event333-05 第４話：薔薇藤蔓延伸之處.txt"
+},
+{
+"type": "file",
+"name": "event333-06 第５話：we aRe.txt"
+},
+{
+"type": "file",
+"name": "event333-07 結尾：聲音綻放的客廳.txt"
 }
 ]
 }

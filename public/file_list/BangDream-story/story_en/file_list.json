@@ -13046,6 +13046,10 @@
 {
 "type": "file",
 "name": "2310_Hina Hikawa_R5 Said and Heard.txt"
+},
+{
+"type": "file",
+"name": "2404_Hina Hikawa_R5 Lyrics That Get You Boppin'♪.txt"
 }
 ]
 },
@@ -13276,6 +13280,10 @@
 {
 "type": "file",
 "name": "2331_Chisato Shirasagi_R5 My dear dog.txt"
+},
+{
+"type": "file",
+"name": "2403_Chisato Shirasagi_R5 My Feelings.txt"
 }
 ]
 },
@@ -13744,6 +13752,10 @@
 {
 "type": "file",
 "name": "2357_Eve Wakamiya_R4 A Bowl of Bliss.txt"
+},
+{
+"type": "file",
+"name": "2407_Eve Wakamiya_R4 In Search of Words.txt"
 }
 ]
 },
@@ -27932,6 +27944,40 @@
 {
 "type": "file",
 "name": "event322-07 Ending：Always and Always, Always..txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "323 More Than a Thousand Words",
+"children": [
+{
+"type": "file",
+"name": "event323-01 Opening：A Fulfilling Idol Life.txt"
+},
+{
+"type": "file",
+"name": "event323-02 Chapter 1：The Theme of the Lyrics.txt"
+},
+{
+"type": "file",
+"name": "event323-03 Chapter 2：Words Just Out of Reach.txt"
+},
+{
+"type": "file",
+"name": "event323-04 Chapter 3：What Lies in Her Heart.txt"
+},
+{
+"type": "file",
+"name": "event323-05 Chapter 4：Unable to Open Up.txt"
+},
+{
+"type": "file",
+"name": "event323-06 Chapter 5：Even If It's Not Perfect.txt"
+},
+{
+"type": "file",
+"name": "event323-07 Ending：The Words She Found.txt"
 }
 ]
 }
