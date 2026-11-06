@@ -11468,6 +11468,10 @@
 {
 "type": "file",
 "name": "2385_美竹兰_R4 装饰时要满怀心意.txt"
+},
+{
+"type": "file",
+"name": "2435_美竹兰_R5 勾指起誓.txt"
 }
 ]
 },
@@ -11690,6 +11694,10 @@
 {
 "type": "file",
 "name": "2382_青叶摩卡_R5 请品尝我的精心之作~.txt"
+},
+{
+"type": "file",
+"name": "2439_青叶摩卡_R4 认真的指正？.txt"
 }
 ]
 },
@@ -11928,6 +11936,10 @@
 {
 "type": "file",
 "name": "2284_上原绯玛丽_R4 中意的日常？.txt"
+},
+{
+"type": "file",
+"name": "2436_上原绯玛丽_R5 傍晚时的约定.txt"
 }
 ]
 },
@@ -29258,6 +29270,40 @@
 {
 "type": "file",
 "name": "event327-07 终章：尚未命名的黎明.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "328 萌生的心意，交织于夕阳下",
+"children": [
+{
+"type": "file",
+"name": "event328-01 序章：令人烦恼的选择.txt"
+},
+{
+"type": "file",
+"name": "event328-02 第１话：朝音乐节进发！.txt"
+},
+{
+"type": "file",
+"name": "event328-03 第２话：充实感的背后.txt"
+},
+{
+"type": "file",
+"name": "event328-04 第３话：悄然高涨的心意.txt"
+},
+{
+"type": "file",
+"name": "event328-05 第４话：想知道真心话！.txt"
+},
+{
+"type": "file",
+"name": "event328-06 第５话：兰想做的事.txt"
+},
+{
+"type": "file",
+"name": "event328-07 终章：大家一起.txt"
 }
 ]
 }
