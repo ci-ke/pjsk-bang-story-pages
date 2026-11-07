@@ -12778,6 +12778,44 @@
 "name": "183-08 一起呈现最棒的舞台.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "184 Colors of Pure Sense (N25_东云绘名)",
+"children": [
+{
+"type": "file",
+"name": "184-01 比赛.txt"
+},
+{
+"type": "file",
+"name": "184-02 失败的作品.txt"
+},
+{
+"type": "file",
+"name": "184-03 迷茫的心.txt"
+},
+{
+"type": "file",
+"name": "184-04 不经意间的提示.txt"
+},
+{
+"type": "file",
+"name": "184-05 我讨厌的事.txt"
+},
+{
+"type": "file",
+"name": "184-06 自己的武器.txt"
+},
+{
+"type": "file",
+"name": "184-07 对我而言的那双手.txt"
+},
+{
+"type": "file",
+"name": "184-08 为了决心.txt"
+}
+]
 }
 ]
 },
