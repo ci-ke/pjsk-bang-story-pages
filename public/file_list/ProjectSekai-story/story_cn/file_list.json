@@ -12816,6 +12816,44 @@
 "name": "184-08 为了决心.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "185 超越自我的主角 (WxS_草薙宁宁)",
+"children": [
+{
+"type": "file",
+"name": "185-01 适宜的紧张.txt"
+},
+{
+"type": "file",
+"name": "185-02 高涨的斗志.txt"
+},
+{
+"type": "file",
+"name": "185-03 令人怀念的面孔.txt"
+},
+{
+"type": "file",
+"name": "185-04 那天的噩梦.txt"
+},
+{
+"type": "file",
+"name": "185-05 暗中摸索.txt"
+},
+{
+"type": "file",
+"name": "185-06 主角与导演.txt"
+},
+{
+"type": "file",
+"name": "185-07 我该做的事.txt"
+},
+{
+"type": "file",
+"name": "185-08 因为大家相信我.txt"
+}
+]
 }
 ]
 },
