@@ -737,6 +737,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_185.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3200,6 +3204,10 @@
 {
 "type": "file",
 "name": "1229_Tsukasa Tenma_R4 Sinking Into Despair (event_178).txt"
+},
+{
+"type": "file",
+"name": "1282_Tsukasa Tenma_R3 To Help A Friend (event_185).txt"
 }
 ]
 },
@@ -3386,6 +3394,10 @@
 {
 "type": "file",
 "name": "1258_Emu Otori_R3 Smiley Stamp Rally (event_181).txt"
+},
+{
+"type": "file",
+"name": "1280_Emu Otori_R4 Happy Happy Hostess (event_185).txt"
 }
 ]
 },
@@ -3568,6 +3580,10 @@
 {
 "type": "file",
 "name": "1245_Nene Kusanagi_R4 Super Special Practice Session!.txt"
+},
+{
+"type": "file",
+"name": "1279_Nene Kusanagi_R4 The Flower Blooms (event_185).txt"
 }
 ]
 },
@@ -3750,6 +3766,10 @@
 {
 "type": "file",
 "name": "1231_Rui Kamishiro_R4 Passionate Prop Making (event_178).txt"
+},
+{
+"type": "file",
+"name": "1283_Rui Kamishiro_R2 A Flood Of Ideas (event_185).txt"
 }
 ]
 },
@@ -4922,6 +4942,10 @@
 {
 "type": "file",
 "name": "1236_Kagamine Rin_R4 Merry-Go-Round Merriment! (event_179).txt"
+},
+{
+"type": "file",
+"name": "1281_Kagamine Rin (WxS)_R4 A Little Guardian (event_185).txt"
 }
 ]
 },
@@ -12784,6 +12808,44 @@
 {
 "type": "file",
 "name": "184-08 Commitment.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "185 Triumphant Protagonista (WxS_Nene Kusanagi)",
+"children": [
+{
+"type": "file",
+"name": "185-01 The Good Kind of Nervous.txt"
+},
+{
+"type": "file",
+"name": "185-02 Growing Motivation.txt"
+},
+{
+"type": "file",
+"name": "185-03 A Familiar Face.txt"
+},
+{
+"type": "file",
+"name": "185-04 That Nightmare of a Day.txt"
+},
+{
+"type": "file",
+"name": "185-05 Fumbling for an Answer.txt"
+},
+{
+"type": "file",
+"name": "185-06 The Director and the Lead.txt"
+},
+{
+"type": "file",
+"name": "185-07 My Duty.txt"
+},
+{
+"type": "file",
+"name": "185-08 For Believing in Me.txt"
 }
 ]
 }
