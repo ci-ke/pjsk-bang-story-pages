@@ -17226,6 +17226,10 @@
 {
 "type": "file",
 "name": "2429_和奏レイ_R5 視界を埋める桜色.txt"
+},
+{
+"type": "file",
+"name": "2555_和奏レイ_R5 一番星の名は.txt"
 }
 ]
 },
@@ -17364,6 +17368,10 @@
 {
 "type": "file",
 "name": "2502_朝日六花_R4 魅惑のエスニック.txt"
+},
+{
+"type": "file",
+"name": "2554_朝日六花_R5 きらめく星々の詩.txt"
 }
 ]
 },
@@ -17746,6 +17754,10 @@
 {
 "type": "file",
 "name": "2441_珠手ちゆ_R5 こっちの道.txt"
+},
+{
+"type": "file",
+"name": "2558_珠手ちゆ_R4 Go my Dino！.txt"
 }
 ]
 },
@@ -30478,6 +30490,40 @@
 {
 "type": "file",
 "name": "event347-07 エンディング：にふぇーでーびる、沖縄！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "348 Rock!Lock!Rock!",
+"children": [
+{
+"type": "file",
+"name": "event348-01 オープニング：夜空に浮かぶは.txt"
+},
+{
+"type": "file",
+"name": "event348-02 第１話：手放したもの.txt"
+},
+{
+"type": "file",
+"name": "event348-03 第２話：日々を繋いで.txt"
+},
+{
+"type": "file",
+"name": "event348-04 第３話：私たちの休日.txt"
+},
+{
+"type": "file",
+"name": "event348-05 第４話：小さなこぐま.txt"
+},
+{
+"type": "file",
+"name": "event348-06 第５話：『ロック』.txt"
+},
+{
+"type": "file",
+"name": "event348-07 エンディング：最強のファイブマンセル.txt"
 }
 ]
 }
