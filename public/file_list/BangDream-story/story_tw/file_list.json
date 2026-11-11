@@ -15840,6 +15840,10 @@
 {
 "type": "file",
 "name": "2362_倉田真白_R5 一直支持著我的人.txt"
+},
+{
+"type": "file",
+"name": "2469_倉田真白_R5 那就像是星空一般.txt"
 }
 ]
 },
@@ -15966,6 +15970,10 @@
 {
 "type": "file",
 "name": "2423_桐谷透子_R5 將勇氣送給你.txt"
+},
+{
+"type": "file",
+"name": "2473_桐谷透子_R4 我正在超級進化中！.txt"
 }
 ]
 },
@@ -16364,6 +16372,10 @@
 {
 "type": "file",
 "name": "2427_八潮瑠唯_R4 被看透的內心.txt"
+},
+{
+"type": "file",
+"name": "2470_八潮瑠唯_R5 照亮我的光芒.txt"
 }
 ]
 },
@@ -29166,6 +29178,40 @@
 {
 "type": "file",
 "name": "event333-07 結尾：聲音綻放的客廳.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "334 閃耀群星的協奏曲",
+"children": [
+{
+"type": "file",
+"name": "event334-01 開場：決定了！.txt"
+},
+{
+"type": "file",
+"name": "event334-02 第１話：聯合練習開始！.txt"
+},
+{
+"type": "file",
+"name": "event334-03 第２話：沉積在心底的事物.txt"
+},
+{
+"type": "file",
+"name": "event334-04 第３話：自己的光芒.txt"
+},
+{
+"type": "file",
+"name": "event334-05 第４話：與你並肩.txt"
+},
+{
+"type": "file",
+"name": "event334-06 第５話：慶功宴！.txt"
+},
+{
+"type": "file",
+"name": "event334-07 結尾：朝著未來的我們.txt"
 }
 ]
 }

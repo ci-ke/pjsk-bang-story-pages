@@ -12106,6 +12106,10 @@
 {
 "type": "file",
 "name": "2349_Hagumi Kitazawa_R5 Cast Off Your Chains.txt"
+},
+{
+"type": "file",
+"name": "2412_Hagumi Kitazawa_R4 Snacks Galore!.txt"
 }
 ]
 },
@@ -12328,6 +12332,10 @@
 {
 "type": "file",
 "name": "2353_Kanon Matsubara_R5 Plum Blossoms in the Winter Sky.txt"
+},
+{
+"type": "file",
+"name": "2408_Kanon Matsubara_R5 A Cozy Space.txt"
 }
 ]
 },
@@ -12562,6 +12570,10 @@
 {
 "type": "file",
 "name": "2332_Misaki Okusawa_R5 After School with You.txt"
+},
+{
+"type": "file",
+"name": "2409_Misaki Okusawa_R5 The Ultimate Relaxation.txt"
 }
 ]
 },
@@ -27978,6 +27990,40 @@
 {
 "type": "file",
 "name": "event323-07 Ending：The Words She Found.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "324 Hello, Happy World!'s Hot Spring Getaway",
+"children": [
+{
+"type": "file",
+"name": "event324-01 Opening：I Want to Go to a Hot Spring.txt"
+},
+{
+"type": "file",
+"name": "event324-02 Chapter 1：Just a Normal Hot Spring Trip!.txt"
+},
+{
+"type": "file",
+"name": "event324-03 Chapter 2：Everyone Pays Their Respects!.txt"
+},
+{
+"type": "file",
+"name": "event324-04 Chapter 3：An Exciting Check-In!.txt"
+},
+{
+"type": "file",
+"name": "event324-05 Chapter 4：The Way of the Hot Spring.txt"
+},
+{
+"type": "file",
+"name": "event324-06 Chapter 5：A Peaceful Moment.txt"
+},
+{
+"type": "file",
+"name": "event324-07 Ending：Could You Manage to Do Nothing？.txt"
 }
 ]
 }
