@@ -889,6 +889,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_225.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2016,6 +2020,10 @@
 {
 "type": "file",
 "name": "1441_花里みのり_R4 しばしのお別れ (event_213).txt"
+},
+{
+"type": "file",
+"name": "1499_花里みのり_R3 やるって決めたから！ (event_225).txt"
 }
 ]
 },
@@ -2234,6 +2242,10 @@
 {
 "type": "file",
 "name": "1482_桐谷遥_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1500_桐谷遥_R2 仲間を信じて (event_225).txt"
 }
 ]
 },
@@ -2456,6 +2468,10 @@
 {
 "type": "file",
 "name": "1477_桃井愛莉_R4 共に綴る思い出は (event_219).txt"
+},
+{
+"type": "file",
+"name": "1497_桃井愛莉_R4 見落としたもの (event_225).txt"
 }
 ]
 },
@@ -2670,6 +2686,10 @@
 {
 "type": "file",
 "name": "1442_日野森雫_R4 信頼に応えるために (event_213).txt"
+},
+{
+"type": "file",
+"name": "1496_日野森雫_R4 こぼれる涙も抱きしめて (event_225).txt"
 }
 ]
 },
@@ -5802,6 +5822,10 @@
 {
 "type": "file",
 "name": "1467_鏡音リン (VBS)_R4 重なる想いと歌声 (event_216).txt"
+},
+{
+"type": "file",
+"name": "1498_鏡音リン (MMJ)_R4 きらめく笑顔の先には (event_225).txt"
 }
 ]
 },
@@ -15338,6 +15362,44 @@
 {
 "type": "file",
 "name": "223-08 暗闇の向こうにある音.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "225 My Searing Light (MMJ_日野森雫)",
+"children": [
+{
+"type": "file",
+"name": "225-01 本番に向けて.txt"
+},
+{
+"type": "file",
+"name": "225-02 違和感の理由.txt"
+},
+{
+"type": "file",
+"name": "225-03 踏み台.txt"
+},
+{
+"type": "file",
+"name": "225-04 消えないもの.txt"
+},
+{
+"type": "file",
+"name": "225-05 私の原点.txt"
+},
+{
+"type": "file",
+"name": "225-06 夢を掴む覚悟.txt"
+},
+{
+"type": "file",
+"name": "225-07 誰より強く、輝いて.txt"
+},
+{
+"type": "file",
+"name": "225-08 この先へ.txt"
 }
 ]
 }
