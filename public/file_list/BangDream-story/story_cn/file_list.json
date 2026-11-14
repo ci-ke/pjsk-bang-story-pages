@@ -13312,6 +13312,10 @@
 {
 "type": "file",
 "name": "2434_松原花音_R4 微笑的温度.txt"
+},
+{
+"type": "file",
+"name": "2445_松原花音_R5 街角时尚达人.txt"
 }
 ]
 },
@@ -16474,6 +16478,10 @@
 {
 "type": "file",
 "name": "2413_二叶筑紫_R5 将心意寄于交叠的手中.txt"
+},
+{
+"type": "file",
+"name": "2446_二叶筑紫_R5 炸裂扣杀！.txt"
 }
 ]
 },
@@ -16848,6 +16856,10 @@
 {
 "type": "file",
 "name": "2325_朝日六花_R4 活力全开即兴演奏！.txt"
+},
+{
+"type": "file",
+"name": "2440_朝日六花_R5 坦率的『喜欢』.txt"
 }
 ]
 },
@@ -17084,6 +17096,10 @@
 {
 "type": "file",
 "name": "2359_鳰原令王那_R5 献给一直努力的你.txt"
+},
+{
+"type": "file",
+"name": "2444_鳰原令王那_R4 请让我们也加入吧～.txt"
 }
 ]
 },
@@ -17214,6 +17230,10 @@
 {
 "type": "file",
 "name": "2422_珠手知由_R5 这样的休假方式.txt"
+},
+{
+"type": "file",
+"name": "2441_珠手知由_R5 这条路.txt"
 }
 ]
 },
@@ -29304,6 +29324,40 @@
 {
 "type": "file",
 "name": "event328-07 终章：大家一起.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "329 Beyond my Imagination",
+"children": [
+{
+"type": "file",
+"name": "event329-01 序章：璀璨星辰，如此耀眼.txt"
+},
+{
+"type": "file",
+"name": "event329-02 第１话：准备远征！.txt"
+},
+{
+"type": "file",
+"name": "event329-03 第２话：制作人.txt"
+},
+{
+"type": "file",
+"name": "event329-04 第３话：RAS的最佳方案.txt"
+},
+{
+"type": "file",
+"name": "event329-05 第４话：寻得的奇迹.txt"
+},
+{
+"type": "file",
+"name": "event329-06 第５话：我想做的音乐.txt"
+},
+{
+"type": "file",
+"name": "event329-07 终章：下定决心.txt"
 }
 ]
 }
