@@ -736,6 +736,48 @@
 "name": "another-09-02 Just By Your Side.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "10 Mugendai MewType：You're Maru-kun",
+"children": [
+{
+"type": "file",
+"name": "10-01 Training Camp.txt"
+},
+{
+"type": "file",
+"name": "10-02 Together.txt"
+},
+{
+"type": "file",
+"name": "10-03 Alert.txt"
+},
+{
+"type": "file",
+"name": "10-04 Friends.txt"
+},
+{
+"type": "file",
+"name": "10-05 Chatting.txt"
+},
+{
+"type": "file",
+"name": "10-06 Maru-kun.txt"
+},
+{
+"type": "file",
+"name": "10-07 Pain.txt"
+},
+{
+"type": "file",
+"name": "another-10-01 Salt.txt"
+},
+{
+"type": "file",
+"name": "another-10-02 Werewolf.txt"
+}
+]
 }
 ]
 },
