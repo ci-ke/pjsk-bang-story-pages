@@ -10036,6 +10036,10 @@
 {
 "type": "file",
 "name": "2360_Saya Yamabuki_R5 Wrapped in Gentle Snow.txt"
+},
+{
+"type": "file",
+"name": "2414_Saya Yamabuki_R5 This Is My Sound!.txt"
 }
 ]
 },
@@ -11206,6 +11210,10 @@
 {
 "type": "file",
 "name": "2314_Tomoe Udagawa_R5 Searching for My True Colors.txt"
+},
+{
+"type": "file",
+"name": "2415_Tomoe Udagawa_R5 A Passionate Performance!.txt"
 }
 ]
 },
@@ -12816,6 +12824,10 @@
 {
 "type": "file",
 "name": "2305_Aya Maruyama_R5 The Art of the Selfie ♡.txt"
+},
+{
+"type": "file",
+"name": "2421_Aya Maruyama_R5 What the Mirror Doesn't Show.txt"
 }
 ]
 },
@@ -13522,6 +13534,10 @@
 {
 "type": "file",
 "name": "2308_Maya Yamato_R4 An Enthusiastic Presentation.txt"
+},
+{
+"type": "file",
+"name": "2416_Maya Yamato_R5 A Moment of Shared Hearts.txt"
 }
 ]
 },
@@ -14704,6 +14720,10 @@
 {
 "type": "file",
 "name": "2399_Ako Udagawa_R5 Re：VENGER.txt"
+},
+{
+"type": "file",
+"name": "2420_Ako Udagawa_R4 To a Profound Melody....txt"
 }
 ]
 },
@@ -15442,6 +15462,10 @@
 {
 "type": "file",
 "name": "2361_Tsukushi Futaba_R5 You, Bathed in Morning Light.txt"
+},
+{
+"type": "file",
+"name": "2413_Tsukushi Futaba_R5 Feelings in Joined Hands.txt"
 }
 ]
 },
@@ -15922,6 +15946,10 @@
 {
 "type": "file",
 "name": "2377_Masuki Sato_R5 NO STAR HERE.txt"
+},
+{
+"type": "file",
+"name": "2419_Masuki Sato_R4 A Mad Dog's Confusion.txt"
 }
 ]
 },
@@ -16158,6 +16186,10 @@
 {
 "type": "file",
 "name": "2380_Chiyu Tamade_R4 in the mirror.txt"
+},
+{
+"type": "file",
+"name": "2422_Chiyu Tamade_R5 How to Spend a Day Off Like This.txt"
 }
 ]
 },
@@ -28024,6 +28056,52 @@
 {
 "type": "file",
 "name": "event324-07 Ending：Could You Manage to Do Nothing？.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "325 All☆Stars CiRCRiNG Fes!",
+"children": [
+{
+"type": "file",
+"name": "event325-01 Opening：Squeeze Together, CiRCRiNG!.txt"
+},
+{
+"type": "file",
+"name": "event325-02 Chapter 1：With the Senpai.txt"
+},
+{
+"type": "file",
+"name": "event325-03 Chapter 2：Who's the Leader？.txt"
+},
+{
+"type": "file",
+"name": "event325-04 Chapter 3：The Smart One.txt"
+},
+{
+"type": "file",
+"name": "event325-05 Chapter 4：The Exciting One!.txt"
+},
+{
+"type": "file",
+"name": "event325-06 Chapter 5：A Relaxed Tea Time.txt"
+},
+{
+"type": "file",
+"name": "event325-07 Chapter 6：Off to the Stage at Last!.txt"
+},
+{
+"type": "file",
+"name": "event325-08 Chapter 7：Passing the baton on.txt"
+},
+{
+"type": "file",
+"name": "event325-09 Chapter 8：Sparkling, heart-pounding.txt"
+},
+{
+"type": "file",
+"name": "event325-10 Ending：A new sound, resonating together.txt"
 }
 ]
 }
