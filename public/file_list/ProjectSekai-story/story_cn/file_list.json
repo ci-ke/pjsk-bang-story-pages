@@ -12854,6 +12854,44 @@
 "name": "185-08 因为大家相信我.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "187 Overcome one's limits (VBS_东云彰人)",
+"children": [
+{
+"type": "file",
+"name": "187-01 现实的阻碍.txt"
+},
+{
+"type": "file",
+"name": "187-02 No.9唱片.txt"
+},
+{
+"type": "file",
+"name": "187-03 面谈.txt"
+},
+{
+"type": "file",
+"name": "187-04 用行动来证明.txt"
+},
+{
+"type": "file",
+"name": "187-05 消息.txt"
+},
+{
+"type": "file",
+"name": "187-06 向着目的地.txt"
+},
+{
+"type": "file",
+"name": "187-07 自己的战斗方式.txt"
+},
+{
+"type": "file",
+"name": "187-08 起跑线.txt"
+}
+]
 }
 ]
 },
