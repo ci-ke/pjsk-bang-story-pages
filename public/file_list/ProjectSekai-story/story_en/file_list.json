@@ -741,6 +741,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_187.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2463,7 +2467,7 @@
 },
 {
 "type": "file",
-"name": "1285_Kohane Azusawa_R4 Diligent Preparation.txt"
+"name": "1285_Kohane Azusawa_R4 Diligent Preparation (event_187).txt"
 }
 ]
 },
@@ -2649,7 +2653,7 @@
 },
 {
 "type": "file",
-"name": "1286_An Shiraishi_R4 Calling For Advice.txt"
+"name": "1286_An Shiraishi_R4 Calling For Advice (event_187).txt"
 }
 ]
 },
@@ -2847,7 +2851,7 @@
 },
 {
 "type": "file",
-"name": "1284_Akito Shinonome_R4 Wielding My Arsenal.txt"
+"name": "1284_Akito Shinonome_R4 Wielding My Arsenal (event_187).txt"
 }
 ]
 },
@@ -3034,6 +3038,10 @@
 {
 "type": "file",
 "name": "1214_Toya Aoyagi_R4 The Best Souvenirs! (event_175).txt"
+},
+{
+"type": "file",
+"name": "1288_Toya Aoyagi_R2 His Faith In Me (event_187).txt"
 }
 ]
 },
@@ -5148,6 +5156,10 @@
 {
 "type": "file",
 "name": "1237_Kagamine Len_R4 Arms Laden With Snacks (event_179).txt"
+},
+{
+"type": "file",
+"name": "1287_Kagamine Len (VBS)_R3 A Cheer And A Grin (event_187).txt"
 }
 ]
 },
@@ -12858,6 +12870,44 @@
 {
 "type": "file",
 "name": "185-08 For Believing in Me.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "187 Overcome One's Limits (VBS_Akito Shinonome)",
+"children": [
+{
+"type": "file",
+"name": "187-01 Reality Check.txt"
+},
+{
+"type": "file",
+"name": "187-02 No. 9 Records.txt"
+},
+{
+"type": "file",
+"name": "187-03 The Interview.txt"
+},
+{
+"type": "file",
+"name": "187-04 I'll Prove It.txt"
+},
+{
+"type": "file",
+"name": "187-05 A Message.txt"
+},
+{
+"type": "file",
+"name": "187-06 The Destination.txt"
+},
+{
+"type": "file",
+"name": "187-07 My Approach.txt"
+},
+{
+"type": "file",
+"name": "187-08 The Starting Line.txt"
 }
 ]
 }
