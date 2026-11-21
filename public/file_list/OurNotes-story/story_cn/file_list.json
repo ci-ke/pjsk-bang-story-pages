@@ -697,7 +697,7 @@
 },
 {
 "type": "dir",
-"name": "09 Ave Mujica：月下流转之舞",
+"name": "09 Ave Mujica：月色之下流转之舞",
 "children": [
 {
 "type": "file",
@@ -3190,6 +3190,10 @@
 {
 "type": "file",
 "name": "33-03 26年生日：千石由乃(11／4).txt"
+},
+{
+"type": "file",
+"name": "33-04 26年生日：高松灯(11／22).txt"
 }
 ]
 }
