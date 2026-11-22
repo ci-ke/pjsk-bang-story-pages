@@ -737,6 +737,18 @@
 },
 {
 "type": "file",
+"name": "talk_event_184.txt"
+},
+{
+"type": "file",
+"name": "talk_event_185.txt"
+},
+{
+"type": "file",
+"name": "talk_event_187.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2456,6 +2468,10 @@
 {
 "type": "file",
 "name": "1244_小豆澤心羽_R4 甜～甜的時光.txt"
+},
+{
+"type": "file",
+"name": "1285_小豆澤心羽_R4 事前準備要萬無一失 (event_187).txt"
 }
 ]
 },
@@ -2638,6 +2654,10 @@
 {
 "type": "file",
 "name": "1254_白石杏_R4 將這個瞬間銘刻於心 (event_181).txt"
+},
+{
+"type": "file",
+"name": "1286_白石杏_R4 隔著電話商量 (event_187).txt"
 }
 ]
 },
@@ -2828,6 +2848,14 @@
 {
 "type": "file",
 "name": "1253_東雲彰人_R4 止不住的步伐.txt"
+},
+{
+"type": "file",
+"name": "1278_東雲彰人_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1284_東雲彰人_R4 用收集到的武器 (event_187).txt"
 }
 ]
 },
@@ -3014,6 +3042,10 @@
 {
 "type": "file",
 "name": "1214_青柳冬彌_R4 送上最棒的伴手禮！ (event_175).txt"
+},
+{
+"type": "file",
+"name": "1288_青柳冬彌_R2 夥伴託付的事物 (event_187).txt"
 }
 ]
 },
@@ -3200,6 +3232,10 @@
 {
 "type": "file",
 "name": "1229_天馬司_R4 潛入絕望 (event_178).txt"
+},
+{
+"type": "file",
+"name": "1282_天馬司_R3 為了夥伴能做的事 (event_185).txt"
 }
 ]
 },
@@ -3390,6 +3426,10 @@
 {
 "type": "file",
 "name": "1258_鳳笑夢_R3 笑咪咪的集章活動 (event_181).txt"
+},
+{
+"type": "file",
+"name": "1280_鳳笑夢_R4 Happy Happy Happy的盛情款待 (event_185).txt"
 }
 ]
 },
@@ -3576,6 +3616,10 @@
 {
 "type": "file",
 "name": "1245_草薙寧寧_R4 大特訓大會的成果！.txt"
+},
+{
+"type": "file",
+"name": "1279_草薙寧寧_R4 當那朵花綻放時 (event_185).txt"
 }
 ]
 },
@@ -3762,6 +3806,10 @@
 {
 "type": "file",
 "name": "1231_神代類_R4 製作充滿心意的小道具 (event_178).txt"
+},
+{
+"type": "file",
+"name": "1283_神代類_R2 湧現出來的點子 (event_185).txt"
 }
 ]
 },
@@ -3944,6 +3992,10 @@
 {
 "type": "file",
 "name": "1226_宵崎奏_R3 喜歡的衣服是？ (event_177).txt"
+},
+{
+"type": "file",
+"name": "1273_宵崎奏_R4 獨特的視角 (event_184).txt"
 }
 ]
 },
@@ -4126,6 +4178,10 @@
 {
 "type": "file",
 "name": "1227_朝比奈真冬_R2 尋找回禮 (event_177).txt"
+},
+{
+"type": "file",
+"name": "1276_朝比奈真冬_R2 擔心你熬夜 (event_184).txt"
 }
 ]
 },
@@ -4316,6 +4372,10 @@
 {
 "type": "file",
 "name": "1224_東雲繪名_R4 招架不住的熱烈歡迎！ (event_177).txt"
+},
+{
+"type": "file",
+"name": "1272_東雲繪名_R4 超越自己的界限 (event_184).txt"
 }
 ]
 },
@@ -4732,6 +4792,10 @@
 {
 "type": "file",
 "name": "1259_初音未來 (VBS)_R2 偶爾也要享受寧靜的時光 (event_181).txt"
+},
+{
+"type": "file",
+"name": "1275_初音未來 (N25)_R3 冰淇淋謝禮 (event_184).txt"
 }
 ]
 },
@@ -4922,6 +4986,10 @@
 {
 "type": "file",
 "name": "1236_鏡音鈴_R4 在旋轉木馬上嗨翻天！ (event_179).txt"
+},
+{
+"type": "file",
+"name": "1281_鏡音鈴 (WxS)_R4 小小的守護者 (event_185).txt"
 }
 ]
 },
@@ -5112,6 +5180,10 @@
 {
 "type": "file",
 "name": "1237_鏡音連_R4 兩手抱滿滿的點心 (event_179).txt"
+},
+{
+"type": "file",
+"name": "1287_鏡音連 (VBS)_R3 帶著笑容聲援 (event_187).txt"
 }
 ]
 },
@@ -5496,6 +5568,10 @@
 {
 "type": "file",
 "name": "1268_MEIKO (MMJ)_R4 送上獨一無二的聲援！ (event_183).txt"
+},
+{
+"type": "file",
+"name": "1277_MEIKO_RB Happy Anniversary!! 2026.txt"
 }
 ]
 },
@@ -5686,6 +5762,10 @@
 {
 "type": "file",
 "name": "1240_KAITO_R4 被「不可思議」耍得團團轉 (event_179).txt"
+},
+{
+"type": "file",
+"name": "1274_KAITO (N25)_R4 秉持堅定不移的「本色」 (event_184).txt"
 }
 ]
 }
@@ -12778,6 +12858,120 @@
 "name": "183-08 一起打造最棒的表演.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "184 Colors of Pure Sense (N25_東雲繪名)",
+"children": [
+{
+"type": "file",
+"name": "184-01 比賽.txt"
+},
+{
+"type": "file",
+"name": "184-02 失敗作品.txt"
+},
+{
+"type": "file",
+"name": "184-03 迷惘的心.txt"
+},
+{
+"type": "file",
+"name": "184-04 不經意的提示.txt"
+},
+{
+"type": "file",
+"name": "184-05 我討厭的事.txt"
+},
+{
+"type": "file",
+"name": "184-06 自己的武器.txt"
+},
+{
+"type": "file",
+"name": "184-07 對我而言的手.txt"
+},
+{
+"type": "file",
+"name": "184-08 為了下定決心.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "185 戰勝自我的主角 (WxS_草薙寧寧)",
+"children": [
+{
+"type": "file",
+"name": "185-01 適度的緊張.txt"
+},
+{
+"type": "file",
+"name": "185-02 士氣大振.txt"
+},
+{
+"type": "file",
+"name": "185-03 懷念的面孔.txt"
+},
+{
+"type": "file",
+"name": "185-04 那天的惡夢.txt"
+},
+{
+"type": "file",
+"name": "185-05 在黑暗中摸索.txt"
+},
+{
+"type": "file",
+"name": "185-06 主角與劇場導演.txt"
+},
+{
+"type": "file",
+"name": "185-07 我該做的事.txt"
+},
+{
+"type": "file",
+"name": "185-08 謝謝你們相信我.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "187 Overcome one's limits (VBS_東雲彰人)",
+"children": [
+{
+"type": "file",
+"name": "187-01 現實的高牆.txt"
+},
+{
+"type": "file",
+"name": "187-02 No.9唱片.txt"
+},
+{
+"type": "file",
+"name": "187-03 面談.txt"
+},
+{
+"type": "file",
+"name": "187-04 證明給你看.txt"
+},
+{
+"type": "file",
+"name": "187-05 訊息.txt"
+},
+{
+"type": "file",
+"name": "187-06 前往目的地.txt"
+},
+{
+"type": "file",
+"name": "187-07 自己的戰鬥方式.txt"
+},
+{
+"type": "file",
+"name": "187-08 起跑線.txt"
+}
+]
 }
 ]
 },
@@ -15320,6 +15514,26 @@
 {
 "type": "file",
 "name": "431 HAPPY BIRTHDAY LIVE 穗波 2026.txt"
+},
+{
+"type": "file",
+"name": "433 Colors of Pure Sense AFTER LIVE (event_184).txt"
+},
+{
+"type": "file",
+"name": "434 HAPPY ANNIVERSARY LIVE MEIKO 2026.txt"
+},
+{
+"type": "file",
+"name": "435 HAPPY BIRTHDAY LIVE 彰人 2026.txt"
+},
+{
+"type": "file",
+"name": "436 戰勝自我的主角 AFTER LIVE (event_185).txt"
+},
+{
+"type": "file",
+"name": "437 Overcome one's limits AFTER LIVE (event_187).txt"
 }
 ]
 }

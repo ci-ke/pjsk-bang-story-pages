@@ -737,6 +737,18 @@
 },
 {
 "type": "file",
+"name": "talk_event_184.txt"
+},
+{
+"type": "file",
+"name": "talk_event_185.txt"
+},
+{
+"type": "file",
+"name": "talk_event_187.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2456,6 +2468,10 @@
 {
 "type": "file",
 "name": "1244_小豆泽心羽_R4 甜～蜜的时光.txt"
+},
+{
+"type": "file",
+"name": "1285_小豆泽心羽_R4 未雨绸缪 (event_187).txt"
 }
 ]
 },
@@ -2638,6 +2654,10 @@
 {
 "type": "file",
 "name": "1254_白石杏_R4 铭记此刻 (event_181).txt"
+},
+{
+"type": "file",
+"name": "1286_白石杏_R4 通过电话讨论 (event_187).txt"
 }
 ]
 },
@@ -2828,6 +2848,14 @@
 {
 "type": "file",
 "name": "1253_东云彰人_R4 永不止步.txt"
+},
+{
+"type": "file",
+"name": "1278_东云彰人_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1284_东云彰人_R4 用四处搜罗的武器 (event_187).txt"
 }
 ]
 },
@@ -3014,6 +3042,10 @@
 {
 "type": "file",
 "name": "1214_青柳冬弥_R4 最棒的伴手礼！ (event_175).txt"
+},
+{
+"type": "file",
+"name": "1288_青柳冬弥_R2 搭档所托之物 (event_187).txt"
 }
 ]
 },
@@ -3200,6 +3232,10 @@
 {
 "type": "file",
 "name": "1229_天马司_R4 潜入绝望 (event_178).txt"
+},
+{
+"type": "file",
+"name": "1282_天马司_R3 能为伙伴做的事 (event_185).txt"
 }
 ]
 },
@@ -3390,6 +3426,10 @@
 {
 "type": "file",
 "name": "1258_凤笑梦_R3 笑眯眯集章活动 (event_181).txt"
+},
+{
+"type": "file",
+"name": "1280_凤笑梦_R4 快快乐乐的快乐招待 (event_185).txt"
 }
 ]
 },
@@ -3576,6 +3616,10 @@
 {
 "type": "file",
 "name": "1245_草薙宁宁_R4 大特训大会的成果！.txt"
+},
+{
+"type": "file",
+"name": "1279_草薙宁宁_R4 那朵花绽放之时 (event_185).txt"
 }
 ]
 },
@@ -3762,6 +3806,10 @@
 {
 "type": "file",
 "name": "1231_神代类_R4 寄托心意的小道具制作 (event_178).txt"
+},
+{
+"type": "file",
+"name": "1283_神代类_R2 不断涌现的点子 (event_185).txt"
 }
 ]
 },
@@ -3944,6 +3992,10 @@
 {
 "type": "file",
 "name": "1226_宵崎奏_R3 感兴趣的服装是？ (event_177).txt"
+},
+{
+"type": "file",
+"name": "1273_宵崎奏_R4 独到的视角 (event_184).txt"
 }
 ]
 },
@@ -4126,6 +4178,10 @@
 {
 "type": "file",
 "name": "1227_朝比奈真冬_R2 寻找回礼 (event_177).txt"
+},
+{
+"type": "file",
+"name": "1276_朝比奈真冬_R2 熬夜之忧 (event_184).txt"
 }
 ]
 },
@@ -4316,6 +4372,10 @@
 {
 "type": "file",
 "name": "1224_东云绘名_R4 架不住热情相迎！ (event_177).txt"
+},
+{
+"type": "file",
+"name": "1272_东云绘名_R4 突破自我的界限 (event_184).txt"
 }
 ]
 },
@@ -4732,6 +4792,10 @@
 {
 "type": "file",
 "name": "1259_初音未来 (VBS)_R2 偶尔享受悠闲的时光 (event_181).txt"
+},
+{
+"type": "file",
+"name": "1275_初音未来 (N25)_R3 作为谢礼的冰淇淋 (event_184).txt"
 }
 ]
 },
@@ -4922,6 +4986,10 @@
 {
 "type": "file",
 "name": "1236_镜音铃_R4 在旋转木马上比耶！ (event_179).txt"
+},
+{
+"type": "file",
+"name": "1281_镜音铃 (WxS)_R4 小小的守护者 (event_185).txt"
 }
 ]
 },
@@ -5112,6 +5180,10 @@
 {
 "type": "file",
 "name": "1237_镜音连_R4 双手捧满的零食 (event_179).txt"
+},
+{
+"type": "file",
+"name": "1287_镜音连 (VBS)_R3 用笑容打气 (event_187).txt"
 }
 ]
 },
@@ -5496,6 +5568,10 @@
 {
 "type": "file",
 "name": "1268_MEIKO (MMJ)_R4 献上特殊的助威！ (event_183).txt"
+},
+{
+"type": "file",
+"name": "1277_MEIKO_RB Happy Anniversary！！2026.txt"
 }
 ]
 },
@@ -5686,6 +5762,10 @@
 {
 "type": "file",
 "name": "1240_KAITO_R4 被“奇妙现象”耍得团团转 (event_179).txt"
+},
+{
+"type": "file",
+"name": "1274_KAITO (N25)_R4 贯彻毫无迷惘的“本色” (event_184).txt"
 }
 ]
 }
@@ -15506,6 +15586,26 @@
 {
 "type": "file",
 "name": "431 HAPPY BIRTHDAY演唱会 穗波 2026.txt"
+},
+{
+"type": "file",
+"name": "433 Colors of Pure Sense 后日谈·演唱会 (event_184).txt"
+},
+{
+"type": "file",
+"name": "434 HAPPY ANNIVERSARY演唱会 MEIKO 2026.txt"
+},
+{
+"type": "file",
+"name": "435 HAPPY BIRTHDAY演唱会 彰人 2026.txt"
+},
+{
+"type": "file",
+"name": "436 超越自我的主角 后日谈·演唱会 (event_185).txt"
+},
+{
+"type": "file",
+"name": "437 Overcome one's limits 后日谈·演唱会 (event_187).txt"
 }
 ]
 }
