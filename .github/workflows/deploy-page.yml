@@ -19,7 +19,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment-retry-2.outputs.page_url || steps.deployment-retry.outputs.page_url || steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
 
     steps:
@@ -44,6 +44,29 @@ jobs:
         with:
           path: dist
 
+      # deploy-pages 内部走 Actions Results Twirp 接口单次查询 artifact，查不到就直接失败，
+      # 而该后端与上传之间存在秒级同步延迟，上传紧接部署时会随机报
+      # "No artifacts named github-pages"（actions/deploy-pages#451）
       - name: Deploy to GitHub Pages
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait before retrying deploy
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 20
+
+      - name: Retry deploy to GitHub Pages
+        id: deployment-retry
+        if: steps.deployment.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait before final deploy attempt
+        if: steps.deployment-retry.outcome == 'failure'
+        run: sleep 40
+
+      - name: Final deploy attempt to GitHub Pages
+        id: deployment-retry-2
+        if: steps.deployment-retry.outcome == 'failure'
         uses: actions/deploy-pages@v4
