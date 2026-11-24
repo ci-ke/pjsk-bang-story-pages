@@ -13808,6 +13808,10 @@
 {
 "type": "file",
 "name": "2421_丸山彩_R5 镜中无法映照之物.txt"
+},
+{
+"type": "file",
+"name": "2451_丸山彩_R4 亲自品尝！当地美味.txt"
 }
 ]
 },
@@ -14522,6 +14526,10 @@
 {
 "type": "file",
 "name": "2416_大和麻弥_R5 心意相通的瞬间.txt"
+},
+{
+"type": "file",
+"name": "2448_大和麻弥_R5 句句暖心的话语.txt"
 }
 ]
 },
@@ -14768,6 +14776,10 @@
 {
 "type": "file",
 "name": "2407_若宫伊芙_R4 寻觅话语.txt"
+},
+{
+"type": "file",
+"name": "2447_若宫伊芙_R5 带上话题标签.txt"
 }
 ]
 },
@@ -29358,6 +29370,40 @@
 {
 "type": "file",
 "name": "event329-07 终章：下定决心.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "330 与你同行！PasPale全国巡演—！",
+"children": [
+{
+"type": "file",
+"name": "event330-01 序章：我们能做到的事.txt"
+},
+{
+"type": "file",
+"name": "event330-02 第１话：47都道府县巡演开始！.txt"
+},
+{
+"type": "file",
+"name": "event330-03 第２话：正因为能前去相见.txt"
+},
+{
+"type": "file",
+"name": "event330-04 第３话：巡演独有的热意.txt"
+},
+{
+"type": "file",
+"name": "event330-05 第４话：PasPale风格的巡演宣传车！.txt"
+},
+{
+"type": "file",
+"name": "event330-06 第５话：不断进化的巡演.txt"
+},
+{
+"type": "file",
+"name": "event330-07 终章：为了传达给每个人！.txt"
 }
 ]
 }
