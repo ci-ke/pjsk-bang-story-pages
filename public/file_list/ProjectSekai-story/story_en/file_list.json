@@ -745,6 +745,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_188.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -952,6 +956,10 @@
 {
 "type": "file",
 "name": "1261_Ichika Hoshino_R4 Waking To A Shock (event_182).txt"
+},
+{
+"type": "file",
+"name": "1290_Ichika Hoshino_R4 Words We Weave For You (event_188).txt"
 }
 ]
 },
@@ -1150,6 +1158,10 @@
 {
 "type": "file",
 "name": "1265_Saki Tenma_R2 Picking Up On Feelings! (event_182).txt"
+},
+{
+"type": "file",
+"name": "1289_Saki Tenma_R4 Truth Lost To The Wind (event_188).txt"
 }
 ]
 },
@@ -1336,6 +1348,10 @@
 {
 "type": "file",
 "name": "1271_Honami Mochizuki_RB Happy Birthday! 2026.txt"
+},
+{
+"type": "file",
+"name": "1291_Honami Mochizuki_R4 Walking An Oblivious Troublemaker (event_188).txt"
 }
 ]
 },
@@ -1530,6 +1546,10 @@
 {
 "type": "file",
 "name": "1263_Shiho Hinomori_R4 Daily Routine (event_182).txt"
+},
+{
+"type": "file",
+"name": "1293_Shiho Hinomori_R2 I Suggest Soy Sauce Ramen (event_188).txt"
 }
 ]
 },
@@ -2282,6 +2302,10 @@
 {
 "type": "file",
 "name": "1266_Shizuku Hinomori_R4 A Familiar Scene (event_183).txt"
+},
+{
+"type": "file",
+"name": "1294_Shizuku Hinomori_RB Happy Birthday! 2026.txt"
 }
 ]
 },
@@ -5350,6 +5374,10 @@
 {
 "type": "file",
 "name": "1238_Megurine Luka_R4 An Exhilarating Stage! (event_179).txt"
+},
+{
+"type": "file",
+"name": "1292_Megurine Luka (Ln)_R3 With You While You Doubt (event_188).txt"
 }
 ]
 },
@@ -12910,6 +12938,44 @@
 "name": "187-08 The Starting Line.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "188 The Sky That Night Was Empty (Ln_Saki Tenma)",
+"children": [
+{
+"type": "file",
+"name": "188-01 Solo Show Kickoff Party!.txt"
+},
+{
+"type": "file",
+"name": "188-02 United in Music.txt"
+},
+{
+"type": "file",
+"name": "188-03 A Flicker of Doubt.txt"
+},
+{
+"type": "file",
+"name": "188-04 Remembering Those Days.txt"
+},
+{
+"type": "file",
+"name": "188-05 Showtime.txt"
+},
+{
+"type": "file",
+"name": "188-06 Leo／need's Music.txt"
+},
+{
+"type": "file",
+"name": "188-07 After the Cheers.txt"
+},
+{
+"type": "file",
+"name": "188-08 This Feeling I've Noticed.txt"
+}
+]
 }
 ]
 },
@@ -13850,6 +13916,10 @@
 {
 "type": "file",
 "name": "sp066 [復刻][プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ.txt"
+},
+{
+"type": "file",
+"name": "sp067 [復刻][プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ.txt"
 },
 {
 "type": "file",
@@ -15516,6 +15586,14 @@
 {
 "type": "file",
 "name": "437 Overcome One's Limits After Show (event_187).txt"
+},
+{
+"type": "file",
+"name": "438 The Sky That Night Was Empty After Show (event_188).txt"
+},
+{
+"type": "file",
+"name": "439 Shizuku's Birthday Show 2026.txt"
 }
 ]
 }
