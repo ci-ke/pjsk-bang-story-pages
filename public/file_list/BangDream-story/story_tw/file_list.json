@@ -11450,6 +11450,10 @@
 {
 "type": "file",
 "name": "2439_青葉摩卡_R4 認真的指正？.txt"
+},
+{
+"type": "file",
+"name": "2482_青葉摩卡_R5 沐浴在初次感受的熱度.txt"
 }
 ]
 },
@@ -11914,6 +11918,10 @@
 {
 "type": "file",
 "name": "2415_宇田川巴_R5 化為熱血的演奏！.txt"
+},
+{
+"type": "file",
+"name": "2481_宇田川巴_R5 將這夕陽映於胸中.txt"
 }
 ]
 },
@@ -12156,6 +12164,10 @@
 {
 "type": "file",
 "name": "2381_羽澤鶇_R5 晚霞染紅雙頰.txt"
+},
+{
+"type": "file",
+"name": "2485_羽澤鶇_R4 最初的一步是.txt"
 }
 ]
 },
@@ -29266,6 +29278,40 @@
 {
 "type": "file",
 "name": "event335-07 結尾：『最棒的夏天』不會結束！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "336 向那片夕陽餘暉起誓",
+"children": [
+{
+"type": "file",
+"name": "event336-01 開場：對我們來說重要的事.txt"
+},
+{
+"type": "file",
+"name": "event336-02 第１話：滿溢而出的熱情.txt"
+},
+{
+"type": "file",
+"name": "event336-03 第２話：最驚險的那一次.txt"
+},
+{
+"type": "file",
+"name": "event336-04 第３話：目標，首次LIVE！.txt"
+},
+{
+"type": "file",
+"name": "event336-05 第４話：鮮明地烙印下來.txt"
+},
+{
+"type": "file",
+"name": "event336-06 第５話：晚霞.txt"
+},
+{
+"type": "file",
+"name": "event336-07 結尾：在脫下用來戰鬥的制服之前.txt"
 }
 ]
 }
