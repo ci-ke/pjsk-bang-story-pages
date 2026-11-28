@@ -778,6 +778,48 @@
 "name": "another-10-02 Werewolf.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "11 millsage：Light, Through My Fingers",
+"children": [
+{
+"type": "file",
+"name": "11-01 That Light, Once More.txt"
+},
+{
+"type": "file",
+"name": "11-02 The Only Wish.txt"
+},
+{
+"type": "file",
+"name": "11-03 Proof of Being Fake.txt"
+},
+{
+"type": "file",
+"name": "11-04 A World Without Salvation.txt"
+},
+{
+"type": "file",
+"name": "11-05 No Radiance in Sight.txt"
+},
+{
+"type": "file",
+"name": "11-06 The One Who Chose This Path.txt"
+},
+{
+"type": "file",
+"name": "11-07 A Black, Dazzling Light.txt"
+},
+{
+"type": "file",
+"name": "another-11-01 My Very Own Flash of Light.txt"
+},
+{
+"type": "file",
+"name": "another-11-02 Where the Journey Ends.txt"
+}
+]
 }
 ]
 },
